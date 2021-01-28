@@ -1,10 +1,10 @@
 (ns ashikaweb2.handler
-  (:require
-   [ashikaweb2.route.home :refer [home-routes]]
-   [ashikasoft.webstack.handler :as webstack.handler]
-   [ashikasoft.webstack.middleware :as webstack.middleware]
-   [reitit.ring :as ring]
-   [integrant.core :as ig]))
+  (:require [ashikaweb2.env :refer [defaults]]
+            [ashikaweb2.route.home :refer [home-routes]]
+            [ashikasoft.webstack.handler :as webstack.handler]
+            [ashikasoft.webstack.middleware :as webstack.middleware]
+            [reitit.ring :as ring]
+            [integrant.core :as ig]))
 
 (defn app [dict]
   (webstack.middleware/wrap-base
