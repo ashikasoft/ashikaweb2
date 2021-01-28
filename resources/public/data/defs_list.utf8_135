@@ -1,0 +1,984 @@
+1350000#木こり;樵;木樵;樵夫#きこり;しょうふ#woodcutter;lumberjack;logger#
+1350010#沼#ぬま#swamp;bog;pond;lake#
+1350020#沼沢#しょうたく#marsh;swamp#
+1350030#沼地#ぬまち;しょうち#marshland;wetland;swampland#
+1350040#消える#きえる#to go out;to vanish;to disappear#
+1350050#消え果てる#きえはてる#to vanish completely#
+1350060#消え失せる;消えうせる#きえうせる#to disappear;to get out of sight;to die;(in imperative) to fuck off#
+1350070#消え入る#きえいる#to vanish#
+1350080#消しゴム#けしゴム#eraser;India rubber#
+1350090#消し止める#けしとめる#to put out;to extinguish#
+1350100#消し飛ぶ;消しとぶ#けしとぶ#to scatter away;to vanish#
+1350110#消す#けす#to erase;to delete;to cross out;to turn off power;to extinguish;to put out;to bump off#
+1350120#消音器#しょうおんき#(car) muffler;(piano) damper pedal;(gun) silencer#
+1350130#消音装置#しょうおんそうち#(gun) silencer#
+1350140#消化#しょうか#digestion;thorough understanding;selling accumulated (excess) products;dealing with a large amount of work;losing one's form and turning into something else#
+1350150#消化剤#しょうかざい#digestive#
+1350160#消火#しょうか#fire fighting;extinguishing a fire#
+1350170#消火器#しょうかき#fire extinguisher#
+1350180#消火栓#しょうかせん#fire hydrant#
+1350190#消去#しょうきょ#elimination;erasure;dying out;clearing;purge;melting away#
+1350200#消極#しょうきょく#negative;conservative#
+1350210#消極性#しょうきょくせい#passivity#
+1350220#消極的#しょうきょくてき#negative;half-hearted;passive;unmotivated;pessimistic#
+1350230#消失#しょうしつ;そうしつ#die out;disappear;vanish#
+1350240#消失点#しょうしつてん#vanishing point#
+1350250#消息#しょうそく;しょうそこ#news (from somebody);letter;contact;(somebody's) whereabouts;(somebody's) movements#
+1350260#消息筋#しょうそくすじ#informed circles#
+1350270#消毒#しょうどく#disinfection;sterilization;sterilisation#
+1350280#消毒剤#しょうどくざい#antiseptic;disinfectant#
+1350290#消費#しょうひ#consumption;expenditure#
+1350300#消費者#しょうひしゃ#consumer#
+1350310#消費者信用#しょうひしゃしんよう#consumer credit#
+1350320#消費税#しょうひぜい#consumption tax (incl. sales tax, VAT, excise duty, etc.)#
+1350330#消費量#しょうひりょう#amount of consumption#
+1350340#消防#しょうぼう#fire fighting;fire department#
+1350350#消防士#しょうぼうし#fireman;firefighter#
+1350360#消防車#しょうぼうしゃ#fire-engine#
+1350370#消防署#しょうぼうしょ#fire station#
+1350380#消滅#しょうめつ#extinction;extinguishment;disappearance;vanishing;termination;lapse;annihilation#
+1350390#消耗的#しょうこうてき#exhaustive#
+1350400#消耗品#しょうもうひん#consumable goods#
+1350410#消耗品費#しょうもうひんひ#expenses for consumable goods;supplies expenses#
+1350420#渉外#しょうがい#public relations;client liaison;client relations#
+1350430#渉外部#しょうがいぶ#liaison department;public relations department#
+1350440#焼きが回る#やきがまわる#to become decrepit;to be in one's dotage;to become dull;to lose one's astuteness;to lose one's touch;to become senile;to lose one's edge;to go downhill#
+1350450#焼きそば;焼そば;焼き蕎麦#やきそば#yakisoba (similar to chow mein);fried noodles, usu. with with vegetables and meat#
+1350460#焼き芋;焼芋;焼きいも;焼藷#やきいも#roasted sweet potato;baked sweet potato#
+1350470#焼印;焼き印#やきいん#brand (burnt-in mark of identification);branding iron#
+1350480#焼印を押す;焼き印を押す#やきいんをおす#to brand (cattle, etc.)#
+1350490#焼き魚;焼魚;焼き肴#やきざかな#grilled fish#
+1350500#焼き金#やきがね#branding iron#
+1350510#焼き殺す#やきころす#to kill by burning to death#
+1350520#焼き捨てる#やきすてる#to burn up#
+1350530#焼き切る#やききる#to burn off#
+1350540#焼き豆腐#やきどうふ#grilled tofu#
+1350550#焼き豚;焼豚#やきぶた#roast pork;baseball fan#
+1350560#焼き付く;焼きつく;焼付く#やきつく#to be scorched into;to be seared into;to make a strong impression;to be etched in (one's memory)#
+1350570#焼き払う#やきはらう#to clear away by burning;to reduce to ashes#
+1350580#焼き餅焼き;焼き餅やき;やきもち焼き#やきもちやき#jealous person#
+1350590#焼き立て;焼きたて#やきたて#fresh made;freshly baked;freshly roasted#
+1350600#焼く;灼く;妬く;燬く;焚く#やく#to bake;to grill;to develop (photos);to suntan;to burn (in flames, down, CD, DVD, etc.);to scorch;to be jealous;to be envious#
+1350610#焼ける;灼ける;妬ける#やける#to burn;to be roasted;to be heated;to be sunburnt;to fade (in the sun);to glow red (i.e. of the sky at sunset);to be jealous;to be envious#
+1350620#焼け死ぬ#やけしぬ#to be burnt to death#
+1350630#焼け焦げ#やけこげ#burn hole;scorch#
+1350640#焼け付く;焼けつく#やけつく#to burn#
+1350650#焼け落ちる#やけおちる#to be burned down#
+1350660#焼却#しょうきゃく#incineration;destroy by fire#
+1350670#焼酎#しょうちゅう#shochu (Japanese liquor similar to vodka)#
+1350680#焼売#しゅうまい;シューマイ#steamed meat dumpling (Chinese-style)#
+1350690#焼付け;焼き付け#やきつけ#printing (e.g. photos);glazing;enamelling;baking#
+1350700#焼付ける;焼き付ける;焼きつける#やきつける#to bake;to plate;to print;to burn or bake into;to burn into one's memory#
+1350710#焦がす#こがす#to burn;to scorch;to singe;to char#
+1350720#焦がれる#こがれる#to yearn for;to be in love with#
+1350730#焦げる#こげる#to burn;to be burned#
+1350740#焦げ臭い#こげくさい#smelling (or tasting) burnt#
+1350750#焦げ茶#こげちゃ#dark brown;olive brown#
+1350760#焦げ付く;焦げつく#こげつく#to get burned and stuck on (e.g. rice in a pan);to become uncollectable (e.g. debt or loan);to become irrecoverable;to remain unchanged (e.g. stock market)#
+1350770#焦り#あせり#impatience#
+1350780#焦る#あせる#to be in a hurry;to be impatient;to be flustered;to lose one's presence of mind;to be surprised#
+1350790#焦れる#じれる#to get impatient;to become irritated;to fret;to chafe#
+1350800#焦燥#しょうそう#impatience;uneasiness;irritation#
+1350810#焦点#しょうてん#focus (e.g. photographic);focal point#
+1350820#焦熱地獄#しょうねつじごく#burning hell;inferno#
+1350830#焦慮#しょうりょ#impatience;worry#
+1350840#照らす#てらす#to shine on;to illuminate#
+1350850#照り返す#てりかえす#to reflect;to throw back light#
+1350860#照る#てる#to shine;to look slightly upward (of a noh mask; indicating joy, etc.)#
+1350870#てるてる坊主;照る照る坊主;照照坊主;照々坊主#てるてるぼうず#paper doll to which children pray for fine weather (usu. white, and shaped like a Buddhist priest)#
+1350880#照れる#てれる#to be shy;to be bashful;to feel awkward;to feel embarrassed#
+1350890#照れ屋#てれや#shy;a very shy person#
+1350900#照れくさい;照れ臭い#てれくさい#embarrassing;awkward#
+1350910#照会#しょうかい#inquiry;enquiry;query;reference#
+1350920#照合#しょうごう#collation;comparison#
+1350930#照射#しょうしゃ#exposure#
+1350940#照射処理#しょうしゃしょり#lighting#
+1350950#照射法#しょうしゃほう#irradiation#
+1350960#照準#しょうじゅん#sight (e.g. of a gun);aim;alignment#
+1350970#照度#しょうど#(intensity of) illumination;illuminance#
+1350980#照付ける;照り付ける;照りつける#てりつける#to blaze down on;to beat down on;to shine down upon#
+1350990#照明#しょうめい#illumination;lighting#
+1351000#症#しょう#illness#
+1351010#症候#しょうこう#symptoms#
+1351020#症候群#しょうこうぐん#syndrome#
+1351030#症状#しょうじょう#symptoms;condition#
+1351040#省く#はぶく#to omit;to leave out;to exclude;to eliminate;to curtail;to save;to cut down;to economize;to economise#
+1351060#省エネ#しょうエネ#energy conservation;economical use of energy#
+1351070#省営#しょうえい#operated by the government#
+1351080#省察#せいさつ#reflection;consideration#
+1351090#省線#しょうせん#government railway line#
+1351100#省庁#しょうちょう#ministries and government offices;the authorities#
+1351110#省電力#しょうでんりょく#conservation of electric power#
+1351120#省略#しょうりゃく#omission;abbreviation;abridgment;abridgement#
+1351130#省略記号#しょうりゃくきごう#ellipsis#
+1351140#省略時#しょうりゃくじ#default#
+1351150#省令#しょうれい#ministerial ordinance#
+1351160#硝煙#しょうえん#gunpowder smoke#
+1351170#硝酸#しょうさん#nitric acid#
+1351180#硝酸塩#しょうさんえん#nitrate#
+1351190#硝酸銀#しょうさんぎん#silver nitrate;AgNO3#
+1351210#硝石#しょうせき#saltpeter#
+1351220#称#しょう#name;reputation#
+1351230#称える;讃える#たたえる#to extol;to give praise#
+1351240#称える#となえる#to assume the name of#
+1351250#称する#しょうする#to take the name of;to call oneself;to pretend;to feign;to purport#
+1351260#称号#しょうごう#title;name;degree#
+1351270#章#しょう#chapter;section;medal#
+1351280#笑い;咲い;嗤い#わらい#laugh;laughter;smile;sneer;sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)#
+1351290#笑い事;笑いごと#わらいごと#laughing matter#
+1351300#笑い上戸#わらいじょうご#merry drinker;one who laughs easily#
+1351310#笑い声#わらいごえ#laughter#
+1351320#笑い草;笑い種#わらいぐさ#laughingstock;byword#
+1351330#笑い茸;笑い蕈;笑茸#わらいたけ;わらいだけ;ワライタケ;ワライダケ#Panaeolus papilionaceus (species of poisonous mushroom)#
+1351340#笑いこける;笑い転ける;笑い倒ける#わらいこける#to laugh heartily#
+1351350#笑い話#わらいばなし#funny story#
+1351360#笑う;咲う;嗤う#わらう#to laugh;to smile;to sneer;to ridicule#
+1351370#笑み#えみ#smile#
+1351380#笑み割れる#えみわれる#to crack#
+1351390#笑む#えむ#to smile#
+1351400#笑顔#えがお#smiling face;smile#
+1351410#笑止#しょうし#laughable;ridiculous;pitiful;contemptible;absurdity#
+1351420#笑止千万#しょうしせんばん#highly ridiculous;quite absurd#
+1351430#紹介#しょうかい#introduction;referral#
+1351440#紹介者#しょうかいしゃ#person who introduces someone;introducer#
+1351450#肖る#あやかる#to share good luck;to follow (someone's) example;to be named after#
+1351460#肖像#しょうぞう#portrait#
+1351470#肖像画#しょうぞうが#portrait#
+1351480#菖蒲#しょうぶ;そうぶ#sweet flag (Acorus calamus);calamus;Japanese iris (Iris ensata var. ensata)#
+1351485#菖蒲#あやめ;アヤメ#iris (flower);Siberian iris (Iris sanguinea);sweet flag (Acorus calamus);calamus#
+1351500#蕉風#しょうふう#correct style in a haiku (like Basho's)#
+1351510#衝撃#しょうげき#shock;crash;impact;ballistic#
+1351520#衝撃波#しょうげきは#shock wave#
+1351530#衝動#しょうどう#impulse;impetus;urge#
+1351540#衝動行為#しょうどうこうい#shock action#
+1351550#衝動買い#しょうどうがい#impulsive buying#
+1351560#衝突#しょうとつ#collision;crash;running into;conflict;quarrel;clashing#
+1351570#裳裾#もすそ#cuff (of pants);hem (of skirt);train (of dress);foot (of mountain)#
+1351580#証;証し#あかし#proof (e.g. of love, of innocence);evidence;testimony;vindication (of innocence);to testify (usu. Christian religious context)#
+1351590#証印#しょういん#a seal affixed to a document#
+1351600#証拠;證據#しょうこ#evidence;proof#
+1351610#証券;證券#しょうけん#securities;bonds;certificates#
+1351620#証券取引委員会#しょうけんとりひきいいんかい#Securities and Exchange Commission;SEC#
+1351630#証券取引所#しょうけんとりひきじょ#securities exchange;stock exchange;bourse#
+1351640#証言#しょうげん#evidence;testimony#
+1351650#証書#しょうしょ#bond;deed;certificate#
+1351660#証人#しょうにん#witness#
+1351670#証人喚問#しょうにんかんもん#summoning witness#
+1351680#証明#しょうめい#proof;verification#
+1351690#証明済み#しょうめいずみ#already proved#
+1351700#証明書#しょうめいしょ#certificate (usually of proof of something);credentials#
+1351710#詔書#しょうしょ#imperial edict;decree#
+1351720#詔勅#しょうちょく#imperial edict;decree#
+1351730#詳しい;精しい;委しい#くわしい#detailed;full;accurate;knowing very well;well-acquainted;well-informed#
+1351740#詳しく#くわしく#in detail;fully;minutely;at length#
+1351750#詳解#しょうかい#detailed explanation#
+1351760#詳細#しょうさい#detail;particulars#
+1351770#詳細情報#しょうさいじょうほう#detailed information#
+1351780#詳述#しょうじゅつ#detailed explanation#
+1351790#詳説#しょうせつ#detailed explanation#
+1351810#詳報#しょうほう#full report;particulars#
+1351820#象#しょう#phenomenon#
+1351830#象#ぞう#elephant#
+1351840#象牙#ぞうげ#ivory#
+1351850#象牙の塔#ぞうげのとう#ivory tower#
+1351860#象牙取引#ぞうげとりひき#ivory trade#
+1351870#象牙色#ぞうげいろ#ivory-white#
+1351880#象形#しょうけい#hieroglyphics;type of character representing pictures#
+1351890#象形文字#しょうけいもじ#hieroglyph;hieroglyphic character#
+1351900#象徴#しょうちょう#symbol#
+1351910#賞#しょう#prize;award#
+1351920#賞玩;賞翫#しょうがん#appreciation;admiration;enjoyment#
+1351930#賞金#しょうきん#prize;monetary award#
+1351940#賞状#しょうじょう#honorable certificate;honourable certificate#
+1351950#賞罰#しょうばつ#rewards and punishments#
+1351960#賞品#しょうひん#prize;trophy#
+1351970#賞味#しょうみ#relish;gusto;appreciation#
+1351980#賞味期限#しょうみきげん#best if eaten by this date#
+1351990#賞与#しょうよ#reward;prize;bonus#
+1352000#鍾馗;鍾き#しょうき#Shoki the Plague-Queller;Zhong Kui (traditional Chinese deity said to prevent plagues and ward off evil beings);vanquisher of ghosts and evil beings, and reputedly able to command 80,000 demons;Shoki (WWII fighter aircraft)#
+1352010#鍾乳石;鐘乳石#しょうにゅうせき#stalactite#
+1352020#鍾乳洞;鐘乳洞#しょうにゅうどう#limestone cave;limestone cavern;limestone grotto#
+1352030#鐘#かね#bell (often a large hanging bell);chime#
+1352040#鐘楼#しょうろう;しゅろう#belfry;bell tower#
+1352050#障る#さわる#to hinder;to interfere with;to affect;to do one harm;to be harmful to#
+1352060#障害;障がい;障碍;障礙#しょうがい;しょうげ#obstacle;impediment;hindrance;difficulty;barrier;handicap;impairment;disability;disorder;malfunction#
+1352070#障害物#しょうがいぶつ#obstacle#
+1352080#障害物競走#しょうがいぶつきょうそう#obstacle race#
+1352090#障子#しょうじ#shoji (paper sliding door)#
+1352100#障泥烏賊#あおりいか;アオリイカ#bigfin reef squid;oval squid (Sepioteuthis lessoniana)#
+1352110#障壁#しょうへき#enclosing wall;barrier#
+1352120#鞘#さや#scabbard;cap (on pen, brush, etc.);margin (between two prices);spread;markup;commission;enclosure;outer fence#
+1352130#上#うえ#above;up;over;elder (e.g. daughter);top;summit;surface;on;before;previous;superiority;one's superior (i.e. one's elder);on top of that;besides;what's more;upon (further inspection, etc.);based on (and occurring after);matters concerning...;as concerns ...;since (i.e. "for that reason");suffix indicating higher social standing;place of one's superior (i.e. the throne);emperor;sovereign;shogun;daimyo;noblewoman (esp. the wife of a nobleman)#
+1352140#上#うわ#upper;upward;outer;surface;top#
+1352150#上#かみ#upper reaches (of a river);upper stream;top;upper part;upper half (of the body);long ago;beginning;first;person of high rank (e.g. the emperor);government;imperial court;imperial capital (i.e. Kyoto);capital region (i.e. Kansai);region (or direction of) the imperial palace;head (of a table);wife;mistress (of a restaurant)#
+1352170#上#じょう#from the standpoint of;as a matter of (e.g. fact);in the field of;being of the type of;aboard (a ship or vehicle);on top of;on;above;first volume (e.g. book);superior quality;best;top;high class;going up;governmental;imperial;presenting;showing;ana- (medical, biol.)#
+1352180#上がったり#あがったり#doomed;in a bad state;poor (e.g. business)#
+1352190#上がり#あがり#ascent;rise;slope;freshly-drawn green tea (esp. in sushi shops);advance income;crop yield;death;spinning;completion;stop;finish;after (rain);ex (official, etc.);(end) results (e.g. of crafts like painting, pottery, etc.);how something comes out#
+1352200#上がり下がり#あがりさがり#rise and fall;fluctuation#
+1352220#上がり高#あがりだか#revenue;income;receipts;yield#
+1352230#上がり込む#あがりこむ#to enter;to step in#
+1352240#上がり場#あがりば#landing;landing place#
+1352250#上がり段#あがりだん#staircase;doorsteps#
+1352260#上がり湯;あがり湯#あがりゆ#clean hot bath water for rinsing#
+1352270#上がり物#あがりもの#food offering;yield;waste#
+1352280#上がり目;あがり目#あがりめ#eyes slanted upward;rising tendency#
+1352290#上がる;揚がる;挙がる;上る#あがる#to rise;to go up;to come up;to ascend;to be raised;to enter (esp. from outdoors);to come in;to go in;to enter (a school);to advance to the next grade;to get out (of water);to come ashore;to increase;to improve;to make progress;to be promoted;to advance;to be made (of profit, etc.);to occur (esp. of a favourable result);to be adequate (to cover expenses, etc.);to be finished;to be done;to be over;(of rain) to stop;to lift;to stop (working properly);to cut out;to give out;to die;to win (in a card game, etc.);to be arrested;to turn up (of evidence, etc.);to be deep fried;to be spoken loudly;to get stage fright;to be offered (to the gods, etc.);to go;to visit;to eat;to drink;to be listed (as a candidate);to serve (in one's master's home);(in Kyoto) to go north;(after the -masu stem of a verb) indicates completion#
+1352300#上げ#あげ#rise in price;making a tuck#
+1352320#上げる;挙げる;揚げる#あげる#to raise;to elevate;to do up (one's hair);to fly (a kite, etc.);to launch (fireworks, etc.);to surface (a submarine, etc.);to land (a boat);to deep-fry;to show someone (into a room);(uk) to summon (for geishas, etc.);to send someone (away);to enrol (one's child in school);to enroll;to increase (price, quality, status, etc.);to develop (talent, skill);to improve;to make (a loud sound);to raise (one's voice);to earn (something desirable);to praise;to give (an example, etc.);to cite;to summon up (all of one's energy, etc.);to arrest;to nominate;to give;to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.);to bear (a child);to conduct (a ceremony, esp. a wedding);(of the tide) to come in;to vomit;to do for (the sake of someone else);to complete ...;to humbly do ...#
+1352330#上げ下げ#あげさげ#raising and lowering;praising and blaming;modulation#
+1352340#上げ下ろし#あげおろし#raising and lowering;loading and unloading#
+1352350#上げ蓋#あげぶた#trap door;removable floor boards#
+1352360#上げ畳#あげだたみ#tatami mat finished on both sides#
+1352370#上げ相場#あげそうば#bullish market;bull market#
+1352380#上げ潮#あげしお#incoming tide#
+1352390#上げ板;揚げ板#あげいた#movable floor boards;trap door#
+1352400#上げ離す#あげはなす#to cut off (the head)#
+1352410#上す#のぼす#to raise;to record;to bring up (a matter);to serve (food);to send some one out#
+1352420#上せる#のぼせる#to raise;to record;to bring up (a matter);to serve (food);to send some on out#
+1352430#上っ側#うわっかわ#upper side;surface#
+1352440#上っ張り#うわっぱり#overalls;wrapper;duster;smock#
+1352450#上っ調子#うわっちょうし#flippant;frivolous;shallow#
+1352460#上っ面#うわっつら#surface;appearances#
+1352470#上つき#うわつき#superscript#
+1352480#上つ方#うえつがた#nobles;the upper class#
+1352490#上の句#かみのく#the first part of a poem or verse#
+1352500#上の空;うわの空#うわのそら#inattention;absent-mindedness#
+1352510#上り;登り;昇り#のぼり#ascent;climbing;ascending (path);climb;up-train (e.g. going to Tokyo);northward (towards Tokyo)#
+1352520#上り下り;登り下り#のぼりくだり;のぼりおり#rising and falling;going up and down#
+1352530#登り口;上り口;のぼり口;昇り口#のぼりぐち;のぼりくち#starting point for an ascent (mountain, stairs, etc.);base (of mountain, etc.)#
+1352540#上り坂#のぼりざか#ascent;upgrade#
+1352550#上り道#のぼりみち#uphill road#
+1352560#上り列車#のぼりれっしゃ#up train;trains going toward the capital#
+1352570#上る;登る;昇る;陞る#のぼる#to ascend;to go up;to climb;to ascend (as a natural process, e.g. the sun);to rise;to go to (the capital);to be promoted;to add up to;to advance (in price);to swim up (a river);to sail up;to come up (on the agenda)#
+1352580#上梓#じょうし#publication;wood-block printing#
+1352590#上位#じょうい#superior (in rank);top;ranking;higher order (e.g. byte);host computer (of connected device)#
+1352600#上位互換性#じょういごかんせい#backward compatibility;downward compatibility#
+1352610#上位構造#じょういこうぞう#higher structure#
+1352620#上意#じょうい#will or decree (esp. of shogun);emperor's wishes#
+1352630#上院議員#じょういんぎいん#senator;member of the upper house#
+1352640#上臼#うわうす#upper millstone#
+1352650#上映#じょうえい#screening (a movie);showing;to screen a movie#
+1352660#上越#じょうえつ#area on Japan Sea side of Japan, including Niigata#
+1352670#上演#じょうえん#performance (e.g. music, theatre, opera);staging#
+1352680#上屋#うわや#shed;shelter;terminal (e.g. cargo, airport, etc.)#
+1352690#上屋敷#かみやしき#daimyo's main Tokyo mansion#
+1352700#上下#うえした#top and bottom;up and down;high and low;above and below;upper and lower ends;upside-down#
+1352710#上下#じょうげ#top and bottom;high and low;above and below;upper and lower ends;up and down;going up and down;rising and falling;fluctuating;going and coming back;upper and lower classes;ruler and ruled;the government and the people;first and second volumes#
+1352720#上下水道#じょうげすいどう#water and sewer services#
+1352730#上下線#じょうげせん#both (railway) tracks;(both) up and down tracks (lines)#
+1352740#上下動#じょうげどう#vertical motion (in earthquakes)#
+1352750#上荷#うわに#top cargo;top of the load#
+1352760#上菓子#じょうがし#quality cakes#
+1352770#上回る;上廻る#うわまわる#to exceed (esp. figures: profits, unemployment rate, etc.);to surpass;to be more than;to be better than#
+1352780#上海#シャンハイ#Shanghai (China)#
+1352790#上界#じょうかい#upper world;heaven;superkingdom;upper bound#
+1352800#上絵#うわえ#printed figures (on cloth or pottery)#
+1352810#上掛け水車#うわがけすいしゃ#overshot water wheel#
+1352820#上滑り;上滑べり#うわすべり#superficial;careless;inattentive#
+1352830#上噛合わせ#うわかみあわせ#overbite#
+1352840#上巻#じょうかん#first volume (in set);volume one;book one#
+1352850#上官#じょうかん#superior officer#
+1352860#上機嫌#じょうきげん#good humour (humor);good mood#
+1352870#上気#じょうき#flushing (of one's cheeks);dizziness;rush of blood to the head#
+1352880#上記#じょうき#above-mentioned;above-named;above#
+1352890#上記のことから#じょうきのことから#given the above#
+1352900#上議#じょうぎ#placing on the agenda#
+1352910#上客#じょうきゃく#guest of honor;guest of hounor;good customer#
+1352920#上汲む#うわぐむ#to draw off the top liquid#
+1352930#上級#じょうきゅう#advanced level;high grade;senior#
+1352940#上級管理職#じょうきゅうかんりしょく#upper management#
+1352950#上級生#じょうきゅうせい#upper classman#
+1352960#上級曹長#じょうきゅうそうちょう#sergeant major#
+1352970#上級副社長#じょうきゅうふくしゃちょう#senior vice president#
+1352980#上京#じょうきょう#proceeding to the capital (Tokyo)#
+1353000#上玉#じょうだま#fine jewel;best article;pretty woman#
+1353010#上句#じょうく#the first part of a poem or verse#
+1353020#上空#じょうくう#sky;the skies;high-altitude sky;upper air#
+1353030#上靴#うわぐつ#overshoes;rubbers;galoshes#
+1353040#上掲#じょうけい#the above-mentioned#
+1353050#上景気#じょうけいき#boom;prosperity#
+1353060#上計#じょうけい#best policy#
+1353070#上弦#じょうげん#1st quarter of moon;crescent moon#
+1353080#上限#じょうげん#upper limit;maximum#
+1353090#上古#じょうこ#ancient times#
+1353100#上古史#じょうこし#ancient history#
+1353110#上戸#じょうご#heavy drinker;drinker's habits#
+1353120#上枯れる#うわがれる#to die at the top#
+1353130#上御一人#かみごいちにん#the emperor#
+1353140#上向#じょうこう#upturn#
+1353150#上向きの互換性#じょうむきのごかんせい#upward compatibility#
+1353160#上向線#じょうこうせん#upswing#
+1353170#上甲板#じょうかんぱん#upper deck#
+1353180#上皇#じょうこう#retired emperor#
+1353190#上航#じょうこう#going upstream#
+1353200#上告#じょうこく#final appeal to the highest court#
+1353210#上裁#じょうさい#imperial decision#
+1353220#上作#じょうさく#good crop;masterpiece#
+1353230#上策#じょうさく#excellent plan;best policy#
+1353240#上擦る;上ずる#うわずる#to be excited;to get excited;to sound shallow;to sound hollow (a voice);to ring false (a voice);to sound shrill and nervous (a voice);to be high-pitched and unstrung (a voice)#
+1353250#上使#じょうし#shogun's envoy;emissary#
+1353260#上司#じょうし#superior authorities;boss#
+1353270#上旨#じょうし#the emperor's thoughts#
+1353280#上紙#うわがみ#paper cover;wrapper;wrapping paper#
+1353290#上肢#じょうし#upper limbs;arms#
+1353300#上歯#うわば#upper teeth#
+1353310#上質#じょうしつ#fine quality#
+1353320#上手#じょうず;じょうて;じょうしゅ#skill;skillful;dexterity;flattery#
+1353340#上手者#じょうずもの#flatterer#
+1353350#上手投げ#うわてなげ#overhand throw;a throw using the outside of the arm#
+1353360#上酒#じょうしゅ#high-class sake#
+1353370#上首尾#じょうしゅび#success;happy result#
+1353380#上宿#じょうやど#first-class inn#
+1353390#上出来#じょうでき#good performance#
+1353400#上述#じょうじゅつ#above-mentioned;foregoing;forgoing#
+1353410#上旬#じょうじゅん#first 10 days of month#
+1353420#上書#じょうしょ#memorial to the throne#
+1353430#上書き#うわがき#address;inscription;superscription;overwriting (e.g. data, file)#
+1353440#上女中#かみじょちゅう#head servant#
+1353450#上昇#じょうしょう#rising;ascending;climbing#
+1353460#上昇気流#じょうしょうきりゅう#ascending air current;updraft;upward trend;rise in popularity, influence, etc.#
+1353470#上昇限度#じょうしょうげんど#ceiling (in aviation)#
+1353480#上昇線#じょうしょうせん#rising curve#
+1353490#上乗り#うわのり#supercargo#
+1353500#上場#じょうじょう#listing (on the stock exchange, etc.);taking a company public#
+1353510#上場株#じょうじょうかぶ#listed stock#
+1353520#上申#じょうしん#report to a superior#
+1353530#上申書#じょうしんしょ#written report#
+1353540#上人#しょうにん#holy priest;saint#
+1353550#上図#じょうず#the upper illustration#
+1353560#上水#じょうすい#water supply;tap water#
+1353570#上水道#じょうすいどう#waterworks#
+1353580#上澄み;上澄#うわずみ#the clear top of a liquid;the clear layer in a fluid, atop the sediment#
+1353590#上盛り#うわもり#adding to the top;what's placed on the top#
+1353600#上製#じょうせい#superior make;luxury binding#
+1353610#上製本#じょうせいぼん;じょうせいほん#best binding;deluxe edition#
+1353620#上席#じょうせき#seniority;precedence;upper seat#
+1353630#上石#うわいし#upper millstone#
+1353640#上積み#うわづみ#deck cargo;upper layer of goods;extra;to pile on top of#
+1353650#上線#じょうせん#tilde;over-line#
+1353660#上前#うわまえ#part of the fabric that is wrapped farthest from the skin when wearing a garment that is wrapped in front of one (such as a kimono);percentage;commission#
+1353670#上疏#じょうそ#reporting to the emperor#
+1353680#上訴#じょうそ#appeal (in court)#
+1353690#上奏#じょうそう#report to the throne#
+1353700#上奏文#じょうそうぶん#report to the throne#
+1353710#上層#じょうそう#upper stratum (classes, stories, storeys)#
+1353720#上層雲#じょうそううん#upper clouds#
+1353730#上層階#じょうそうかい#upper floor (of a building)#
+1353740#上層階級#じょうそうかいきゅう#upper classes;high society#
+1353750#上層気流#じょうそうきりゅう#upper air currents#
+1353760#上層建築#じょうそうけんちく#superstructure;upper stories#
+1353770#上層土#じょうそうど#topsoil#
+1353780#上層風#じょうそうふう#winds aloft#
+1353790#上草履#うわぞうり#indoor sandals;slippers#
+1353800#上足#じょうそく#high retainer#
+1353810#上体;上腿#じょうたい#upper body#
+1353820#上帯#うわおび#outer sash#
+1353830#上腿#じょうたい#thigh#
+1353840#上代#じょうだい;うわだい#ancient times;(nominal) retail price#
+1353850#上達#じょうたつ#improvement (e.g. in skill, ability);advance;progress;communication of opinions of the general populace to those of high rank#
+1353860#上端#じょうたん#upper end;top;tip;top edge#
+1353870#上段#じょうだん#upper tier;upper section;upper deck;upper row;upper step;upper grade;upper berth;top shelf;place of honor;place of honour;dais;raised part of floor;overhead position (of a sword in kendo, etc.)#
+1353880#上値#うわね#higher price;price rise#
+1353890#上智;上知#じょうち#supreme wisdom#
+1353910#上中下#じょうちゅうげ#excellent-good-poor;first-second-third (class);(in) three volumes (a literary work)#
+1353920#上張り#うわばり#face;coat;veneer#
+1353930#上調子#うわちょうし#high pitch;higher tone#
+1353940#上長#じょうちょう#one's superior;a senior;an elder#
+1353950#上帝#じょうてい#Shangti;God;Lord;Creator;the Supreme Being#
+1353960#上天#じょうてん#heaven;God;Providence;the Supreme Being;the Absolute#
+1353970#上天気#じょうてんき#fair weather#
+1353980#上貼り#うわばり#finishing coat of paper#
+1353990#上田#じょうでん#high rice field;very fertile rice field#
+1354000#上塗;上塗り#うわぬり#(final) coat (of paint, plaster, glazing, etc.);finish;adding more of the same (e.g. shame)#
+1354010#上棟#じょうとう#raising the ridgepole#
+1354020#上棟式#じょうとうしき#ridgepole-raising ceremony#
+1354030#上等#じょうとう#superiority;first-class;very good;(that's) just fine!;bring it on!#
+1354040#上等品#じょうとうひん#first-class article#
+1354050#上等兵#じょうとうへい#private first-class (army);airman first class (air force);lance corporal (US Marines; Commonwealth military);seaman (navy)#
+1354060#上等兵曹#じょうとうへいそう#chief petty officer#
+1354070#上騰#じょうとう#advance;rise;jump#
+1354080#上働き#うわばたらき#housemaid#
+1354090#上納#じょうのう#payment to the government#
+1354100#上納金#じょうのうきん#money paid to the government#
+1354110#上納米#じょうのうまい#rice-tax delivery#
+1354120#上馬#じょうば#excellent horse#
+1354130#上背#うわぜい#stature;height#
+1354140#上白#じょうはく#first-class rice#
+1354150#上箱#うわばこ#outer box;outer casing#
+1354160#上半#じょうはん#first half;upper half#
+1354170#上半期#かみはんき#the first half-year;first half of the year#
+1354180#上半身#じょうはんしん#upper half of body;bust#
+1354190#上番#じょうばん#being on duty#
+1354200#上紐#うわひも#outside string (on a package)#
+1354210#上表#じょうひょう#memorial to the emperor#
+1354220#上表紙#うわびょうし#cover;front cover;wrapper;jacket#
+1354230#上品#じょうひん#elegant;refined;polished#
+1354240#上品#じょうぼん#Buddhism's highest paradise#
+1354250#上部#じょうぶ#top part;surface#
+1354260#上部構造#じょうぶこうぞう#superstructure#
+1354270#上服#うわふく#outer garment#
+1354280#上覆#うわおおい#cover;covering#
+1354290#上物#じょうもの#quality goods#
+1354300#上分別#じょうふんべつ#good idea;wise policy#
+1354310#上文#じょうぶん#the foregoing;the forgoing#
+1354320#上聞#じょうぶん#an imperial hearing#
+1354330#上米#じょうまい#first-class rice#
+1354340#上辺;上べ#うわべ#seeming;exterior;surface;outside;outward appearance#
+1354350#上辺#じょうへん#the upper side#
+1354360#上包み#うわづつみ#cover;wrapper;envelope#
+1354370#上方贅六#かみがたぜいろく#people from Kansai#
+1354380#上面#うわつら;じょうめん#surface;appearances;top;exterior#
+1354400#上目#うわめ#upward glance;upturned eyes#
+1354410#上役#うわやく#superior;senior#
+1354420#上諭#じょうゆ#imperial edict#
+1354430#上翼#じょうよく#upper wing of a plane#
+1354440#上洛#じょうらく#proceeding to the capital#
+1354450#上欄#じょうらん#top or preceding horizontal column#
+1354460#上覧#じょうらん#imperial inspection#
+1354470#上履き;上履#うわばき#hallway slippers;indoor shoes#
+1354480#上陸#じょうりく#landing;disembarkation#
+1354490#上陸用舟艇#じょうりくようしゅうてい#landing craft#
+1354500#上略#じょうりゃく#first paragraphs omitted#
+1354510#上流#じょうりゅう#upper stream;upper course;upper reaches;upstream;upper classes#
+1354520#上流社会#じょうりゅうしゃかい#upper classes#
+1354530#上例#じょうれい#above example#
+1354540#上腕#じょうわん#upper arm#
+1354550#上瞼#うわまぶた#upper eyelid#
+1354560#上膊#じょうはく#upper arm#
+1354570#上臈;上﨟#じょうろう#court lady;noblewoman#
+1354580#上蔟;上簇#じょうぞく#spinning of cocoons;silkworm's last sleep;transformation to the pupa stage#
+1354590#上鶲#じょうびたき#Daurian redstart (said by Japanese to be stupid because it is unafraid of people and so easy to catch)#
+1354600#丈;長#たけ;たき#height;stature;length (esp. of clothing);all (one has);everything;magnificence (of a waka poem, etc.)#
+1354610#丈長#たけなが#tall#
+1354620#丈比べ#たけくらべ#comparison of statures#
+1354640#丈余#じょうよ#over ten feet#
+1354650#乗じる#じょうじる#to take advantage of;to follow blindly;to multiply#
+1354660#乗ずる#じょうずる#to take advantage of;to follow blindly;to multiply#
+1354670#乗っかる;載っかる#のっかる#to get on;to climb on#
+1354680#乗っ取り#のっとり#capture;takeover;hijack;skyjacking#
+1354690#乗っ取り策#のっとりさく#plot against (someone)#
+1354700#乗っ取る;乗っとる#のっとる#to capture;to hijack;to commandeer;to occupy;to usurp#
+1354710#乗っ切る#のっきる#to overcome;to get through#
+1354720#乗り#のり#riding;ride;spread (of paints);(two)-seater;mood (as in to pick up on and join in with someone's mood)#
+1354730#乗りこなす#のりこなす#to manage (a horse)#
+1354740#乗り悪い#のりにくい#hard to ride#
+1354750#乗り移す#のりうつす#to transfer (a stowaway)#
+1354760#乗り移る;乗りうつる;乗移る#のりうつる#to change (cars or horses);to transfer;to possess;to inspire#
+1354770#乗り越える;乗りこえる;乗越える#のりこえる#to climb over;to get over;to ride across;to surmount;to overcome;to surpass;to overtake#
+1354780#乗り越し料金#のりこしりょうきん#excess fare (for going too far)#
+1354790#乗り越す;乗越す#のりこす#to ride past;to pass;to outdistance#
+1354800#乗り過ごす;乗り過す#のりすごす#to ride past;to miss one's stop (train, bus, etc.)#
+1354810#乗り回す;乗回す;乗りまわす#のりまわす#to drive (a car) around;to ride (a bicycle) around#
+1354820#乗り回る#のりまわる#to ride around#
+1354830#乗り掛かる;乗り掛る;乗りかかる#のりかかる#to be about to board;to be riding on;to get on top of;to lean over;to set about;to collide with#
+1354840#乗り掛ける;乗りかける#のりかける#to be about to board;to be riding on;to get on top of;to lean over;to set about;to collide with#
+1354850#乗り換え場#のりかえば#platform for transfer#
+1354860#乗り気;乗気#のりき#interest;eagerness;enthusiasm#
+1354870#乗り継ぐ;乗継ぐ#のりつぐ#to connect (with a different flight);to make a (flight) connection;to change (planes, trains, etc.)#
+1354880#乗り降り#のりおり#getting on and off (a vehicle);boarding and alighting#
+1354890#乗り合わす#のりあわす#to happen to ride together;to share a vehicle#
+1354900#乗り合わせる#のりあわせる#to happen to ride together;to share a vehicle;to (operate a) carpool#
+1354910#乗り込む#のりこむ#to board;to embark on;to get into (a car);to man (a ship);to help (someone) into;to march into;to enter#
+1354920#乗り捨てる#のりすてる#to get off;to abandon (a ship or vehicle)#
+1354930#乗り取る#のりとる#to capture;to occupy;to usurp#
+1354940#乗り出す;乗出す#のりだす;のりいだす#to set out;to set sail;to embark on (a new venture);to set out (to achieve something);to begin to ride;to lean forward#
+1354950#乗り上げる#のりあげる#to run aground;to be stranded#
+1354960#乗り進める#のりすすめる#to ride forth#
+1354970#乗り切る#のりきる#to weather (a storm, rough seas);to ride across;to sail across;to get through (adversity);to weather;to get over;to tide over;to overcome;to load completely (e.g. books on a shelf, people or luggage in a car)#
+1354980#乗り組む#のりくむ#to get on aboard;to join a ship#
+1354990#乗り損なう;乗りそこなう#のりそこなう#to miss (e.g. train, plane)#
+1355000#乗り遅れる#のりおくれる#to miss (train, bus, etc.)#
+1355010#乗り通る#のりとおる#to ride through;to ride along#
+1355020#乗り潰す#のりつぶす#to ride (a horse) to death#
+1355030#乗り馴らす#のりならす#to break in (a horse)#
+1355040#乗り入る#のりいる#to ride into (a place);to drive into (a place)#
+1355050#乗り入れる#のりいれる#to ride into (a place);to drive into (a place);extend (a line into a city)#
+1355060#乗り馬#のりうま#riding horse;saddle horse#
+1355070#乗り飛ばす#のりとばす#to tear along (a road)#
+1355080#乗り付け#のりつけ#one's regular taxi#
+1355090#乗り付ける;乗りつける#のりつける#to ride up to;to drive up to;to get used to riding;to get used to driving#
+1355100#乗り戻す#のりもどす#to ride (a horse) back;to drive (a car) back#
+1355110#乗り良い#のりよい#easy to ride;riding well#
+1355120#乗る;乘る#のる#to get on (train, plane, bus, ship, etc.);to get in;to board;to take;to embark;to get on (e.g. a footstool);to step on;to jump on;to sit on;to mount;to reach;to go over;to pass;to follow;to stay (on track);to go with (the times, etc.);to take part;to participate;to join;to get into the swing (and sing, dance, etc.);to be deceived;to be taken in;to be carried;to be spread;to be scattered;to stick;to attach;to take;to go on#
+1355130#乗員#じょういん#crew#
+1355140#乗換駅;乗り換え駅#のりかええき#transfer station;transfer point#
+1355150#乗換券#のりかえけん#ticket for transfer#
+1355160#乗艦#じょうかん#joining one's warship#
+1355170#乗降#じょうこう#getting on and off;embarking and disembarking#
+1355180#乗降車優先#じょうこうしゃゆうせん#priority to pedestrians#
+1355190#乗降場#じょうこうじょう#(station) platform#
+1355200#乗号#じょうごう#multiplication sign;sign of multiplication#
+1355210#乗合;乗り合い#のりあい#riding together;fellow passenger;joint partnership#
+1355220#乗合自動車#のりあいじどうしゃ#bus#
+1355230#乗合船;乗り合い船;乗合い船#のりあいぶね;のりあいせん#ferryboat;ferry;passenger boat;shared fishing boat#
+1355240#乗合馬車;乗合い馬車;乗り合い馬車#のりあいばしゃ#stagecoach#
+1355250#乗算#じょうざん#multiplication#
+1355260#乗算器#じょうざんき#multiplier (written)#
+1355270#乗車#じょうしゃ#taking a train, bus, etc.;entraining#
+1355280#乗車駅#じょうしゃえき#entraining point#
+1355290#乗車券#じょうしゃけん#passenger ticket#
+1355300#乗車口#じょうしゃぐち#train station entrance;entrance door (train, bus, etc.)#
+1355310#乗車賃#じょうしゃちん#railway fare#
+1355320#乗除#じょうじょ#multiplication and division#
+1355330#乗数#じょうすう#multiplier;multiplier factor#
+1355340#乗数効果#じょうすうこうか#multiplier effect (econ.)#
+1355350#乗積#じょうせき#product#
+1355360#乗船;上船#じょうせん#embarking;embarkation;boarding#
+1355370#乗組#のりくみ#crew#
+1355380#乗組員#のりくみいん#crew#
+1355390#乗馬#じょうば#horse riding;riding horse;saddle horse#
+1355400#乗馬靴#じょうばぐつ#riding boots#
+1355410#乗馬隊#じょうばたい#mounted corps;cavalcade#
+1355420#乗馬服#じょうばふく#riding habit#
+1355430#乗法#じょうほう#multiplication#
+1355440#乗務員#じょうむいん#crew member;crewman#
+1355450#乗用自動車#じょうようじどうしゃ#passenger auto#
+1355460#乗用車#じょうようしゃ#passenger vehicle;automobile#
+1355470#乗冪;乗羃#じょうべき#power#
+1355480#冗#じょう#uselessness#
+1355490#冗員#じょういん#supernumerary;superfluous;useless workers#
+1355500#冗官#じょうかん#supernumerary official#
+1355510#冗句#じょうく#redundant phrase#
+1355520#冗言#じょうげん#chatter;useless words#
+1355530#冗多#じょうた#superabundance#
+1355540#冗談;戯談;串戯;串戲#じょうだん;ぎだん;げだん#jest;joke;funny story#
+1355550#冗談口#じょうだんぐち#joke#
+1355560#冗談事#じょうだんごと#joking matter#
+1355570#冗談抜き#じょうだんぬき#seriously;joking aside#
+1355580#冗長#じょうちょう#tedious;verbose;prolix;redundancy#
+1355590#冗長性#じょうちょうせい#redundancy#
+1355600#冗長度#じょうちょうど#redundancy;relative redundancy (in information theory)#
+1355610#冗費#じょうひ#unnecessary expense#
+1355620#冗筆#じょうひつ#worthless painting and writing#
+1355630#冗物#じょうぶつ#redundancy;superfluity#
+1355640#冗文#じょうぶん#redundancy#
+1355650#冗漫#じょうまん#verbosity#
+1355660#冗用#じょうよう#unnecessary work;unnecessary expense#
+1355670#剰員#じょういん#surplus people#
+1355680#剰費#じょうひ#unnecessary expenses#
+1355690#剰余#じょうよ#surplus;balance;remainder#
+1355700#剰余金#じょうよきん#surplus;balance#
+1355710#城#しろ#castle#
+1355720#城下#じょうか#land near the castle#
+1355730#城下町#じょうかまち#castle town;town around castle#
+1355740#城郭;城廓#じょうかく#fortress;castle;citadel;enclosure;castle walls#
+1355750#城主#じょうしゅ#lord of a castle#
+1355760#城代#じょうだい#chamberlain;castle keeper#
+1355770#城壁#じょうへき#rampart;castle walls#
+1355780#城門#じょうもん#castle gate#
+1355790#場#ば#place;spot;space;field;discipline;sphere;realm;occasion;situation;scene (of a play, movie, etc.);session (of the stock market);area in which cards are laid out (in a card game);round (mahjong, i.e. east, south, etc.);field;field (gestalt psychology)#
+1355800#場違い;場ちがい#ばちがい#out-of-place;inappropriate;sticking out like a sore thumb#
+1355810#場合#ばあい#case;situation#
+1355820#場合によって#ばあいによって#depending on the situation;should time and circumstances permit#
+1355830#場合による#ばあいによる#to depend (on the situation);to be handled case by case#
+1355840#場合を除き#ばあいをのぞき#excluding the case when;when not#
+1355850#場所#ばしょ#place;location;spot;position;room;space;basho;wrestling tournament#
+1355860#場所柄#ばしょがら#character of a place#
+1355870#場所柄弁えず#ばしょがらわきまえず#not in keeping with the occasion#
+1355880#場内#じょうない#on the grounds#
+1355890#場末#ばすえ#outskirts (e.g. of a shopping district);rundown district#
+1355900#場味#ばあじ#market sentiment#
+1355910#場面#ばめん#scene;setting (e.g. of novel)#
+1355930#嬢;娘#じょう#unmarried woman;(after a name) Miss;(after a line of work) -ess;-ette#
+1355940#常#とこ#ever;endless#
+1355960#常しなえ#とこしなえ#eternity#
+1355970#常に#つねに#always;constantly#
+1355980#常軌#じょうき#proper course;beaten track#
+1355990#常時#じょうじ#usually;ordinarily;continuous;24-hour (e.g. observation, operation (of a machine), care (of patient));always on#
+1356000#常識#じょうしき#common sense;good sense;common knowledge;general knowledge;common practice;accepted practice;social etiquette#
+1356010#常習#じょうしゅう#custom;common practice;habit#
+1356020#常習者#じょうしゅうしゃ#habitual offender#
+1356030#常習犯#じょうしゅうはん#habitual criminal;recidivist;recidivism;habitual criminal activity#
+1356040#常世#とこよ#eternalness;forever unchanging;distant land over the sea;world of the dead#
+1356050#常世の国#とこよのくに#distant country;heaven;hades#
+1356060#常設#じょうせつ#standing (committee);permanent (exhibit)#
+1356070#常体#じょうたい#direct style#
+1356080#常駐#じょうちゅう#staying permanently;being stationed;resident#
+1356090#常日頃#つねひごろ#always;usually#
+1356100#常任#じょうにん#standing;regular;permanent#
+1356110#常任委員#じょうにんいいん#standing committee#
+1356120#常分数#じょうぶんすう#proper fraction#
+1356130#常務#じょうむ#managing director;executive director;routine business;regular business#
+1356140#常用#じょうよう#habitual use;daily use#
+1356150#常用漢字#じょうようかんじ#kanji for common use (list of 2,136 kanji established in 2010, formerly a list of 1,945 established in 1981)#
+1356160#常用対数#じょうようたいすう#logarithm (base 10);common logarithm#
+1356170#常用癖#じょうようへき#addiction#
+1356180#常緑#じょうりょく#evergreen#
+1356190#常緑樹#じょうりょくじゅ#evergreen tree#
+1356200#常連;定連#じょうれん#regular customer;regular patron;frequenter;constant companion#
+1356210#情#じょう#feelings;emotion;sentiment;compassion;sympathy;passion;affection;love;the way things really are;the actual situation#
+1356220#情け#なさけ#pity;sympathy;compassion;mercy;affection#
+1356230#情愛#じょうあい#affection;love#
+1356240#情意#じょうい#feeling;emotion;will#
+1356250#情感#じょうかん#feeling;sensitivity;emotion#
+1356260#情機#じょうき#information systems#
+1356270#情景#じょうけい#spectacle;sight;scene#
+1356280#情死#じょうし#double love suicide#
+1356290#情事#じょうじ#love affair;liaison#
+1356300#情趣#じょうしゅ#mood;sentiment;artistic effect#
+1356310#情状酌量#じょうじょうしゃくりょう#taking the extenuating circumstances into consideration#
+1356320#情勢;状勢#じょうせい#state of things;state of affairs;condition;situation;circumstances#
+1356330#情熱#じょうねつ#passion;enthusiasm;zeal#
+1356340#情念#じょうねん#sentiments;passions#
+1356350#情夫#じょうふ;いろ#lover (male)#
+1356360#情婦#じょうふ#mistress;lover;prostitute#
+1356370#情報#じょうほう#news;gossip;(military) intelligence;information (data contained in characters, signals, code, etc.)#
+1356380#情報ハイウェー#じょうほうハイウェー#information highway#
+1356390#情報化#じょうほうか#computerization;computerisation#
+1356400#情報科学#じょうほうかがく#information science;computer science#
+1356410#情報機器#じょうほうきき#information systems#
+1356420#情報技術#じょうほうぎじゅつ#information technology;IT#
+1356430#情報源#じょうほうげん#source of information;intelligence source;message source#
+1356440#情報工学#じょうほうこうがく#computer science;information engineering#
+1356450#情報主要素#じょうほうしゅようそ#essential elements of information#
+1356460#情報処理#じょうほうしょり#data processing#
+1356470#情報通信#じょうほうつうしん#telecommunications#
+1356480#情報理論#じょうほうりろん#information theory#
+1356490#情報量#じょうほうりょう#information content;information volume#
+1356500#情欲;情慾#じょうよく#passions;sexual desire;lust#
+1356510#条件#じょうけん#condition;conditions;term;terms;requirement;requirements#
+1356520#条件付き#じょうけんつき#conditionally;with conditions attached#
+1356530#条件付き表現式#じょうけんつきひょうげんしき#conditional expression (programming, programing)#
+1356540#条件文#じょうけんぶん#conditional statement#
+1356550#条項#じょうこう#clause;article;stipulations#
+1356560#条文#じょうぶん#text;provisions (act, treaty)#
+1356570#条片#じょうへん#strip#
+1356580#条約#じょうやく#treaty;pact#
+1356590#条約の締結#じょうやくのていけつ#conclusion of treaty#
+1356600#条理#じょうり#reason#
+1356610#条例#じょうれい#regulations;rules;laws;acts;ordinance#
+1356620#杖#つえ#cane;walking stick;staff;wand#
+1356630#浄化#じょうか#purification;cleanup#
+1356640#浄水#じょうすい#clean water#
+1356650#浄水器#じょうすいき#water filter;water purification system#
+1356660#浄水場#じょうすいじょう#water purification (filtering) plant#
+1356670#浄土#じょうど#Pure Land (esp. the Western Pure Land paradise of Amitabha);Pure Land Buddhism#
+1356680#浄瑠璃#じょうるり#type of dramatic recitation accompanied by a shamisen (associated with the Japanese puppet theater)#
+1356690#状#じょう#shape;state;letter;correspondence#
+1356700#状況;情況#じょうきょう#state of affairs (around you);situation;circumstances#
+1356710#状況によって#じょうきょうによって#depending on the situation;depending on circumstances#
+1356720#状況による;状況に依る#じょうきょうによる#depending on the situation;depending on the circumstances#
+1356730#状態;情態#じょうたい#current status;condition;situation;circumstances;state#
+1356740#畳#じょう#counter for tatami mats;measure of room size (in mat units)#
+1356750#畳;疊#たたみ#tatami mat;Japanese straw floor coverings#
+1356760#畳み掛ける;畳みかける#たたみかける#to press for an answer;to shower questions on someone#
+1356770#畳み込む#たたみこむ#to fold in;to bear deep in mind;to follow up#
+1356780#畳む#たたむ#to fold (clothes);to close (a shop);to vacate#
+1356790#畳屋#たたみや#matmaker;mat dealer#
+1356800#畳語#じょうご#syllable repetition (indicating plurals)#
+1356810#畳字#じょうじ#repetition of the previous character#
+1356820#畳針#たたみばり#tatami needle#
+1356830#畳替え#たたみがえ#renewing mats;refacing mats#
+1356840#畳表#たたみおもて#facing of a tatami mat#
+1356850#蒸かす#ふかす#to steam#
+1356860#蒸ける#ふける#to become ready to eat (as a result of steaming)#
+1356870#蒸し暑い;蒸暑い#むしあつい#humid;sultry#
+1356880#蒸し蒸し#むしむし#hot and humid#
+1356890#蒸し返す;蒸返す#むしかえす#to reheat;to steam over;to bring up again (a problem that has been dealt with);to take up again;to drag up;to rehash#
+1356900#蒸す#むす#to steam;to poultice;to be sultry#
+1356910#蒸らす#むらす#to cook by steam#
+1356920#蒸れる#むれる#to be stuffy;to moulder;to molder#
+1356930#蒸気;蒸汽#じょうき#steam;vapour;vapor;steamship;steamboat;steamer#
+1356940#蒸散#じょうさん#transpiration#
+1356950#蒸着#じょうちゃく#deposition (e.g. vacuum deposition);vaporization;evaporation#
+1356960#蒸発#じょうはつ#evaporation;disappearance (of people intentionally concealing their whereabouts);unexplained disappearance#
+1356970#蒸留;蒸溜;蒸餾#じょうりゅう#distillation#
+1356990#蒸留水#じょうりゅうすい#distilled water#
+1357000#譲り合う#ゆずりあう#to give and take;to make mutual concessions;to compromise#
+1357010#譲り受ける;譲りうける#ゆずりうける#to inherit;to receive;to take over by transfer#
+1357020#譲り渡す;譲りわたす#ゆずりわたす#to hand over;to turn over;to cede#
+1357030#譲る#ゆずる#to turn over;to assign;to hand over;to transmit;to convey;to sell;to dispose of;to yield;to surrender;to concede#
+1357040#譲渡#じょうと#transfer;assignment;conveyance#
+1357050#譲歩#じょうほ#concession;conciliation;compromise#
+1357060#醸し出す;かもし出す#かもしだす#to engender;to bring about#
+1357070#醸す#かもす#to brew (sake, etc.);to cause;to bring on;to bring about;to give rise to#
+1357080#醸成#じょうせい#brew;foment;breed#
+1357090#醸造#じょうぞう#brewing;distillation#
+1357100#醸造学#じょうぞうがく#zymurgy#
+1357110#醸造所#じょうぞうしょ;じょうぞうじょ#brewery;distillery#
+1357120#錠剤#じょうざい#pill;lozenge;tablet#
+1357130#錠前#じょうまえ#lock#
+1357140#嘱託;属託;囑託#しょくたく#commission;charge (person with);entrusting with;part-time (employee)#
+1357150#嘱望;属望#しょくぼう#(having great) expectation;pinning one's hopes on#
+1357160#飾り#かざり#decoration#
+1357170#飾り気#かざりけ#affectation;showing off#
+1357180#飾り皿#かざりざら#ornamental plate#
+1357190#飾り付ける;飾りつける#かざりつける#to decorate;to display#
+1357200#飾り立てる#かざりたてる#to decorate gaudily;to deck out#
+1357210#飾る;餝る;錺る;荘る#かざる#to decorate;to ornament;to adorn#
+1357220#拭う#ぬぐう#to wipe;to get rid of;to eliminate (e.g. one's shame);to remove (e.g. an impression);to erase#
+1357230#拭き取る;ふき取る#ふきとる#to wipe off;to wipe up#
+1357240#拭く#ふく#to wipe;to dry#
+1357250#植える#うえる#to plant;to grow#
+1357260#植わる#うわる#to be planted#
+1357270#植字#しょくじ#typesetting#
+1357280#植樹#しょくじゅ#tree-planting#
+1357290#植付#うえつけ#planting#
+1357300#植物#しょくぶつ#plant;vegetation#
+1357310#植物園#しょくぶつえん#botanical garden#
+1357320#植物人間#しょくぶつにんげん#human vegetable (i.e. someone in a vegetative state)#
+1357330#植物性脂肪#しょくぶつせいしぼう#vegetable fat#
+1357340#植民;殖民#しょくみん#colonization;colonisation#
+1357350#植民地;殖民地#しょくみんち#colony;colonial#
+1357360#植民地統治#しょくみんちとうち#colonial rule#
+1357370#植木屋#うえきや#gardener#
+1357380#植木鉢#うえきばち#flowerpot;plant pot#
+1357390#植林#しょくりん#afforestation#
+1357400#織り込む;織込む#おりこむ#to weave into;to interweave;to be incorporated in;to be factored in#
+1357410#織り糸#おりいと#strand#
+1357420#織る#おる#to weave#
+1357430#織機#しょっき#loom;weaving machine#
+1357440#織工#しょっこう#weaver#
+1357450#織物#おりもの#textile;fabric#
+1357460#織物業#おりものぎょう#textile manufacturing#
+1357470#織目;織り目#おりめ#texture;space between threads (i.e. in cloth)#
+1357480#職#しょく;そく#job;work;employment;occupation;position;duties;trade;skill#
+1357490#職員#しょくいん#staff member;personnel#
+1357500#職員室#しょくいんしつ#staff room#
+1357510#職業#しょくぎょう#occupation;business#
+1357520#職権#しょっけん#authority;commission#
+1357530#職工#しょっこう#(factory) worker#
+1357540#職場#しょくば#one's post;place of work;workplace#
+1357550#職人#しょくにん#worker;mechanic;artisan;craftsman#
+1357560#職能#しょくのう#function;work ability#
+1357570#職能給#しょくのうきゅう#salary based on work evaluation#
+1357580#職務#しょくむ#professional duties#
+1357590#職歴#しょくれき#work experience;work history#
+1357600#色#いろ#colour;color;complexion;appearance;look;love;lust;sensuality;love affair;lover;kind;type;variety#
+1357610#色っぽい#いろっぽい#amorous;sexy;voluptuous;erotic#
+1357620#色めく#いろめく#to colour;to color;to be tinged;to brighten;to grow lively;to become excited;to be stirred#
+1357630#色艶;色つや#いろつや#colour and lustre;color and luster;complexion;colour;color#
+1357640#色鉛筆#いろえんぴつ#color pencil;colour pencil#
+1357650#色眼鏡#いろめがね#rose-colored glasses;rose-coloured glasses#
+1357660#色眼鏡で見る#いろめがねでみる#to look at things from a biased viewpoint (biassed)#
+1357670#色気#いろけ#colouring;coloring;shade of colour;shade of color;sex appeal (esp. women);interest in the opposite sex;sensuality;seductiveness;glamor;glamour;sexual passion;romance;poetry;charm;desire;interest;inclination;ambition#
+1357680#色気違い;色狂い;色狂#いろきちがい;いろぐるい#erotomania;sexual obsession;sexual maniac#
+1357690#色好い;色良い#いろよい#favorable;favourable;friendly;encouraging#
+1357700#色香#いろか#colour and scent;color and scent;loveliness;charm#
+1357710#色合い;色合#いろあい;いろあわい#hue;tinge;tint#
+1357720#色彩#しきさい#colour;color;hue;tints#
+1357730#色刷り;色刷;色摺;色摺り#いろずり#colour printing;color printing#
+1357740#色仕掛け#いろじかけ#use of seductive techniques to attain one's ends (usu. of women)#
+1357750#色紙#いろがみ#coloured paper;colored paper#
+1357760#色紙#しきし#square fancy cardboard, used for autographs, poetry, etc.#
+1357770#色事#いろごと#love affair;sensual pleasures#
+1357780#色弱#しきじゃく#slight color-blindness;slight colour-blindness#
+1357790#色収差#いろしゅうさ#chromatic aberration#
+1357800#色女#いろおんな#good-looking woman;concubine#
+1357810#色消し#いろけし#achromatism#
+1357820#色情#しきじょう#sexual passion;lust#
+1357830#色素#しきそ#pigment;coloring;colouring#
+1357840#色即是空#しきそくぜくう#form is emptiness;matter is void;all is vanity#
+1357850#色男#いろおとこ#lover;lady-killer;sexy guy#
+1357860#色調#しきちょう#color tone;colour tone#
+1357870#色直し#いろなおし#redyeing (costume)#
+1357880#色抜き#いろぬき#decolorization;decolourization;decolorisation;decolourisation#
+1357890#色付け#いろづけ;いろつけ#coloring;colouring;adding color;adding colour#
+1357900#色分け#いろわけ#classification;color coding;colour coding;color keying;colour keying;differentiation using different colors (colours)#
+1357910#色魔#しきま#sex maniac;seducer;libertine;Lothario;rake#
+1357920#色盲#しきもう#color-blindness;colour-blindness#
+1357930#色目#いろめ#amorous glance;leer;ogle;shade (of color);tint;hue;ingratiation;sycophancy;toadying#
+1357940#色欲;色慾#しきよく#lust;sexual appetite#
+1357950#色流れ#いろながれ#dye bleeding (in fabric dyeing)#
+1357960#色恋#いろこい#sensual love;love affair#
+1357970#色褪める#いろざめる#to fade in color;to fade in colour#
+1357980#触る#さわる#to touch;to feel#
+1357990#触れる#ふれる#to touch;to feel;to experience;to come in contact with;to be emotionally moved (by);to perceive;to touch on a subject;to allude to;to be in conflict (with);to violate (law, copyright, etc.);to proclaim#
+1358000#触れ回る;触回る#ふれまわる#to cry about;to broadcast#
+1358010#触れ合う#ふれあう#to come into contact with;to touch (each other);to have a brush with#
+1358020#触れ込む#ふれこむ#to announce;to pretend to be;to pass off for;to pose as;to herald#
+1358030#触覚#しょっかく#sense of touch;tactile;tactual#
+1358040#触感#しょっかん#sense of touch;sense of being touched;tactile sense#
+1358050#触手#しょくしゅ#feeler;tentacle#
+1358060#触媒#しょくばい#catalyst#
+1358070#触媒作用#しょくばいさよう#catalytic action#
+1358080#触発#しょくはつ#detonation by contact;contact detonation;touching off something;triggering;provocation;inspiration#
+1358090#食いしん坊;くいしん坊;食いしんぼう#くいしんぼう;くいしんぼ#glutton;gourmand#
+1358100#食い違い;食違い;くい違い#くいちがい#discrepancy;different or conflicting opinions#
+1358110#食い違う;食違う;くい違う;食いちがう#くいちがう#to cross each other;to run counter to;to differ;to clash;to go awry#
+1358120#食い逸れ#くいはぐれ#missing a meal;losing means to make one's livelihood#
+1358130#食い逸れる;食いっ逸れる;食いはぐれる;食いっぱぐれる#くいはぐれる;くいっぱぐれる#to miss a meal;to lose the means to make one's livelihood#
+1358140#食い気#くいけ#appetite#
+1358150#食い詰める#くいつめる#to go broke#
+1358160#食い荒らす;食い荒す#くいあらす#to devour;to wolf down;to eat some of everything;to work at various things#
+1358170#食い合わす#くいあわす#to clench#
+1358180#食い込む;食込む#くいこむ#to bite into (e.g. rope into skin);to cut into;to dig into (e.g. of fingernails);to eat into;to encroach;to make inroads;to penetrate (e.g. a market);to break into (e.g. first place);to erode;to cut into (e.g. time, savings);to be wedged (i.e. underwear pulled from the back, driving it between the buttocks)#
+1358190#食い殺す#くいころす#to devour;to bite to death#
+1358200#食い散らす#くいちらす#to eat untidily;to eat a bit of everything;to dabble;to do a bit of this and a bit of that#
+1358210#食い止める;食止める;食いとめる;くい止める#くいとめる#to check;to hold back#
+1358220#食いつぶす;食い潰す#くいつぶす#to eat oneself out of house and home;to eat up completely#
+1358230#食い倒す#くいたおす#to bilk;to eat up one's fortune#
+1358240#食い逃げ#くいにげ#running away without paying for food;bilk#
+1358250#食い入る#くいいる#to eat into#
+1358260#食い付く;食いつく;食らい付く;食付く#くいつく;くらいつく#to bite at;to snap at;to nibble;to get one's teeth into (metaphorically);to get to grips with;to really get into#
+1358270#食えない#くえない#shrewd;smart (and wide-awake);cunning;crafty;inedible;uneatable;unable to support oneself;unable to keep body and soul together#
+1358280#食べる;喰べる#たべる#to eat;to live on (e.g. a salary);to live off;to subsist on#
+1358290#食べ過ぎ#たべすぎ#overeating#
+1358300#食べ過ぎる#たべすぎる#to overeat#
+1358310#食べ散らす#たべちらす#to eat a bit of everything#
+1358320#食べ残し#たべのこし#leftover food (esp. on one's plate at the end of a meal)#
+1358330#食べ難い#たべにくい#difficult to eat#
+1358340#食べ物#たべもの#food#
+1358350#食べ物屋#たべものや#eating place#
+1358360#食べ放題#たべほうだい#all-you-can-eat;smorgasbord#
+1358370#食べ方#たべかた#way of eating;how to eat#
+1358380#食み出る;はみ出る#はみでる#to jut out (of bounds);to be crowded out;to be forced out#
+1358390#食らわす#くらわす#to make someone eat;to deal (a blow);to play (a trick)#
+1358400#食パン#しょくパン#(loaf of) bread;bread in a rectangular shape#
+1358410#食塩#しょくえん#table salt#
+1358420#食管法#しょっかんほう#law governing food quality#
+1358430#食器#しょっき#tableware#
+1358440#食券#しょっけん#meal ticket#
+1358450#食後#しょくご#after a meal#
+1358460#食刻#しょっこく#etching;engraving#
+1358470#食指#しょくし#forefinger;index finger#
+1358480#食指が動く#しょくしがうごく#have an itch to;to have a craving for;to have an urge to;to have a desire for;to be eager to;to want to#
+1358490#食事#しょくじ#meal;to eat#
+1358500#食事付き#しょくじつき#with meals#
+1358510#食生活#しょくせいかつ#eating habits#
+1358520#食前#しょくぜん#before meals#
+1358530#食卓#しょくたく#dining table#
+1358540#食通#しょくつう#gourmandism;gourmet;gourmand;foodie#
+1358550#食堂#しょくどう#dining room;dining hall;cafeteria;messroom;restaurant;eatery;snack bar;diner#
+1358560#食堂車#しょくどうしゃ#dining car#
+1358570#食道#しょくどう#esophagus;gullet;esophageal#
+1358580#食肉#しょくにく#meat (for consumption)#
+1358590#食費#しょくひ#food expense#
+1358600#食品#しょくひん#commodity;foodstuff#
+1358610#食品添加物#しょくひんてんかぶつ#food additive#
+1358620#食物#しょくもつ#food;foodstuff#
+1358630#食物繊維#しょくもつせんい#dietary fiber;dietary fibre#
+1358650#食用#しょくよう#for use as food;edible#
+1358660#食欲;食慾#しょくよく#appetite (for food)#
+1358670#食料#しょくりょう#food#
+1358680#食料品#しょくりょうひん#foodstuff;groceries#
+1358690#食糧#しょくりょう#food (esp. staple food such as rice or wheat);provisions;rations;food supply#
+1358700#食糧援助#しょくりょうえんじょ#food assistance#
+1358710#食糧配給#しょくりょうはいきゅう#food distribution#
+1358720#食糧不足#しょくりょうふそく;しょくりょうぶそく#food shortage#
+1358730#蝕む;虫食む#むしばむ#to be worm-eaten;to be eaten by worms;to affect adversely;to spoil;to ruin;to undermine;to gnaw at (one's heart, body, etc.);to eat into#
+1358750#辱める#はずかしめる#to put to shame;to humiliate;to disgrace;to insult;to rape#
+1358760#尻;臀;後#しり#buttocks;behind;rump;bottom;undersurface;bottom;last place;end;consequence#
+1358770#尻軽女#しりがるおんな#promiscuous woman#
+1358780#尻取り;尻取#しりとり#Japanese word-chain game;cap verses#
+1358790#尻上がり#しりあがり#rising (intonation, market)#
+1358800#尻尾#しっぽ;しりお#tail (animal)#
+1358810#伸し#のし#stretching;sidestroke (in swimming)#
+1358820#伸し掛かる;圧し掛かる;伸し掛る#のしかかる#to lean on;to weigh on;to bend over;to lean forward#
+1358830#伸し上がる#のしあがる#to stand on tiptoe;to rise in the world;to become arrogant#
+1358840#伸し上げる#のしあげる#to promote;to make richer#
+1358850#伸す#のす#to stretch;to extend;to lengthen;to spread;to gain influence;to become stronger;to increase (e.g. in scope);to go further;to smooth out;to roll out;to spread out (something folded);to iron;to knock out;to knock down#
+1358860#伸びやか#のびやか#comfortable;carefree#
+1358870#伸びる;延びる#のびる#to stretch;to extend;to lengthen;to spread;to make progress;to grow (beard, body height);to grow stale (soba);to be straightened;to be flattened;to be smoothed;to be exhausted;to be postponed;to be prolonged#
+1358880#伸び広がる#のびひろがる#to stretch out#
+1358890#伸び縮み#のびちぢみ#expansion and contraction;elasticity;flexibility#
+1358900#伸び上がる#のびあがる#to stretch;to reach to;to stand on tiptoe#
+1358910#伸び伸び#のびのび#feeling at ease;carefree#
+1358920#伸び悩む#のびなやむ#to be sluggish (business)#
+1358930#伸び率;延び率#のびりつ#growth rate;coefficient of extension#
+1358940#伸べ広げる#のべひろげる#to stretch out#
+1358950#伸筋#しんきん#protractor muscle#
+1358960#伸縮#しんしゅく#expansion and contraction;elasticity;flexibility#
+1358970#伸縮自在#しんしくじざい;しんしゅくじざい#elastic;flexible;telescoping;expandable;retractable;extensible#
+1358980#伸縮性#しんしゅくせい#elasticity#
+1358990#伸縮税率#しんしゅくぜいりつ#flexible tariff#
+1359000#伸縮法#しんしゅくほう#sliding scale#
+1359010#伸展#しんてん#expansion;extension#
+1359020#伸度#しんど#elasticity#
+1359030#伸し餅;伸餅#のしもち#flattened rice cakes#
+1359040#信じる#しんじる#to believe;to believe in;to place trust in;to confide in;to have faith in#
+1359050#信じ込ます#しんじこます#to lead to believe#
+1359060#信じ込む#しんじこむ#to believe implicitly;to believe firmly#
+1359070#信ずる#しんずる#to believe;to believe in;to place trust in;to confide in;to have faith in#
+1359080#信愛#しんあい#love and believe in;intimacy#
+1359090#信越#しんえつ#region on Japan Sea side of Japan west of Tokyo;Nagano and Niigata#
+1359100#信管#しんかん#fuse#
+1359110#信疑#しんぎ#belief or doubt;truth or error;authenticity#
+1359120#信義#しんぎ#faith;fidelity;loyalty#
+1359130#信教#しんきょう#religious belief;faith#
+1359140#信教の自由#しんきょうのじゆう#religious liberty#
+1359150#信仰#しんこう#(religious) faith;belief;creed#
+1359160#信仰箇条#しんこうかじょう#articles of faith#
+1359170#信仰告白#しんこうこくはく#profession of faith#
+1359180#信仰者#しんこうしゃ#believer;devotee;follower;adherent;convert;disciple;admirer#
+1359190#信仰深い#しんこうぶかい#devout#
+1359200#信仰生活#しんこうせいかつ#life of faith;religious life#
+1359210#信仰的#しんこうてき#religious;spiritual#
+1359220#信経#しんきょう#creed#
+1359230#信玄袋#しんげんぶくろ#cloth bag#
+1359240#信号#しんごう#traffic lights;signal;semaphore#
+1359250#信号旗#しんごうき#signal flag#
+1359260#信号機#しんごうき#traffic light;signalling mechanism;semaphore (apparatus)#
+1359270#信号手#しんごうしゅ#flag man#
+1359280#信号所#しんごうじょ;しんごうしょ#signal station#
+1359290#信号電波#しんごうでんぱ#beam (signal)#
+1359300#信号塔#しんごうとう#signal tower#
+1359310#信号灯#しんごうとう#signal light;semaphore#
+1359320#信号無視#しんごうむし#ignoring a traffic light;red-light violation;jaywalking#
+1359330#信実#しんじつ#sincerity;honesty;truth;faithfulness#
+1359340#信者#しんじゃ#believer;adherent;devotee#
+1359350#信受#しんじゅ#belief;acceptance (of truths)#
+1359360#信書#しんしょ#letter;personal correspondence#
+1359370#信条#しんじょう#creed;belief;article of faith#
+1359380#信心#しんじん#faith;belief;devotion;godliness#
+1359390#信心家#しんじんか#pious man;religionist#
+1359400#信心深い#しんじんぶかい#deeply religious;devout;godly;faithful#
+1359410#信託#しんたく#trust;entrusting#
+1359420#信託会社#しんたくがいしゃ#trust company#
+1359430#信託業#しんたくぎょう#trust business#
+1359440#信託契約#しんたくけいやく#trust agreement#
+1359450#信託資金#しんたくしきん#trust fund#
+1359460#信託投資#しんたくとうし#trust investment#
+1359470#信徒#しんと#layman;believer;adherent;follower;laity#
+1359480#信徒伝動#しんとでんどう#lay evangelism#
+1359490#信徒伝動者#しんとでんどうしゃ#lay missionary#
+1359500#信任#しんにん#trust;confidence;credence#
+1359510#信任状#しんにんじょう#credentials#
+1359520#信任投票#しんにんとうひょう#vote of confidence#
+1359530#信任統治制度#しんにんとうちせいど#trusteeship system#
+1359540#信認#しんにん#acknowledge;acceptance;admission#
+1359550#信念#しんねん#belief;faith;conviction#
+1359560#信販#しんぱん#sales on credit#
+1359570#信販会社#しんぱんがいしゃ#credit company#
+1359580#信奉#しんぽう#belief;faith;adherence;espousal#
+1359590#信奉者#しんぽうしゃ#adherent;devotee;believer#
+1359600#信望#しんぼう#confidence;popularity#
+1359610#信約#しんやく#vow;promise#
+1359620#信用#しんよう#confidence;dependence;credit;faith;reliance;belief;credence;trust#
+1359630#信用協同組合#しんようきょうどうくみあい#cooperative credit association#
+1359640#信用詐欺#しんようさぎ#confidence game#
+1359650#信用借り#しんようがり#debt of honor;debt of honour#
+1359660#信用取引#しんようとりひき#credit transaction#
+1359670#信用取引先#しんようとりひきさき#charge customer#
+1359680#信用状#しんようじょう#letter of credit#
+1359690#信用状態#しんようじょうたい#credit standing#
+1359700#信用組合#しんようくみあい#credit association#
+1359710#信用貸し#しんようがし#loans without collateral#
+1359720#信用販売#しんようはんばい#sales on credit#
+1359730#信頼#しんらい#reliance;trust;faith;confidence#
+1359740#信頼回復#しんらいかいふく#recovering of trust;winning back of trust#
+1359750#信頼感#しんらいかん#trust#
+1359760#信頼醸成#しんらいじょうせい#trust building;confidence building#
+1359770#信頼性#しんらいせい#credibility;authenticity;confidence;reliability#
+1359780#信憑#しんぴょう#trust;credit;credence#
+1359790#信憑性;信ぴょう性#しんぴょうせい#authenticity;credibility#
+1359800#侵す#おかす#to invade;to raid;to violate (airspace, etc.);to intrude;to trespass;to infringe;to encroach;to harm;to afflict;to affect#
+1359810#侵害#しんがい#infringement;violation;trespass;impairment#
+1359820#侵害者#しんがいしゃ#invader;trespasser#
+1359830#侵撃#しんげき#invading and attacking#
+1359840#侵食;侵蝕#しんしょく#encroachment;erosion;corrosion#
+1359850#侵入#しんにゅう#penetration;invasion;raid;aggression;trespass#
+1359860#侵入軍#しんにゅうぐん#invading army#
+1359870#侵入者#しんにゅうしゃ#intruder;invader;trespasser;raider#
+1359880#侵犯#しんぱん#violation;invasion;infringement#
+1359890#侵略軍#しんりゃくぐん#invading army#
+1359900#侵略国#しんりゃくこく#aggressor nation#
+1359910#侵略者#しんりゃくしゃ#aggressor;invader#
+1359920#侵略戦争#しんりゃくせんそう#aggressive war#
+1359930#侵略的#しんりゃくてき#aggressive#
+1359940#唇;脣#くちびる#lips#
+1359950#唇音#しんおん#labial sound#
+1359960#寝かす#ねかす#to put to sleep;to lay (something) on its side#
+1359970#寝かせる#ねかせる#to put to bed;to lay down;to ferment#
+1359980#寝ずの番#ねずのばん#night watch;night watchman#
+1359990#寝そべる#ねそべる#to sprawl;to lie sprawled#

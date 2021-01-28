@@ -1,0 +1,968 @@
+2350000#技術講習#ぎじゅつこうしゅう#technical course;technical training#
+2350010#技術仕様書#ぎじゅつしようしょ#technical specification#
+2350020#技術支援#ぎじゅつしえん#technical support#
+2350030#技術調査#ぎじゅつちょうさ#technical investigation#
+2350040#技術的限界#ぎじゅつてきげんかい#technical limitations;limits of technology#
+2350050#技術的名称#ぎじゅつてきめいしょう#technical name#
+2350060#技術的問題#ぎじゅつてきもんだい#technical problem, issue#
+2350070#技術標準#ぎじゅつひょうじゅん#technology standardization#
+2350080#技術面で#ぎじゅつめんで#on a technical level#
+2350090#技術要件#ぎじゅつようけん#technical requirement#
+2350100#擬似乱数列#ぎじらんすうれつ#pseudo-random number sequence#
+2350110#擬寸法集合体#ぎすんぽうしゅうごうたい#assumed-size aggregate#
+2350120#疑似ＳＲＡＭ#ぎじエスラム#pseudo static Random Access Memory;PSRAM#
+2350130#疑似カラー#ぎじカラー#pseudo color#
+2350140#疑似コード#ぎじコード#pseudo code#
+2350150#疑似マルチタスク#ぎじマルチタスク#non-preemptive multitasking#
+2350160#疑似リエントラントプログラム#ぎじリエントラントプログラム#pseudo reentrant program#
+2350170#疑似命令#ぎじめいれい#pseudo instruction#
+2350180#疑問の解決#ぎもんのかいけつ#problem solution#
+2350190#客先開発プログラム#きゃくさきかいはつプログラム#field developed program;FDP#
+2350200#脚書き領域#あしがきりょういき#footing area#
+2350210#逆アセンブラ#ぎゃくアセンブラ#disassembler#
+2350220#逆アセンブル#ぎゃくアセンブル#disassembly#
+2350230#逆クリッピング#ぎゃくクリッピング#shielding;reverse clipping#
+2350240#逆フーリェ変換#ぎゃくフーリェへんかん#inverse fourier transform#
+2350250#逆ポーランド記法#ぎゃくポーランドきほう#reverse Polish notation;RPN#
+2350260#逆ポーランド表記式計算器#ぎゃくポーランドひょうきしきけいさんき#calculator with postfix notation logic;calculator with suffix notation logic;calculator with reverse-Polish notation logic#
+2350270#逆ポーランド表記法#ぎゃくポーランドひょうきほう#suffix notation;postfix notation;reverse Polish notation#
+2350280#逆高速フーリエ変換#ぎゃくこうそくフーリエへんかん#inverse fast Fourier transform#
+2350290#逆切り落し#ぎゃくきりおとし#shielding;reverse clipping#
+2350300#逆多重化#ぎゃくたじゅうか#demultiplexing#
+2350310#逆読み#ぎゃくよみ#backward reading#
+2350320#逆符号化#ぎゃくふごうか#decode#
+2350330#逆編集#ぎゃくへんしゅう#de-edit#
+2350340#逆方向ＬＡＮチャネル#ぎゃくほうこうランチャネル#backward LAN channel#
+2350350#逆方向通信路#ぎゃくほうこうつうしんろ#backward channel#
+2350360#逆方向読取り#ぎゃくほうこうよみとり#backward reading#
+2350370#休止状態#きゅうしじょうたい#hibernation#
+2350380#急速充電#きゅうそくじゅうでん#fast charge#
+2350390#給送#きゅうそう#feed#
+2350400#旧ＪＩＳ漢字コード#きゅうジェーアイエスかんじコード;きゅうジスかんじコード#old JIS kanji character code#
+2350410#旧バージョン#きゅうバージョン#old version;previous version#
+2350420#許可信号#きょかしんごう#enabling signal#
+2350430#許諾契約#きょだくけいやく#license agreement#
+2350440#許容情報速度#きょようじょうほうそくど#allowable information rate#
+2350450#供給停止#きょうきゅうていし#outage#
+2350460#競合アクセス業者#きょうごうアクセスぎょうしゃ#CAP;Competitive Access Provider#
+2350470#競合整理処理#きょうごうせいりしょり#competitive control processing#
+2350480#共存するサービス要素#きょうぞんするサービスようそ#symbiotic service element#
+2350490#共存セグメント#きょうぞんセグメント#coexisting segment#
+2350500#共通アプリケーション環境#きょうつうアプリケーションかんきょう#CAE;Common Application Environment#
+2350510#共通オブジェクトリクエストブローカアーキテクチャ#きょうつうオブジェクトリクエストブローカアーキテクチャ#Common Object Request Broker Architecture;CORBA#
+2350520#共通システム領域#きょうつうシステムりょういき#CSA;Common Service Area;Common System Area#
+2350530#共通セグメント#きょうつうセグメント#common segment#
+2350540#共通デスクトップ環境#きょうつうデスクトップかんきょう#CDE;Common Desktop Environment#
+2350550#共通バッファ#きょうつうバッファ#common buffer#
+2350560#共通フォーマット#きょうつうフォーマット#compatible format#
+2350570#共通ブロック#きょうつうブロック#common block#
+2350580#共通プログラム#きょうつうプログラム#common program#
+2350590#共通モデル#きょうつモデル#common model#
+2350600#共通因数#きょうつういんすう#common factor#
+2350610#共通化#きょうつうか#collaboration#
+2350620#共通割付け構造#きょうつうわりつけこうぞう#generic layout structure#
+2350630#共通管理情報サービス#きょうつうかんりじょうほうサービス#Common Management Information Services;CMIS#
+2350640#共通管理情報サービス要素#きょうつうかんりじょうほうサービスようそ#Common Management Information Service Element;CMISE#
+2350650#共通業務#きょうつぎょうむ#common task#
+2350660#共通細目#きょうつうさいもく#common subdivision#
+2350670#共通識別子#きょうつうしきべつし#generic identifier#
+2350680#共通線#きょうつうせん#common channel#
+2350690#共通線信号#きょうつうせんしんごう#common channel signalling#
+2350700#共通線信号網#きょうつうせんしんごうもう#common channel signalling network#
+2350710#共通内容部#きょうつうないようぶ#generic content portion#
+2350720#共通内容部記述部#きょうつうないようぶきじゅつぶ#generic content portion description#
+2350730#共通文書#きょうつうぶんしょ#generic-document#
+2350740#共通領域#きょうつうりょういき#common area#
+2350750#共通論理構造#きょうつうろんりこうぞう#generic logical structure#
+2350760#共同開発#きょうどうかいはつ#joint development#
+2350770#共同実験#きょうどうじっけん#joint test#
+2350780#共同利用型音声照会通知システム#きょうどうりようけいおんせいしょうかいつうちシステム#ANSER;Automatic Answer Network System for Electrical Request#
+2350800#共役直径対#きょうえきちょっけいたい#conjugate diameter pair;CDP#
+2350810#共役転置#きょうやくてんち#complex conjugate transpose (of a matrix)#
+2350820#共有ディスク#きょうゆうディスク#shared disk#
+2350830#共有ディレクトリ#きょうゆうディレクトリ#shared directory#
+2350840#共有フォルダ#きょうゆうフォルダ#shared folder#
+2350850#共有プリンタ#きょうゆうプリンタ#shared printer#
+2350860#共有メディア#きょうゆうメディア#shared (communication) medium#
+2350870#共有メモリー;共有メモリ#きょうゆうメモリー;きょうゆうメモリ#shared memory#
+2350890#共有ライブラリ#きょうゆうライブラリ#shared library#
+2350900#共有鍵暗号方式#きょうゆうかぎあんごうほうしき#shared key encryption#
+2350910#共有資源#きょうゆうしげん#shared resources#
+2350920#共有資産#きょうゆうしさん#joint resource;shared resource#
+2350930#共用プログラム#きょうようプログラム#utility program;service program#
+2350940#共用ルーチン#きょうようルーチン#utility routine;service routine#
+2350950#共用仮想領域#きょうようかそうりょういき#SVA;Shared Virtual Area#
+2350970#共用変数#きょうようへんすう#shared variable#
+2350980#協調試験法#きょうちょうしけんほう#coordinated test method#
+2350990#協調的マルチタスク#きょうちょうてきマルチタスク#cooperative multitasking#
+2351000#協同収集#きょうどうしゅうしゅう#co-operative acquisition#
+2351010#境界合わせ#きょうかいあわせ#boundary alignment#
+2351020#境界内オブジェクト集合#きょうかいないオブジェクトしゅうごう#bounded object set;BOS#
+2351030#境界表現#きょうかいひょうげん#boundary representation#
+2351040#強制ページ区切り#きょうせいページくぎり#forced page break#
+2351050#強制モード#きょうせいモード#closed mode#
+2351060#強制改行#きょうせいかいぎょう#hard line break;hard return#
+2351070#強制終了#きょうせいしゅうりょう#forced termination#
+2351080#強制衝突#きょうせいしょうとつ#collision enforcement#
+2351090#強調表示#きょうちょうひょうじ#highlighting#
+2351100#強調表示フィルタ#きょうちょうひょうじフィルタ#highlighting filter#
+2351110#強誘電体メモリ#きょうゆうでんたいメモリ#ferroelectric memory#
+2351120#教材センタ#きょうざいセンタ#media resource centre;resource centre#
+2351130#教材プログラム#きょうざいプログラム#courseware;teaching program#
+2351140#狭帯域#きょうたいいき#narrowband#
+2351150#鏡映#きょうえい#mirroring#
+2351160#鏡面反射#きょうめんはんしゃ#specular reflection#
+2351170#鏡面反射係数#きょうめんはんしゃけいすう#specular reflection coefficient#
+2351180#鏡面反射指数#きょうめんはんしゃしすう#specular exponent#
+2351190#鏡面反射色#きょうめんはんしゃしょく#specular colour#
+2351200#業界規範#ぎょうかいきはん#industry standard;industry norm#
+2351210#業界精通者#ぎょうかいせいつうしゃ#industry expert#
+2351220#業界標準アーキテクチャ#ぎょうかいひょうじゅんアーキテクチャ#Industry Standard Architecture;ISA#
+2351230#業界標準化#ぎょうかいひょうじゅんか#industry standardization#
+2351240#業務のカテゴリィ#ぎょうむのカテゴリィ#functional category#
+2351250#業務アプリケーション#ぎょうむアプリケーション#business application#
+2351260#業務スケジュール#ぎょうむスケジュール#task schedule#
+2351270#業務概要#ぎょうむがいよう#task overview#
+2351280#局コード#きょくコード#office code#
+2351290#局データ#きょくデータ#office data#
+2351300#局管理#きょくかんり#SMT;Station Management#
+2351310#局間回線#きょくかんかいせん#trunk;inter-office line#
+2351320#局建#きょくげん#office setup;office establishment#
+2351330#局所アドレス管理#きょくしょアドレスかんり#local address administration#
+2351340#局所モデリング変換#きょくしょモデリングへんかん#local modelling transformation#
+2351350#局所レベル#きょくしょレベル#local level#
+2351360#局所線形計画法#きょくしょせんけいけいかくほう#local linear programming#
+2351370#局所的#きょくしょてき#local#
+2351380#局所的試験法#きょくしょてきしけんほう#local test methods#
+2351390#局所変数#きょくしょへんすう#local variable#
+2351400#局所名#きょくしょめい#local name#
+2351410#局所要素#きょくしょようそ#local entity#
+2351420#局内クロストーク#きょくないクロストーク#local crosstalk#
+2351430#局留めアドレス#きょくどめアドレス#poste restante address#
+2351440#曲線近似圧縮#きょくせんきんじあっしゅく#curve-fitting compaction#
+2351450#曲線発生器#きょくせんはっせいき#curve generator#
+2351460#極限をとる#きょくげんをとる#take the limit of#
+2351470#極性ゼロ復帰記録#きょくせいゼロふっききろく#polarized return-to-zero recording;RZ(P)#
+2351480#極低温記憶装置#ごくていおんきおくそうち#cryogenic storage#
+2351490#均等割り付け;均等割付#きんとうわりつけ#equal space#
+2351500#禁則処理#きんそくしょり#Japanese hyphenation#
+2351510#緊急度#きんきゅうど#severity#
+2351520#近似ランダム#きんじランダム#pseudorandom#
+2351530#近似ランダム系列#きんじランダムけいれつ#pseudorandom sequence#
+2351540#近似雑音#きんじざつおん#pseudonoise (pn)#
+2351550#近似雑音系列#きんじざつおんけいれつ#pseudonoise sequence;pn sequence#
+2351560#金属酸化物半導体#きんぞくさんかぶつはんどうたい#metal oxide semiconductor;MOS#
+2351570#金属酸化膜半導体#きんぞくさんかまくはんどうたい#Metal Oxide Semiconductor;MOS#
+2351580#金属被膜加工#きんぞくひまくかこう#metalization#
+2351590#銀行ＡＮＳＥＲ#ぎんこうアンサー#Automatic answer Network System for Electrical Request#
+2351600#句読文字#くとうもじ#punctuation character#
+2351610#区きり子#くきりし#delimiter#
+2351620#区オクテット#くオクテット#row octet#
+2351630#区切り記号#くぎりきごう#delimiter;separator#
+2351640#区切り子機能#くぎりしきのう#delimiter role#
+2351650#区切り子集合#くぎりししゅうごう#delimiter set#
+2351660#区切り子集合引数#くぎりししゅうごうひきすう#delimiter set parameter#
+2351670#区切り子文字#くぎりしもじ#delimiter characters#
+2351680#区切り子文字列#くぎりしもじれつ#delimiter string#
+2351690#区切り点#くぎりてん#breakpoint#
+2351700#区切り文字#くぎりもじ#delimiter#
+2351710#区点コード#くてんコード#KuTen code#
+2351720#区分データセット#くぶんデータセット#partitioned data set#
+2351730#区分ファイル#くぶんファイル#partitioned file#
+2351740#区分番号#くぶんばんごう#segment-number#
+2351750#区分編成法#くぶんへんせいほう#BPAM;Basic Partitioned Access Method#
+2351760#区分編成データセット#くぶんへんせいデータセット#partitioned organization data set#
+2351770#区分編成ファイル#くぶんへんせいファイル#partitioned file#
+2351780#具象構文#ぐしょうこうぶん#concrete syntax (of SGML)#
+2351790#具象構文引数#ぐしょうこうぶんひきすう#concrete syntax parameter#
+2351800#具体的対象#ぐたいてきたいしょう#concrete object#
+2351810#空きファイル#あきファイル#empty file#
+2351820#空き媒体#あきばいたい#empty medium#
+2351830#空き容量#あきようりょう#free space (on a disk)#
+2351840#空のディスケット#からのディスケット#blank diskette#
+2351850#空のディレクトリ#からのディレクトリ#empty directory#
+2351860#空の文字列#からのもじれつ#empty string;null string#
+2351870#空アドレス#くうアドレス#null address#
+2351880#空状態#くうじょうたい#disassociated#
+2351890#空対応表#くうたいおうひょう#empty map#
+2351900#空内部様式#くうないぶようしき#empty interior style#
+2351910#空白デリミター#くうはくデリミター#white space delimiter#
+2351920#空白化#くうはくか#blanking#
+2351930#空白列#くうはくれつ#blank sequence#
+2351940#空冷ファン#くうれいファン#cooling fan#
+2351950#空列#くうれつ#null string#
+2351960#空連結集合#くうれんけつしゅうごう#empty link set#
+2351970#偶数パリティ#ぐうすうパリティ#even parity#
+2351980#偶発時用手続き#ぐうはつじようてつづき#contingency procedure#
+2351990#繰出し孔#くりだしこう#feed hole;sprocket hole#
+2352000#繰出し孔トラック#くりだしこうトラック#feed track;sprocket track#
+2352010#繰出し孔ピッチ#くりだしこうピッチ#feed pitch#
+2352020#繰返し演算#くりかえしえんざん#repetitive operation#
+2352030#群オクテット#ぐんオクテット#group octet#
+2352040#係数器#けいすうき#coefficient unit;scale multiplier#
+2352050#係数行列#けいすうぎょうれつ#coefficient matrix#
+2352060#係数設定モード#けいすうせっていモード#potentiometer set mode#
+2352080#型パラメタ#かたパラメタ#type parameter#
+2352090#型パラメタ値#かたパラメタち#type parameter value#
+2352100#型参照名#かたさんしょうめい#type reference name#
+2352110#型宣言文#かたせんげんぶん#type declaration statement#
+2352120#型定義#かたていぎ#type definition#
+2352130#型変換演算子#かたへんかんえんざんし#type conversion operator#
+2352140#契約者回線#けいやくしゃかいせん#subscriber line#
+2352150#形式関係#けいしきかんけい#formal relation#
+2352160#形式仕様書#けいしきしようしょ#formal specification#
+2352170#形式変換#けいしきへんかん#format conversion#
+2352180#形状モデル#けいじょうモデル#geometric model#
+2352190#形状定義スプライン#けいじょうていぎスプライン#geometry spline#
+2352200#形状適合#けいじょうてきごう#conformable#
+2352210#形状保存変換#けいじょうほぞんへんかん#rigid-body transformation#
+2352220#形状明示配列#けいじょうめいじはいれつ#explicit-shape array#
+2352230#携帯可能#けいたいかのう#portable#
+2352240#携帯端末#けいたいたんまつ#portable terminal#
+2352250#携帯用#けいたいよう#portable;mobile use#
+2352260#経営情報システム#けいえいじょうほうシステム#Management Information System;MIS#
+2352270#経過計時機構#けいかけいじきこう#elapsed timer#
+2352280#経過時間#けいかじかん#elapsed time#
+2352290#経時優先#けいじゆうせん#elapsed aging#
+2352300#経路制御#けいろせいぎょ#routing control#
+2352310#経路選択#けいろせんたく#routing#
+2352320#継ぎ目なし;継目なし#つぎめなし#seamless#
+2352330#継続シグナル#けいぞくシグナル#CONT (continue) signal#
+2352340#継続行#けいぞくぎょう#continuation line#
+2352350#継続発注#けいぞくはっちゅう#standing order#
+2352360#継続文#けいぞくぶん#continued statement#
+2352370#継続問い合わせ応答処理#けいぞくといあわせおうとうしょり#CTS;Continuous Temporary Storage#
+2352380#計画停止#けいかくていし#planned shutdown;planned outage#
+2352390#計画評価#けいかくひょうか#forecasting#
+2352400#計算の複雑性#けいさんのふくざつせい#computational complexity#
+2352410#計算可能性#けいさんかのうせい#computability#
+2352420#計算機の語#けいさんきのご#machine word;computer word#
+2352430#計算機システム#けいさんきシステム#data processing system;computer system;computing system#
+2352440#計算機システムの安全保護#けいさんきシステムのあんぜんほご#data processing system security;computer system security#
+2352450#計算機システム監査#けいさんきシステムかんさ#computer-system audit#
+2352460#計算機センター#けいさんきセンター#computer center#
+2352470#計算機ネットワーク#けいさんきネットワーク#computer network#
+2352480#計算機依存言語#けいさんきいぞんげんご#computer-dependent language#
+2352490#計算機科学#けいさんきかがく#computer science#
+2352500#計算機構成#けいさんきこうせい#computer configuration#
+2352510#計算機出力マイクロフィルミング#けいさんきしゅつりょくマイクロフィルミング#computer output microfilming;COM#
+2352520#計算機出力マイクロフィルム印字装置#けいさんきしゅつりょくマイクロフィルムいんじそうち#computer output microfilm printer;COM printer#
+2352530#計算機出力マイクロフィルム装置#けいさんきしゅつりょくマイクロフィルムそうち#computer output microfilmer;COM device#
+2352540#計算機図形処理#けいさんきずけいしょり#computer graphics;CG#
+2352550#計算機設計言語#けいさんきせっけいげんご#CDL;Computer Design Language#
+2352560#計算機名#けいさんきめい#computer-name#
+2352570#計算構造#けいさんこうぞう#computation structure#
+2352580#計算順序#けいさんじゅんじょ#computation sequence#
+2352590#計時機構#けいじきこう#timer;clock register#
+2352600#計数器#けいすうき#counter (reversible)#
+2352610#計数抽象操作#けいすうちゅうしょうそうさ#Summarize abstract-operation#
+2352620#計測プロセス#けいそくプロセス#measure process#
+2352630#計測値#けいそくち#measured value;measurement#
+2352660#警視庁ハイテク犯罪対策センター#けいしちょうハイテクはんざいたいさくセンター#Police hi-tech crime centre#
+2352670#警報メッセージ#けいほうメッセージ#warning message#
+2352680#警報抽象操作#けいほうちゅうしょうそうさ#alert abstract-operation#
+2352690#軽い故障#かるいこしょう#soft failure#
+2352700#軽量端末#けいりょうたんまつ#thin client#
+2352710#劇場並み#げきじょうなみ#theater quality (said of video)#
+2352720#桁あふれ#けたあふれ#overflow#
+2352730#桁上げなし加算;けた上げなし加算#けたあげなしかさん#addition without carry#
+2352740#欠落検査#けつらくけんさ#completeness check#
+2352750#決定性言語#けっていせいげんご#deterministic language#
+2352760#決定的文脈自由文法#けっていてきぶんみゃくじゆうぶんぽう#deterministic context-free grammar#
+2352770#決定表#けっていひょう#decision table#
+2352780#決定理論#けっていりろん#decision theory#
+2352790#決定論的#けっていろんてき#deterministic#
+2352800#結果の一意名#けっかのいちいめい#resultant identifier#
+2352810#結果出力拡張機能#けっかしゅつりょくかくちょうきのう#extended result output function#
+2352820#結果文書型#けっかぶんしょがた#result document type (of a link)#
+2352830#結果要素型#けっかようそがた#result element type (of a link)#
+2352840#結合システム#けつごうシステム#coupled system#
+2352850#結合記法名#けつごうきほうめい#associated notation name#
+2352870#結合試験#けつごうしけん#integration test#
+2352880#結合情報量#けつごうじょうほうりょう#joint information content#
+2352890#結合性#けつごうせい#associativity;connectivity#
+2352900#結合法則#けつごうほうそく#associative law#
+2352910#結合要素型#けつごうようそがた#associated element type#
+2352920#結線#けっせん#hard wiring#
+2352930#検査キー#けんさキー#check key#
+2352940#検査プログラム#けんさプログラム#checking program#
+2352950#検査合計#けんさごうけい#checksum#
+2352960#検査数字#けんさすうじ#check digit#
+2352970#検査文字#けんさもじ#check character#
+2352980#検査問題#けんさもんだい#check problem#
+2352990#検索インタフェース#けんさくインタフェース#search interface#
+2353010#検索エンジンポジショニング#けんさくエンジンポジショニング#search engine positioning#
+2353020#検索エンジンマーケティング#けんさくエンジンマーケティング#search engine marketing#
+2353030#検索エンジン対策#けんさくエンジンたいさく#search engine optimization#
+2353040#検索ツール#けんさくツール#search tool#
+2353050#検索パス#けんさくパス#search path#
+2353060#検索ポート#けんさくポート#retrieval port#
+2353070#検索ロボット#けんさくロボット#search robot#
+2353080#検索機能#けんさくきのう#lookup function;search function#
+2353090#検索結果#けんさくけっか#search results#
+2353100#検索項目#けんさくこうもく#search item#
+2353110#検索時概念組合せ索引作業#けんさくじがいねんくみあわせさくいんさぎょう#post-coordinated indexing#
+2353120#検索者#けんさくしゃ#searcher;person using a search engine#
+2353130#検索速度#けんさくそくど#search speed#
+2353150#検出可能セグメント#けんしゅつかのうセグメント#detectable segment#
+2353160#検出可能要素#けんしゅつかのうようそ#detectable element#
+2353170#検出部#けんしゅつぶ#read station#
+2353180#検証試験#けんしょうしけん#verification test#
+2353190#検討結果#けんとうけっか#results of an investigation#
+2353200#検討対象#けんとうたいしょう#subject of an investigation;object being examined#
+2353210#権限を与える#けんげんをあたえる#to authorize#
+2353220#研究グループ#けんきゅうグループ#research group#
+2353230#研究図書館#けんきゅうとしょかん#research library#
+2353240#研究展望報告書#けんきゅうてんぼうほうこくしょ#state of the art report#
+2353250#研究報告書#けんきゅうほうこくしょ#research report#
+2353260#肩文字#かたもじ#superscript#
+2353270#見掛け変数#みかけへんすう#dummy variable#
+2353280#見計らい送本#みはからいそうほん#sending on approval;sending on approbation#
+2353290#見出しラベル#みだしラベル#beginning-of-file label;header label;HDR#
+2353300#見出しレコード#みだしレコード#header record#
+2353310#鍵の配布#かぎのはいふ#key distribution#
+2353320#鍵管理#かぎかんり#key management#
+2353330#顕示性#けんじせい#highlighting#
+2353340#原ＥＩＴ#げんイーアイティー#original-EITs#
+2353350#原稿台#げんこうだい#copy holder#
+2353360#原始プログラム#げんしプログラム#source program#
+2353370#原始モジュール#げんしモジュール#source module;compilation unit#
+2353380#原始言語#げんしげんご#source language#
+2353390#原始文書型#げんしぶんしょがた#source document type (of a link)#
+2353400#原始要素型#げんしようそがた#source element type (of a link)#
+2353410#原資料#げんしりょう#original source#
+2353420#原符号化情報種別表示#げんふごうかじょうほうしゅべつひょうじ#original encoded information types indication#
+2353430#原文語#げんぶんご#text word#
+2353440#原文名#げんぶんめい#text-name#
+2353450#厳密認証#げんみつにんしょう#strong authentication#
+2353460#減基数の補数#げんきすうのほすう#diminished radix complement;radix-minus-one complement#
+2353480#減算器#げんざんき#subtracter#
+2353490#減衰ひずみ#げんすいひずみ#attenuation distortion#
+2353500#減衰係数#げんすいけいすう#attenuation coefficient#
+2353510#減衰時間#げんすいじかん#deceleration time#
+2353520#減衰量#げんすいりょう#attenuation#
+2353530#減衰歪み#げんすいひずみ#attenuation distortion#
+2353540#減法混色#げんぽうこんしょく#subtractive mixture colors#
+2353550#源項目#げんこうもく#source item#
+2353560#現位置#げんいち#current position#
+2353570#現割付け位置#げんわりつけいち#current layout position#
+2353580#現金自動取引装置#げんきんじどうとりひきそうち#ATM;Automatic Teller Machine#
+2353590#現行の作業ディレクトリ#げんこうのさぎょうディレクトリ#current working directory#
+2353600#現在の実行で#げんざいのじっこうで#in the current implementation#
+2353610#現在レコード#げんざいレコード#current record#
+2353620#現在行番号#げんざいぎょうばんごう#current line number#
+2353630#現在状態#げんざいじょうたい#current situation;current conditions#
+2353640#現在世界#げんざいせかい#modern world#
+2353650#現在値#げんざいち#current value#
+2353660#現在点#げんざいてん#current point#
+2353670#現属性#げんぞくせい#current attribute#
+2353680#現対応表#げんたいおうひょう#current map#
+2353690#現地化#げんちか#localization#
+2353700#現付番#げんふばん#current rank#
+2353710#現要素#げんようそ#current element#
+2353720#現連結集合#げんれんけつしゅうごう#current link set#
+2353730#言語トランスレータ#げんごトランスレータ#language translator#
+2353740#言語プロセッサ#げんごプロセッサ#language processor#
+2353750#言語結合#げんごけつごう#language binding#
+2353760#言語構成要素#げんごこうせいようそ#language construct#
+2353770#言語処理系#げんごしょりけい#language processor#
+2353780#言語対象#げんごたいしょう#language object#
+2353790#言語表示#げんごひょうじ#language indication#
+2353800#言語名#げんごめい#language-name#
+2353810#言語要素#げんごようそ#language construct;entity#
+2353820#限界検査#げんかいけんさ#marginal test;marginal check#
+2353830#限界試験#げんかいしけん#marginal test;marginal check#
+2353840#限定子#げんていし#qualifier#
+2353850#限定保証#げんていほしょう#limited warranties#
+2353860#限度検査#げんどけんさ#limit check#
+2353870#個人コミュニケーションサービス#こじんコミュニケーションサービス#personal communication service;PCS#
+2353880#個人間メッセージ通信サービス#こじんかんメッセージつうしんサービス#interpersonal messaging service#
+2353890#個人間通信#こじんかんつうしん#interpersonal communication#
+2353900#個人向け#こじんむけ#targeted at individuals#
+2353910#個人通信サービス#こじんつうしんサービス#personal communication service;PCS#
+2353920#個人用オーガナイザ#こじんようオーガナイザ#personal organizer#
+2353930#個別記号#こべつきごう#specific symbol#
+2353940#個別部品#こべつぶひん#discrete component#
+2353950#呼ばれるプログラム#よばれるプログラム#called program;subprogram#
+2353970#呼び出し時間;呼出時間#よびだしじかん#access time#
+2353980#呼び出し法#よびだしほう#access mode#
+2353990#呼び出し命令#よびだしめいれい#call instruction#
+2354000#呼ぶプログラム#よぶプログラム#calling program#
+2354010#呼出し列#よびだしれつ#calling sequence#
+2354020#呼出側#よびだしがわ#calling side#
+2354030#呼処理#こしょり#call processing#
+2354040#呼制御#こせいぎょ#call control#
+2354050#呼制御手順#こせいぎょてじゅん#call control procedure#
+2354060#呼損率#こそんりつ#blocking ratio#
+2354070#固体撮像デバイス#こたいさつぞうデバイス#solid-state imaging device#
+2354080#固定ディスク#こていディスク#hard disk;HD#
+2354090#固定ディスクドライブ#こていディスクドライブ#fixed disk drive#
+2354100#固定ディスク装置#こていディスクそうち#immovable disk unit#
+2354110#固定ビットレート#こていビットレート#constant bit rate;CBR#
+2354120#固定ヘッド#こていヘッド#fixed head#
+2354130#固定ヘッド式ディスク#こていヘッドしきディスク#fixed-head disk#
+2354140#固定関数発生器#こていかんすうはっせいき#fixed function generator#
+2354150#固定基数記数法#こていきすうきすうほう#fixed radix (numeration) system;fixed radix notation#
+2354160#固定基数表記法#こていきすうひょうきほう#fixed radix (numeration) system;fixed radix notation#
+2354170#固定記憶装置#こていきおくそうち#read-only memory;ROM#
+2354180#固定字送り#こていじおくり#constant spacing#
+2354190#固定字送り幅#こていじおくりはば#character spacing#
+2354200#固定小数点レジスタ#こていしょうすうてんレジスタ#fixed-point register#
+2354210#固定小数点演算#こていしょうすうてんえんざん#fixed-point arithmetic#
+2354220#固定小数点数#こていしょうすうてんすう#fixed-point data#
+2354230#固定小数点表示法#こていしょうすうてんひょうじほう#fixed-point representation system#
+2354240#固定小数点方式#こていしょうすうてんほうしき#fixed decimal mode#
+2354250#固定接続#こていせつぞく#permanent connection;fixed connection#
+2354260#固定属性#こていぞくせい#fixed attribute#
+2354270#固定長セル#こていちょうセル#fixed length cell#
+2354280#固定長パケット#こていちょうパケット#fixed length packet#
+2354290#固定長レコード#こていちょうレコード#fixed length record#
+2354300#固定媒体#こていばいたい#fixed media#
+2354310#固定幅フォント#こていはばフォント#fixed-width font#
+2354320#固有の大小順序#こゆうのだいしょうじゅんじょ#native collating sequence#
+2354330#固有関数#こゆうかんすう#eigenfunction#
+2354340#固有色#こゆうしょく#intrinsic colour#
+2354350#固有色データ#こゆうしょくデータ#intrinsic colour data#
+2354360#固有選択字句#こゆうせんたくじく#inherently optional token#
+2354370#固有文字集合#こゆうもじしゅうごう#native character set#
+2354380#孤立概念#こりつがいねん#isolate#
+2354390#弧長#こちょう#arc length#
+2354410#故障に強い#こしょうにこわい#fault-tolerant#
+2354420#顧客サービス#こきゃくサービス#customer service#
+2354430#互換テスト#ごかんテスト#compatibility test;interoperability test#
+2354440#互換機#ごかんき#compatible (e.g. AT-compatible)#
+2354460#互換性試験#ごかんせいしけん#compatibility, interoperability test#
+2354470#互換製品#ごかんせいひん#interchangeable product#
+2354480#後向き推論#うしろむきすいろん#backward reasoning (AI)#
+2354490#後書きラベル#あとがきラベル#end-of-file label;trailer label;EOF#
+2354500#後退ファイル回復#こうたいファイルかいふく#backward file recovery#
+2354510#後退回復#こうたいかいふく#backward (file) recovery#
+2354520#後置表記法#こうちひょうきほう#suffix notation;postfix notation;reverse Polish notation#
+2354530#後入れ先出しリスト#あといれさきだしリスト#pushdown list;pushdown stack#
+2354540#後入れ先出し記憶装置#あといれさきだしきおくそうち#pushdown storage;stack (storage)#
+2354550#後方一致#こうほういっち#right-hand match;ends-with match;backward match;matching a sub-string with the end of a field#
+2354560#後方境界面#こうほうきょうかいめん#back plane#
+2354570#後方推論#こうほうすいろん#backward reasoning (AI)#
+2354580#後方端#こうほうたん#trailing edge#
+2354590#語構成記憶装置#ごこうせいきおくそうち#word organized storage#
+2354600#誤りバースト#あやまりバースト#error burst#
+2354610#誤り回復#あやまりかいふく#error recovery#
+2354620#誤り検出#あやまりけんしゅつ#error detection#
+2354630#誤り検出符号#あやまりけんしゅつふごう#error-detecting code;self-checking code#
+2354640#誤り検出符合#あやまりけんしゅつふごう#Error-Detecting Code;EDC#
+2354650#誤り状態#あやまりじょうたい#error condition (in calculators)#
+2354660#誤り制御#あやまりせいぎょ#error control#
+2354670#誤り制御ソフトウェア#あやまりせいぎょソフトウェア#error control software#
+2354680#誤り通知#あやまりつうち#error indication#
+2354690#誤り訂正#あやまりていせい#error correction#
+2354700#誤り訂正符号#あやまりていせいふごう#error-correcting code#
+2354710#誤り表示#あやまりひょうじ#error indication#
+2354720#誤り率#あやまりりつ#error rate#
+2354730#誤差拡散法#ごさかくさんほう#random dither#
+2354740#誤差範囲#ごさはんい#error range#
+2354750#誤差幅#ごさはば#error span#
+2354760#交換システム#こうかんシステム#switching system#
+2354770#交換データ要素#こうかんデータようそ#interchange data element#
+2354780#交換レイヤ#こうかんレイヤ#switching layer#
+2354790#交換回線#こうかんかいせん#switched line#
+2354800#交換機#こうかんき#switch#
+2354810#交換機製品#こうかんきせいひん#switching product#
+2354820#交換機通信事業者#こうかんきつうしんじぎょうしゃ#exchange carrier#
+2354830#交換型#こうかんがた#switched (adj) (as in "switched VP")#
+2354840#交換処理能力#こうかんしょりのうりょく#switching capacity;switching ability#
+2354850#交換接続#こうかんせつぞく#switched connection#
+2354860#交換網#こうかんもう#switching network#
+2354870#交換様式#こうかんようしき#interchange format#
+2354880#交換様式クラス#こうかんようしきクラス#interchange format class#
+2354890#交互配置#こうごはいち#interleaving#
+2354900#交差合計検査#こうさごうけいけんさ#crossfooting#
+2354910#交渉ページ#こうしょうページ#nominal page#
+2354920#交替装置#こうたいそうち#alternate device#
+2354930#交代トラック#こうたいトラック#alternate track;alternative track#
+2354940#交代パス#こうたいパス#alternate path#
+2354950#交直両用式計算器#こうちょくりょうようしきけいさんき#mains;battery powered calculator#
+2354960#候補デスクリプタ#こうほデスクリプタ#candidate descriptor#
+2354970#光インタフェース#ひかりインタフェース#optical interface#
+2354980#光コンピュータ#ひかりコンピュータ#optical computer#
+2354990#光センサーマウス#ひかりセンサーマウス#Optical Sensor Mouse#
+2355000#光チャネルアダプタ#ひかりチャネルアダプタ#Optical Channel Adapter#
+2355020#光ファイバケーブル#ひかりファイバケーブル#fibre optic cable#
+2355030#光ファイバ伝送技術#ひかりファイバでんそうぎじゅつ#fibre optics#
+2355040#光ファイバ分散型データインターフェース#ひかりファイバぶんさんがたデータインターフェース#fiber distributed data interface;FDDI#
+2355050#光メモリ#ひかりメモリ#optical storage#
+2355060#光化#こうか#conversion to fiber optics#
+2355070#光学マーク読取り#こうがくマークよみとり#mark scanning;optical mark reading#
+2355080#光学式スキャナ#こうがくしきスキャナ#optical scanner#
+2355090#光学式マーク読み取り装置#こうがくしきマークよみとりそうち#Optical Mark Reader;OMR#
+2355100#光学式マウス#こうがくしきマウス#optical mouse#
+2355110#光学式走査器#こうがくしきそうさき#optical scanner#
+2355120#光学式文字読み取り装置#こうがくしきもじよみとりそうち#optical character reader;OCR#
+2355130#光学式文字読取り装置#こうがくしきもじよみとりそうち#optical character reader;OCR#
+2355140#光学式文字認識#こうがくしきもじにんしき#optical character recognition;OCR#
+2355150#光学的文字認識#こうがくてきもじにんしき#optical character recognition;OCR#
+2355160#光基準面#ひかりきじゅんめん#optical reference plane#
+2355170#光記憶装置#ひかりきおくそうち#optical storage#
+2355180#光源モデル#こうげんモデル#lighting model#
+2355190#光源状態#こうげんじょうたい#light source state#
+2355200#光磁気ディスク#ひかりじきディスク#Magneto-Optical disk#
+2355210#光集中指数#ひかりしゅうちゅうしすう#concentration exponent#
+2355220#光造形システム#ひかりぞうけいシステム#rapid prototyping;RP#
+2355230#光立ち下がり時間#ひかりたちさがりじかん#optical fall time#
+2355240#光立ち上がり時間#ひかりたちあがりじかん#optical rise time#
+2355250#公開かぎ#こうかいかぎ#public key#
+2355260#公開アーカイブ#こうかいアーカイブ#public archive#
+2355270#公開キー#こうかいキー#public key#
+2355280#公開鍵#こうかいかぎ#public key#
+2355290#公開鍵暗号#こうかいかぎあんごう#public key encryption#
+2355300#公開鍵暗号方式#こうかいかぎあんごうほうしき#public key cryptosystem#
+2355310#公開鍵基盤#こうかいかぎきばん#Public Key Infrastructure#
+2355320#公開識別子#こうかいしきべつし#public identifier#
+2355330#公開文#こうかいぶん#public text#
+2355340#公開文記述#こうかいぶんきじゅつ#public text description#
+2355350#公開文言語#こうかいぶんげんご#public text language#
+2355360#公開文指示シーケンス#こうかいぶんしじシーケンス#public text designating sequence#
+2355370#公開文種別#こうかいぶんしゅべつ#public text class#
+2355380#公開文表示版#こうかいぶんひょうじばん#public text display version#
+2355390#公衆サービス#こうしゅうサービス#public services#
+2355400#公衆データネットワーク#こうしゅうデータネットワーク#public data network#
+2355410#公衆メッセージ通信処理サービス#こうしゅうメッセージつうしんしょりサービス#public message handling service#
+2355420#公衆回線#こうしゅうかいせん#public line (as opposed to a private or leased line)#
+2355430#公衆回線網#こうしゅうかいせんもう#public network#
+2355440#公衆電線網#こうしゅうでんせんもう#public wireline network#
+2355450#公衆電話網#こうしゅうでんわもう#public telephone network#
+2355460#公的公開識別子#こうてきこうかいしきべつし#formal public identifier#
+2355470#公的公開識別子誤り#こうてきこうかいしきべつしあやまり#formal public identifier error#
+2355480#効率の良い#こうりつのよい#efficient#
+2355490#孔パターン#こうパターン#hole pattern#
+2355500#広域ＬＡＮ#こういきラン#wide area LAN#
+2355510#広域イーサネット#こういきイーサネット#wide area ethernet#
+2355520#広域ネットワーク#こういきネットワーク#wide area network#
+2355530#広域網#こういきもう#wide area network#
+2355550#広帯域#こうたいいき#broadband#
+2355560#広帯域ネットワーク#こうたいいきネットワーク#broadband network#
+2355570#広帯域総合ディジタル通信網#こうたいいきそうごうディジタルつうしんもう#B-ISDN;Broadband Integrated Services Digital Network#
+2355580#広帯域伝送#こうたいいきでんそう#broadband transmission#
+2355600#構成データ#こうせいデータ#configuration data#
+2355610#構成管理#こうせいかんり#configuration management#
+2355620#構成機器#こうせいきき#components#
+2355630#構成制御#こうせいせいぎょ#configuration control#
+2355640#構成制御委員会#こうせいせいぎょいいんかい#configuration control board#
+2355650#構成節#こうせいせつ#configuration section#
+2355660#構成体#こうせいたい#constituent#
+2355670#構成部品#こうせいぶひん#component#
+2355680#構成変更#こうせいへんこう#configuration change#
+2355690#構成要素型#こうせいようそがた#component type#
+2355700#構造化プログラミング#こうぞうかプログラミング#structured programming#
+2355710#構造化プログラム#こうぞうかプログラム#structured program#
+2355720#構造化言語#こうぞうかげんご#structured language#
+2355730#構造化照会言語#こうぞうかしょうかいげんご#SQL;Structured Query Language#
+2355740#構造化分析#こうぞうかぶんせき#Structured Analysis;SA#
+2355750#構造型#こうぞうがた#derived type;structured type#
+2355760#構造型符号化#こうぞうがたふごうか#constructed encoding#
+2355770#構造構文#こうぞうこうぶん#construct#
+2355780#構造体ネットワーク#こうぞうたいネットワーク#structure network#
+2355790#構造体参照#こうぞうたいさんしょう#structure reference#
+2355800#構造体識別子#こうぞうたいしきべつし#structure identifier#
+2355810#構造体取出し#こうぞうたいとりだし#structure retrieval#
+2355820#構造体状態リスト#こうぞうたいじょうたいリスト#structure state list#
+2355830#構造体成分#こうぞうたいせいぶん#structure component#
+2355840#構造体中央記憶#こうぞうたいちゅうおうきおく#centralized structure store#
+2355850#構造体変数#こうぞうたいへんすう#structured variable#
+2355860#構造体編集#こうぞうたいへんしゅう#structure editing#
+2355870#構造体保管#こうぞうたいほかん#structure archiving#
+2355880#構造体要素#こうぞうたいようそ#structure element#
+2355890#構造表記法#こうぞうひょうきほう#structured notation#
+2355900#構造要素#こうぞうようそ#structural element#
+2355910#構内交換機#こうないこうかんき#private branch exchange;PBX#
+2355920#構内通信網#こうないつうしんもう#local area network;LAN#
+2355930#構内電話交換機#こうないでんわこうかんき#private branch exchange;PBX#
+2355940#構文エラー#こうぶんエラー#syntactic error#
+2355950#構文チェッカ#こうぶんチェッカ#syntax checker#
+2355960#構文解析#こうぶんかいせき#syntax analysis#
+2355970#構文解析対象文字データ#こうぶんかいせきたいしょうもじデータ#parsed character data#
+2355980#構文規則#こうぶんきそく#syntax#
+2355990#構文参照文字集合#こうぶんさんしょうもじしゅうごう#syntax-reference character set#
+2356000#構文素#こうぶんそ#lexical token#
+2356030#行の高さ#ぎょうのたかさ#line height#
+2356040#行の進む方向#ぎょうのすすむほうこう#line progression#
+2356050#行の長さ#ぎょうのながさ#line length#
+2356060#行ピッチ#ぎょうピッチ#line pitch#
+2356070#行位置#ぎょういち#line number#
+2356080#行印字装置#ぎょういんじそうち#line printer#
+2356090#行間隔#ぎょうかんかく#line spacing#
+2356100#行起点#ぎょうきてん#line home position#
+2356110#行始端#ぎょうしたん#home position of line#
+2356120#行進行方向#ぎょうしんこうほうこう#line progression#
+2356130#行数カウンタ#ぎょうすうカウンタ#linage-counter#
+2356140#行先指示コード#いきさきしじコード#routing code#
+2356150#行送り幅#ぎょうおくりはば#line spacing#
+2356160#行送リ#ぎょうおくり#linefeed#
+2356170#行揃え#ぎょうそろえ#justify#
+2356180#行端揃え#ぎょうたんそろえ#justification#
+2356200#行番号#ぎょうばんごう#line number#
+2356210#行方向#ぎょうほうこう#line writing direction#
+2356220#行方向奇偶検査#ぎょうほうこうきぐうけんさ#longitudinal parity check#
+2356230#行列演算#ぎょうれつえんざん#matrix operation#
+2356240#行列記法#ぎょうれつきぼう#matrix notation#
+2356250#行列代数#ぎょうれつだいすう#linear algebra;matrix algebra#
+2356260#行列表現#ぎょうれつひょうげん#matrix representation#
+2356270#行列要素#ぎょうれつようそ#matrix element#
+2356280#行枠#ぎょうわく#line box#
+2356290#降順キー#こうじゅんキー#descending key#
+2356300#項目識別子#こうもくしきべつし#item identifier#
+2356310#項目選択#こうもくせんたく#item selection#
+2356320#項目名#こうもくめい#item name#
+2356330#香港テレコム#ほんこんテレコム#Hong Kong Telecom#
+2356340#高いレベル#たかいレベル#high level#
+2356350#高位レベル#こういレベル#higher level#
+2356360#高域通過フィルタ#こういきつうかフィルタ#high pass filter;HPF#
+2356370#高画質#こうがしつ#high resolution (of an image)#
+2356380#高解像度#こうかいぞうど#high resolution#
+2356390#高級言語#こうきゅうげんご#high-level language#
+2356400#高水準言語#こうすいじゅんげんご#high-level language#
+2356410#高精細度テレビ#こうせいさいどテレビ#High Definition Television;HDTV#
+2356420#高速けた上げ#こうそくけたあげ#high-speed carry#
+2356430#高速アクセス#こうそくアクセス#high speed access#
+2356440#高速イーサネット#こうそくイーサネット#Fast Ethernet#
+2356450#高速シリアルインターフェース#こうそくシリアルインターフェース#High-Speed Serial Interface;HSSI#
+2356460#高速スイッチング#こうそくスイッチング#high speed switching#
+2356470#高速セレクト#こうそくセレクト#fast select#
+2356480#高速データ通信#こうそくデータつうしん#high speed data communication#
+2356500#高速パケット#こうそくパケット#fast packet#
+2356510#高速フーリエ変換#こうそくフーリエへんかん#Fast Fourier Transform;FFT#
+2356520#高速フリエ変換#こうそくフリエへんかん#FFT;fast fourier transform#
+2356530#高速ページモード#こうそくページモード#fast page mode;FPM#
+2356540#高速ページモードＤＲＡＭ#こうそくページモードディーラム#Fast Page Mode Dynamic Random Access Memory;FPM DRAM#
+2356550#高速モデム#こうそくモデム#high speed modem#
+2356560#高速化#こうそくか#increase in speed, acceleration#
+2356570#高速回線#こうそくかいせん#high speed line#
+2356580#高速処理#こうそくしょり#high speed processing#
+2356590#高速接続#こうそくせつぞく#high speed connection#
+2356600#高速多重集配信装置#こうそくたじゅうしゅうはいしんそうち#High-Speed TDM;HTDM#
+2356610#高速直列インターフェイス#こうそくちょくれつインターフェイス#high speed serial interface#
+2356620#高速通信#こうそくつうしん#high speed communication#
+2356630#高速通信網#こうそくつうしんもう#high speed network#
+2356640#高速伝送#こうそくてんそう#high speed transmission#
+2356650#高帯域ネットワーク#こうたいいきネットワーク#wide area network;WAN#
+2356660#高度サービス#こうどサービス#enhanced service#
+2356670#高度化#こうどか#increase in sophistication;enhancement of functionality;increase in speed;upgrading#
+2356680#高度技術#こうどぎじゅつ#high-tech;high-technology#
+2356690#高度交通システム#こうどこうつうシステム#ITS;intelligent transportation systems#
+2356700#高度通信システム相互接続#こうどつうしんシステムそうごせつぞく#HATS;Harmonization of Advanced Telecommunication Systems#
+2356720#高品位テレビジョン#こうひんいテレビジョン#high definition television;HDTV#
+2356730#高密度ディスケット#こうみつどディスケット#high-density diskette#
+2356740#合計カウンタ#ごうけいカウンタ#sum counter#
+2356750#合計機能#ごうけいきのう#total function#
+2356760#合計検査#ごうけいけんさ#summation check;sum check#
+2356770#合計穿孔機#ごうけいせんこうき#summary punch#
+2356780#合計容量#ごうけいようりょう#total capacity#
+2356790#合成モデリング変換#ごうせいモデリングへんかん#composite modelling transformation#
+2356800#合成形分類体系#ごうせいがたぶんるいたいけい#synthetic classification system#
+2356810#合理性検査#ごうりせいけんさ#reasonableness check#
+2356830#刻み幅#きざみはば#stride#
+2356840#刻時トラック#こくじトラック#clock track#
+2356850#刻時パルス#こくじパルス#clock signal;clock pulse#
+2356860#刻時機構#こくじきこう#clock#
+2356870#刻時信号#こくじしんごう#clock signal;clock pulse#
+2356880#国コード#くにコード#country code#
+2356890#国際書誌#こくさいしょし#international bibliography#
+2356900#国際照明委員会#こくさいしょうめいいいんかい#Commission Internationale de I'Eclairage;CIE#
+2356910#国際単位系#こくさいたんいけい#International System of Units;SI#
+2356920#国際逐次刊行物データシステム#こくさいちくじかんこうぶつデータシステム#International Serials Data System;ISDS#
+2356930#国際通話#こくさいつうわ#international call#
+2356940#国際電気通信連合電気通信標準化セクタ#こくさいでんきつうしんれんごうでんきつうしんひょうじゅんかセクタ#International Telecommunications Union - Telecommunication Standardization Sector (formerly CCITT);ITU-TS#
+2356950#国際電気標準会議#こくさいでんきひょうじゅんかいぎ#International Electrotechnical Commission;IEC#
+2356960#国際標準化#こくさいひょうじゅんか#international standardization#
+2356970#国際標準化機構#こくさいひょうじゅんかきこう#International Organization for Standardization;ISO#
+2356980#国際標準逐次刊行物番号#こくさいひょうじゅんちくじかんこうぶつばんごう#International Standard Serial Number;ISSN#
+2356990#国際符号化文字集合#こくさいふごうかもじしゅうごう#Universal Character Set;UCS#
+2357000#国際無線通信諮問委員会#こくさいむせんつうしんしもんいいんかい#Comite Consultatif International des Radiocommunications;CCIR#
+2357010#国番号#くにばんごう#country code#
+2357020#国別コード#こくべつコード#country code#
+2357030#国名コード#こくめいコード#country code#
+2357040#根コンテキスト#ねコンテキスト#root context#
+2357050#混合基数記数法#こんごうきすうきすうほう#mixed radix (numeration) system;mixed radix notation#
+2357060#混合基数表記法#こんごうきすうひょうきほう#mixed radix (numeration) system;mixed radix notation#
+2357070#混合基底記数法#こんごうきていきすうほう#mixed base (numeration) system;mixed base notation#
+2357080#混合基底表記法#こんごうきていひょうきほう#mixed base (numeration) system;mixed base notation#
+2357090#混合指定表#こんごうしていひょう#mixed entry table#
+2357100#左シフト#ひだりシフト#left shift (bitwise, arithmetic)#
+2357110#左マウスボタン#ひだりマウスボタン#left-side mouse button#
+2357120#左右突出部#さゆうとっしゅつぶ#kern#
+2357130#左下隅#ひだりしたすみ#bottom left corner#
+2357140#左手座標系#ひだりてざひょうけい#left-handed coordinate system#
+2357150#左上隅#ひだりうえすみ#top left corner#
+2357160#左揃え#ひだりそろえ#left-justification#
+2357170#左辺値#さへんち#left side value (of an equation)#
+2357180#左方端#さほうたん#left hand edge#
+2357190#差し込み印刷#さしこみいんさつ#merge print#
+2357200#差し替え表示#さしかえひょうじ#obsoleting indication#
+2357210#差動増幅器#さどうぞうふくき#differential amplifier#
+2357220#差分ファイル#さぶんファイル#difference file#
+2357230#差分法#さぶんほう#difference method#
+2357240#差別化フィーチャ#さべつかフィーチャ#distinguishing feature#
+2357250#座標格子#ざひょうこうし#coordinate grid#
+2357260#座標図形処理#ざひょうずけいしょり#coordinate graphics;line graphics#
+2357270#座標点#ざひょうてん#coordinate point#
+2357290#再コンパイル#さいコンパイル#recompile#
+2357300#再ルーチング#さいルーチング#rerouting#
+2357310#再ロード#さいロード#reload#
+2357320#再開フェス#さいかいフェス#restart phase#
+2357330#再割当#さいわりあて#reassignment#
+2357340#再帰関数#さいきかんすう#recursive function#
+2357350#再帰呼び出し#さいきよびだし#recursive call#
+2357360#再帰呼出し#さいきよびだし#recursive (function) call#
+2357370#再帰的#さいきてき#recursive#
+2357380#再帰的に呼ぶ#さいきてきによぶ#to call recursively#
+2357400#再帰的サブルーチン#さいきてきサブルーチン#recursive subroutine#
+2357410#再帰的定義#さいきてきていぎ#recursive definitions#
+2357420#再計算#さいけいさん#recalculation;recalculate#
+2357430#再使用#さいしよう#reuse#
+2357440#再始動#さいしどう#restart#
+2357450#再実行#さいじっこう#re-execute#
+2357460#再実行時間#さいじっこうじかん#rerun time#
+2357470#再生保証領域#さいせいほしょうりょういき#assured reproduction area#
+2357480#再接続#さいせつぞく#reconnect#
+2357490#再設定#さいせってい#reestablish;reset (a password)#
+2357500#再宣言#さいせんげん#redeclaration#
+2357510#再組立#さいくみたて#reassembly#
+2357520#再送信#さいそうしん#retransmission#
+2357530#再度組み立て#さいどくみたて#reassemble#
+2357540#再読み込み;再読込み#さいよみこみ#reloading (e.g. document)#
+2357550#再入可能#さいにゅうかのう#re-entrant#
+2357560#再入可能サブルーチン#さいにゅうかのうサブルーチン#reentrant subroutine#
+2357570#再入可能プログラム#さいにゅうかのうプログラム#reentrant program#
+2357580#再入可能ルーチン#さいにゅうかのうルーチン#reentrant routine#
+2357590#再入可能手続き#さいにゅうかのうてつづき#reentrant procedure#
+2357600#再配置可能#さいはいちかのう#relocatable#
+2357610#再配置可能アドレス#さいはいちかのうアドレス#relocated address#
+2357620#再配置可能コード#さいはいちかのうコード#relocatable code#
+2357630#再配置可能プログラム#さいはいちかのうプログラム#relocatable program#
+2357640#再表示制御#さいひょうじせいぎょ#display recall control#
+2357650#再描画#さいびょうが#redraw#
+2357660#再利用率#さいりようりつ#reuse factor#
+2357670#最悪の場合#さいあくのばあい#worst case#
+2357680#最右端#さいうたん#low order end#
+2357690#最下位ビット#さいかいビット#least significant bit;LSB#
+2357700#最近稼働#さいきんかどう#recent activity#
+2357710#最左端#さいさたん#high order end#
+2357720#最終バージョン#さいしゅうバージョン#latest version#
+2357730#最終値#さいしゅうち#final value#
+2357740#最終認可#さいしゅうにんか#final approval#
+2357750#最終版#さいしゅうはん#final version#
+2357760#最初のアクティビティ識別子#さいしょのアクティビティしきべつし#original activity identifier#
+2357770#最初の権利者#さいしょのけんりしゃ#first owner#
+2357780#最初の値#さいしょのあたい#initial value#
+2357790#最小ＳＧＭＬ文書#さいしょうエスジーエムエルぶんしょ#minimal SGML document#
+2357800#最小化ボタン#さいしょうかボタン#minimize button#
+2357810#最小構成#さいしょうこうせい#minimum configuration#
+2357820#最小動作#さいしょうどうさ#minimal simulation#
+2357830#最小有効ビット#さいしょうゆうこうビット#least significant bit;LSB#
+2357840#最小有効数字#さいしょうゆうこうすうじ#least significant digit;LSD#
+2357850#最上位#さいじょうい#highest rank;highest position;high-end;highest-order;most-significant (e.g. bit)#
+2357860#最上位ビット#さいじょういビット#most significant bit;MSB#
+2357870#最新の技術を結集した#さいしんのぎじゅつをけっしゅうした#state-of-the-art#
+2357880#最新技術#さいしんぎじゅつ#latest technology#
+2357890#最新版#さいしんばん#latest version;latest edition#
+2357900#最大バーストサイズ#さいだいバーストサイズ#maximum burst size#
+2357910#最大ビット長#さいだいビットちょう#maximum bit length#
+2357920#最大フレームサイズ#さいだいフレームサイズ#maximum frame size#
+2357930#最大化ボタン#さいだいかボタン#maximize button#
+2357940#最大許容正規過電圧#さいだいきょようせいきかでんあつ#maximum allowable normal mode overvoltage#
+2357950#最大許容同相過電圧#さいだいきょようどうそうかでんあつ#maximum allowable common mode overvoltage#
+2357960#最大作動正規電圧#さいだいさどうせいきでんあつ#maximum operating normal mode voltage#
+2357970#最大作動同相電圧#さいだいさどうどうそうでんあつ#maximum operating common mode voltage#
+2357980#最大数#さいだいすう#limit#
+2357990#最大正規電圧#さいだいせいきでんあつ#maximum normal mode voltage#
+2358000#最大同相電圧#さいだいどうそうでんあつ#maximum common mode voltage#
+2358020#最大有効ビット#さいだいゆうこうビット#most significant bit;MSB#
+2358030#最大有効数字#さいだいゆうこうすうじ#most significant digit;MSD#
+2358040#最長経路#さいちょうけいろ#critical path#
+2358050#最適ルート#さいてきルート#optimal route#
+2358060#最適化プログラム#さいてきかプログラム#defragmentation program#
+2358070#最繁トラヒック時#さいぱんトラヒックとき#peak traffic period#
+2358080#最繁正時#さいぱんせいじ#busy hour;busy period#
+2358090#最頻値#さいひんち#mode#
+2358100#採用しない#さいようしない#not supported#
+2358110#細分化#さいぶんか#fragmentation;subdivision#
+2358120#細胞状#さいぼうじょう#cellular#
+2358130#作業ディレクトリ#さぎょうディレクトリ#working directory#
+2358140#作業域#さぎょういき#work(ing) space;work(ing) area#
+2358150#作業場所節#さぎょうばしょせつ#working-storage section#
+2358160#作業負荷#さぎょうふか#workload#
+2358170#作図装置#さくずそうち#plotter#
+2358180#作図装置増分量#さくずそうちぞうぶんりょう#plotter step size#
+2358190#作成システム#さくせいシステム#originating system#
+2358200#作成者語#さくせいしゃご#implementor-name#
+2358210#作成中#さくせいちゅう#under construction;in preparation#
+2358220#作成日時#さくせいにちじ#creation-time#
+2358230#作動電圧表示器#さどうでんあつひょうじき#operating voltage indicator#
+2358240#作用対象#さようたいしょう#operand#
+2358270#削除抽象操作#さくじょちゅうしょうそうさ#delete abstract-operation#
+2358280#索引トラック#さくいんトラック#index track#
+2358290#索引ファイル#さくいんファイル#indexed file#
+2358300#索引言語#さくいんげんご#indexing language#
+2358310#索引語#さくいんご#indexing term#
+2358320#索引作業#さくいんさぎょう#indexing#
+2358330#索引時概念組合せ索引作業#さくいんじがいねんくみあわせさくいんさぎょう#pre-coordinated indexing#
+2358340#索引順アクセス方式#さくいんじゅんアクセスほうしき#Indexed Sequential Access Method;ISAM#
+2358350#索引順次アクセス方式#さくいんじゅんじアクセスほうしき#Indexed Sequential Access Method;ISAM#
+2358360#索引順編成データセット#さくいんじゅんへんせいデータセット#indexed sequential data set#
+2358370#索引順編成ファイル#さくいんじゅんへんせいファイル#Indexed Sequential Access Method file;ISAM file#
+2358380#索引精度#さくいんせいど#depth of indexing#
+2358390#索引編成#さくいんへんせい#indexed organization#
+2358400#索引用語の付与#さくいんようごのふよ#allocation of indexing terms#
+2358410#雑音バースト信号#ざつおんバーストしんごう#noise burst signal#
+2358420#雑音除去#ざつおんじょきょ#normal mode rejection#
+2358430#雑時間#ざつじかん#miscellaneous time;incidental time#
+2358440#三角形集合#さんかくけいしゅうごう#triangle set#
+2358450#三次の多項式#さんじのたこうしき#third order polynomial#
+2358460#三者通話機能#さんしゃつうわきのう#three way calling#
+2358470#参考マニュアル#さんこうマニュアル#reference manual#
+2358480#参照アクセス#さんしょうアクセス#access;reference;fetch#
+2358490#参照キー#さんしょうキー#key of reference#
+2358500#参照モデル#さんしょうモデル#reference model#
+2358510#参照許可#さんしょうきょか#access permission#
+2358520#参照形式#さんしょうけいしき#reference format#
+2358530#参照経路#さんしょうけいろ#reference path#
+2358540#参照結合#さんしょうけつごう#use association#
+2358550#参照検索#さんしょうけんさく#reference retrieval#
+2358560#参照権#さんしょうけん#access right#
+2358570#参照呼び出し#さんしょうよびだし#reference (function) call#
+2358580#参照事項検索#さんしょうじこうけんさく#reference retrieval#
+2358590#参照先#さんしょうさき#referent#
+2358600#参照線#さんしょうせん#reference line#
+2358610#参照選択型#さんしょうせんたくがた#selection type#
+2358620#散布度#さんぷど#irrelevance;prevarication;spread#
+2358630#散布量#さんぷりょう#irrelevance;prevarication;spread#
+2358640#算式通り方式計算器#さんしきどおりほうしきけいさんき#calculator with algebraic logic#
+2358650#算術けた送り#さんじゅつけたおくり#arithmetic shift#
+2358660#算術レジスタ#さんじゅつレジスタ#arithmetic register#
+2358670#算術演算#さんじゅつえんざん#arithmetic operation#
+2358680#算術演算機構#さんじゅつえんざんきこう#arithmetic unit;ALU#
+2358690#算術演算子#さんじゅつえんざんし#arithmetic operator#
+2358700#算術演算装置#さんじゅつえんざんそうち#arithmetic unit;arithmetic logic unit;ALU#
+2358710#算術演算命令#さんじゅつえんざんめいれい#arithmetic instruction#
+2358720#算術加算#さんじゅつかさん#arithmetic addition#
+2358730#算術作用素#さんじゅつさようそ#arithmetic operator#
+2358740#算術式#さんじゅつしき#arithmetic expression#
+2358750#算術乗算#さんじゅつじょうざん#arithmetic multiplication#
+2358760#算術文#さんじゅつぶん#arithmetic statement#
+2358770#算術命令#さんじゅつめいれい#arithmetic instruction;arithmetic statement#
+2358780#算術論理演算機構#さんじゅつろんりえんざんきこう#arithmetic and logic unit;ALU#
+2358790#算術論理演算装置#さんじゅつろんりえんざんそうち#arithmetic and logic unit;ALU#
+2358800#算術和#さんじゅつわ#arithmetic sum#
+2358810#算法言語#さんぽうげんご#algorithmic language#
+2358820#仕様作成#しようさくせい#standards author;writer of standards#
+2358830#使い捨てパスワード#つかいすてパスワード#disposable password#
+2358840#使い捨て装置#つかいすてそうち#throw-away device#
+2358850#使用パラメータ制御#しようパラメータせいぎょ#user parameter control;UPC#
+2358870#使用ベース#しようベース#usage based#
+2358880#使用メモリ#しようメモリ#memory used#
+2358890#使用可能時間#しようかのうじかん#available time#
+2358900#使用可能性#しようかのうせい#availability#
+2358910#使用規制#しようきせい#usage restrictions, limitations#
+2358920#使用許諾契約#しようきょだくけいやく#(software) license agreement#
+2358930#使用距離#しようきょり#usable distance (of a fiber)#
+2358940#使用契約#しようけいやく#license agreement#
+2358950#使用条件#しようじょうけん#requirement#
+2358960#使用性試験#しようせいしけん#usability test;fitness-for-use test#
+2358970#使用不能時間#しようふのうじかん#unavailable time#
+2358990#使用率#しようりつ#utilization rate;activity ratio#
+2359000#使用率パラメータ制御#しようりつパラメータせいぎょ#user parameter control;UPC#
+2359010#四捨五入機能#ししゃごにゅうきのう#round-off function;rounding#
+2359020#四辺形格子#しへんけいこうし#quadrilateral mesh#
+2359030#始端#したん#start edge#
+2359040#始端部#したんぶ#leader#
+2359050#子エントリ#こエントリ#child-entry#
+2359060#子プロセス#こプロセス#child process#
+2359070#子構造体#ここうぞうたい#child structure#
+2359080#子順序番号#こじゅんじょばんごう#child-sequence-number#
+2359090#子操作#こそうさ#child-operation#
+2359100#子孫構造体#しそんこうぞうたい#descendant structure#
+2359110#市内局番#しないきょくばん#local office number#
+2359120#市販のソフト#しはんのソフト#commercial software#
+2359130#市販ソフト#しはんソフト#commercial software#
+2359140#指示抄録#しじしょうろく#indicative abstract#
+2359150#指示状態#しじじょうたい#pointer associated#
+2359170#指数演算子#しすうえんざんし#exponential operator#
+2359180#指数的#しすうてき#exponential#
+2359190#指数的成長#しすうてきせいちょう#exponential growth#
+2359200#指数分布#しすうぶんぷ#exponential distribution#
+2359210#指定可能点#していかのうてん#addressable point#
+2359220#指定子#していし#descriptor;designator#
+2359230#指定文字そろえ#していもじそろえ#aligned around#
+2359240#指動輪#しどうりん#thumb wheel#
+2359250#指標データ項目#しひょうデータこうもく#index data item#
+2359260#指標レジスタ#しひょうレジスタ#index register#
+2359270#指標付きアドレス#しひょうつきアドレス#indexed address#
+2359280#指標付き色指定#しひょうつきいろしてい#indexed colour#
+2359290#指標名#しひょうめい#index-name#
+2359300#指令言語#しれいげんご#command language;control language#
+2359310#支援グループ#しえんグループ#support group#
+2359320#私書箱番号#ししょばこばんごう#Post Office box address;P.O.box address#
+2359330#私設ディレクトリ管理領域#しせつディレクトリかんりりょういき#Private Directory Management Domain;PRDMD#
+2359340#私設回線#しせつかいせん#leased line;private circuit;private line#
+2359350#私設管理領域#しせつかんりりょういき#Private Management Domain;PRMD#
+2359360#私設領域名#しせつりょういきめい#private domain name#
+2359370#私用かぎ#しようかぎ#private key#
+2359380#紙テープ#かみテープ#paper tape;paper streamer#
+2359390#紙づまり;紙詰まり#かみづまり#paper jam#
+2359400#紙送り#かみおくり#paper feed#
+2359410#紙媒体#かみばいたい#paper medium;print medium (as opposed to other media);print#
+2359420#紫外線消去型ＥＰＲＯＭ#しがいせんしょうきょかたイープロム#ultraviolet erasable programmable ROM#
+2359430#視覚的#しかくてき#visual#
+2359440#視覚的エディタ#しかくてきエディタ#visual editor;vi#
+2359450#視聴覚センタ#しちょうかくセンタ#media resource centre;resource centre#
+2359460#視野移動#しやいどう#scrolling#
+2359470#試験データ#しけんデータ#test data#
+2359480#試験パターン#しけんパターン#test pattern#
+2359490#試験管理プロトコル#しけんかんりプロトコル#test management protocol#
+2359500#試験機関#しけんきかん#test laboratory#
+2359510#試験協調手続#しけんきょうちょうてつづき#test coordination procedures#
+2359520#試験群#しけんぐん#test group#
+2359530#試験群目標#しけんぐんもくひょう#test group objective#
+2359540#試験計画書#しけんけいかくしょ#test plan;system test and evaluation plan#
+2359550#試験結果#しけんけっか#test outcome;test result#
+2359560#試験工程#しけんこうてい#test process;test stage;test period#
+2359570#試験項目#しけんこうもく#test case#
+2359580#試験項目誤り#しけんこうもくあやまり#test case error#
+2359590#試験項目名#しけんこうもくめい#test item name#
+2359600#試験事象#しけんじしょう#test event#
+2359610#試験実現者#しけんじつげんしゃ#test realizer#
+2359630#試験条件#しけんじょうけん#test conditions;test environment#
+2359640#試験体#しけんたい#test body#
+2359650#試験対象#しけんたいしょう#implementation under test;IUT#
+2359660#試験対象システム#しけんたいしょうシステム#system under test;SUT#
+2359670#試験端末#しけんたんまつ#test terminal#
+2359680#試験目的#しけんもくてき#test purpose#
+2359690#試験用プロトコル実装補助情報#しけんようプロトコルじっそうほじょじょうほう#protocol implementation extra information for testing;PIXIT#
+2359700#試作環境#しさくかんきょう#test environment#
+2359720#資源割振り#しげんわりふり#resource allocation#
+2359730#資源管理#しげんかんり#resource management#
+2359740#資源共有#しげんきょうゆう#resource sharing#
+2359750#資源分配#しげんぶんぱい#resource sharing#
+2359760#資源文書#しげんぶんしょ#resource document#
+2359770#資財所要量計画#しざいしょようりょうけいかく#MRP;Material Requirement Planning#
+2359780#雌コネクタ#めすコネクタ#female connector#
+2359790#事後ジャーナル化#じごうジャーナルか#after-look journalizing#
+2359800#事後条件#じごじょうけん#postcondition#
+2359810#事後分析ダンプ#じごぶんせきダンプ#postmortem dump#
+2359820#事後保守#じごほしゅ#corrective maintenance#
+2359830#事後保全#じごほぜん#corrective maintenance#
+2359840#事実上の標準#じじつじょうのひょうじゅん#de facto standard#
+2359850#事実上標準#じじつじょうひょうじゅん#de-facto standard#
+2359860#事象モード#じしょうモード#event mode#
+2359870#事象待ち行列#じしょうまちぎょうれつ#event queue#
+2359880#事象投影#じしょうとうえい#event projection#
+2359890#事象報告#じしょうほうこく#event report#
+2359900#事前記録データ媒体#じぜんきろくデータばいたい#recorded data medium#
+2359910#事前記録媒体#じぜんきろくばいたい#recorded (data) medium#
+2359920#事前条件#じぜんじょうけん#precondition#
+2359930#事務管理データ処理#じむかんりデータしょり#administrative data processing#
+2359940#事務機械化#じむきかいか#office automation;OA#
+2359950#事務文書用言語#じむぶんしょようげんご#Office Document Language#
+2359960#事務用#じむよう#business use#
+2359970#字下げ#じさげ#indentation#
+2359980#字句の構造#じくのこうぞう#lexical structure#
+2359990#字句解析#じくかいせき#lexical analysis#

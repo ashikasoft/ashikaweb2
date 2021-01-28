@@ -1,0 +1,942 @@
+2090000#天平神護#てんぴょうじんご#Tempyou-jingo era (765.1.7-767.8.16)#
+2090010#神護景雲#じんごけいうん#Jingo-keiun era (767.8.16-770.10.1)#
+2090020#宝亀#ほうき#Houki era (770.10.1-781.1.1)#
+2090030#天応#てんおう#Ten'ou era (781.1.1-782.8.19)#
+2090040#延暦#えんりゃく#Enryaku era (782.8.19-806.5.18)#
+2090050#弘仁#こうにん#Kounin era (810.9.19-824.1.5)#
+2090060#天長#てんちょう#Tenchou era (824.1.5-834.1.3)#
+2090070#承和#じょうわ;しょうわ#Jouwa era (834.1.3-848.6.13);Shouwa era#
+2090080#嘉祥#かしょう#Kashou era (848.6.13-851.4.28)#
+2090090#仁寿#にんじゅ#Ninju era (851.4.28-854.11.30)#
+2090100#斉衡#さいこう#Saikou era (854.11.30-857.2.21)#
+2090110#天安#てんあん#Ten'an era (857.2.21-859.4.15)#
+2090120#貞観#じょうがん#Jougan era (859.4.15-877.4.16)#
+2090130#元慶#がんぎょう;げんけい#Gangyou era (877.4.16-885.2.21);Genkei era#
+2090140#仁和#にんな#Ninna era (885.2.21-889.4.27)#
+2090150#寛平#かんぴょう#Kampyou era (889.4.27-898.4.26)#
+2090160#昌泰#しょうたい#Shoutai era (898.4.26-901.7.15)#
+2090170#延喜#えんぎ#Engi era (901.7.15-923.4.11)#
+2090180#承平#じょうへい#Jouhei era (931.4.26-938.5.22)#
+2090190#天慶#てんぎょう#Tengyou era (938.5.22-947.4.22)#
+2090200#天暦#てんりゃく#Tenryaku era (947.4.22-957.10.27)#
+2090210#天徳#てんとく#Tentoku era (957.10.27-961.2.16)#
+2090220#応和#おうわ#Ouwa era (961.2.16-964.7.10)#
+2090230#康保#こうほう#Kouhou era (964.7.10-968.8.13)#
+2090240#安和#あんな;あんわ#Anna or Anwa era (968.8.13-970.3.25)#
+2090250#天禄#てんろく#Tenroku era (970.3.25-973.12.20)#
+2090260#天延#てんえん#Ten'en era (973.12.20-976.7.13)#
+2090270#貞元#じょうげん#Jougen era (976.7.13-978.11.29)#
+2090280#天元#てんげん#central black dot on a go board;Tengen era (978.11.29-983.4.15)#
+2090290#永観#えいかん#Eikan era (983.4.15-985.4.27)#
+2090300#寛和#かんな#Kanna era (985.4.27-987.4.5)#
+2090310#永延#えいえん#Eien era (987.4.5-989.8.8)#
+2090320#永祚#えいそ#Eiso era (989.8.8-990.11.7)#
+2090330#正暦#しょうりゃく#Shouryaku era (990.11.7-995.2.22)#
+2090340#長徳#ちょうとく#Choutoku era (995.2.22-999.1.13)#
+2090350#長保#ちょうほう#Chouhou era (999.1.13-1004.7.20)#
+2090360#寛弘#かんこう#Kankou era (1004.7.20-1012.12.25)#
+2090370#長和#ちょうわ#Chouwa era (1012.12.25-1017.4.23)#
+2090380#寛仁#かんにん#Kannin era (1017.4.23-1021.2.2)#
+2090390#治安#じあん#Jian era (1021.2.2-1024.7.13)#
+2090400#万寿#まんじゅ#Manju era (1024.7.13-1028.7.25)#
+2090410#長元#ちょうげん#Chougen era (1028.7.25-1037.4.21)#
+2090420#長暦#ちょうりゃく#Chouryaku era (1037.4.21-1040.11.10)#
+2090430#寛徳#かんとく#Kantoku era (1044.11.24-1046.4.14)#
+2090440#永承#えいしょう#Eishou era (1046.4.14-1053.1.11)#
+2090450#天喜#てんぎ#Tengi era (1053.1.11-1058.8.29)#
+2090460#康平#こうへい#Kouhei era (1058.8.29-1065.8.2)#
+2090470#治暦#じりゃく#Jiryaku era (1065.8.2-1069.4.13)#
+2090480#延久#えんきゅう#Enkyuu era (1069.4.13-1074.8.23)#
+2090500#承暦#じょうりゃく#Jouryaku era (1077.11.17-1081.2.10)#
+2090510#永保#えいほう;えいほ#Eihou or Eiho era (1081.2.10-1084.2.7)#
+2090520#応徳#おうとく#Outoku era (1084.2.7-1087.4.7)#
+2090530#寛治#かんじ#Kanji era (1087.4.7-1094.12.15)#
+2090540#嘉保#かほう#Kahou era (1094.12.15-1096.12.17)#
+2090550#永長#えいちょう#Eichou era (1096.12.17-1097.11.21)#
+2090560#承徳#じょうとく#Joutoku era (1097.11.21-1099.8.28)#
+2090570#康和#こうわ#Kouwa era (1099.8.28-1104.2.10)#
+2090580#長治#ちょうじ#Chouji era (1104.2.10-1106.4.9)#
+2090590#嘉承#かしょう#Kashou era (1106.4.9-1108.8.3)#
+2090600#天仁#てんにん#Tennin era (1108.8.3-1110.7.13)#
+2090610#天永#てんえい#Ten'ei era (1110.7.13-1113.7.13)#
+2090620#元永#げんえい#Gen'ei era (1118.4.3-1120.4.10)#
+2090630#保安#ほうあん#Houan era (1120.4.10-1124.4.3)#
+2090640#天治#てんじ#Tenji era (1124.4.3-1126.1.22)#
+2090650#大治#だいじ#Daiji era (1126.1.22-1131.1.29)#
+2090660#天承#てんしょう#Tenshou era (1131.129-1132.8.11)#
+2090670#長承#ちょうしょう#Choushou era (1132.8.11-1135.4.27)#
+2090680#保延#ほうえん#Houen era (1135.4.27-1141.7.10)#
+2090690#永治#えいじ#Eiji era (1141.7.10-1142.4.28)#
+2090700#康治#こうじ#Kouji era (1142.4.28-1144.2.23)#
+2090710#天養#てんよう#Ten'you era (1144.2.23-1145.7.22)#
+2090720#久安#きゅうあん#Kyuuan era (1145.7.22-1151.1.26)#
+2090730#仁平#にんぺい#Nimpei era (1151.1.26-1154.10.28)#
+2090740#久寿#きゅうじゅ#Kyuuju era (1154.10.28-1156.4.27)#
+2090750#保元#ほうげん#Hougen era (1156.4.27-1159.4.20)#
+2090760#平治#へいじ#Heiji era (1159.4.20-1160.1.10)#
+2090770#永暦#えいりゃく#Eiryaku era (1160.1.10-1161.9.4)#
+2090780#応保#おうほう#Ouhou era (1161.9.4-1163.3.29)#
+2090790#長寛#ちょうかん#Choukan era (1163.3.29-1165.6.5)#
+2090800#永万#えいまん#Eiman era (1165.6.5-1166.8.27)#
+2090810#仁安#にんあん#Nin'an era (1166.8.27-1169.4.8)#
+2090820#嘉応#かおう#Kaou era (1169.4.8-1171.4.21)#
+2090830#承安#しょうあん#Shouan era (1171.4.21-1175.7.28)#
+2090840#安元#あんげん#Angen era (1175.7.28-1177.8.4)#
+2090850#治承#じしょう#Jishou era (1177.8.4-1181.7.14)#
+2090860#養和#ようわ#Youwa era (1181.7.14-1182.5.27)#
+2090870#寿永#じゅえい#Juei era (1182.5.27-1184.4.16)#
+2090880#元暦#げんりゃく#Genryaku era (1184.4.16-1185.8.14)#
+2090890#建久#けんきゅう#Kenkyuu era (1190.4.11-1199.4.27)#
+2090900#正治#しょうじ#Shouji era (1199.4.27-1201.2.13)#
+2090910#建仁#けんにん#Kennin era (1201.2.13-1204.2.20)#
+2090920#元久#げんきゅう#Genkyuu era (1204.2.20-1206.4.27)#
+2090930#建永#けんえい#Ken'ei era (1206.4.27-1207.10.25)#
+2090940#承元#じょうげん#Jougen era (1207.10.25-1211.3.9)#
+2090950#建暦#けんりゃく#Kenryaku era (1211.3.9-1213.12.6)#
+2090960#建保#けんぽう#Kempou era (1213.12.6-1219.4.12)#
+2090970#承久#じょうきゅう#Joukyuu era (1219.4.12-1222.4.13)#
+2090980#貞応#じょうおう#Jouou era (1222.4.13-1224.11.20)#
+2090990#元仁#げんにん#Gennin era (1224.11.20-1225.4.20)#
+2091000#嘉禄#かろく#Karoku era (1225.4.20-1227.12.10)#
+2091010#安貞#あんてい#Antei era (1227.12.10-1229.3.5)#
+2091030#貞永#じょうえい#Jouei era (1232.4.2-1233.4.15)#
+2091040#文暦#ぶんりゃく#Bunryaku era (1234.11.5-1235.9.19)#
+2091050#嘉禎#かてい#Katei era (1235.9.19-1238.11.23)#
+2091060#暦仁#りゃくにん#Ryakunin era (1238.11.23-1239.2.7)#
+2091070#延応#えんおう#En'ou era (1239.2.7-1240.7.16)#
+2091080#仁治#にんじ#Ninji era (1240.7.16-1243.2.26)#
+2091090#寛元#かんげん#Kangen era (1243.2.26-1247.2.28)#
+2091100#宝治#ほうじ#Houji era (1247.2.28-1249.3.18)#
+2091110#建長#けんちょう#Kenchou era (1249.3.18-1256.10.5)#
+2091120#康元#こうげん#Kougen era (1256.10.5-1257.3.14)#
+2091130#正嘉#しょうか#Shouka era (1257.3.14-1259.3.26)#
+2091140#正元#しょうげん#Shougen era (1259.3.26-1260.4.13)#
+2091150#文応#ぶんおう#Bun'ou era (1260.4.13-1261.2.20)#
+2091160#弘長#こうちょう#Kouchou era (1261.2.20-1264.2.28)#
+2091170#文永#ぶんえい#Bun'ei era (1264.2.28-1275.4.25)#
+2091180#建治#けんじ#Kenji era (1275.4.25-1278.2.29)#
+2091190#弘安#こうあん#Kouan era (1278.2.29-1288.4.28)#
+2091200#正応#しょうおう#Shouou era (1288.4.28-1293.8.5)#
+2091210#永仁#えいにん#Einin era (1293.8.5-1299.4.25)#
+2091220#正安#しょうあん#Shouan era (1299.4.25-1302.11.21)#
+2091230#乾元#けんげん#Kengen era (1302.11.21-1303.8.5)#
+2091240#嘉元#かげん#Kagen era (1303.8.5-1306.12.14)#
+2091250#徳治#とくじ#Tokuji era (1306.12.14-1308.10.9)#
+2091260#延慶#えんぎょう;えんけい#Engyou era (1308.10.9-1311.4.28);Enkei era#
+2091270#応長#おうちょう#Ouchou era (1311.4.28-1312.3.20)#
+2091280#正和#しょうわ#Shouwa era (1312.3.20-1317.2.3)#
+2091290#文保#ぶんぽう#Bumpou era (1317.2.3-1319.4.28)#
+2091300#元応#げんおう#Gen'ou era (1319.4.28-1321.2.23)#
+2091310#元亨#げんこう#Genkou era (1321.2.23-1324.12.9)#
+2091320#正中#しょうなか;しょうちゅう#center of a noh stage;Shouchuu era (1324.12.9-1326.4.26)#
+2091330#嘉暦#かりゃく#Karyaku era (1326.4.26-1329.8.29)#
+2091340#元徳#げんとく#Gentoku era (1329.8.29-1331.8.9)#
+2091350#元弘#げんこう#Genkou era (1331.8.9-1334.1.29)#
+2091360#建武#けんむ#Kemmu era (of unified Japan) (1334.1.29-1336.2.29), Kemmu era (of the Northern Court) (1336.2.29-1338.8.28)#
+2091370#延元#えんげん#Engen era (of the Southern Court) (1336.2.29-1340.4.28)#
+2091380#正平#しょうへい#Shouhei era (of the Southern Court) (1346.12.8-1370.7.24)#
+2091390#建徳#けんとく#Kentoku era (of the Southern Court) (1370.7.24-1372.4.?)#
+2091400#弘和#こうわ#Kouwa era (of the Southern Court) (1381.2.10-1384.4.28)#
+2091410#元中#げんちゅう#Genchuu era (of the Southern Court) (1384.4.28-1392.10.5)#
+2091420#正慶#しょうけい#Shoukei era (of the Northern Court) (1332.4.28-1333.5.?)#
+2091430#暦応#りゃくおう#Ryakuou era (of the Northern Court) (1338.8.28-1342.4.27)#
+2091440#康永#こうえい#Kouei era (of the Northern Court) (1342.4.27-1345.10.21)#
+2091450#貞和#じょうわ;ていわ#Jouwa era (of the Northern Court) (1345.10.21-1350.2.27);Teiwa era#
+2091460#観応#かんおう#Kan'ou era (of the Northern Court) (1350.2.27-1352.9.27)#
+2091470#文和#ぶんわ;ぶんな#Bunwa era (of the Northern Court) (1352.9.27-1356.3.28);Bunna era#
+2091480#延文#えんぶん#Embun era (of the Northern Court) (1356.3.28-1361.3.29)#
+2091490#康安#こうあん#Kouan era (of the Northern Court) (1361.3.29-1362.9.23)#
+2091500#貞治#じょうじ#Jouji era (of the Northern Court) (1362.9.23-1368.2.18)#
+2091510#応安#おうあん#Ouan era (of the Northern Court) (1368.2.18-1375.2.27)#
+2091520#永和#えいわ#Eiwa era (of the Northern Court) (1375.2.27-1379.3.22)#
+2091530#康暦#こうりゃく#Kouryaku era (of the Northern Court) (1379.3.22-1381.2.24)#
+2091540#永徳#えいとく#Eitoku era (of the Northern Court) (1381.2.24-1384.2.27)#
+2091550#志徳#しとく#Shitoku era (of the Northern Court) (1384.2.27-1387.8.23)#
+2091560#嘉慶#かけい#Kakei era (of the Northern Court) (1387.8.23-1389.2.9)#
+2091570#康応#こうおう#Kouou era (of the Northern Court) (1389.2.9-1390.3.26)#
+2091580#応永#おうえい#Ouei era (1394.7.5-1428.4.27)#
+2091590#正長#しょうちょう#Shouchou era (1428.4.27-1429.9.5)#
+2091600#永享#えいきょう#Eikyou era (1429.9.5-1441.2.17)#
+2091610#嘉吉#かきつ#Kakitsu era (1441.2.17-1444.2.5)#
+2091620#文安#ぶんあん;ぶんなん#Bun'an era (1444.2.5-1449.7.28);Bunnan era#
+2091630#宝徳#ほうとく#Houtoku era (1449.7.28-1452.7.25)#
+2091640#享徳#きょうとく#Kyoutoku era (1452.7.25-1455.7.25)#
+2091650#康正#こうしょう#Koushou era (1455.7.25-1457.9.28)#
+2091660#長禄#ちょうろく#Chouroku era (1457.9.28-1460.12.21)#
+2091670#寛正#かんしょう#Kanshou era (1460.12.21-1466.2.28)#
+2091680#文正#ぶんしょう#Bunshou era (1466.2.28-1467.3.5)#
+2091690#応仁#おうにん#Ounin era (1467.3.5-1469.4.28)#
+2091700#長享#ちょうきょう#Choukyou era (1487.7.20-1489.8.21)#
+2091710#延徳#えんとく#Entoku era (1489.8.21-1492.7.19)#
+2091720#明応#めいおう#Meiou era (1492.7.19-1501.2.29)#
+2091730#文亀#ぶんき#Bunki era (1501.2.29-1504.2.30)#
+2091740#永正#えいしょう#Eishou era (1504.2.30-1521.8.23)#
+2091750#大永#たいえい#Taiei era (1521.8.23-1528.8.20)#
+2091760#享禄#きょうろく#Kyouroku era (1528.8.20-1532.7.29)#
+2091770#天文#てんぶん#Tembun era (1532.7.29-1555.10.23)#
+2091780#弘治#こうじ#Kouji era (1555.10.23-1558.2.28)#
+2091790#永禄#えいろく#Eiroku era (1558.2.28-1570.4.23)#
+2091800#元亀#げんき#Genki era (1570.4.23-1573.7.28)#
+2091810#天正#てんしょう#Tenshou era (1573.7.28-1592.12.8)#
+2091820#文禄#ぶんろく#Bunroku era (1592.12.8-1596.10.27)#
+2091830#慶長#けいちょう#Keichou era (1596.10.27-1615.7.13)#
+2091840#元和#げんな#Genna era (1615.7.13-1624.2.30)#
+2091850#寛永#かんえい#Kan'ei era (1624.2.30-1644.12.16)#
+2091860#正保#しょうほう#Shouhou era (1644.12.16-1648.2.15)#
+2091880#承応#じょうおう#Jouou era (1652.9.18-1655.4.13)#
+2091890#明暦#めいれき#Meireki era (1655.4.13-1658.7.23)#
+2091900#万治#まんじ#Manji era (1658.7.23-1661.4.25)#
+2091910#寛文#かんぶん#Kambun era (1661.4.25-1673.9.21)#
+2091920#延宝#えんぽう#Empou era (1673.9.21-1681.9.29)#
+2091940#貞享#じょうきょう#Joukyou era (1684.2.21-1688.9.30)#
+2091970#宝永#ほうえい#Houei era (1704.3.13-1711.4.25)#
+2091980#正徳#しょうとく#Shoutoku era (1711.4.25-1716.6.22)#
+2091990#享保#きょうほう#Kyouhou era (1716.6.22-1736.4.28)#
+2092000#元文#げんぶん#Gembun era (1736.4.28-1741.2.27)#
+2092010#寛保#かんぽう#Kampou era (1741.2.27-1744.2.21)#
+2092020#延享#えんきょう#Enkyou era (1744.2.21-1748.7.12)#
+2092030#寛延#かんえん#Kan'en era (1748.7.12-1751.10.27)#
+2092040#宝暦#ほうれき;ほうりゃく#Houreki era (1751.10.27-1764.6.2)#
+2092050#明和#めいわ#Meiwa era (1764.6.2-1772.11.16)#
+2092060#安永#あんえい#An'ei era (1772.11.16-1781.4.2)#
+2092070#寛政#かんせい#Kansei era (1789.1.25-1801.2.5)#
+2092080#享和#きょうわ#Kyouwa era (1801.2.5-1804.2.11)#
+2092090#天保#てんぽう#Tempou era (1830.12.10-1844.12.2)#
+2092100#弘化#こうか#Kouka era (1844.12.2-1848.2.28)#
+2092110#嘉永#かえい#Kaei era (1848.2.28-1854.11.27)#
+2092120#安政#あんせい#Ansei era (1854.11.27-1860.3.18)#
+2092130#万延#まんえん#Man'en era (1860.3.18-1861.2.19)#
+2092140#文久#ぶんきゅう#Bunkyuu era (1861.2.19-1864.2.20)#
+2092150#元治#げんじ#Genji era (1864.2.20-1865.4.7)#
+2092160#慶応#けいおう#Keiou era (1865.4.7-1868.9.8)#
+2092280#寛平#かんびょう#Kambyou era, Kampyou era (889.4.27-898.4.26)#
+2092290#承平#しょうへい#Shouhei era, Jouhei era (931.4.26-938.5.22)#
+2092300#天慶#てんけい#Tenkei era, Tengyou era (938.5.22-947.4.22)#
+2092320#貞元#ていげん#Teigen era, Jougen era (976.7.13-978.11.29)#
+2092330#寛和#かんわ#Kanwa era, Kanna era (985.4.27-987.4.5)#
+2092340#治暦#ちりゃく#Chiryaku era, Jiryaku era (1065.8.2-1069.4.13)#
+2092350#承保#じょうほう;しょうほ;しょうほう#Jouhou era (1074.8.23-1077.11.17);Shouho era;Shouhou era#
+2092370#承暦#しょうりゃく#Shouryaku era, Jouryaku era (1077.11.17-1081.2.10)#
+2092390#承徳#しょうとく#Shoutoku era, Joutoku era (1097.11.21-1099.8.28)#
+2092400#保元#ほげん#Hogen era, Hougen era (1156.4.27-1159.4.20)#
+2092410#承安#じょうあん#Jouan era, Shouan era (1171.4.21-1175.7.28)#
+2092420#治承#ちしょう#Chishou era, Jishou era (1177.8.4-1181.7.14)#
+2092430#承元#しょうげん#Shougen era, Jougen era (1207.10.25-1211.3.9)#
+2092440#承久#しょうきゅう#Shoukyuu era, Joukyuu era (1219.4.12-1222.4.13)#
+2092450#寛喜#かんぎ;かんき#Kangi era, (1229.3.5-1232.4.2);Kanki era#
+2092470#正慶#しょうきょう#Shoukyou era, Shoukei era (of the Northern Court) (1332.4.28-1333.5.?)#
+2092480#暦応#れきおう#Rekiou era, Ryakuou era (of the Northern Court) (1338.8.28-1342.4.27)#
+2092500#観応#かんのう#Kannou era, Kan'ou era (of the Northern Court) (1350.2.27-1352.9.27)#
+2092520#貞治#ていじ#Teiji era, Jouji era (of the Northern Court) (1362.9.23-1368.2.18)#
+2092530#嘉慶#かきょう#Kakyou era, Kakei era (of the Northern Court) (1387.8.23-1389.2.9)#
+2092550#元和#げんわ#Genwa era, Genna era (1615.7.13-1624.2.30)#
+2092560#正保#しょうほ#Shouho era, Shouhou era (1644.12.16-1648.2.15)#
+2092570#承応#しょうおう#Shouou era, Jouou era (1652.9.18-1655.4.13)#
+2092580#天和#てんわ;てんな#Tenwa era (1681.9.29-1684.2.21);Tenna era#
+2092600#生産#せいざん#live birth#
+2092610#生産児#せいざんじ#live birth;child born alive#
+2092620#生産率#せいさんりつ#rate of output;production rate#
+2092630#生産率#せいざんりつ#live birth rate#
+2092640#長槍#ながやり#long spear;pike#
+2092650#総すかんを食う#そうすかんをくう#to be hated by everyone#
+2092660##たる#(those) who are;(that) which is;often used in relation to qualifications and requirements for a position;in the capacity of#
+2092670#村々;村村#むらむら#villages#
+2092680#碧色#へきしょく#green;emerald#
+2092690#うだつが上がらない;卯建が上がらない;梲が上がらない#うだつがあがらない#no hope of getting ahead#
+2092700#相成る#あいなる#to become (formal)#
+2092710#梅肉#ばいにく#shredded dried plum;plum pulp#
+2092720#甲子園#こうしえん#Koshien (location of Koshien Stadium, where the Japan National High School Baseball Tournament is held)#
+2092730##ダーティー;ダーティ#dirty (often as in underhand, immoral, illegal)#
+2092740#義侠の士#ぎきょうのし#paladin#
+2092750#頭語#とうご#the opening greeting on letters#
+2092760#結び切り;結びきり#むすびきり#type of ribbon fastening used on wedding gifts, get-well gifts, etc.#
+2092770#斯う斯う#こうこう#so and so;such and such#
+2092780##トレーニングセンター;トレーニング・センター#training centre (center)#
+2092790#帰米#きべい#name given to Japanese-American children (nisei) who were sent by their parents to Japan before WW2 to receive their schooling#
+2092800#分子線エピタキシー#ぶんしせんエピタキシー#molecular beam epitaxy;MBE#
+2092810##クヌーセンセル#Knudsen cell#
+2092820#直値#ちょくち#immediate data#
+2092830##トレセン#training centre (center)#
+2092840#然りとて#さりとて#however;having said that;but#
+2092850#親のすねをかじる;親の脛をかじる;親の脛を齧る;親の脛を囓る;親のすねを囓る;親の臑を噛る#おやのすねをかじる#to depend on one's parents' (financial) support;to nibble at one's parents shins#
+2092860##もしかし#perhaps;maybe;by some chance#
+2092870##もしかしなくても#no need to guess;certainly#
+2092880##イートイン;イート・イン#eat in (as in at a fast food restaurant)#
+2092890#恥ずい#はずい#embarrassing#
+2092900#観念連合#かんねんれんごう#association (e.g. of two concepts)#
+2092910##ヒズボラ;ヒズボッラー;ヘズボラ;ヘズボッラー#Hizbollah;Hezbollah;Hisbollah;Hizballah#
+2092920##イケア#Ikea (housewares store)#
+2092940#出発当日#しゅっぱつとうじつ#day of departure#
+2092950#此奴ら#こいつら#these guys;these fellows#
+2092960#戻って来る;戻ってくる#もどってくる#to come back#
+2092970#戻って行く#もどっていく#to go back#
+2092980#酒匠#さかしょう#master of sake;sake sommelier#
+2092990#利酒師#ききさけし#master of sake;sake advisor#
+2093000#外宇宙#がいうちゅう#outer space#
+2093010##ビンビン;びんびん#hard (e.g. penis);strong (e.g. beat of music)#
+2093020#生物多様性#せいぶつたようせい#biodiversity#
+2093030##そうか;そっか#is that so? (generally rhetorical)#
+2093040#諷詠#ふうえい#poetic composition#
+2093050##バイアグラ#Viagra#
+2093060#憎み合う#にくみあう#to hate each other;to hate mutually#
+2093070##すれてない#naive#
+2093080#手が空く;手があく;手がすく#てがあく;てがすく#to be free;to be available#
+2093090#雨後の筍;雨後の竹の子#うごのたけのこ#similar things turning up one after another;bamboo shoots after rain#
+2093100#一纏まり;一まとまり#ひとまとまり#(a) bunch;(a) bundle#
+2093110##トラクト#tract#
+2093120#祈り会#いのりかい#prayer meeting#
+2093130#恵み深い#めぐみぶかい#gracious;benign#
+2093140##のべつ#ceaselessly;continually;all the time;incessantly#
+2093150#厳重注意#げんじゅうちゅうい#reprimand;stern warning#
+2093160#電源装置#でんげんそうち#power supply (device)#
+2093170#ホッチキス針;ホチキス針#ホッチキスはり;ホチキスはり#staple (for a stapler)#
+2093180#ホッチキス玉;ホチキス玉#ホッチキスたま;ホチキスたま#staple (for a stapler)#
+2093190#ホッチキス芯;ホチキス芯#ホッチキスしん;ホチキスしん#staple (for a stapler)#
+2093200##シークワーサー;シークヮーサー;シークワーシャー;シクワーシャー;シィクワシャー;シークァーサー#flat lemon (Citrus depressa);Hirami lemon;thin-skinned flat lemon;shekwasha;Taiwan tangerine#
+2093210##ヒラミレモン#Hirami lemon (Citrus depressa)#
+2093220#統語法#とうごほう#syntax rules#
+2093230#統語#とうご#syntactic#
+2093240#総入れ歯#そういれば#full dentures (e.g. no real teeth left)#
+2093250#水泳競技#すいえいきょうぎ#(a) swimming contest#
+2093260#交通標識#こうつうひょうしき#traffic sign#
+2093270#弘法にも筆の誤り#こうぼうにもふでのあやまり#anyone can make a mistake#
+2093280#紺屋の白袴#こうやのしろばかま#the shoemaker's children go barefoot;the dyer wears white;specialists often fail to apply their skills to themselves#
+2093290#胡麻をする;胡麻を擂る#ごまをする#to butter up;to try to get on the good side of#
+2093300#油分#ゆぶん#oil content#
+2093310#釈迦に説法#しゃかにせっぽう#teaching your grandmother to suck eggs;teaching something to someone who knows more than you;lecturing to the Buddha#
+2093320#さざれ石;細石;細れ石#さざれいし#pebbles;gravel;boulder formed from gravel and sediment#
+2093330##シャギー#shaggy (hair style)#
+2093340#著莪#しゃが;シャガ#fringed iris (Iris japonica);Japanese iris#
+2093350#姫著莪#ひめしゃが;ヒメシャガ#fringed iris (Iris gracilipes)#
+2093360#アイロン掛け#アイロンかけ;アイロンがけ#(doing the) ironing#
+2093370#記者室#きしゃしつ#press room;press gallery#
+2093380#敵は本能寺にあり;敵は本能寺に在り#てきはほんのうじにあり#one's true purpose lies elsewhere;one's enemy is in Honnoji#
+2093390##タッチダウン#touchdown (as in rugby, etc.)#
+2093400#速#そく#gear;speed (as in 4 speed automatic transmission and such)#
+2093410#自動変速機#じどうへんそくき#automatic transmission#
+2093420#総書記#そうしょき#secretary-general;general secretary (esp. of Communist parties of the Democratic Republic of North Korea and the People's Republic of China)#
+2093430##ノーチェック;ノー・チェック#(going) unchecked#
+2093440#真昼の夢#まひるのゆめ#daydream#
+2093450#一歩ずつ#いっぽずつ#stepwise;one step at a time#
+2093460#板寄せ;板寄#いたよせ#Itayose method;method of trading employed on Japanese exchanges#
+2093470#心身一体#しんしんいったい#(medical) holism#
+2093480#付嘱#ふしょく#conferment;act of conferring (honour, gift, etc.)#
+2093490#腐植#ふしょく#humus#
+2093500#肉食動物#にくしょくどうぶつ#carnivore#
+2093510##こりゃ#hey there;I say;see here#
+2093520##イルミナティ#Illuminati (Name of group)#
+2093530#擬する#ぎする#to imitate;to copy;to mimic;to enter someone as a candidate;to press (e.g. a weapon against someone's back);to compare;to liken#
+2093540#視認#しにん#confirm by sight;sighting;eyeballing#
+2093550#視認性#しにんせい#visibility#
+2093560##カロリーオフ;カロリー・オフ#diet;low calorie;reduced calorie#
+2093570##カロリーフリー;カロリー・フリー#diet;no calorie;non-caloric#
+2093580##セキュア#secure#
+2093590##セレニウム#selenium#
+2093600##ウッドストックフェスティバル;ウッドストック・フェスティバル#Woodstock Music and Art Festival (1969)#
+2093610##ミスタードーナツ;ミスター・ドーナツ#Mister Donut (coffee shop)#
+2093630#東シナ海#ひがしシナかい#East China Sea#
+2093640#琉球列島#りゅうきゅうれっとう#Ryukyu Islands#
+2093650#琉球諸島#りゅうきゅうしょとう#Ryukyu Islands;southern chain of the Nansei Islands comprising Okinawa Prefecture#
+2093660#我が社;我社;わが社#わがしゃ#our company;my company#
+2093670#言葉狩り#ことばがり#word-hunting;search for and censorship of politically incorrect words#
+2093680#待ちに待つ#まちにまつ#to wait for a long time;to wait and wait;to eagerly await#
+2093690#指詰め#ゆびつめ#getting one's finger caught (e.g. in a door);getting one's finger pinched;jamming one's finger in a door;yakuza finger-cutting ritual#
+2093700#温泉卵;温泉たまご;温泉玉子#おんせんたまご#egg slow-boiled so that the yolk is hard but the white is still soft (traditionally cooked in a hot spring)#
+2093710##キムタク#Kimura Takuya#
+2093720##ミスド#Mister Donut (coffee shop)#
+2093730#松濤館流#しょうとうかんりゅう#Shotokan (style of karate)#
+2093740#小堀流#こぼりりゅう#kobori;swimming while wearing armor#
+2093750#罰ゲーム#ばつゲーム#game played as a form of punishment by the loser of a contest#
+2093760##マクる#to eat at McDonald's#
+2093770#橋本病#はしもとびょう#Hashimoto's disease;Hashimoto's thyroiditis#
+2093780#着#ぎ#clothes;outfit;uniform#
+2093790#空手着#からてぎ#karate gi;karate uniform#
+2093800#剣道着#けんどうぎ#kendo gi;kendo uniform#
+2093810#お笑い芸人#おわらいげいにん#comedian;comic#
+2093820#三光作戦#さんこうさくせん#Three Alls Strategy;Japanese scorched earth policy during the second Sino-Japanese War#
+2093830#三韓征伐#さんかんせいばつ#legendary military invasion of Korea in the 3rd century#
+2093840#三韓出兵#さんかんしゅっぺい#legendary military invasion of Korea in the 3rd century#
+2093850#朝鮮征伐#ちょうせんせいばつ#Imjin War (1592 - 1597)#
+2093860#李氏朝鮮#りしちょうせん#Joseon Dynasty;Yi Dynasty (1392-1910) Korea#
+2093870#李朝#りちょう#Joseon Dynasty;Yi Dynasty of Korea (1392-1910);Ly Dynasty of Vietnam (1009-1225)#
+2093880#朝鮮出兵#ちょうせんしゅっぺい#Imjin War (1592 - 1597)#
+2093890#藩医#はんい#Edo-period doctor working at a public clinic#
+2093900#文禄慶長の役#ぶんろくけいちょうのえき#Imjin War (1592-1597);Hideyoshi's invasions of Korea;battle(s) of Bunroku and Keicho#
+2093910#強淫#ごういん#rape;sexual assault#
+2093920#シナ海#シナかい#China Sea#
+2093930##スカす#to leave one's stable#
+2093940#ポン酢醤油#ポンずしょうゆ#ponzu (Japanese sauce made primarily of soy sauce and citrus juice)#
+2093950#豚丼#ぶたどん;とんどん#rice covered with pork and vegetables#
+2093960##ヒロポン#Philopon (banned Japanese brand-name methamphetamine)#
+2093970#マッサージ療法#マッサージりょうほう#massage therapy#
+2093980#マッサージ療法師#マッサージりょうほうし#massage therapist#
+2093990#人中#じんちゅう;にんちゅう#in company;among people;philtrum;groove in the upper lip that runs from the bottom of the nose to the lip#
+2094000#和名抄#わみょうしょう#Wamyoruijusho (famous Heian-period Japanese dictionary)#
+2094010#倭名鈔#わみょうしょう#Wamyoruijusho (famous Heian-period Japanese dictionary)#
+2094020#倭名類聚鈔#わみょうるいじゅしょう#Wamyoruijusho (famous Heian-period Japanese dictionary)#
+2094030#布片#ふへん#piece of cloth#
+2094040#天井画#てんじょうが#decorative ceiling painting#
+2094050#大打撃#だいだげき#serious damage;injury or loss;heavy blow#
+2094060#恩徳#おんとく;おんどく#grace;blessing;compassion#
+2094070#書跡;書蹟#しょせき#writing;penmanship#
+2094090#墨跡;墨蹟#ぼくせき#writing (especially of a Zen monk);penmanship#
+2094110#宋音#そうおん#T'ang reading of Chinese characters#
+2094120#唐宋音#とうそうおん#T'ang reading of Chinese characters#
+2094130#音博士#おんはかせ;こえのはかせ;おんぱかせ#professor specializing in the readings of kanji in classic Confucianist texts#
+2094140#禅師#ぜんじ;ぜんし#monk;priest, particularly a high-ranking Zen monk honored by the imperial court#
+2094150#黄檗#おうばく#Obaku school of Zen Buddhism#
+2094160#黄檗宗#おうばくしゅう#Ōbaku school of Zen Buddhism#
+2094170#五山#ごさん;ござん#five most important temples of a region#
+2094180#京都五山#きょうとござん#Kyoto Gozan;the five most important Rinzai temples of Kyoto, as well as Nanzen-ji#
+2094190#十刹#じっさつ;じっせつ#ten important Rinzai temples, second in significance to the Kyoto Gozan#
+2094200#寺号#じごう#temple's name#
+2094210#寺域#じいき#temple grounds#
+2094220#法堂#はっとう;ほうどう#lecture hall of a temple (esp. Zen)#
+2094230#塔頭;塔中#たっちゅう#sub-temple, esp. a Zen one founded to commemorate the death of a high priest#
+2094240#子院;支院;枝院#しいん#sub-temple#
+2094250#釈迦三尊#しゃかさんぞん#image of Gautama Buddha flanked by two attendants#
+2094260#脇侍;脇士;夾侍;挟侍#きょうじ;わきじ#flanking attendant to the main deity of veneration in a temple#
+2094270#袖柱#そでばしら#small pillars supporting the main pillars of a torii or a temple gate#
+2094280#単層#たんそう#monolayer;single layer;single story (storey)#
+2094290#四脚門#しきゃくもん;よつあしもん#style of temple gate featuring four supporting pillars and a gabled roof#
+2094300#官寺#かんじ#state-sponsored temples, particularly those favored and protected by the shogunate during the Kamakura period#
+2094310#落慶#らっけい#celebration of the completion of a temple or shrine's construction#
+2094320#菩提を弔う#ぼだいをとむらう#to hold a memorial service for the dead, praying for their happiness in the next life by chanting sutras#
+2094330#禁門の変#きんもんのへん#Hamaguri Rebellion#
+2094340#蛤御門の変#はまぐりごもんのへん#Hamaguri Gomon incident (1864 clash between pro and anti-shogunate forces)#
+2094350#大覚寺統#だいかくじとう#imperial lineage starting with Emperor Kameyama#
+2094360#持明院統#じみょういんとう#imperial lineage from Emperor Gofukakusa to Emperor Gokomatsu#
+2094370#貿易船#ぼうえきせん#trading vessel#
+2094380#盲蛇#めくらへび;メクラヘビ#blind snake (esp. the Brahminy blind snake, Ramphotyphlops braminus);worm snake;fools rush in#
+2094390#盲虻#めくらあぶ;メクラアブ#deerfly (Chrysops suavis)#
+2094400#盲蛇に怖じず#めくらへびにおじず#fools rush in where angels fear to tread#
+2094410#盲縞;盲目縞#めくらじま#plain blue cotton#
+2094420#盲長屋#めくらながや#tenement house with no windows#
+2094430#盲パス#めくらパス;もうパス#blind pass;passing (a ball) without looking#
+2094440#自閉症児#じへいしょうじ#autistic child#
+2094450#心身障害児#しんしんしょうがいじ#disabled child;physically handicapped child#
+2094460#心身障害者#しんしんしょうがいしゃ#disabled person;physically handicapped person#
+2094470#身障児#しんしょうじ#disabled child;physically handicapped child#
+2094480#癩#らい;かったい;かたい#Hansen's disease;leprosy;leper#
+2094490#癩菌#らいきん#Mycobacterium leprae;the bacteria that causes Hansen's disease (leprosy)#
+2094500#ハンセン氏病#ハンセンしびょう#Hansen's disease;leprosy#
+2094510#救癩#きゅうらい#helping the lepers#
+2094520#ハンセン病患者#ハンセンびょうかんじゃ#leper#
+2094530#兎口#すぐち#harelip;cleft lip#
+2094550#マッサージ師#マッサージし#masseuse;masseur#
+2094560#按摩師#あんまし#masseuse;masseur#
+2094570#按摩さん#あんまさん#masseuse;masseur#
+2094580#石材店従業員#せきざいてんじゅうぎょういん#stone dealer#
+2094590#板前さん#いたまえさん#cook;chef#
+2094600#神主さん#かんぬしさん#Shinto priest#
+2094610#漁業者#ぎょぎょうしゃ#fisherman#
+2094620#漁船員#ぎょせんいん#fisherman#
+2094630#漁船乗組員#ぎょせんのりくみいん#fisherman#
+2094640#廃品回収業#はいひんかいしゅうぎょう#waste management (garbage collection) industry#
+2094650#廃品回収業者#はいひんかいしゅうぎょうしゃ#garbage man;garbage collector#
+2094660#くず屋さん;屑屋さん#くずやさん#ragman;junkman;garbage man#
+2094670#保線要員#ほせんよういん#railway (railroad) maintenance personnel#
+2094680#鉱山労働者#こうざんろうどうしゃ#miner#
+2094690#鉱員#こういん#miner#
+2094700#清掃員#せいそういん#garbage man;garbage collector#
+2094710#家事手伝い#かじてつだい#domestic help;domestic helper;domestic servant;maid#
+2094720#工場労働者#こうじょうろうどうしゃ#factory worker#
+2094730#工場従業員#こうじょうじゅうぎょういん#factory worker#
+2094750#家畜商#かちくしょう#domestic livestock dealer#
+2094760#作業員宿舎#さぎょういんしゅくしゃ#construction camp;bunkhouse;workers' living quarters#
+2094770#お百姓さん#おひゃくしょうさん#farmer#
+2094780#未解放部落#みかいほうぶらく#burakumin area#
+2094790#被差別部落#ひさべつぶらく#burakumin area#
+2094810#暴力団組員#ぼうりょくだんくみいん#mobsters;gangsters#
+2094830#北朝鮮人#きたちょうせんじん#North Korean person#
+2094840#青田刈り#あおたがり#harvesting rice while it is still green;recruiting students before a company is allowed to#
+2094850#支那料理#しなりょうり#Chinese food#
+2094860#中国料理#ちゅうごくりょうり#Chinese food#
+2094870#支那そば;支那蕎麦#しなそば#Chinese soba;ramen#
+2094880#中華そば;中華蕎麦#ちゅうかそば#Chinese noodles (esp. ramen)#
+2094890#中華まんじゅう;中華饅頭#ちゅうかまんじゅう#sweet crescent-shaped confection of pancake-like sponge cake filled with adzuki paste;Chinese dumpling;Chinese steamed bun#
+2094900#日清戦役#にっしんせんえき#First Sino-Japanese war (1894-5)#
+2094910#日露戦役#にちろせんえき#Russo-Japanese War (1904-5)#
+2094920#上海事変#シャンハイじへん#Shanghai Incident;January 28 Incident (1932);Battle of Shanghai (1937)#
+2094930#第一次上海事変#だいいちじしゃんはいじへん#Shanghai Incident;January 28 Incident (1932)#
+2094940#第二次上海事変#だいにじしゃんはいじへん#Battle of Shanghai (1937)#
+2094950#支那事変#しなじへん#Second Sino-Japanese War (1937-1945)#
+2094960#日華事変#にっかじへん#Second Sino-Japanese War (1937-1945)#
+2094970#中日戦争#ちゅうにちせんそう#Second Sino-Japanese War (1937-1945) (may imply Chinese aggression)#
+2094980#日華戦争#ちゅうかせんそう#Second Sino-Japanese War (1937-1945)#
+2094990#大東亜戦争#だいとうあせんそう#The Greater East Asian War;The Pacific War (1941-1945)#
+2095000#朝鮮動乱#ちょうせんどうらん#Korean War (1950-1953)#
+2095010#朝鮮事変#ちょうせんじへん#Korean War (1950-1953)#
+2095020#脚がある;足がある#あしがある#to have legs;to be able to get around;to be a good runner#
+2095030#生活振り#せいかつぶり#way of life#
+2095040#交通戦争#こうつうせんそう#expression indicating a high number of deaths from traffic accidents#
+2095050#ごね得#ごねどく#getting what one wants by complaining or grumbling;profiting by holding out or taking a hard line;getting more by raising a ruckus#
+2095060#上前をはねる;上前を撥ねる#うわまえをはねる#to take a commission;to take a cut;to take a piece of the action;to take a kickback#
+2095070#業務上横領#ぎょうむじょうおうりょう#corporate embezzlement#
+2095080#雨のやみ間#あめのやみま#break in the rain;letup in the rain#
+2095090#大衆魚#たいしゅうぎょ#cheap fish for the masses (e.g. sardines, mackerel, pike)#
+2095100#古式ゆかしい;古式床しい#こしきゆかしい#traditional#
+2095110#昔ながら#むかしながら#the same as it was long ago;unchanged;traditional#
+2095120#ちびっ子#ちびっこ#small child;rug rat;ankle-biter#
+2095130#無人駅#むじんえき#empty (unstaffed) train station#
+2095140#無人踏切#むじんふみきり#unstaffed railway crossing#
+2095150#名門校#めいもんこう#prestigious school#
+2095160#気違いに刃物;気狂いに刃物#きちがいにはもの#incredible danger;(handing a) sword to an insane person#
+2095170#天才と狂人は紙一重#てんさいときょうじんはかみひとえ#there's but a fine line between genius and insanity#
+2095180##キチ#mania;enthusiasm;maniac;enthusiast;nut#
+2095190#狂気の沙汰;狂気のさた#きょうきのさた#crazy deed;unbelievable deed;the height of madness;act of sheer madness#
+2095200#身障児学級#しんしょうじがっきゅう#special class for handicapped children#
+2095210#群盲象を撫でる;群盲象を撫ず#ぐんもうぞうをなでる;ぐんもうぞうをなず#the mediocre have no right to criticize the great#
+2095220#群盲象を評す#ぐんもうぞうをひょうす#the mediocre have no right to criticize the great#
+2095240#がちゃ目#がちゃめ#strabismus;squint#
+2095250##ロンパリ#walleyes (from London-Paris, i.e. "One eye looks at London, one eye looks at Paris");squint;divergent strabismus#
+2095260#唖者#あしゃ#mute person#
+2095270#言語障害者#げんごしょうがいしゃ#speech-impaired person;person with a speech impediment;mute#
+2095280#特殊学校#とくしゅがっこう#special school for handicapped children#
+2095290#特殊教育学校#とくしゅきょういくがっこう#special school for handicapped children#
+2095300#学習困難#がくしゅうこんなん#learning disability;learning disabled#
+2095310#学習障害児#がくしゅうしょうがいじ#learning disabled child#
+2095320#学習困難児#がくしゅうこんなんじ#learning disabled child#
+2095330#手棒;手ん棒#てんぼう;てぼう#person missing at least one hand#
+2095340#隻腕#せきわん#one-armed person;one-handed person#
+2095350#瘡掻き#かさかき#person with skin disease (esp. syphilis)#
+2095360#瘡っかき#かさっかき#person with skin disease (esp. syphilis)#
+2095370#蒙古症#もうこしょう#mongolism;Down's Syndrome#
+2095380#皮被り#かわかぶり#phimosis;tightening of the foreskin#
+2095390#特殊部落#とくしゅぶらく#burakumin area#
+2095400#同和地区#どうわちく#assimilation district;area targeted for antidiscrimination measures;burakumin area#
+2095410#民間調査機関#みんかんちょうさきかん#private investigation agency#
+2095420#調査会社#ちょうさがいしゃ#(private) investigation company;research agency#
+2095430#身元調査#みもとちょうさ#identity or background check (often to see if someone is a burakumin)#
+2095440#日本のチベット#にほんのチベット#unpopulated, undeveloped or high-altitude region of Japan#
+2095450#伊勢乞食#いせこじき#beggars at Ise Grand Shrine (expression used to deride stingy people from Ise)#
+2095460#贅六;才六#ぜいろく;ぜえろく#Edo term used to debase people from Kansai#
+2095470#上方才六#かみがたざいろく#people from Kansai#
+2095480#才六;采六;賽六#さいろく#kid;brat;Edo term used to debase people from Kansai#
+2095490##チャンコロ#Chinese person;Manchu person;Chink#
+2095500#支那人#しなじん#Chinese person#
+2095510#不コ本#ポコペン#impossible;futile;Chinese person;Chink;type of children's game#
+2095520#バタ屋#バタや#ragman;garbage man#
+2095530#汚穢屋#おわいや#person who gathers night soil#
+2095540#汲み取り屋#くみとりや#person who gathers night soil#
+2095550#海外移住者#かいがいいじゅうしゃ#immigrant;emigrant#
+2095560#南鮮#なんせん#South Korea#
+2095570#鮮人#せんじん#Korean person#
+2095580#馬鹿チョンカメラ#ばかチョンカメラ;バカチョンカメラ#automatic camera#
+2095590#馬鹿でもチョンでも#ばかでもチョンでも#easy;simple;even if you're an idiot or a simpleton#
+2095600##ニガー#nigger#
+2095610##ニグロ;ネグロ#negro#
+2095630##ダッチマン#Dutchman#
+2095640#露助#ろすけ#Russian person;russki;russky#
+2095650#アメ公#アメこう#American person;Yankee#
+2095660#イタ公#イタこう#Italian person#
+2095670##ジュー#Jew;jus#
+2095680#トルコ嬢#トルコじょう#prostitute working at a soapland;Turkish girl#
+2095690##ソープレディ#prostitute working at a soapland#
+2095700#火葬場従業員#かそうばじゅうぎょういん#crematorium worker#
+2095710#代書屋#だいしょや#notary public;scribe;amanuensis#
+2095720#運ちゃん#うんちゃん#driver;chauffeur#
+2095730#校務員#こうむいん#school janitor#
+2095740#土建業者#どけんぎょうしゃ#general (civil engineering and construction) contractor#
+2095750#建設業者#けんせつぎょうしゃ#general (civil engineering and construction) contractor#
+2095760#食肉解体#しょくにくかいたい#butchery#
+2095770#屠殺人#とさつにん#butcher;slaughterhouse worker#
+2095780#屠畜場従業員#とちくじょうじゅうぎょういん#slaughterhouse worker;abattoir worker#
+2095790#馬手#ばしゅ#stable boy;stable hand;groom#
+2095800#厩務員#きゅうむいん#stable boy;stable hand;groom#
+2095810#潜水作業員#せんすいさぎょういん#diver#
+2095820#獣医師#じゅういし#veterinarian#
+2095830#犬殺し#いぬころし#dogcatcher;person who used to catch dogs and execute them for rabies prevention#
+2095840#野犬捕獲員#やけんほかくいん#dogcatcher;dog warden#
+2095850#番太#ばんた#watchman (implies low rank or burakumin status)#
+2095860#青姦;青かん#あおかん#sleeping under the stars;having sex outdoors#
+2095870##ザギン#Ginza#
+2095880##ズージャー#jazz#
+2095900##ガサ#household search (conducted by the police)#
+2095920#物#ぶつ#stock;products;stolen goods;loot;spoils#
+2095930#ペイ患#ペイかん#drug addict#
+2095940#ペイ中#ペイちゅう#heroin addict#
+2095950##やさぐれ#running away from home;runaway (child)#
+2095960#精神障害者#せいしんしょうがいしゃ#mentally handicapped person;mentally challenged person#
+2095970#視力障害#しりょくしょうがい#vision damage;vision impairment;blindness#
+2095980#視力障害者#しりょくしょうがいしゃ#visually handicapped person;visually impaired person;blind person#
+2096000#脇寺#わきでら#sub-temple;affiliated temple#
+2096010#山内#さんない#in the mountains;within the grounds of a temple#
+2096020#寺中#じちゅう#in a temple;inside temple grounds;sub-temple#
+2096030#御領#ごりょう#land under the control of the imperial household or the shogunate#
+2096040#宣べ伝える#のべつたえる#to proclaim (e.g. gospel)#
+2096050#祈祷会;祈禱会#きとうかい;きとうえ#prayer meeting#
+2096060#祈祷課題#きとうかだい#prayer request;request for prayers#
+2096070#聖句#せいく#scripture;passage from scripture#
+2096080#父なる神さま#ちちなるかみさま#God the Father#
+2096090#命を捨てる;いのちを捨てる#いのちをすてる#to give one's life;to lay down one's life#
+2096100#歩み続ける#あゆみつづける#to continue (walking)#
+2096110#あげ間#あげまん#woman purported to bring good luck to the man she is near#
+2096120#酸いも甘いも噛み分ける#すいもあまいもかみわける#to be experienced in the ways of the world;to taste the bitter and the sweet#
+2096130##ビニる;びにる#to go to a convenience store#
+2096140#歯を磨く#はをみがく#to brush one's teeth#
+2096150#決定打#けっていだ#decisive blow#
+2096160#校名#こうめい#name of a school#
+2096170#京ことば;京言葉;京詞#きょうことば#Kyoto pronunciation;Kyoto dialect#
+2096180#先立ち#さきだち#before#
+2096190##ひょっとして#by any chance;(should) it happen (that)#
+2096200##セミナリー#seminary#
+2096210#探偵社#たんていしゃ#detective agency#
+2096220#銘#めい#inscription#
+2096230#別腹#べつばら#dessert stomach;having room for dessert despite being full#
+2096260##グリーンツーリズム;グリーン・ツーリズム#taking a relaxed holiday in a rural area#
+2096270#仮定条件#かていじょうけん#hypothetical situation#
+2096280#必敗#ひっぱい#certain defeat#
+2096290#水和#すいわ#hydration#
+2096300#脱水反応#だっすいはんのう#dehydration#
+2096310#盥#たらい#tub;washbasin;washbowl#
+2096320##ともあろうもの#of all people (expression showing surprise at a high standing person's misbehavior)#
+2096330#栴檀;楝#せんだん#chinaberry;Japanese bead tree (Melia azedarach);Indian sandalwood (Santalum album)#
+2096340#栴檀は双葉より芳しい#せんだんはふたばよりかんばしい#genius shows from childhood;the Japanese bead tree is fragrant from when a sprout#
+2096350#対岸の火事#たいがんのかじ#no skin off my nose;somebody else's problem;fire on the opposite shore#
+2096360#重視型#じゅうしがた#oriented#
+2096380#中間とりまとめ#ちゅうかんとりまとめ#interim guidelines#
+2096390#親の心子知らず#おやのこころこしらず#there is no love like a father's;no child knows how dear he is to his parents#
+2096400#未だかつて;未だ嘗て;未だ曾て#いまだかつて#not until now (with neg. verb);never yet#
+2096410#国家元首#こっかげんしゅ#head of a state#
+2096420#宗教色#しゅうきょうしょく#religious atmosphere#
+2096430#録#ろく#record;transcript#
+2096440##クローラー#crawler (e.g. web crawler, robot)#
+2096450#巡回ロボット#じゅんかいロボット#crawler (e.g. a web crawler or robot)#
+2096460#虫の音#むしのね#calls and sounds made by insects#
+2096470##そぼろ#minced meat or fish with soy sauce, etc. (served on rice);shred (e.g. old clothing falling apart);tangle (objects twisted together);thin slices (esp. food)#
+2096480#辛い#づらい;ずらい#difficult to (do something)#
+2096490#情報テクノロジー#じょうほうテクノロジー#information technology;IT#
+2096500##びびる#to feel nervous;to feel self-conscious;to feel surprise;to get cold feet;to get the jitters;to feel frightened#
+2096510##どうしたもの;どうしたもん#what's up with;what's the deal with;what's to be done with#
+2096520#合いの手を入れる#あいのてをいれる#to make a gesture or say something during a break in conversation, playing of songs, etc.;to interrupt#
+2096530#駱駝色;らくだ色#らくだいろ#camel color#
+2096540#脱着#だっちゃく#removing and installing;desorption#
+2096560##もつ#entrails;giblets;guts;internal organs#
+2096570#赤もつ;赤臓#あかもつ#internal organs such as heart, liver, kidneys used as food#
+2096580#白もつ;白臓#しろもつ#internal organs such as intestines used as food#
+2096590#小籠包#しょうろんぽう;ショウロンポウ;シャオロンパオ#xiaolongbao (eastern Chinese steamed bun);soup dumpling#
+2096600#鐘鼎文#しょうていぶん#bronze-vessel and bell inscriptions#
+2096610#座が白ける;座がしらける#ざがしらける#to put a damper on proceedings (e.g. at a meeting or party, etc.)#
+2096620#濡れ衣を着せる#ぬれぎぬをきせる#to frame;to falsely accuse of a crime#
+2096630#もつ焼き;もつ焼#もつやき#roast giblets#
+2096640##ほっこり#warm and fluffy;soft;steamy hot (food);hot and flaky;feeling mentally tired;feeling of tired relief or accomplishment after effort or perseverance#
+2096650#太鼓台#たいこだい#very large float used to carry taiko at festivals#
+2096660#檀尻;楽車;山車#だんじり;だんぢり#decorative portable shrine;float used in festivals#
+2096670##なすがまま#at someone's (something's) mercy#
+2096680#収蔵庫#しゅうぞうこ#storage room#
+2096690#馬連;馬楝#ばれん#disk-shaped pad for pressing paper when making a print from a wood block;rubbing pad;baren#
+2096700#相輪#そうりん#pagoda finial#
+2096710#伏鉢;覆鉢#ふくばち#fukubachi (inverted bowl-shaped part of a pagoda finial)#
+2096720#請花;受花#うけばな#ukebana (lotus-shaped support of a seat, pedestal or pagoda finial)#
+2096730#中台#ちゅうだい#exact center of the Garbhadhatu mandala;platform upon which the fire is lit in a stone lantern#
+2096740#胎蔵界#たいぞうかい#Garbhadhatu;Womb Realm#
+2096750#胎蔵界曼荼羅#たいぞうかいまんだら#Garbhadhatu Mandala;Womb Realm Mandala#
+2096760#大日経#だいにちきょう#Mahavairocana Sutra#
+2096770#大毘盧遮那成仏神変加持経#だいびるしゃなきょうじょうぶつしんぺんかじきょう#Mahavairocana Sutra#
+2096780#胎蔵#たいぞう#Garbhadhatu;Womb Realm#
+2096790#大日如来#だいにちにょらい#Vairocana;Mahavairocana (Bliss Body of the historical Gautama Buddha);Dainichi Buddha;Nyorai Buddha#
+2096800#板状#ばんじょう#board, plank or sheet shaped#
+2096810#竜舎#りゅうしゃ#ryusha (spherical or egg-shaped part near the top of a pagoda finial)#
+2096820#中台八葉院#ちゅうだいはちよういん#center of the Garbhadhatu mandala (containing Mahavairocana and eight Buddhas)#
+2096830#両界曼荼羅#りょうかいまんだら#Mandala of the Two Realms#
+2096840#金剛界#こんごうかい#Vajradhatu;Diamond Realm#
+2096850#金剛界曼荼羅#こんごうかいまんだら#Vajradhatu Mandala;Diamond Realm Mandala#
+2096860#宝珠#ほうじゅ#wishing stone;hoju (uppermost spherical part of a pagoda finial)#
+2096870#心柱;真柱#しんばしら#central pillar of a pagoda;leader of the Tenri religion#
+2096880#弥勒仏#みろくぶつ#Maitreya#
+2096890#兜率天#とそつてん#Tusita heaven;Tushita;one of the six heavens of the desire realm#
+2096900#弥勒菩薩#みろくぼさつ#Maitreya (Bodhisattva);Miroku#
+2096910#慈尊#じそん#Maitreya#
+2096920#御室派#おむろは#Omuro (sect of Shingo Buddhism)#
+2096930#単立#たんりつ#establishing something (e.g. a company or a religious order) by oneself;company or religious order founded in such a way#
+2096940#前側#まえがわ#front side;anterior#
+2096950##ぱたり#clink;sudden stop#
+2096960#丸行灯#まるあんどん#cylindrical paper lantern#
+2096970##ははあ#Aha!#
+2096980##ぷいと;ぷいっと#abruptly;suddenly in a bad mood;in a huff#
+2096990##すうすう#sound of wind rustling through a crack;wheezing#
+2097010#所へ#ところへ#thereupon;shortly thereafter#
+2097020##ぴいぴい#whistling or chirping;flute;beginner;poor#
+2097030##ざぶざぶ;ザブザブ#splashing;sloshing#
+2097040#照り合う#てりあう#to shed light on each other#
+2097050#素袍;素襖#すおう#suou (ceremonial dress of lower-class samurai)#
+2097060#頓と#とんと#completely;not at all#
+2097070#大自在#だいじざい#complete freedom;great freedom;great unhinderedness#
+2097080#妙境#みょうきょう#beautiful place#
+2097100#一刻み#ひときざみ#top-notch#
+2097110#おっ開く#おっぴらく#to do something in public;to open#
+2097120#怒り鼻#いかりばな#flared nostrils#
+2097140##ぶくり#sound of something floating or sinking in water#
+2097150#座り心地#すわりごこち#level of comfort (of objects you sit on)#
+2097160#螫す#さす#to sting (i.e. bee, wasp, etc.)#
+2097170#金魚売り#きんぎょうり#goldfish peddling;goldfish peddler#
+2097180#粟餅#あわもち#millet dough cake;millet mochi#
+2097190#搗く;舂く#つく#to hull (rice, barley, etc.);to pound (rice);to polish (rice);to stamp (ore)#
+2097200#銀杏返し;銀杏返#いちょうがえし#ancient Japanese ladies' hairstyle#
+2097210#素袷#すあわせ#wearing a kimono (or awase) without any undergarments on#
+2097220#鮫鞘#さめざや#sharkskin scabbard#
+2097230#潜り#くぐり#side door;side gate;wicket gate#
+2097240#冷や飯草履#ひやめしぞうり#crudely made zori with straw fastenings#
+2097250##ひいひい#sound of a baby crying#
+2097260#気を揉む;気をもむ#きをもむ#to worry;to fret;to get anxious#
+2097270#浪士#ろうし#ronin;lordless samurai#
+2097280#赤穂浪士#あこうろうし#47 Ronin;Ako Roshi#
+2097290#土産物#みやげもの#souvenir#
+2097300#その癖;其の癖#そのくせ#and yet;even so;nonetheless;for all that#
+2097310##ただでは#This isn't over;I will get my revenge#
+2097320#檳榔樹#びんろうじゅ#areca palm (Areca catechu);betel palm;betel nut tree#
+2097330#鼻頭#はながしら#tip (end) of the nose#
+2097340#文福茶釜#ぶんぶくちゃがま#bunbuku chagama (a mythical raccoon dog transformed into a teapot)#
+2097350##ペヨーテ#peyote#
+2097360#魔法のキノコ#まほうのキノコ#magic mushrooms#
+2097370##デートレイプ;デート・レイプ#date rape#
+2097380#配偶者虐待#はいぐうしゃぎゃくたい#spousal abuse#
+2097390#オーストラリア式フットボール#オーストラリアしきフットボール#Aussie-Rules Football;Australian-Rules Football#
+2097410#専修念仏#せんじゅねんぶつ#intently praying to Buddha (esp. Amitabha)#
+2097420#三重塔#さんじゅうのとう#three-storied pagoda#
+2097430#阿弥陀堂#あみだどう#temple hall containing an enshrined image of Amitabha#
+2097440#鎮守社#ちんじゅしゃ#Shinto shrine on Buddhist temple grounds dedicated to the tutelary deity of the area#
+2097450#柿;木屑;杮#こけら#chopped wood;wood chips;thin shingles#
+2097460#こけら葺き;柿葺き;杮葺き;杮葺#こけらぶき#shingling;shingled roof#
+2097470#学問所#がくもんじょ#place of study;school#
+2097480#開山堂#かいさんどう#temple hall commemorating its founding or its founder#
+2097500#絵伝#えでん#biography of a monk or history of a temple told in pictures#
+2097510#玉篇#ぎょくへん#Yupian (ancient Chinese dictionary)#
+2097520#梁#りょう#Liang Dynasty (of China)#
+2097530#念持仏#ねんじぶつ#Buddhist image used as jewellery or to decorate one's home#
+2097540#微吟#びぎん#reciting poetry or singing in a soft voice#
+2097550#撓る#しなる;しわる#to bend;to warp;to yield;to be supple (e.g. bamboo, body);to be flexible;to be pliant#
+2097560#撓う#しなう#to bend;to warp;to yield;to be supple (e.g. bamboo, body);to be flexible;to be pliant#
+2097570#有り丈#ありたけ;ありだけ#all that one has;all that there is;the whole#
+2097580##ぐしゃぐしゃ;グシャグシャ#soggy;mushy;crumpled#
+2097600#春日明神#かすがみょうじん#Kasuga Myoujin (the deity of Kasuga Shrine)#
+2097610##となりのサインフェルド#Seinfeld (TV Show)#
+2097620#作り目#つくりめ#cast-on stitch#
+2097630##よさこい#dance originating in Kochi Prefecture using "naruko"#
+2097640#還水#かんすい#condensate return#
+2097650#還水槽#かんすいそう#condensate receiver tank#
+2097660#体色#たいしょく;タイショク#body color#
+2097670##めっ;め;メッ#no!;don't!;tsk!;used to scold small children and pets#
+2097680##だい#marks wh-question (what, where, who);strengthens one's judgment or conclusion#
+2097690#物理工学#ぶつりこうがく#physical engineering#
+2097700#熱中症#ねっちゅうしょう#heatstroke#
+2097710#心がこもる;心が籠もる#こころがこもる#to be thoughtful (of a gift, etc.);to be from the heart;to be made with loving care#
+2097720#総合評価#そうごうひょうか#comprehensive evaluation;over-all judgment;general comment#
+2097740#妖怪ハンター#ようかいハンター#ghostbuster;spirit hunter#
+2097760#犬酸漿#いぬほおずき#black nightshade (plant) (Solanum nigrum)#
+2097770#溝酸漿#みぞほおずき#monkey flower (plant);mimulus (plant) (Mimulus nepalensis var. japonicus)#
+2097780#大葉溝酸漿#おおばみぞほおずき#plant native to eastern Russia and Hokkaido (Mimulus sessilifolius Maxim. p)#
+2097800#火袋#ひぶくろ#fire box in traditional Japanese lantern#
+2097810##メンズスーツ;メンズ・スーツ#suits (for men) (from men's suits)#
+2097820#運の尽き#うんのつき#out of luck;end of your rope#
+2097830#色#しょく#counter for colours#
+2097840#低カロリー#ていカロリー#low-calorie#
+2097850#大伽藍#だいがらん#large temple edifice;large temple#
+2097860#寺社奉行#じしゃぶぎょう#governmental position of the shogunate, responsible for the management of temples and shrines#
+2097870#和様#わよう#(traditional) Japanese style#
+2097880#補作#ほさく#adding something to or altering a finished work of art;something added or altered in this manner#
+2097890#唐草文#からくさもん#arabesque;scrollwork#
+2097900#飛雲#ひうん#cloud flying through the sky#
+2097910#躯#く#counter for Buddhist images (statues & paintings)#
+2097920#それ切り;其れ切り#それきり;それぎり#with that;on that note;altogether;ending at that point;cut off there#
+2097930#帳場格子#ちょうばごうし#short two or three-fold lattice around the front desk of a store#
+2097940##でもない#neither... nor... (with the implication that there are other "nor..." items);denying explicitly one thing and also denying implicitly other things as well;not like (you);not (your) usual self#
+2097950#小括弧#しょうかっこ#parentheses;parenthesis#
+2097960#小括#しょうかつ#summary (e.g. in a thesis);summation#
+2097970#総裁選#そうさいせん#presidential election#
+2097980#歯科大学#しかだいがく#dental college;dental university#
+2097990##ローキック;ロー・キック#low kick (e.g. in fighting)#
+2098000##ミナレット#minaret#
+2098010##シルヴァンシャー#Shirvanshah#
+2098020##テル#tell (Middle-Eastern archaeological mound)#
+2098030#掻き氷機#かきごおりき#shaved ice machine#
+2098040##ヒースロー#Heathrow#
+2098050##ざる#not;un-#
+2098060#祖霊#それい#ancestral spirit;collective of ancestral spirits which have lost their individualities;ancestor deified as a kami;spirit of a kami#
+2098070#縁起でもない#えんぎでもない#ill omened (as in "Don't say such an ill omened thing!");unlucky#
+2098080##までもない#doesn't amount to doing (something);not significant enough to require (something);unnecessary#
+2098090#飼いならし;飼い馴らし;飼い慣らし#かいならし#taming;the taming of#
+2098110#請求記号#せいきゅうきごう#call number (e.g. of a book in a library)#
+2098120#天安門事件#てんあんもんじけん#Tiananmen Square Incident;Tiananmen Square Massacre#
+2098130#無双直伝英信流#むそうじきでんえいしんりゅう#Muso Jikiden Eishin-ryu (iaido style)#
+2098140##スモーキング#smoking#
+2098150#無くてはならない#なくてはならない#cannot do without something;indispensable;absolutely necessary;(after negative base of verb) have to do#
+2098160#無くては;無くちゃ#なくては;なくちゃ#unless;without#
+2098170#枕草子;枕の草子;枕草紙#まくらのそうし#The Pillow Book (by Sei Shonagon)#
+2098180#俳諧の連歌#はいかいのれんが#haikai (humorous or vulgar renga poetry)#
+2098190#雪曇り;雪曇#ゆきぐもり#cloudy sky looking like it will snow soon#
+2098200#新陰流#しんかげりゅう#Shinkage-Ryu (style of Japanese fencing)#
+2098210##てな#a sort of thing like;used after a phrase to modify the following noun#
+2098220#身を固める#みをかためる#to settle down;to get a steady job;to marry and raise a family;to attire oneself;to outfit oneself#
+2098230##でもある#to also be (formal, literary);implies that as well as the earlier stated this is also the case;to be ... or something#
+2098240##ではある#to be (in contrast to something that is not the case)#
+2098250#何処にでも#どこにでも#anywhere#
+2098260#誰にでも#だれにでも#anyone (used with positive verbs);anybody;everyone;whoever#
+2098270##チャウダー#chowder#
+2098280#時限目#じげんめ#period of time#
+2098290#内#ない#inside;within#
+2098300#時宣#じせん#time;period#
+2098310#時宜を得る#じぎをえる#to be well-timed;to be timely;to be opportune#
+2098320#薬業界#やくぎょうかい#pharmaceutical industry;medicine industry#
+2098330##けろり#completely;entirely;nonchalantly;as if nothing happened#
+2098340#靖国#やすくに#Yasukuni (Shrine)#
+2098350##いらしてください#please come (and visit us);please come (to our shop)#
+2098360##いらっしゃってください#please come (and visit us);please come (to our shop)#
+2098370#座刳り#ざぐり#counter sink (e.g. so screw-heads don't protrude above surface)#
+2098390#製薬業界#せいやくぎょうかい#pharmaceutical industry#
+2098400#靖国神社#やすくにじんじゃ#Yasukuni Shrine#
+2098410#別婚#べっこん#separation with divorce in the offing#
+2098420#目出し帽#めだしぼう#ski mask;balaclava#
+2098430##すっぽり;ずっぽり;ずっぽし#entirely;completely;cleanly;snugly#
+2098440#砂利子#じゃりんこ#student who can't keep up in school#
+2098450##ドゥオモ#cathedral#
+2098460#裏面に続く#りめんにつづく#continued overleaf;please turn over;PTO#
+2098470#断じる#だんじる#to draw the conclusion that ...;to conclude#
+2098480#談じる#だんじる#to talk;to discuss;to debate;to negotiate#
+2098490#目を向ける#めをむける#to shift one's attention to;to shift one's focus on#
+2098500#空席待ち#くうせきまち#stand-by (on an airplane)#
+2098510#追ん出す#おんだす#to expel;to drive out#
+2098520##ソーター#sorter#
+2098530##ぎいぎい;ぎーぎー#creak;squeak;rasping sound#
+2098540#中へ中へ#なかへなかへ#(to be pushed) toward the middle (of a crowd) (usually against your will)#
+2098550#モダン焼き#モダンやき#modan'yaki (okonomiyaki topped with yaki-soba and fried together)#
+2098560#従兄弟違い#いとこちがい#parent's cousin;first-cousin once removed#
+2098570#鳥餌#とりえ#bird feed;birdseed#
+2098580#心に留める#こころにとめる#to bear in mind;to keep remembering#
+2098590#韓流#はんりゅう;かんりゅう#influx of South Korean pop culture (into Japan)#
+2098600#合成加速度#ごうせいかそくど#resultant acceleration#
+2098610#封ずる#ふうずる#to seal (letter);to prevent;to forbid;to block#
+2098620#息を引き取る#いきをひきとる#to pass away;to breathe one's last#
+2098630#先延ばし#さきのばし#delay;putting off;procrastination#
+2098640#先延ばしにする#さきのばしにする#to delay;to put off;to procrastinate#
+2098650#取り得#とりどく#gain;profit#
+2098660#越光#こしひかり;コシヒカリ#Koshihikari (variety of rice)#
+2098670##あきたこまち#Akitakomachi (variety of rice)#
+2098680##ひとめぼれ#Hitomebore (variety of rice)#
+2098690##ヒノヒカリ#Hinohikari (variety of rice)#
+2098700##ハナエチゼン#Hanaechizen (variety of rice)#
+2098710##はえぬき#Haenuki (variety of rice)#
+2098720##キヌヒカリ#Kinuhikari (variety of rice)#
+2098730##ササニシキ#Sasanishiki (variety of rice)#
+2098740#第三のビール#だいさんのビール#cheap, malt-free beer-like alcoholic beverage#
+2098750#新党日本#しんとうにっぽん#New Party Nippon (Japanese political party)#
+2098760#自由連合#じゆうれんごう#Jiyuu Rengou;Liberal League (Japanese political party)#
+2098770#日本円#にほんえん#Japanese Yen#
+2098780#大麻草#たいまそう#hemp#
+2098790#大麻樹脂#たいまじゅし#cannabis resin#
+2098800#裁判官弾劾裁判所#さいばんかんだんがいさいばんしょ#Judge Impeachment Court#
+2098810#裁判官訴追委員会#さいばんかんそついいいんかい#Judge Indictment Committee#
+2098820#訴追委員会#そついいいんかい#indictment committee#
+2098830#国立国会図書館#こくりつこっかいとしょかん#National Diet Library#
+2098840#総務大臣#そうむだいじん#Minister of Internal Affairs and Communications#
+2098850#財務大臣#ざいむだいじん#Minister of Finance#
+2098860#文部科学大臣#もんぶかがくだいじん#Minister of Education, Culture, Sports, Science and Technology#
+2098870#厚生労働大臣#こうせいろうどうだいじん#Minister of Health, Labour and Welfare#
+2098880#経済産業大臣#けいざいさんぎょうだいじん#Minister of Economy, Trade and Industry#
+2098890#国土交通大臣#こくどこうつうだいじん#Minister of Land, Infrastructure and Transport#
+2098900#沖縄北方対策担当大臣;沖縄・北方対策担当大臣#おきなわほっぽうたいさくたんとうだいじん;おきなわ・ほっぽうたいさくたんとうだいじん#State Minister in Charge of Issues of Okinawa and Northern Territories#
+2098910#国家公安委員会委員長#こっかこうあんいいんかいいいんちょう#National Public Safety Commission Chairman#
+2098930#金融担当大臣#きんゆうたんとうだいじん#State Minister in Charge of Financial Affairs#
+2098940#経済財政政策担当大臣#けいざいざいせいせいさくたんとうだいじん#State Minister in Charge of Economic and Fiscal Policy#
+2098950#郵政民営化担当大臣#ゆうせいみんえいかたんとうだいじん#State Minister in Charge of Postal Services Privatization#
+2098960#規制改革担当大臣#きせいかいかくたんとうだいじん#State Minister in Charge of Regulatory Reform#
+2098970#規制改革#きせいかいかく#regulatory reform#
+2098980#科学技術政策担当大臣#かがくぎじゅつせいさくたんとうだいじん#State Minister in Charge of Science and Technology Policy#
+2098990#特別抗告#とくべつこうこく#special kokoku appeal#
+2099000#即時抗告#そくじこうこく#immediate kokoku appeal#
+2099010#高検#こうけん#High Public Prosecutors' Office#
+2099030#野戦砲#やせんほう#field gun#
+2099040#ロケット弾発射機#ロケットだんはっしゃき#rocket launcher#
+2099050#高射機関砲#こうしゃきかんほう#anti-aircraft gun#
+2099060#機雷艦艇#きらいかんてい#mine warfare vessel#
+2099070#哨戒艦艇#しょうかいかんてい#military patrol boat#
+2099080#輸送艦艇#ゆそうかんてい#military transport vessel#
+2099090#入管法#にゅうかんほう#Immigration Control and Refugee Recognition Act#
+2099100#出入国管理及び難民認定法#しゅつにゅうこくかんりおよびなんみんにんていほう#Immigration Control and Refugee Recognition Act#
+2099110#情報格差#じょうほうかくさ#information gap#
+2099120#低公害車#ていこうがいしゃ#low-emission vehicle#
+2099130#脳血管疾患#のうけっかんしっかん#cerebrovascular disease#
+2099140#脳血管#のうけっかん#cerebral blood vessel;cerebrovascular#
+2099150#肝疾患#かんしっかん#liver disease#
+2099160#刑法犯#けいほうはん#criminal offense#
+2099170#爆発物取締罰則#ばくはつぶつとりしまりばっそく#Criminal Regulations to Control Explosives#
+2099180#特別法犯#とくべつほうはん#violations of special law#
+2099190#振り込め詐欺#ふりこめさぎ#remittance fraud;bank transfer scam#
+2099200#所得税法#しょとくぜいほう#Income Tax Law#
+2099210#麻薬及び向精神薬取締法#まやくおよびこうせいしんやくとりしまりほう#Narcotics and Psychotropics Control Law#
+2099230#不正アクセス#ふせいアクセス#unauthorized (computer) access;hacking#
+2099240#フィールズ賞#フィールズしょう#Fields Medal#
+2099250#自然史#しぜんし#natural history#
+2099260#自然史博物館#しぜんしはくぶつかん#natural history museum#
+2099270#歴史博物館#れきしはくぶつかん#history museum#
+2099280#郷土博物館#きょうどはくぶつかん#folk museum#
+2099290#総合博物館#そうごうはくぶつかん#(general) museum#
+2099300##ムスリム;モスレム;モスリム#Muslim;Moslem#
+2099310#博多どんたく#はかたどんたく#Hakata Dontaku Festival (Fukuoka)#
+2099320#隅田川花火大会#すみだがわはなびたいかい#Sumida River Firework Festival (Tokyo)#
+2099330#青森ねぶた祭#あおもりねぶたまつり#Nebuta Festival (Aomori)#
+2099340#秋田竿燈まつり#あきたかんとうまつり#Kanto Festival (Akita)#
+2099350#仙台七夕まつり;仙台棚幡まつり#せんだいたなばたまつり#Sendai Tanabata Festival#
+2099360#阿波おどり;阿波踊り#あわおどり#Awa Odori Festival (Tokushima)#
+2099370#おわら風の盆#おわらかぜのぼん#Owara-Kaze-no-Bon Festival (Toyama)#
+2099380#剣道場#けんどうじょう#kendo hall#
+2099390#国際労働機関#こくさいろうどうきかん#International Labor Organization;ILO#
+2099400#三菱電機#みつびしでんき#Mitsubishi Electric#
+2099410#トヨタ自動車#トヨタじどうしゃ#Toyota Motor#
+2099420#日産自動車#にっさんじどうしゃ#Nissan Motor#
+2099430#三菱商事#みつびししょうじ#Mitsubishi Corporation#
+2099440#三井住友#みついすみとも#Mitsui Sumitomo;Sumitomo Mitsui#
+2099450#松下電器産業#まつしたでんきさんぎょう#Matsushita Electric Industrial#
+2099470#みずほ銀行#みずほぎんこう#Mizuho Bank#
+2099480##ソフトバンク#SoftBank (Japanese telecommunications company)#
+2099490#東京高裁#とうきょうこうさい#Tokyo High Court#
+2099500#大阪高裁#おおさかこうさい#Osaka High Court#
+2099510#日本経団連#にっぽんけいだんれん#Nippon Keidanren (Japan Business Federation)#
+2099520##ダイハツ#Daihatsu (Japanese automobile manufacturer)#
+2099530##スズキ#Suzuki (Japanese automobile and motorcycle manufacturer)#
+2099540#富士重工#ふじじゅうこう#Fuji Heavy Industries#
+2099550#日本電気#にっぽんでんき#NEC (Nippon Electric Company)#
+2099560#国際交流基金#こくさいこうりゅうききん#Japan Foundation#
+2099570#国立国語研究所#こくりつこくごけんきゅうしょ#National Institute for Japanese Language#
+2099580#単複同形#たんぷくどうけい#nouns whose plural has the same form as their singular (e.g. sheep)#
+2099590#弛み無い;弛みない#たゆみない#unslacking;unceasing#
+2099600#支配下#しはいか#under control (e.g. of territory)#
+2099610##ジャダー#judder#
+2099620##ブレーキジャダー;ブレーキ・ジャダー#brake judder#
+2099630#塵バケツ#ごみバケツ#garbage can;rubbish bucket#
+2099640#リサイクル用の箱#リサイクルようのはこ#recycling bin;recycling box#
+2099650#物干し綱#ものほしづな#clothesline#
+2099670#助六#すけろく#"inari" and "maki" (roll) style sushi#
+2099680#詮索好き;せんさく好き#せんさくずき#nosy person;busybody#
+2099690#心当たりがない;心当たりが無い#こころあたりがない#having no idea;having no clue#
+2099700#思いがする#おもいがする#to feel as though ...#
+2099710#大日本帝国陸軍#だいにっぽんていこくりくぐん#the Imperial Japanese Army#
+2099720#伊呂波順;いろは順;色は順;イロハ順#いろはじゅん;イロハじゅん#iroha order;traditional ordering of Japanese syllabaries (based on a Buddhist poem)#
+2099730#答唱詩編#とうしょうしへん#responsorial psalm#
+2099740#仕事探し#しごとさがし#job hunting;job searching#
+2099750#幾つでも#いくつでも#any number of;ever so many#
+2099760##ちゃいかん#must not do#
+2099770#思いを馳せる;思いをはせる#おもいをはせる#to think about;to send one's heart out to;to give more than a passing thought to;to think of something far away;to think nostalgically upon (esp. one's hometown)#
+2099780#思いを寄せる;想いを寄せる;想いをよせる;思いをよせる#おもいをよせる#to give one's heart to;to fall in love#
+2099790#年払い#ねんばらい#yearly payment;annual payment#
+2099800#除け;避け#よけ#protection;repellent#
+2099810##バリ;ばり#burr (e.g. on a machined edge)#
+2099820#小ちゃい#ちいちゃい#small (babytalk form)#
+2099830#散乱反射#さんらんはんしゃ#scatter reflections#
+2099840#矮惑星#わいわくせい#dwarf planet (e.g. Pluto)#
+2099850##ないことには#(with verb stem) unless you do something#
+2099860#車の両輪#くるまのりょうりん#two halves of the whole;two wheels on which everything rolls#
+2099870#赤方偏移#せきほうへんい#red shift#
+2099880##レッドシフト;レッド・シフト#red shift#
+2099890#赤色巨星#せきしょくきょせい#red giant#
+2099900#白色矮星;白色わい星#はくしょくわいせい#white dwarf#
+2099910##モル#mole#
+2099920#押せ押せ#おせおせ#putting on the pressure;pushing forward;being pressed;being under pressure#
+2099930#押せ押せムード#おせおせムード#on the attack;on the offensive#
+2099940#日を追って#ひをおって#daily;day by day#
+2099950#日を改めて#ひをあらためて#another day;some other day#
+2099960#日本民主党#にほんみんしゅとう#Democratic Party of Japan#
+2099970#日本共産党#にほんきょうさんとう#Japanese Communist Party#
+2099980#奴国#なのくに;なこく#Country of Na (a country that existed within Japan during the Yayoi period)#
+2099990#魏#ぎ#Kingdom of Wei;State of Wei (China)#

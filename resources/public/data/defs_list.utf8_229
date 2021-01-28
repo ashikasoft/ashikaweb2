@@ -1,0 +1,946 @@
+2290000##オンラインソフトウェア;オンライン・ソフトウェア#online software#
+2290010##オンラインダンプ;オンライン・ダンプ#online dump#
+2290020##オンラインテスト;オンライン・テスト#online test;online testing#
+2290030##オンラインテストシステム;オンライン・テスト・システム#online test system#
+2290040##オンラインテストセクション;オンラインテスト・セクション#online test section#
+2290050##オンラインテストプログラム;オンラインテスト・プログラム#online test program#
+2290060#オンラインテスト制御プログラム#オンラインテストせいぎょプログラム#online test control program#
+2290070##オンラインテラーズマシン#online teller-machine#
+2290080##オンラインデータベース;オンライン・データベース#online database;on-line database#
+2290090##オンラインデータベースシステム;オンライン・データベース・システム#online database system#
+2290100#オンラインデータ収集システム#オンラインデータしゅうしゅうシステム#online data gathering system#
+2290110#オンラインデータ処理#オンラインデータしょり#online data processing#
+2290120#オンラインデータ入力#オンラインデータにゅうりょく#online data entry#
+2290130#オンラインディレイド処理システム#オンラインディレイドしょりシステム#online delayed time system#
+2290140##オンラインディレクトリー;オンライン・ディレクトリー#online directory#
+2290150##オンラインデバッギング;オンライン・デバッギング#online debugging#
+2290160##オンラインデバッグ;オンライン・デバッグ#online debug#
+2290170#オンライントランザクション処理#オンライントランザクションしょり#online transaction processing#
+2290180##オンライントレーディング;オンライン・トレーディング#online trading#
+2290190##オンラインネットワークシステム;オンライン・ネットワーク・システム#online network system#
+2290200##オンラインバックアップ;オンライン・バックアップ#online backup#
+2290210#オンラインバッチ処理システム#オンラインバッチしょりシステム#online batch processing system#
+2290220##オンラインバンキングシステム;オンライン・バンキング・システム#online banking system#
+2290230#オンラインパターン解析認識システム#オンラインパターンかいせきにんしきシステム#online pattern analysis and recognition system#
+2290240##オンラインパッケージ;オンライン・パッケージ#online package#
+2290250##オンラインプログラミングシステム#online programming system#
+2290260#オンラインプロジェクト管理#オンラインプロジェクトかんり#online project management#
+2290270##オンラインヘルプ;オンライン・ヘルプ#online help#
+2290280#オンラインボリューム管理#オンラインボリュームかんり#online volume management#
+2290290##オンラインマガジン;オンライン・マガジン#online magazine#
+2290300##オンラインメディアのパイオニア#online media pioneer#
+2290310##オンラインモード;オンライン・モード#online mode#
+2290320##オンラインモニタ;オンライン・モニタ#online monitor#
+2290330##オンラインリアルタイム;オンライン・リアル・タイム#online real time#
+2290340#オンラインリアルタイム監視#オンラインリアルタイムかんし#online real-time surveillance#
+2290350#オンラインリアルタイム処理#オンラインリアルタイムしょり#online real-time processing#
+2290360#オンラインリアルタイム処理システム#オンラインリアルタイムしょりシステム#online real-time system#
+2290370#オンライン科学コンピュータ#オンラインかがくコンピュータ#online scientific computer#
+2290380#オンライン機械#オンラインきかい#online machines#
+2290390#オンライン機器#オンラインきき#online equipment#
+2290400#オンライン記憶#オンラインきおく#online storage#
+2290420#オンライン計算処理#オンラインけいさんしょり#online computing#
+2290430#オンライン計測器パッケージ#オンラインけいそくきパッケージ#online instrumentation package#
+2290440#オンライン検査機能#オンラインけんさきのう#online test facility#
+2290450#オンライン処理#オンラインしょり#online processing;online operation#
+2290460#オンライン処理環境#オンラインしょりかんきょう#online processing environment#
+2290470#オンライン情報処理#オンラインじょうほうしょり#online information processing#
+2290480#オンライン状態#オンラインじょうたい#online state#
+2290490#オンライン申し込み#オンラインもうしこみ#online sign-up#
+2290500#オンライン診断#オンラインしんだん#online diagnostics#
+2290510#オンライン制御#オンラインせいぎょ#online control#
+2290520#オンライン端末テスト#オンラインたんまつテスト#online terminal test#
+2290530#オンライン通信#オンラインつうしん#online communication#
+2290540#オンライン動作状態#オンラインどうさじょうたい#online working#
+2290550#オンライン配布#オンラインはいふ#online distribution#
+2290560#オンライン版#オンラインはん#online version;online edition#
+2290570#オンライン分析#オンラインぶんせき#online analysis#
+2290580#オンライン分析処理#オンラインぶんせきしょり#OnLine Analytical Processing;OLAP#
+2290590#オンライン問題解決#オンラインもんだいかいけつ#online problem solving#
+2290600#オンライン利用者#オンラインりようしゃ#online consumers#
+2290610##カーソルキー;カーソル・キー#cursor keys#
+2290620##カーソルコントロールキー;カーソル・コントロール・キー#cursor control key#
+2290630#カーソル移動キー#カーソルいどうキー#cursor control key#
+2290640##カートリッジテープドライブ;カートリッジ・テープ・ドライブ#cartridge tape drive#
+2290650##カートリッジテープドライブモジュール#cartridge tape drive module#
+2290660##カートリッジフォント;カートリッジ・フォント#cartridge font#
+2290670##カードエッジコネクタ;カード・エッジ・コネクタ#edge connector#
+2290680##カードケージ;カード・ケージ#card cage#
+2290700##カードサービス;カード・サービス#card services#
+2290710##カードスタッカ;カード・スタッカ#card stacker#
+2290720##カードスロット;カード・スロット#card slot#
+2290730##カードデック;カード・デック#card deck#
+2290740##カードバス#CardBus#
+2290750##カードホッパ;カード・ホッパ#card hopper#
+2290760##カードリーダー;カード・リーダー#card reader#
+2290770#カード型データベース#カードがたデータベース#card-type database#
+2290780#カード穿孔機構#カードせんこうきこう#card punch#
+2290790#カード穿孔装置#カードせんこうそうち#card punch#
+2290800#カード送り機構#カードおくりきこう#card feed#
+2290810#カード通路#カードつうろ#card path#
+2290820#カード読み取り装置;カード読取り装置#カードよみとりそうち#card reader#
+2290830#カード読取り機構#カードよみとりきこう#card reader#
+2290850#カード分類機#カードぶんるいき#card sorter#
+2290860##カーナビゲーション;カー・ナビゲーション#car navigation#
+2290870##カーニング#kerning#
+2290880##カーブフォロア;カーブ・フォロア#curve follower#
+2290890##カーボンリボン;カーボン・リボン#carbon ribbon#
+2290900##カーミット#Kermit#
+2290910##カイリックス#Kylix#
+2290920#カイ二乗検定#カイじじょうけんてい;カイにじょうけんてい#chi-square test;chi-squared test#
+2290930##カスケーディングスタイルシート#cascade style sheets;CSS#
+2290940##カスケードメニュー;カスケード・メニュー#cascading menu#
+2290950#カスケード式けた上げ#カスケードしきけたあげ#cascaded carry#
+2290960#カスケード表示#カスケードひょうじ#cascade#
+2290980##カスタマーインストレーションインストラクション#customer installation instruction#
+2290990##カスタマーエンジニア;カスタマエンジニア;カスタマー・エンジニア;カスタマ・エンジニア#customer engineer;CE#
+2291000##カスタマーサポート;カスタマー・サポート#customer support#
+2291010##カスタマーマニュアル;カスタマー・マニュアル#customer manual#
+2291040#カスタムＩＣ#カスタムアイシー#custom IC#
+2291050#カスタムＬＳＩ#カスタムエルエスアイ#custom LSI#
+2291060##カスタムアダプタ;カスタム・アダプタ#custom adapter#
+2291070##カスタムコントロール;カスタム・コントロール#custom control#
+2291080##カスタムサブネットマスク;カスタム・サブネットマスク;カスタム・サブネット・マスク#custom subnet mask#
+2291090##カスタムソフトウェア;カスタム・ソフトウェア#custom software#
+2291100##カスタムダイアログボックス;カスタム・ダイアログボックス#custom dialog box#
+2291110##カスタムチップ;カスタム・チップ#custom IC;custom chip;ASIC#
+2291120##カスタムパネルウィンドウ#custom panel pane#
+2291130##カスタムパレット;カスタム・パレット#custom palette#
+2291140##カスタムプラグイン;カスタム・プラグイン;カスタム・プラグ・イン#custom plug-in#
+2291150##カスタムプロパティ;カスタム・プロパティ#custom property#
+2291160##カスタムプロパティダイアログボックス#custom properties dialog box#
+2291170##カスタムプロファイル;カスタム・プロファイル#custom profile#
+2291180##カタログスペック;カタログ・スペック#catalog spec#
+2291190##カタログセット;カタログ・セット#catalog set#
+2291200##カタログドプロシジャ#cataloged procedure#
+2291210##カタログプロパティ;カタログ・プロパティ#catalog property#
+2291220#カット＆ペースト#カットアンドペースト;カットペースト#cut and paste;cut & paste#
+2291240##カットアウト#cutout#
+2291270##カットオーバー;カットオーバ#cutover;cut-over;starting new (IT) equipment;transferring from the old to a new (hardware and/or software) system.#
+2291290##カットシート;カット・シート#cut sheet (paper)#
+2291300##カットシートフィーダ;カット・シート・フィーダ#cut-sheet feeder#
+2291310##カットバッファ;カット・バッファ#cut buffer#
+2291320#カット紙#カットし#cut paper#
+2291330##カッパーマイン#Coppermine#
+2291340##カテゴライザ#categorizer#
+2291350##カテゴリィ#category#
+2291360##カテゴリプロパティ;カテゴリ・プロパティ#category property#
+2291370##カトマイ#Katmai#
+2291380##カバーエリア;カバー・エリア#coverage area#
+2291390#カプセル化#カプセルか#encapsulation#
+2291400##カムコーダー#camcorder#
+2291410##カラーイメージ;カラー・イメージ#color image#
+2291420##カラーイメージスキャナ;カラー・イメージ・スキャナ#graphics scanner#
+2291430##カラーグラフィックス;カラー・グラフィックス#color graphics#
+2291440##カラーコード;カラー・コード#color code#
+2291450##カラーセパレーション#color separation#
+2291460##カラーチャート;カラー・チャート#color chart#
+2291470##カラーパレット;カラー・パレット#color pallet#
+2291480##カラービット;カラー・ビット#color bits#
+2291490##カラープリンタ;カラー・プリンタ#color printer#
+2291500##カラーマネジメントシステム;カラー・マネジメント・システム#color management system#
+2291510##カラールックアップテーブル;カラー・ルックアップ・テーブル#color look-up table#
+2291520#カラー液晶#カラーえきしょう#color LCD#
+2291530##カライダ#Kaleida#
+2291540##カラムチャート;カラム・チャート#column chart#
+2291550##カランティンサービス#quarantine service#
+2291560#カリグラフィック表示装置#カリグラフィックひょうじそうち#calligraphic display device;directed beam display device#
+2291580##カルク#spreadsheet#
+2291590##カルマンフィルター;カルマン・フィルター#Kalman filter#
+2291600##カレンダープログラム;カレンダー・プログラム#calendar program#
+2291610##カレンダクロック;カレンダ・クロック#calendar clock#
+2291620##カレントディレクトリ;カレント・ディレクトリ#current directory#
+2291630##カレントトランザクション;カレント・トランザクション#current transaction#
+2291640##カレントドライブ;カレント・ドライブ#current drive#
+2291650##カレントドレイン;カレント・ドレイン#current drain#
+2291660##カレントループ;カレント・ループ#current loop;current-loop#
+2291670##カレントレコード;カレント・レコード#current record#
+2291680##カンタム#Quantum#
+2291690##カントリコード;カント・リコード#country code#
+2291700##カンファレンシング#conferencing#
+2291710#カンマ表示#カンマひょうじ#comma format#
+2291720##ガードバンド;ガード・バンド#guard band#
+2291740##ガーベッジ#garbage#
+2291750##ガーベッジコレクション#garbage collection;GC#
+2291760##ガイザービル#Geyserville#
+2291770##ガイドピン;ガイド・ピン#guide pin#
+2291780##ガイドピンネジ#guide pin screw#
+2291790#ガウス消去#ガウスしょうきょ#Gaussian elimination#
+2291800##ガスパネル;ガス・パネル#plasma panel;gas panel#
+2291810#ガス放電ディスプレイ#ガスほうでんディスプレイ#gas-discharge display#
+2291820##ガベージインガベージアウト#garbage in, garbage out#
+2291830##ガベジ#garbage#
+2291840##ガベジコレクション;ガーベジコレクション;ガベジ・コレクション;ガーベジ・コレクション#garbage collection#
+2291860#ガリウム砒素リン#ガリウムひそリン#Gallium Arsenide Phosphide;GaAsP#
+2291870##ガンマイク#shotgun microphone#
+2291880##ガンマランプ#gamma ramp#
+2291890#ガンマ補正#ガンマほせい#gamma correction#
+2291900##キーアサイン;キー・アサイン#key assign#
+2291910##キーイン;キー・イン#key in#
+2291920##キーウェブクリエイタ#KeyWeb Creater#
+2291930##キーエスキューエル#KeySQL#
+2291940##キーエスクロー;キー・エスクロー#key escrow#
+2291950##キーカスタマイズ;キー・カスタマイズ#key customize#
+2291960##キーコード;キー・コード#key code#
+2291970##キータイトル;キー・タイトル#key title#
+2291980##キーテクノロジー;キー・テクノロジー#key technology#
+2291990##キーディスク;キー・ディスク#key disk#
+2292000##キートップ#keytop#
+2292010##キーバインド;キー・バインド#key binding#
+2292020##キーバッファ;キー・バッファ#key buffer#
+2292030##キーフィーチャ;キー・フィーチャ#key feature#
+2292040##キーフィールド;キー・フィールド#key field#
+2292050##キーフレーム;キー・フレーム#key frame#
+2292060##キープアライブ#keep-alive#
+2292070##キープアライブメッセージ;キープ・アライブ・メッセージ#keep alive message#
+2292080##キーボードのデザイン#keyboard design#
+2292090#キーボードの配置#キーボードのはいち#keyboard layout#
+2292100##キーボードエンハンサ#keyboard enhancer#
+2292110##キーボードショートカット;キーボード・ショートカット#keyboard shortcut#
+2292120##キーボードテンプレート;キーボード・テンプレート#keyboard template#
+2292130##キーボードバッファ;キーボード・バッファ#keyboard buffer#
+2292140##キーボードパスワード;キーボード・パスワード#keyboard password#
+2292150#キーボードプログラム入力式計算器#キーボードプログラムにゅうりょくしきけいさんき#calculator with keyboard program input#
+2292160##キーボードヘルプ;キーボード・ヘルプ#keyboard help#
+2292170##キーボードマクロ;キーボード・マクロ#keyboard macro#
+2292180##キーボードリセット;キーボード・リセット#keyboard reset#
+2292190##キーボードロック;キーボード・ロック#keyboard lock#
+2292200#キーボード及び外部プログラム入力式計算器#キーボードおよびがいぶプログラムにゅうりょくしきけいさんき#calculator with keyboard and external program input#
+2292220#キーボード制御装置#キーボードせいぎょそうち#keyboard controller#
+2292230#キーボード入力#キーボードにゅうりょく#keyboard input#
+2292240##キーマクロ;キー・マクロ#key macro#
+2292250##キーリカバリー;キー・リカバリー#key recovery#
+2292260##キーリピート;キー・リピート#key repeat#
+2292270##キーリング;キー・リング#key ring (encryption)#
+2292280##キーレセプタクル#key receptacle#
+2292290##キーワードサーチ;キーワード・サーチ#keyword search#
+2292300#キーワード検索#キーワードけんさく#keyword search#
+2292310#キー割り当て;キー割当#キーわりあて#key assignment#
+2292330#キー候補#キーこうほ#candidate key#
+2292340#キー順データセット#キーじゅんデータセット#KSDS;Key-Sequenced Data Set#
+2292350#キー照合#キーしょうごう#key matching#
+2292360#キー入力検証#キーにゅうりょくけんしょう#keystroke verification#
+2292370#キー入力待ち#キーにゅうりょくまち#waiting for key-in#
+2292380##キオスクモード;キオスク・モード#KIOSK mode#
+2292390##キバソフト#KIVASOFT#
+2292400##キャッシュコーナ;キャッシュ・コーナ#automatic teller machine#
+2292410##キャッシュコントローラ;キャッシュ・コントローラ#cache controller#
+2292420##キャッシュディスク;キャッシュ・ディスク#cache disk#
+2292430##キャッシュファイル;キャッシュ・ファイル#cache file#
+2292440##キャッシュプラグイン;キャッシュ・プラグイン#cache plug-in#
+2292450##キャッシュメモリ;キャッシュメモリー;キャッシュ・メモリ;キャッシュ・メモリー#cache memory#
+2292470#キャッシュメモリ機構#キャッシュメモリきこう#cache memory organization#
+2292480##キャッシュライタ;キャッシュ・ライタ#cache writer#
+2292490#キャッシュ記憶装置#キャッシュきおくそうち#cache storage#
+2292500##キャップハイト#cap height#
+2292510##キャップライン#capline#
+2292530##キャドキャム#CAD-CAM#
+2292540##キャパシタ;キャパシター#capacitor#
+2292550##キャパシティプランニング;キャパシティ・プランニング#capacity planning#
+2292570##キャビネットアラーム;キャビネット・アラーム#cabinet alarm#
+2292580##キャビネットタイプ;キャビネット・タイプ#cabinet type#
+2292590##キャビネットファイル;キャビネット・ファイル#cabinet file#
+2292600##キャビネットフレーム;キャビネット・フレーム#cabinet frame#
+2292610##キャビネットフロントドア;キャビネット・フロント・ドア#cabinet front door#
+2292620##キャビネットモニタコントローラ#cabinet monitoring controller#
+2292630##キャビネットモニタリング;キャビネット・モニタリング#cabinet monitoring#
+2292640##キャビネットルーフ;キャビネット・ルーフ#cabinet roof#
+2292650#キャビネット環境#キャビネットかんきょう#cabinet environment#
+2292660#キャビネット筺体#キャビネットきょうたい#cabinet enclosure#
+2292670##キャフィス#CAFIS#
+2292680##キャプスロック#Caps Lock#
+2292690##キャプスロックキー;キャプスロック・キー#Caps Lock key;caps lock key#
+2292700##キャプチャデバイス;キャプチャ・デバイス#capture device#
+2292710##キャプチャバッファ;キャプチャ・バッファ#capture buffer#
+2292720##キャラクターコード;キャラクター・コード#character code#
+2292730##キャラクタイメージ;キャラクタ・イメージ#character image#
+2292740##キャラクタコード;キャラクタ・コード#character code#
+2292750##キャラクタジェネレータ;キャラクタ・ジェネレータ#character generator#
+2292760##キャラクタセット;キャラクタ・セット#character set#
+2292770##キャラクタセル;キャラクタ・セル#character cell#
+2292790##キャラクタデバイス;キャラクタ・デバイス#character device#
+2292800##キャラクタフォーマット;キャラクタ・フォーマット#character format#
+2292810##キャラクタプリンタ;キャラクタ・プリンタ#character printer#
+2292820##キャラクタベース;キャラクタ・ベース#character based#
+2292830##キャラクタマップ;キャラクタ・マップ#character map#
+2292840#キャラクタ集合#キャラクタしゅうごう#character set#
+2292850#キャラクタ定義テーブル#キャラクタていぎテーブル#character definition table#
+2292860##キャリービット;キャリー・ビット#carry bit#
+2292870##キャリアコード;キャリア・コード#carrier code#
+2292880##キャリアサイド#carrier-side#
+2292890##キャリアセンス#carrier sense#
+2292900##キャリアディテクト;キャリア・ディテクト#carrier detect;CD#
+2292910#キャリア検出#キャリアけんしゅつ#carrier detect#
+2292920#キャリア検地#キャリアけんち#carrier detect;carrier sense#
+2292930#キャリア検地多重アクセス衝突回避ネットワーク#キャリアけんちたじゅうアクセスしょうとつかいひネットワーク#carrier sense multiple access with collision avoidance network;CSMA;CA network#
+2292940#キャリア検地多重アクセス衝突検出ネットワーク#キャリアけんちたじゅうアクセスしょうとつけんしゅつネットワーク#carrier sense multiple access with collision detection network;CSMA;CD network#
+2292950##キャリッジリターン;キャリッジ・リターン#carriage return#
+2292960##キャリブレート#calibration#
+2292980##キャルス#CALS#
+2292990##キャレット#caret#
+2293000##キャンディデート#candidate#
+2293010#キャンディデート版#キャンディデートばん#candidate release#
+2293020##キャンドソフトウェア;キャンド・ソフトウェア#canned software#
+2293030##キャンドルーチン;キャンド・ルーチン#canned routine#
+2293040##キャンパスバックボーン;キャンパス・バックボーン#campus backbone#
+2293050#キューに入れる#キューにいれる#to enqueue;to queue in line#
+2293060##キューイング#queuing#
+2293070#キューイング理論#キューイングりろん#queuing theory#
+2293080##キューエルディー#QLD#
+2293090##キューゴ#95#
+2293100##キュージューゴ#95#
+2293110##キューハチ#98#
+2293120##キュービジョン#Q-Vision#
+2293130#キュービック補間#キュービックほかん#cubic interpolation#
+2293140#キュー末尾#キューまつび#end of a queue#
+2293150##キュウジュウハチ#98#
+2293160##キラーアプリケーション;キラー・アプリケーション#"killer" application#
+2293170##キロビット#kilobit#
+2293180##キロヘルツ#kilohertz;kHz#
+2293190##ギーク#geek#
+2293200##ギガビット#gigabit#
+2293210##ギガビットイーサネット;ギガビット・イーサネット#Gigabit Ethernet#
+2293220##ギガヘルツ#gigahertz#
+2293230##ギガモ#GIGAMO#
+2293240#ギャランティ型#ギャランティかた#guarantee type#
+2293250##クーリングファン;クーリング・ファン#cooling fan#
+2293260##クアドハイト#quad-height#
+2293270##クイックスタイル;クイック・スタイル#quick styles#
+2293280##クイックソート;クイック・ソート#quick sort#
+2293290##クイックタイム#QuickTime#
+2293300##クイックタブ;クイック・タブ#quick tabs#
+2293310##クイックドロー#QuickDraw#
+2293320##クイックバン#QUICK-VAN#
+2293330##クイックビー;クイック・ビー#QUICK B#
+2293340##クイックリファレンス;クイック・リファレンス#quick reference#
+2293350##クイッケン#QUICKEN (accounting package)#
+2293370##クエリー;クエリ#query#
+2293380##クエリチャネル;クエリ・チャネル#query channel#
+2293390##クエリデザイン;クエリ・デザイン#query design#
+2293400##クォリファイア#qualifier#
+2293410##クオリティオブサービス;クオリティ・オブ・サービス#quality of service#
+2293420##クパティーノ#Cupertino#
+2293430##クライアント・サーバーモデル;クライアントサーバーモデル#client-server model#
+2293440##クライアントアクセスポイント;クライアント・アクセス・ポイント#client access point#
+2293450##クライアントアクセスライセンス;クライアント・アクセス・ライセンス#client access license#
+2293460##クライアントサーバ;クライアントサーバー#client-server#
+2293480##クライアントサーバーシステム;クライアント・サーバー・システム#client-server system;CSS#
+2293490##クライアントサーバアーキテクチャ;クライアント・サーバ・アーキテクチャ#client-server architecture#
+2293500##クライアントサーバコンピューティング;クライアント・サーバ・コンピューティング#client-server computing#
+2293510##クライアントサーバモデル;クライアント・サーバ・モデル#client-server model#
+2293520##クライアントサブスクリプション;クライアント・サブスクリプション#client subscription#
+2293530##クライアントスクリプト;クライアント・スクリプト#client script#
+2293540##クライアントハブ;クライアント・ハブ#client hub#
+2293550#クライアント側アプリケーション#クライアントがわアプリケーション#client-side application#
+2293560#クラスＡＩＰアドレス#クラスエーアイピーアドレス#class A IP address#
+2293570#クラスＢＩＰアドレス#クラスビーアイピーアドレス#class B IP address#
+2293580#クラスＣＩＰアドレス#クラスシーアイピーアドレス#class C IP address#
+2293590#クラスＩＤ#クラスアイディー#class ID#
+2293600##クラスセレクタ;クラス・セレクタ#class selector#
+2293610##クラスタアダプタ;クラスタ・アダプタ#cluster adapter#
+2293620##クラスタサイズ;クラスタ・サイズ#cluster size#
+2293630#クラスタ化されたアプリケーション#クラスタかされたアプリケーション#clustered applications#
+2293640#クラスタ装置#クラスタそうち#clustered device#
+2293650#クラスタ番号#クラスタばんごう#cluster number#
+2293660##クラスファクトリ;クラス・ファクトリ#class factory#
+2293670#クラス階層#クラスかいそう#class hierarchy#
+2293690#クラッシュ回復#クラッシュかいふく#crash recovery#
+2293700##クラッド#clad;cladding (of a fiber)#
+2293710#クラッド径#クラッドけい#clad(ding) diameter#
+2293720##クラバー#clobber#
+2293730##クラリス#Claris#
+2293740##クランクバック#crankback#
+2293750##クリーンインストール;クリーン・インストール#clean install#
+2293760##クリーンブート;クリーン・ブート#clean boot#
+2293770##クリアエリア;クリア・エリア#clear area#
+2293780#クリアエントリー機能#クリアエントリーきのう#clear entry function#
+2293790##クリアキー;クリア・キー#Clear key#
+2293800##クリアテキスト;クリア・テキスト#clear text#
+2293810##クリアバンド;クリア・バンド#clear band#
+2293820##クリアリングハウス;クリアリング・ハウス#clearing house#
+2293830##クリエ#Clie;CLIE#
+2293850##クリエイティブコンテンツ;クリエイティブ・コンテンツ#creative content#
+2293860##クリッカブルイメージマップ#clickable imagemap#
+2293870##クリッカブルマップ#clickable map#
+2293880##クリックレート;クリック・レート#click rate#
+2293890#クリック保証#クリックほしょう#click guaranteed#
+2293900##クリッパーチップ;クリッパー・チップ#Clipper Chip#
+2293910##クリッピングパス;クリッピング・パス#clipping path#
+2293920##クリップアート;クリップ・アート#clip art#
+2293930##クリップコレクション;クリップ・コレクション#clip collection#
+2293940##クリップボードコンピュータ;クリップボード・コンピュータ#clipboard computer#
+2293950##クリティカルエラー;クリティカル・エラー#critical error#
+2293960##クリティカルエラーハンドラ;クリティカル・エラー・ハンドラ#critical-error handler#
+2293970##クリティカルセクション;クリティカル・セクション#critical section#
+2293980#クリティカルパス法#クリティカルパスほう#critical path method#
+2293990##クルーソー;クルーソ#Crusoe#
+2294010##クレードル#cradle#
+2294020##クレームトークン;クレーム・トークン#claim token#
+2294030##クレイワン#CRAY-1#
+2294040#クレジットカード与信照会用端末#クレジットカードよしんしょうかいようたんまつ#CAT;Credit Authorization Terminal#
+2294050##クレジットベース;クレジット・ベース#credit-based (flow control mechanism)#
+2294060##クレン#CREN#
+2294070##クローズドアーキテクチャ;クローズド・アーキテクチャ#closed architecture#
+2294080##クローズボックス;クローズ・ボックス#close box#
+2294090##クローンメーカ;クローン・メーカ#clone maker#
+2294100##クロウラー#(Web) crawler#
+2294110##クロスアセンブラ;クロス・アセンブラ#cross assembler#
+2294120##クロスオーバーケーブル;クロスオーバー・ケーブル#crossover cable#
+2294130##クロスケーブル;クロス・ケーブル#crossover cable#
+2294140##クロスコネクト;クロス・コネクト#cross connect#
+2294150##クロスコマンド#XCMD#
+2294160##クロスコンパイラ;クロス・コンパイラ#cross compiler#
+2294170##クロスサイトスクリプティング#cross-site scripting#
+2294180##クロスチェックファン#cross-checked fan#
+2294190##クロストーク#crosstalk#
+2294200##クロスハッチ;クロス・ハッチ#cross hatch#
+2294210##クロスフッティング#crossfooting#
+2294220#クロスプラットフォーム技術#クロスプラットフォームぎじゅつ#cross-platform technology#
+2294230##クロスプラットホーム#cross-platform#
+2294240##クロスポイント#crosspoint#
+2294250##クロスリファレンス;クロス・リファレンス#cross reference#
+2294260#クロスリファレンス形式#クロスリファレンスけいしき#cross-referenced#
+2294270#クロス開発#クロスかいはつ#cross development#
+2294280#クロス集計#クロスしゅうけい#cross tabulation#
+2294290##クロッキング#clocking#
+2294300##クロックアップ;クロック・アップ#clock up#
+2294310##クロックサイクル;クロック・サイクル#clock cycle#
+2294320##クロックスピード;クロック・スピード#clock speed#
+2294330##クロックトラック;クロック・トラック#clock track#
+2294340##クロックパルス;クロック・パルス#clock signal;clock pulse#
+2294350##クロックレート;クロック・レート#clock rate#
+2294360#クロック供給源#クロックきょうきゅうげん#clock source#
+2294370#クロック周波数#クロックしゅうはすう#clock frequency#
+2294380#クロック信号#クロックしんごう#clock signal;clock pulse#
+2294390#クロック速度#クロックそくど#clock speed;clock frequency;clock rate#
+2294400#クロック発振ロジック#クロックはっしんロジック#clock generation logic#
+2294410#クロック分配#クロックぶんぱい#clock (signal) distribution#
+2294420##クロップ#crop#
+2294430##クロマキー;クロマ・キー#chroma key#
+2294440##クロマクリア#CROMACLEAR#
+2294450#クロマクリア管#クロマクリアかん#CromaClear Tube#
+2294460##クロミナンス#chrominance#
+2294470##クワーティ#qwerty#
+2294480##クワドラント#quadrant#
+2294490##クワドラントカードスロット#quadrant card slot#
+2294500##グーローシェーディング;グーロー・シェーディング#Gouraud shading#
+2294510##グヌー;グニュー#GNU (computer OS, project, etc.)#
+2294520##グラニュラリティ#granularity#
+2294530##グラバーハンド;グラバー・ハンド#grabber hand#
+2294540##グラフィカルカーネルシステム;グラフィカル・カーネル・システム#Graphical Kernel System;GKS#
+2294570##グラフィカルユーザインタフェース;グラフィカルユーザーインターフェース;グラフィカルユーザーインターフェイス;グラフィカル・ユーザ・インタフェース;グラフィカル・ユーザー・インターフェース;グラフィカル・ユーザー・インターフェイス#graphical user interface;GUI#
+2294580#グラフィクス装置#グラフィクスそうち#graphics device#
+2294590#グラフィクス中核系#グラフィクスちゅうかくけい#GKS;graphical kernel system#
+2294600##グラフィックアクセラレータ;グラフィック・アクセラレータ#graphics accelerator#
+2294610##グラフィックエンジン;グラフィック・エンジン#graphic engine#
+2294620##グラフィックスアクセラレータ;グラフィックス・アクセラレータ#graphics accelerator#
+2294630##グラフィックスアダプタ;グラフィックス・アダプタ#graphics adapter#
+2294640##グラフィックスカード;グラフィックカード;グラフィックス・カード;グラフィック・カード#graphics card#
+2294650##グラフィックスコプロセッサ;グラフィックス・コプロセッサ#graphics coprocessor#
+2294660##グラフィックスコントローラ;グラフィックス・コントローラ#Graphics Controller#
+2294670##グラフィックスサブシステム;グラフィックス・サブシステム#graphics subsystem#
+2294680##グラフィックスターミナル;グラフィックス・ターミナル#graphics terminal#
+2294690##グラフィックスタブレット;グラフィックス・タブレット#graphics tablet#
+2294700##グラフィックスチップ;グラフィックス・チップ#graphics chip#
+2294710##グラフィックスフォーマット;グラフィックス・フォーマット#graphics format#
+2294720##グラフィックスプリンタ;グラフィックス・プリンタ#graphics printer#
+2294730##グラフィックスプロセシングユニット;グラフィックス・プロセシング・ユニット#graphics processing unit;GPU#
+2294740##グラフィックスボード;グラフィックス・ボード#graphics board#
+2294750##グラフィックスワークステーション;グラフィックス・ワークステーション#graphics workstation;GWS#
+2294760##グラフィックソフトウェア;グラフィックソフト;グラフィック・ソフトウェア;グラフィック・ソフト#graphics software;software for graphics#
+2294780##グラフィックタブレット;グラフィック・タブレット#graphic tablet#
+2294790##グラフィックツール;グラフィック・ツール#graphic(al) tool#
+2294800##グラフィックディスプレイ;グラフィック・ディスプレイ#graphic display#
+2294810##グラフィックフィルタ;グラフィック・フィルタ#graphic filter;graphics filter#
+2294830##グラフィックモード;グラフィック・モード#graphics mode#
+2294840#グラフィック基本要素#グラフィックきほんようそ#graphical primitive elements#
+2294860#グラフィック文字#グラフィックもじ#graphics character#
+2294870##グラフエリア;グラフ・エリア#chart area#
+2294880##グラフスライド;グラフ・スライド#chart slide#
+2294890#グラフ領域#グラフりょういき#graph area#
+2294900##グリーキング#greeking#
+2294920##グリーンブック;グリーン・ブック#Green Book#
+2294930##グリッチ#glitch#
+2294940##グリッドコンピューティング;グリッド・コンピューティング#grid computing#
+2294950##グリッドパターン;グリッド・パターン#grid pattern#
+2294960##グリフ#glyph#
+2294970#グリフ形状#グリフけいじょう#glyph shape#
+2294980#グリフ座標系#グリフざひょうけい#glyph coordinate system#
+2294990#グリフ手続き#グリフてつづき#glyph procedure#
+2295000#グリフ手続きインタプリタ#グリフてつづきインタプリタ#glyph procedure interpreter#
+2295010#グリフ集合#グリフしゅうごう#glyph collection#
+2295020#グリフ像#グリフぞう#glyph image#
+2295030#グリフ配置量#グリフはいちりょう#glyph metrics#
+2295040#グリフ表現#グリフひょうげん#glyph representation#
+2295050##グリルカバー;グリル・カバー#grill cover#
+2295060##グリルコネクタ;グリル・コネクタ#grill-mounted connector;grill-mounting connector#
+2295070#グループＩＤ#グループアイディー#group identifier;GID#
+2295090##グループアドレス;グループ・アドレス#group address#
+2295100##グループウィンドウ;グループ・ウィンドウ#group box;group window#
+2295110##グループウェア#groupware#
+2295120##グループコミット;グループ・コミット#group commit#
+2295130##グループボックス;グループ・ボックス#group box;group window#
+2295140#グループ化#グループか#grouping#
+2295150#グループ絶縁#グループぜつえん#grouping isolation#
+2295160#グループ同報#グループどうほう#group broadcast#
+2295170#グループ料金制#グループりょうきんせい#group rate system#
+2295180##グレーコード;グレー・コード#gray code#
+2295190##グレースケール;グレー・スケール#gray scale#
+2295200##グレア#glare#
+2295210##グレアフィルタ;グレア・フィルタ#glare filter#
+2295220##グレップ#grep#
+2295230#グローバルＩＰアドレス#グローバルアイピーアドレス#global IP address#
+2295240##グローバルアドレス;グローバル・アドレス#global address#
+2295250##グローバルグループ;グローバル・グループ#global group#
+2295260##グローバルデータ;グローバル・データ#global data#
+2295270##グローバルトランザクション;グローバル・トランザクション#global transaction#
+2295280#グローバルネットワークアドレス領域#グローバルネットワークアドレスりょういき#global network addressing domain#
+2295290##グローバルメモリプール;グローバル・メモリ・プール#global memory pool#
+2295300##グローバルローミング;グローバル・ローミング#global roaming#
+2295310#グローバル形式#グローバルけいしき#global format#
+2295320#グローバル検索#グローバルけんさく#global search#
+2295330#グローバル宣言#グローバルせんげん#global declaration#
+2295340#グローバル変数#グローバルへんすう#global variable#
+2295350#グローバル名称#グローバルめいしょう#global-title#
+2295360##グロスオプティマイザ;グロス・オプティマイザ#gloss optimizer#
+2295370##ケーエーナインキュー#KA9Q#
+2295380##ケーゴーロクエックスツー#K56x2#
+2295390##ケーゴーロクフレックス#K56flex#
+2295400##ケーシックス#K6#
+2295410##ケースセンシティブ#case-sensitive#
+2295420##ケーファイブ#K5#
+2295430#ケーブルＴＶ#ケーブルティービー#cable television#
+2295440#ケーブルとアース線の配置#ケーブルとアースせんのはいち#arrangement of cables and ground wires#
+2295460#ケーブルの切断#ケーブルのせつだん#cable cut#
+2295470##ケーブルアセンブリ;ケーブル・アセンブリ#cable assembly#
+2295480##ケーブルオペレータ;ケーブル・オペレータ#cable operator#
+2295490##ケーブルキット;ケーブル・キット#cable kit;cabling kit#
+2295500##ケーブルクランプ;ケーブル・クランプ#cable clamp#
+2295510##ケーブルコネクタ;ケーブル・コネクタ#cable connector#
+2295520##ケーブルサービスプロバイダ;ケーブル・サービス・プロバイダ#global service provider#
+2295530##ケーブルセレクト;ケーブル・セレクト#cable select#
+2295540##ケーブルマッチャー#cable matcher#
+2295550##ケーブルマネージャ;ケーブル・マネージャ#cable manager#
+2295560##ケーブルモデム;ケーブル・モデム#cable modem#
+2295570##ケーブルルータ;ケーブル・ルータ#cable router#
+2295580#ケーブル配線図#ケーブルはいせんず#cabling diagram#
+2295600#ゲートウェー交換機#ゲートウェーこうかんき#gateway switch#
+2295610##ゲートウェイサービス;ゲートウェーサービス;ゲートウェイ・サービス;ゲートウェー・サービス#gateway service#
+2295620##ゲームコントロールアダプタ;ゲーム・コントロール・アダプタ#game control adapter#
+2295630##ゲームポート;ゲーム・ポート#game port#
+2295640#ゲーム理論#ゲームりろん#theory of games#
+2295650#ゲストＩＤ#ゲストアイディー#guest ID#
+2295660#ゲストＯＳ#ゲストオーエス#guest Operating System#
+2295670##ゲストコンピュータ;ゲスト・コンピュータ#guest computer#
+2295690#コーディング体系#コーディングたいけい#coding system#
+2295700#コーディング用紙#コーディングようし#coding form#
+2295710##コーデック#codec#
+2295720##コードインデペンデント#code-independent#
+2295730##コードグループ#code-group#
+2295740##コードコンバータ;コード・コンバータ#code converter#
+2295750##コードサイズ;コード・サイズ#code size#
+2295760##コードセンシティブ#code-sensitive#
+2295770##コードトランスペアレント#code-transparent#
+2295780##コードビット#code-bit#
+2295790##コードプログラミング;コード・プログラミング#code programming#
+2295800##コードページ;コード・ページ#code page#
+2295810#コードページ切り替え#コードページきりかえ#code page switching#
+2295820##コードポイント;コード・ポイント#code point#
+2295830##コードモーフィングソフトウェア;コード・モーフィング・ソフトウェア#code morphing software#
+2295840##コードレステレフォニー;コードレス・テレフォニー#cordless telephony#
+2295850#コード化#コードか#encoding;codification#
+2295860#コード化画像#コードかがぞう#coded image#
+2295870#コード化集合#コードかしゅうごう#coded set#
+2295880#コード化表現#コードかひょうげん#code element;code value;coded representation#
+2295890#コード化文字集合#コードかもじしゅうごう#coded character set#
+2295900#コード拡張文字#コードかくちょうもじ#code extension character#
+2295910#コード管理#コードかんり#code management#
+2295920#コード構成#コードこうせい#coding scheme#
+2295930#コード設計#コードせっけい#code design#
+2295940#コード体系#コードたいけい#code;coding scheme#
+2295950#コード値#コードち#code element;code value;coded representation#
+2295960#コード透過形データ通信#コードとうかがたデータつうしん#code-transparent data communication#
+2295970#コード独立形データ通信#コードどくりつがたデータつうしん#code-independent data communication#
+2295980#コード入力#コードにゅうりょく#input by codes#
+2295990#コード変換#コードへんかん#code conversion;code translation#
+2296000#コード変換器#コードへんかんき#code converter#
+2296010#コード名#コードめい#code name (of a product under development)#
+2296020#コード要素#コードようそ#code element;code value;coded representation#
+2296030##コーポレートライセンス;コーポレート・ライセンス#corporate license#
+2296040##コーム#comb#
+2296050##コールウエイティング;コール・ウエイティング#call waiting#
+2296060##コールセットアップ;コール・セットアップ#call setup#
+2296070##コールセンター;コール・センター#call center#
+2296080##コールドスタート;コールド・スタート#cold start#
+2296090##コールドフォルト;コールド・フォルト#cold fault#
+2296100##コールドブート;コールド・ブート#cold booting#
+2296110##コールドリセット;コールド・リセット#cold reset#
+2296120##コールドロード;コールド・ロード#cold load#
+2296130##コールバックモデム;コールバック・モデム#callback modem#
+2296140##コーレル#Corel#
+2296150##コアキシャルケーブル#coaxial cable#
+2296160##コアストア;コア・ストア#core store#
+2296170##コアックス#coax;coaxial cable#
+2296180##コアプログラム;コア・プログラム#core program#
+2296190##コアルータ;コア・ルータ#core router#
+2296200#コア技術#コアぎじゅつ#core technology#
+2296210#コア径#コアケイ#core diameter (of a fiber)#
+2296220##コストエフェクティブ;コスト・エフェクティブ#cost effective#
+2296240##コダシル#CODASYL#
+2296250##コッパーマイン#Coppermine#
+2296260##コネクションオリエンテッド;コネクション・オリエンテッド#connection oriented#
+2296270#コネクショントラヒック記述子#コネクショントラヒックきじゅつし#connection traffic descriptor#
+2296280##コネクションプロビジョニング;コネクション・プロビジョニング#connection provisioning#
+2296290##コネクションレス#connectionless#
+2296300#コネクションレス型#コネクションレスがた#connectionless communication#
+2296310#コネクションレス型ネットワーク伝送#コネクションレスがたネットワークでんそう#connectionless-mode (network communications)#
+2296320#コネクション管理#コネクションかんり#CMT;Connection Management#
+2296330#コネクション許可制御#コネクションきょかせいぎょ#connection admission control;CAC#
+2296340#コネクション型#コネクションがた#connection-type;connection-oriented#
+2296350#コネクション指向#コネクションしこう#connection oriented#
+2296360#コネクション識別子#コネクションしきべつし#connection identifier#
+2296370#コネクション制御#コネクションせいぎょ#connection control#
+2296380#コネクション設定#コネクションせってい#connection setup, initialization#
+2296390#コネクション単位#コネクションたんい#per-connection;by connection#
+2296400#コネクション統計#コネクションとうけい#connection statistics#
+2296410#コネクション容量#コネクションようりょう#connection capacity#
+2296420#コネクション要求#コネクションようきゅう#connection request#
+2296430##コネクタポイント;コネクタ・ポイント#connector point#
+2296440##コネクティビティ#connectivity#
+2296450##コネクトチャージ;コネクト・チャージ#connect charge#
+2296460##コピーアンドペースト;コピーペースト;コピー・アンド・ペースト;コピー・ペースト#copy and paste#
+2296470##コピープログラム;コピー・プログラム#copy program#
+2296480##コピープロテクション;コピー・プロテクション#copy protection#
+2296490##コピープロテクト;コピー・プロテクト#copy protection#
+2296500##コピーレフト#copyleft#
+2296510#コピー機器#コピーきき#copier;copy machine#
+2296520##コプロ#coprocessor#
+2296530##コマース#commerce#
+2296540##コマースサーバー;コマース・サーバー#commerce server#
+2296550#コマンドＰＤＵ#コマンドピーディーユー#command PDU#
+2296560##コマンドインタープリター;コマンドインタープリタ;コマンド・インタープリター;コマンド・インタープリタ#command interpretor#
+2296580##コマンドウィンドウ;コマンド・ウィンドウ#command window#
+2296590##コマンドキー;コマンド・キー#command key#
+2296600##コマンドコム#COMMAND.COM#
+2296610##コマンドシーケンス;コマンド・シーケンス#command sequence#
+2296620##コマンドシンタックス;コマンド・シンタックス#command syntax#
+2296630##コマンドタイムアウト;コマンド・タイムアウト#command timeout#
+2296640##コマンドパラメータ;コマンド・パラメータ#command parameter#
+2296650##コマンドフレーム;コマンド・フレーム#command frame#
+2296660##コマンドプロセッサ;コマンド・プロセッサ#command processor#
+2296670##コマンドプロンプトウィンドウ;コマンド・プロンプト・ウィンドウ#command prompt window#
+2296680##コマンドボタン#command button#
+2296690##コマンドモード;コマンド・モード#command mode#
+2296700##コマンドライン;コマンド・ライン#command line#
+2296710##コマンドラインインターフェイス;コマンドラインインタフェース;コマンドライン・インターフェイス;コマンドライン・インタフェース#command-line interface;command line interface;CLI#
+2296730##コマンドレット#commandlet;cmdlet#
+2296740##コマンドレットプロバイダ#cmdlet provider#
+2296750##コマンドレベル;コマンド・レベル#command level#
+2296760#コマンド記述ブロック#コマンドきじゅつブロック#command descriptor block#
+2296770#コマンド駆動型システム#コマンドくどうがたシステム#command driven method;command-driven system#
+2296780#コマンド検索パス#コマンドけんさくパス#command search path#
+2296790#コマンド行#コマンドぎょう#command line#
+2296800#コマンド行引数#コマンドぎょうひきすう#command line argument#
+2296810#コマンド待ち状態#コマンドまちじょうたい#command state#
+2296820#コマンド入力#コマンドにゅうりょく#command input#
+2296830#コマンド入力型インタフェース#コマンドにゅうりょくがたインタフェース#command-oriented user interface#
+2296840#コマンド名#コマンドめい#command name#
+2296850#コマンド要求#コマンドようきゅう#command request#
+2296860#コマンド履歴#コマンドりれき#command history#
+2296870#コミックストリップ状画像#コミックストリップじょうがぞう#comic strip-oriented image#
+2296880#コミットメント単位#コミットメントたんい#commitment unit#
+2296890#コミットメント調整者#コミットメントちょうせいしゃ#commitment coordinator#
+2296900#コミットログ記録#コミットログきろく#log-commit record#
+2296910#コミット準備完了状態#コミットじゅんびかんりょうじょうたい#ready-to-commit state#
+2296920#コミット調整担当#コミットちょうせいたんとう#commit coordinator#
+2296930##コミュニケーションサーバー;コミュニケーション・サーバー#communication server#
+2296940##コミュニケーションシステム;コミュニケーション・システム#communication system#
+2296950#コミュニケーション理論#コミュニケーションりろん#communication theory#
+2296960##コムツー#COM2#
+2296970##コムデックス#COMDEX#
+2296980##コムワン#COM1#
+2296990#コメント化#コメントか#to comment#
+2297000##コモドール#Commodore#
+2297010##コモンアクセスメソッド;コモン・アクセス・メソッド#common access method;CAM#
+2297030##コモンリスプ;コモン・リスプ#common lisp#
+2297040##コルーチン#coroutine#
+2297050##コルバ#CORBA#
+2297060##コレーティングソート#collating sort#
+2297070##コロケーションサービス;コロケーション・サービス#co-location service#
+2297080##コンカレントアクセス;コンカレント・アクセス#concurrent access#
+2297090#コンシューマー向けポータブルモデル#コンシューマーむけポータブルモデル#consumer portable#
+2297100##コンスタントシェーディング;コンスタント・シェーディング#constant shading#
+2297110##コンスタントビットレイト;コンスタント・ビット・レイト#constant bit rate#
+2297120##コンセントレータ#concentrator#
+2297130##コンソールアプリケーション;コンソール・アプリケーション#console application#
+2297140##コンソールプログラム;コンソール・プログラム#console program#
+2297150##コンソールポート;コンソール・ポート#console port#
+2297160##コンタープロット;コンター・プロット#contour plot#
+2297170#コンテキストＩＤ#コンテキストアイディー#context ID#
+2297180##コンテキストスイッチ;コンテキスト・スイッチ#context switching#
+2297190##コンテキストプロパティ;コンテキスト・プロパティ#context property#
+2297200#コンテキスト接頭部#コンテキストせっとうぶ#context prefix#
+2297210#コンテキスト定義集合#コンテキストていぎしゅうごう#defined context set#
+2297220##コンテクストエディタ;コンテクスト・エディタ#context editor#
+2297230##コンテクストセンシティブ#context-sensitive#
+2297240#コンテクスト切り換え#コンテクストきりかえ#context switching#
+2297250##コンテナオブジェクト;コンテナ・オブジェクト#container object#
+2297260##コンテナファイル;コンテナ・ファイル#container file#
+2297270##コンテンション#contention (e.g. in LANs)#
+2297280##コンテンションモード;コンテンション・モード#contention mode#
+2297290##コンテンツアドバイザ;コンテンツ・アドバイザ#content advisor#
+2297300##コンテンツクラス;コンテンツ・クラス#content class#
+2297310##コンテンツサイズ;コンテンツ・サイズ#content size#
+2297320##コンテンツバンドル#content-bundling#
+2297330##コンテンツフィルタリング;コンテンツ・フィルタリング#content filtering#
+2297350##コンテンツプロバイダー;コンテンツプロバイダ;コンテンツ・プロバイダー;コンテンツ・プロバイダ#content provider#
+2297360##コンテンツマスタ;コンテンツ・マスタ#content master#
+2297370##コンテンツライブラリ;コンテンツ・ライブラリ#content library#
+2297380#コンテンツ管理システム#コンテンツかんりシステム#Content Management System#
+2297390##コンテント#content#
+2297400##コンテントハンドラー;コンテント・ハンドラー#content handler#
+2297410#コントローラ番号#コントローラばんごう#controller number#
+2297420#コントローラ保守診断バス#コントローラほしゅしんだんバス#controller maintenance and diagnostic bus#
+2297430#コントロールＳ#コントロールエス#Control S#
+2297450##コントロールキー;コントロール・キー#control key#
+2297460##コントロールケーブル;コントロール・ケーブル#control cable#
+2297470##コントロールコード;コントロール・コード#control code#
+2297480##コントロールパネル;コントロール・パネル#control panel#
+2297490##コントロールファイル;コントロール・ファイル#control file#
+2297500##コントロールブレーク;コントロール・ブレーク#control break#
+2297510##コントロールボール;コントロール・ボール#control ball;track ball;tracker ball#
+2297520##コントロールポイント#control-point#
+2297530##コントロールメッセージ;コントロール・メッセージ#control message#
+2297540#コントロール機器#コントロールきき#control mechanism#
+2297550##コンバージェンス#convergence#
+2297560##コンバインドリンクセット;コンバインド・リンク・セット#combined link set#
+2297570#コンパイラによる最適化#コンパイラによるさいてきか#compiler optimization#
+2297580#コンパイラの最適化能力#コンパイラのさいてきかのうりょく#compiler efficiency#
+2297590##コンパイラコンパイラ#compiler-compiler#
+2297600#コンパイラ型言語#コンパイラかたげんご#compiler language#
+2297610#コンパイラ言語#コンパイラげんご#compiler languages#
+2297620#コンパイラ指示命令#コンパイラしじめいれい#compiler-directing statement#
+2297630##コンパイルエラー;コンパイル・エラー#compiler error#
+2297640#コンパイル済みモジュール#コンパイルすみモジュール#precompiled module#
+2297650#コンパイル時#コンパイルじ#compilation time#
+2297660#コンパイル時間#コンパイルじかん#compilation time#
+2297670#コンパイル単位#コンパイルたんい#source module;compilation unit#
+2297680#コンパクトＨＴＭＬ#コンパクトエッチティーエムエル#Compact HTML#
+2297690##コンパクトフラッシュ;コンパクト・フラッシュ#Compact Flash#
+2297700##コンパクトプロ;コンパクト・プロ#Compact Pro#
+2297710#コンピューター化#コンピューターか#computerization#
+2297740##コンピュータグラフィクスのメタファイル#Computer Graphics Metafile;CGM#
+2297750##コンピュータグラフィクスインタフェース;コンピュータ・グラフィクス・インタフェース#Computer Graphics Interface;CGI#
+2297770##コンピュータセキュリティ;コンピューターセキュリティー;コンピューターセキュリティ;コンピュータセキュリティー;コンピュータ・セキュリティ;コンピューター・セキュリティー;コンピューター・セキュリティ;コンピュータ・セキュリティー#computer security#
+2297790##コンピュータネットワーク;コンピュータ・ネットワーク#computer network#
+2297800##コンピュータプログラマー;コンピュータ・プログラマー#computer programmer#
+2297810##コンピュータマイクログラフィックス#computer micrographics#
+2297830##コンピュータワーム;コンピュータ・ワーム#computer worm#
+2297840#コンピュータ依存言語#コンピュータいぞんげんご#computer-dependent language#
+2297860#コンピュータ緊急対応センター#コンピュータきんきゅうたいおうセンター#JP Computer Emergency Response Term;JPCERT-CC#
+2297870#コンピュータ支援協調作業#コンピュータしえんきょうちょうさぎょう#computer supported cooperative work;CSCW#
+2297880#コンピュータ資源#コンピュータしげん#computer resource#
+2297890#コンピュータ切り替え器#コンピュータきりかえき#computer switch#
+2297900#コンピュータ端末#コンピュータたんまつ#computer terminal#
+2297910#コンピュータ統合生産#コンピュータとうごうせいさん#CIM;Computer Integrated Manufacturing#
+2297920#コンピュータ媒介言語#コンピュータばいかいげんご#Computer Mediated Communication;CMC#
+2297930#コンピュータ犯罪#コンピュータはんざい#computer crime#
+2297940#コンピューティング環境#コンピューティングかんきょう#computing environment#
+2297950##コンピューテックス#Computex#
+2297960##コンピュサーブ#CompuServe#
+2297970##コンフィギュレーションコマンド;コンフィギュレーション・コマンド#configuration commands#
+2297980##コンフィギュレーションメモリ;コンフィギュレーション・メモリ#configuration memory#
+2297990##コンフィグシス#CONFIG.SYS#
+2298000##コンプレックススクリプト;コンプレックス・スクリプト#complex script#
+2298020##コンプレッション#compression#
+2298040##コンベンショナルメモリー;コンベンショナルメモリ;コンベンショナル・メモリー;コンベンショナル・メモリ#conventional memory#
+2298050##コンペティティブアップグレード#competitive upgrade#
+2298060##コンボボックス;コンボ・ボックス#combo box#
+2298070##コンボリューション#convolution#
+2298080##コンポーネントソフト;コンポーネント・ソフト#Component software#
+2298090##コンポーネントトランザクションモニター;コンポーネント・トランザクション・モニター#component transaction monitor;CTM#
+2298100#コンポーネント信号#コンポーネントしんごう#component signal#
+2298110#コンポジット信号#コンポジットしんごう#composite signal#
+2298120##ゴーファ#gopher#
+2298130##ゴーファー#Gopher#
+2298140##ゴーペケハチロク#5x86#
+2298150#ゴシック体#ゴシックたい#"Gothic" typeface (usu. sans-serif)#
+2298160##サーキットエミュレーション;サーキット・エミュレーション#circuit emulation#
+2298170##サーキットエミュレーションサービス;サーキット・エミュレーション・サービス#circuit emulation service#
+2298180##サージプロテクタ;サージ・プロテクタ#surge protector#
+2298190#サージ耐力#サージたいりょく#surge resistance#
+2298200#サージ抵抗#サージていこう#surge resistance#
+2298210##サーチエンジンポジショニング;サーチ・エンジン・ポジショニング#search engine positioning#
+2298220#サーチエンジン最適化#サーチエンジンさいてきか#search engine optimization#
+2298230#サーチエンジン対策#サーチエンジンたいさく#search engine optimization#
+2298240##サーチタイム;サーチ・タイム#search time#
+2298250##サーチパス;サーチ・パス#search path#
+2298260##サーチパタン;サーチ・パタン#search pattern#
+2298270#サーチ許可#サーチきょか#search permission#
+2298280#サーチ時間#サーチじかん#rotational delay;search time#
+2298290#サーチ不可能#サーチふかのう#unsearchable#
+2298300#サーチ文字列#サーチもじれつ#search string#
+2298310##サート#CERT#
+2298330##サードパーティー;サードパーティ;サード・パーティー;サード・パーティ#third party#
+2298340##サードベンダ;サード・ベンダ#third vender#
+2298350#サーバクライアント型#サーバクライアントがた#client-server model#
+2298360##サーバブレード;サーバ・ブレード#server blade#
+2298370#サービスに依存#サービスにいそん#service-dependent#
+2298380#サービスの復旧#サービスのふっきゅう#service restoration;restoration of service#
+2298390#サービスの妨害#サービスのぼうがい#denial of service#
+2298400##サービスアクセスポイント;サービス・アクセス・ポイント#service access point;SAP#
+2298410#サービスアクセス点#サービスアクセスてん#service access point;SAP#
+2298420##サービスアスペクト;サービス・アスペクト#service aspect#
+2298430##サービスエンドポイント;サービス・エンドポイント#service end point#
+2298440##サービスクラス;サービス・クラス#service class#
+2298450##サービスグレード;サービス・グレード#service grade#
+2298460##サービスコンセント;サービス・コンセント#service outlet#
+2298470##サービスセンター;サービス・センター#service center#
+2298480##サービスタイプ;サービス・タイプ#service type#
+2298490#サービスデータ単位#サービスデータたんい#SDU;Service Data Unit#
+2298500##サービスビューロー;サービス・ビューロー#Service Bureau#
+2298510##サービスプリミティブ;サービス・プリミティブ#service primitive#
+2298520##サービスプログラム;サービス・プログラム#utility program;service program#
+2298530##サービスプロバイダ;サービス・プロバイダ#service provider#
+2298540##サービスマン#serviceman#
+2298550##サービスルーチン;サービス・ルーチン#utility routine;service routine#
+2298560##サービスルーチンプログラム#utility routine (program);service routine (program)#
+2298570#サービス拒否攻撃#サービスきょひこうげき#denial of service attack#
+2298580#サービス実現#サービスじつげん#service implementation#
+2298590#サービス種別#サービスしゅべつ#service class#
+2298600#サービス信頼性#サービスしんらいせい#service reliability#
+2298610#サービス制御群#サービスせいぎょぐん#service controls#
+2298620#サービス提供区域#サービスていきょうくいき#service area boundary#
+2298630#サービス提供者#サービスていきょうしゃ#service provider#
+2298640#サービス提供地域#サービスていきょうちいき#service area#
+2298650#サービス統合ディジタル網#サービスとうごうディジタルもう#ISDN;integrated services digital network#
+2298660#サービス内容#サービスないよう#service content#
+2298670#サービス品質#サービスひんしつ#quality of service;QOS#
+2298680#サービス品質契約#サービスひんしつけいやく#quality of service agreement, contract#
+2298690#サービス不能攻撃#サービスふのうこうげき#denial of service attack#
+2298700#サービス便覧#サービスびんらん#user handbook;service handbook#
+2298710#サービス妨害攻撃#サービスぼうがいこうげき#denial of service attack#
+2298720#サービス要素#サービスようそ#element of service;service element#
+2298730##サーフィスモデル;サーフェイスモデル;サーフェスモデル;サーフィス・モデル;サーフェイス・モデル;サーフェス・モデル#surface model#
+2298760##サーマルペーパー;サーマル・ペーパー#thermal paper#
+2298770##サーン#CERN#
+2298780##サイオン#PSION#
+2298790##サイクルインスタンス;サイクル・インスタンス#cycle instance#
+2298800##サイクルスチール;サイクル・スチール#cycle stealing#
+2298810#サイクル時間#サイクルじかん#cycle time#
+2298820##サイトシステム;サイト・システム#site system#
+2298830##サイトデザイナ;サイト・デザイナ#site designer#
+2298840##サイトライセンス;サイト・ライセンス#site license#
+2298850##サイバーカフェ#cybercafe#
+2298860##サイバーキャッシュ#cybercash#
+2298870##サイバースクワット;サイバー・スクワット#cyber squat#
+2298880##サイバードッグ#Cyberdog#
+2298890##サイバーパンク#cyberpunk#
+2298900##サイベース#SYBASE#
+2298910##サイリックス#Cyrix#
+2298920#サイレントＲＩＰ#サイレントリップ#silent RIP#
+2298930##サイレントセットアップ;サイレント・セットアップ#silent setup#
+2298940##サインアウト;サイン・アウト#sign out#
+2298950##サインオフ;サイン・オフ#sign off#
+2298960##サインオン;サイン・オン#sign on#
+2298970#サインチェンジ機能#サインチェンジきのう#sign change function#
+2298980##サウスウエスタンベル;サウスウエスタン・ベル#Southwestern Bell#
+2298990##サウスブリッジ;サウス・ブリッジ#South Bridge#
+2299000##サウンドカード;サウンド・カード#sound card#
+2299010##サウンドクリップ;サウンド・クリップ#sound clip#
+2299020##サウンドソース;サウンド・ソース#sound source#
+2299030##サウンドファイル;サウンド・ファイル#sound file#
+2299040##サウンドブラスタ#Sound Blaster#
+2299050##サウンドボード;サウンド・ボード#sound board#
+2299060##サウンドレンジ;サウンド・レンジ#sound range#
+2299070#サウンド機能#サウンドきのう#sound function#
+2299080##サタイア#satire#
+2299090##サッドマック#Sad Mac#
+2299100##サブクラス#subclass#
+2299110##サブコマンド#subcommand#
+2299120##サブコレクション#subcollection#
+2299130##サブサイト#sub-site#
+2299140##サブシェル#sub-shell#
+2299150##サブジェクトライン;サブジェクト・ライン#subject line#
+2299170##サブスクライバー;サブスクライバ#subscriber#
+2299180##サブスクライブ#subscribe#
+2299190##サブスクリプト#subscript#
+2299200##サブストリング#substring#
+2299210##サブセンター#subcenter#
+2299220##サブタイプ#subtype#
+2299230##サブディレクトリ#subdirectory#
+2299240##サブネットマスク;サブネット・マスク#subnet mask#
+2299250##サブネットワークアドレス;サブネットワーク・アドレス#subnetwork point of attachment address;subnetwork address#
+2299260##サブネットワークコネクション#subnetwork-connection#
+2299270#サブネットワーク接続点#サブネットワークせつぞくてん#subnetwork point of attachment#
+2299280#サブネットワーク接続点アドレス#サブネットワークせつぞくてんアドレス#subnetwork point of attachment address;subnetwork address#
+2299290#サブネット化#サブネットか#subnetting#
+2299300#サブノート型パソコン#サブノートがたパソコン#subnotebook personal computer#
+2299310##サブパス#subpath#
+2299330##サブフィールド#subfield#
+2299340##サブプログラム#subprogram#
+2299350#サブルーチン副プログラム#サブルーチンふくプログラム#subroutine subprogram#
+2299360#サブルーチン名#サブルーチンめい#subroutine name#
+2299370##サブレンジ#subrange#
+2299380##サプライア#supplier#
+2299390##サプライヤサイト#supplier site#
+2299400##サプリカント#supplicant#
+2299410##サプレス#suppression#
+2299420#サプレス可#サプレスか#suppressible#
+2299430##サポートウェア#support-ware#
+2299440##サポートグループ;サポート・グループ#support group#
+2299450##サポートスタッフ;サポート・スタッフ#support staff#
+2299460##サマリプロジェクト;サマリープロジェクト;サマリ・プロジェクト;サマリー・プロジェクト#summary project#
+2299470##サムホイール;サム・ホイール#thumb wheel#
+2299480##サンオーエス#SunOS#
+2299490##サンセリフ;サン・セリフ#sans serif#
+2299500##サンソフト#SunSoft#
+2299510##サンドボックス#sandbox#
+2299520##サンハチロク#386#
+2299530##サンプリングキーボード;サンプリング・キーボード#sampling keyboard#
+2299540##サンプリングレート;サンプリング・レート#sampling rate#
+2299550#サンプリング定理#サンプリングていり#sampling theorem#
+2299560##サンプルサイズ;サンプル・サイズ#sample size#
+2299570##サンプルドキュメント;サンプル・ドキュメント#sample document#
+2299580#サンプルホールド装置#サンプルホールドそうち#sample-and-hold device#
+2299590#サンプル集団#サンプルしゅうだん#sample group;sample set#
+2299600##ザーコム#Xircom#
+2299610##ザウルス#ZAURUS#
+2299620##ザクソンインターネット#XAXON Internet#
+2299630##ザップ#zap#
+2299640##シーアール#CR#
+2299650##シーアールエム#CRM#
+2299660##シーアールシー#CRC#
+2299670##シーアールティー#CRT#
+2299680##シーアイイー#CIE#
+2299690##シーイー#CE#
+2299700##シーエー#CA#
+2299710##シーエーイー#CAE#
+2299720##シーエーブイ#CAV#
+2299730##シーエスエムエーシーエー#CSMA-CA#
+2299740##シーエスエムエーシーディー#CSMA-CD#
+2299750##シーエスジェイ#CSJ#
+2299760##シーエスネット#CSNET#
+2299770##シーエスブイ#CSV#
+2299780##シーエムワイケー#CMYK#
+2299790##シーエルブイ#CLV#
+2299800##シークタイム;シーク・タイム#seek time#
+2299810#シーク時間#シークじかん#positioning time;seek time#
+2299820##シーケンシャルアクセス;シーケンシャル・アクセス#sequential access#
+2299830##シーケンシャルファイル;シーケンシャル・ファイル#sequential file#
+2299840##シーケンスソフト;シーケンス・ソフト#sequence soft#
+2299850#シーケンス番号#シーケンスばんごう#sequence number#
+2299860##シーゲート#Seagate#
+2299870##シーシー#cc:#
+2299880##シーシーアイティーティー#CCITT#
+2299890##シーシーディー#CCD#
+2299900##シーシーメイル#cc:Mail#
+2299910##シーシェル;シー・シェル#C shell#
+2299920##シーシャープ#C##
+2299930##シージーエー#CGA#
+2299940##シースリップ#CSLIP#
+2299950##シーターム#CTERM#
+2299960#ＣＤ−Ｒ;ＣＤＲ#シーディーアール#CD-R#
+2299970##シーディーアイ#CD-I#
+2299980##シーディーエムエー#CDMA#
+2299990##シーディージー#CD-G#

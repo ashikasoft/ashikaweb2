@@ -1,0 +1,947 @@
+2320000##パスコード#passcode#
+2320010##パスフレーズ;パス・フレーズ#pass phrase#
+2320020##パスプレフィックス;パス・プレフィックス#path prefix#
+2320030##パスワードエントリ;パスワード・エントリ#password entry#
+2320040##パスワードファイル;パスワード・ファイル#password file#
+2320050#パスワード失効#パスワードしっこう#password expiration#
+2320060#パスワード制限#パスワードせいげん#password control#
+2320070#パスワード保護#パスワードほご#password protection#
+2320080#パス指向#パスしこう#path-oriented;connection-oriented#
+2320090#パス番号#パスばんごう#path number#
+2320100#パス名#パスめい#pathname#
+2320110#パス名の構成要素#パスめいのこうせいようそ#pathname component#
+2320120#パソコン減税#パソコンげんぜい#PC tax reduction#
+2320130#パソコン通信サービス#パソコンつうしんサービス#personal computer communications service#
+2320140#パターン一致#パターンいっち#pattern match;pattern matching#
+2320150#パターン定義表#パターンていぎひょう#pattern table#
+2320160#パターン内部様式#パターンないぶようしき#pattern interior style#
+2320170##パタンマッチ;パタン・マッチ#pattern match#
+2320190#パック１０進表記法;パック１十進表記法#パックじっしんひょうきほう#packed decimal notation#
+2320200##パッケージソフト;パッケージ・ソフト#packaged software#
+2320210##パッケージソフトウェア;パッケージ・ソフトウェア#packaged software#
+2320220#パッケージ名#パッケージめい#package name#
+2320230##パッシブクライアント;パッシブ・クライアント#passive client#
+2320240##パッシブマトリクスディスプレイ;パッシブ・マトリクス・ディスプレイ#passive matrix display#
+2320250##パッチファイル;パッチ・ファイル#patch file#
+2320260##パッチプログラム;パッチ・プログラム#patch program#
+2320270##パッチモジュール;パッチ・モジュール#patch module#
+2320280##パッチレベル;パッチ・レベル#patch level#
+2320290#パニック画面#パニックがめん#panic screen#
+2320300##パニング#panning#
+2320310#パフォーマンス向上#パフォーマンスこうじょう#performance improvement#
+2320320##パブジーン#Pubzine#
+2320330##パブリックキー;パブリック・キー#public key#
+2320340##パブリックドメインソフト;パブリックドメインソフトウェア;パブリックドメインソフトウエア;パブリック・ドメイン・ソフト;パブリック・ドメイン・ソフトウェア;パブリック・ドメイン・ソフトウエア#public domain software;public-domain software;PDS#
+2320360##パブリックフォルダ;パブリック・フォルダ#public folder#
+2320380##パブリッシャー;パブリッシャ#publisher#
+2320400##パラメタバイト;パラメタ・バイト#parameter byte#
+2320410##パラメタフィールド;パラメタ・フィールド#parameter field#
+2320460#パラメタ空間#パラメタくうかん#parameter space#
+2320470#パラメタ結合#パラメタけつごう#parameter association#
+2320490#パラメタ識別子#パラメタしきべつし#parameter identifier;PI#
+2320500#パラメタ値#パラメタち#parameter value;PV#
+2320510#パラメタ範囲#パラメタはんい#parameter range#
+2320540#パラレルＺｉｐ#パラレルジップ#parallel Zip#
+2320550##パラレルインターフェース;パラレルインターフェイス;パラレルインタフェース;パラレル・インターフェース;パラレル・インターフェイス;パラレル・インタフェース#parallel interface#
+2320580##パラレルコネクタ;パラレル・コネクタ#parallel connector#
+2320590##パラレルコンピュータ;パラレル・コンピュータ#parallel computer#
+2320600##パラレルデバイス;パラレル・デバイス#parallel device#
+2320610##パラレルプリンタ;パラレル・プリンタ#parallel printer#
+2320620##パラレルポート;パラレル・ポート#parallel port#
+2320630#パラレル転送#パラレルてんそう#parallel transfer#
+2320640#パラレル伝送#パラレルでんそう#parallel transmission#
+2320650##パリティビット;パリティ・ビット#parity bit#
+2320660#パリティ検査#パリティけんさ#parity check#
+2320670##パルスダイヤリング;パルス・ダイヤリング#pulse dialing#
+2320680##パルスダイアル;パルス・ダイアル#pulse dial#
+2320690#パルス符号変調#パルスふごうへんちょう#pulse-code modulation;PCM#
+2320700#パルス列#パルスれつ#pulse stream (train, string)#
+2320710##パロミノ#palomino#
+2320720#パワーＰＣ#パワーピーシー#PowerPC#
+2320730##パワーオープン#PowerOPEN#
+2320740##パワーオンキー;パワー・オン・キー#power-on key#
+2320750##パワーサイト#PowerSite#
+2320760##パワーサプライ;パワー・サプライ#power supply#
+2320770##パワージェイ#PowerJ#
+2320780##パワーソフト#PowerSoft#
+2320790##パワーデザイナー#PowerDesigner#
+2320800##パワービルダー#PowerBuilder#
+2320820##パワーブック#Powerbook (type of computer)#
+2320830##パワープラスプラス#Power++#
+2320840#パワーマネージメント機能#パワーマネージメントきのう#power management function#
+2320850##パワーユーザー;パワー・ユーザー#power user#
+2320860##パンニング#panning#
+2320870##ヒートシンク;ヒート・シンク#heat sink#
+2320880##ヒートスプレッダ;ヒート・スプレッダ#heat spreader#
+2320890#ヒープ領域#ヒープりょういき#heap area#
+2320900#ヒストリの置換#ヒストリのちかん#history substitution#
+2320910##ヒストリリスト;ヒストリ・リスト#history list#
+2320920#ヒット数#ヒットすう#hit poit#
+2320930#ヒット率#ヒットりつ#hit rate#
+2320940##ヒューズネットワークシステムズ#Hughes Network Systems#
+2320950##ヒューマンインターフェース;ヒューマン・インターフェース#human interface#
+2320960##ビーアールアイ#BRI#
+2320970##ビーアイエス#BIS#
+2320980##ビーアイエスディーエヌ#B-ISDN#
+2320990##ビーアイダブリュー#BIW#
+2321000##ビーイーアール#BER#
+2321010##ビーエスシー#BSC#
+2321020##ビーエスディー#BSD#
+2321030##ビーエヌシーコネクタ#BNC connector#
+2321040##ビーエムピー#BMP#
+2321050##ビーコンステーション;ビーコン・ステーション#beaconing station#
+2321060##ビーシーシー#bcc:#
+2321070##ビーシーディーコード#BCD code#
+2321080##ビーツリー#B-tree#
+2321090##ビートリーブ#Btrieve#
+2321100##ビーナスピー#VENUS-P#
+2321110##ビーピーエス#bps#
+2321120##ビープコード;ビープ・コード#beep code#
+2321130##ビープラス;ビー・プラス#B plus#
+2321140#ビープ音#ビープおん#beep#
+2321150#ビームペネトレーションＣＲＴ#ビームペネトレーションシーアルティー#beam penetration CRT#
+2321160##ビィルトイン#built-in#
+2321170##ビオーエス#BeOS#
+2321180##ビゴット#bigot#
+2321190##ビジジェニック#Visigenic#
+2321200##ビジネスアナリスト;ビジネス・アナリスト#business analyst#
+2321210##ビジネスアプリケーション;ビジネス・アプリケーション#business applications#
+2321220##ビジネスインテリジェンス;ビジネス・インテリジェンス#business intelligence#
+2321230##ビジネスシヨウ#Businessshow#
+2321240#ビジネスソフトウェア連盟#ビジネスソフトウェアれんめい#BSA;Business Software Association#
+2321250##ビジネストラヒック;ビジネス・トラヒック#business traffic#
+2321260##ビジネスプロセス;ビジネス・プロセス#business process#
+2321270##ビジネスモデリングオブジェクト#business modeling objects#
+2321280##ビジネスユーザ;ビジネス・ユーザ#business user#
+2321290##ビジネスロジック;ビジネス・ロジック#business logic#
+2321300##ビジブローカー#VisiBroker#
+2321310##ビジュアルシープラプラ;ビジュアル・シープラプラ#Visual C++#
+2321320##ビジュアルシェル;ビジュアル・シェル#visual shell#
+2321330##ビズテック#BizTech#
+2321340##ビッグエンディアン#big-endian#
+2321350#ビッグエンディアン式#ビッグエンディアンしき#big endian#
+2321360##ビッグブルー;ビッグ・ブルー#Big Blue#
+2321370##ビッグローブ#BIGLOBE#
+2321380##ビットストリーム#bitstream#
+2321390##ビットトランスペアレンシー;ビット・トランスペアレンシー#bit transparency#
+2321400##ビットパターン#bit-pattern#
+2321410##ビットパリティ;ビット・パリティ#bit parity#
+2321420##ビットフィールド#bit-field#
+2321430##ビットブリット#BitBlt#
+2321440##ビットプレーン;ビット・プレーン#bit plane#
+2321450##ビットマスク;ビット・マスク#bit mask#
+2321460##ビットマップディスプレイ;ビットマップ・ディスプレイ#bit-mapped display#
+2321470##ビットマップフォント;ビットマップ・フォント#bit-mapped font#
+2321490##ビットレート;ビットレイト;ビット・レート;ビット・レイト#bit rate#
+2321510#ビット位置#ビットいち#bit position#
+2321520#ビット演算#ビットえんざん#bit operation#
+2321540#ビット構成#ビットこうせい#bit configuration#
+2321550#ビット組み#ビットくみ#bit combination#
+2321560#ビット組合せ#ビットくみあわせ#bit combination#
+2321570#ビット単位#ビットたんい#bitwise#
+2321580#ビット長#ビットちょう#bit length#
+2321590#ビット番号#ビットばんごう#bit number#
+2321600#ビット密度#ビットみつど#bit density;recording density#
+2321610#ビット列#ビットれつ#bit stream;binary digit string#
+2321620#ビット列型#ビットれつがた#bitstring type#
+2321630##ビップス#BIPS#
+2321640#ビデオＢＩＯＳ#ビデオバイオス#video bios#
+2321650#ビデオＣＤ#ビデオシーディー#video CD#
+2321660#ビデオＲＡＭ#ビデオラム#video random access memory;VRAM#
+2321670##ビデオアダプタ;ビデオ・アダプタ#video adapter#
+2321680##ビデオオーバーレイ;ビデオ・オーバーレイ#video overlay#
+2321690##ビデオカード;ビデオ・カード#video card#
+2321700##ビデオキャプチャ;ビデオ・キャプチャ#video capture#
+2321710##ビデオキャプチャーボード;ビデオ・キャプチャー・ボード#video capture board#
+2321730##ビデオサーバー;ビデオサーバ;ビデオ・サーバー;ビデオ・サーバ#video server#
+2321740##ビデオシーディー#VideoCD#
+2321750##ビデオディスプレイカード;ビデオ・ディスプレイ・カード#video display card#
+2321760##ビデオバッファ;ビデオ・バッファ#video buffer#
+2321770##ビデオプリンタ;ビデオ・プリンタ#video printer#
+2321780##ビデオヘッド;ビデオ・ヘッド#video head#
+2321790##ビデオボード;ビデオ・ボード#video board#
+2321800##ビデオライブラリ;ビデオ・ライブラリ#video library#
+2321810##ビデオリンク;ビデオ・リンク#video link#
+2321820#ビデオ会議#ビデオかいぎ#video conference#
+2321830#ビデオ会議システム#ビデオかいぎシステム#video conferencing system#
+2321840#ビデオ同期装置#ビデオどうきそうち#genlock;generation lock#
+2321850##ビフ#BIFF#
+2321860##ビブリッド#biblid#
+2321870##ビム#VIM#
+2321900#ビューイング変換#ビューイングへんかん#viewing transformation;normalization transformation;window-to-viewport transformation#
+2321920##ビューウィンドウ;ビュー・ウィンドウ#view window#
+2321930##ビューポート#viewport#
+2321940#ビューロファックスサービスによる配達#ビューロファックスサービスによるはいたつ#delivery via bureaufax service;PD PR#
+2321950##ビューワ#viewer#
+2321960#ビュー基準座標系#ビューきじゅんざひょうけい#view reference coordinates#
+2321970#ビュー基準点#ビューきじゅんてん#view reference point#
+2321980#ビュー指標#ビューしひょう#view index#
+2321990#ビュー写像変換行列#ビューしゃぞうへんかんぎょうれつ#view mapping matrix#
+2322000#ビュー上方向定義ベクトル#ビューじょうほうこうていぎベクトル#view up vector#
+2322010#ビュー定義表#ビューていぎひょう#view table#
+2322020#ビュー表現#ビューひょうげん#view representation#
+2322030#ビュー平面#ビューへいめん#view plane#
+2322040#ビュー平面法線#ビューへいめんほうせん#view plane normal#
+2322050#ビュー変換入力優先度#ビューへんかんにゅうりょくゆうせんど#view transformation input priority#
+2322060#ビュー方向変換行列#ビューほうこうへんかんぎょうれつ#view orientation matrix#
+2322070#ビュー立体#ビューりったい#view volume#
+2322090##ビルド#build#
+2322100#ビルド番号#ビルドばんごう#build number#
+2322110##ピーアイオー#PIO#
+2322120##ピーアンピー#PnP#
+2322130##ピーエーリスク#PA-RISC#
+2322140##ピーエスアイネット#PSINet#
+2322150##ピーエスツー#PS-2#
+2322160##ピーエルエスキューエル#PL-SQL#
+2322170##ピーエルワン#PL-1#
+2322180##ピークシフトコントロールプログラム#peak shift control program#
+2322190##ピークセルレート;ピーク・セル・レート#peak cell rate#
+2322200#ピークセル速度#ピークセルそくど#peak cell rate;PCR#
+2322210##ピークトラヒック;ピーク・トラヒック#peak traffic#
+2322220##ピークトラフィックコンディション#peak traffic condition#
+2322230##ピークレート;ピーク・レート#peak rate#
+2322240##ピークレベルメータ;ピーク・レベル・メータ#density meter;peak level meter#
+2322250#ピーク速度#ピークそくど#peak speed;peak rate#
+2322260#ピーク帯域幅#ピークたいいきはば#peak bandwidth#
+2322270##ピーケージップ#PKZIP#
+2322280##ピーゴ#P5#
+2322290##ピーゴーゴーシー#P55C#
+2322300##ピーゴーヨンシー#P54C#
+2322310#ＰＣ#ピーシー#PC;personal computer#
+2322320#ＰＣＩ#ピーシーアイ#PCI#
+2322330##ピーシーウィーク#PCWEEK#
+2322340##ピーシーエーティー#PC-AT#
+2322350##ピーシーエックスティー#PC-XT#
+2322360#ＰＣＭ#ピーシーエム#pulse-code modulation;PCM#
+2322370##ピーシーエムシーアイエー#PCMCIA#
+2322380##ピーシーキュージューハチ#PC-98#
+2322390##ピーシードス#PC DOS#
+2322400##ピーシーバン#PC-VAN#
+2322410##ピーシーヒャク#PC100#
+2322420##ピーシーピートス#PC-PTOS#
+2322430##ピースリー#PPP#
+2322440##ピーディー#PD#
+2322450##ピーディーエス#PDS#
+2322460##ピーディーエフ#PDF#
+2322470##ピーディーエム#PDM#
+2322480##ピートス#PTOS#
+2322490##ピーナナ#P7#
+2322500##ピーニーヨンティー#P24T#
+2322510##ピービーエックス#PBX#
+2322520##ピーピーピー#PPP#
+2322530##ピープルソフト#PeopleSoft#
+2322540##ピーメイル#p-mail#
+2322550##ピーラム#PRAM#
+2322560##ピーロク#P6#
+2322570##ピーロム#PROM#
+2322580##ピア#peer#
+2322590##ピアアドレシッング#peer addressing#
+2322600##ピアキャッシュ#peer-caching#
+2322610##ピアグループリーダ;ピア・グループ・リーダ#peer group leader#
+2322620##ピアシステム;ピア・システム#peer system#
+2322630##ピアツーピア#peer-to-peer#
+2322640##ピアフ#PIAFS#
+2322650##ピクセルシェーダ#pixel shader#
+2322670##ピクチャーインピクチャー;ピクチャー・イン・ピクチャー#picture in picture#
+2322680##ピクチャインピクチャ#picture-in-picture#
+2322690##ピクト#PICT#
+2322700#ピコ秒#ピコびょう#picosecond#
+2322710#ピザボックス型#ピザボックスがた#pizza box type (flat square computer chassis)#
+2322720##ピッキングリスト;ピッキング・リスト#picking list#
+2322730##ピッギーバックボード;ピッギー・バック・ボード#piggyback board#
+2322740##ピックアップディレクトリ#pickup directory#
+2322750##ピックスマップ#pixmap#
+2322760##ピックフィルタ;ピック・フィルタ#pick filter#
+2322770#ピック経路#ピックけいろ#pick path#
+2322780#ピック識別子#ピックしきべつし#pick identifier#
+2322790#ピック入力装置#ピックにゅうりょくそうち#pick device#
+2322800##ピッチシフター#pitch shifter#
+2322810##ピピンアットマーク;ピピン・アットマーク#Pippin ATMARK#
+2322820##ピフ#PIF#
+2322830##ピム#PIM#
+2322840##ピュアテキスト;ピュア・テキスト#pure text#
+2322850##ピュアログバックアップ#pure log backup#
+2322860#ｐｉｎｇ#ピング;ピン#ping#
+2322870##ピンコネクタ;ピン・コネクタ#pin connector#
+2322880##ピンジャック;ピン・ジャック#pin jack#
+2322890#ピント送り#ピントおくり#rack focus#
+2322900##ピンフィード;ピン・フィード#pin feed#
+2322910#ピン互換#ピンごかん#pin-compatible#
+2322920#ピン説明#ピンせつめい#pin-outs#
+2322930##フーイズ#whois#
+2322940##フープス#HOOPS!#
+2322950##フーホェア#WhoWhere?#
+2322960#フーリェ変換#フーリェへんかん#fourier transform#
+2322970#フーリエ変換#フーリエへんかん#Fourier transform#
+2322980##ファーストイーサネット;ファースト・イーサネット#fast Ethernet#
+2322990##ファイアワイヤ#FireWire#
+2323000##ファイナルバージョン;ファイナル・バージョン#final version#
+2323010##ファイバーオプティクス#fiber optics#
+2323020##ファイバーチャネル;ファイバチャネル;ファイバー・チャネル;ファイバ・チャネル#Fibre Channel#
+2323030#ファイバー切断#ファイバーせつだん#(intentional) fiber cut#
+2323040##ファイバオプティックス;ファイバ・オプティックス#fiber optics#
+2323060##ファイバツーザカーブ#fiber to the curb;FTTC#
+2323070##ファイバツーザホーム;ファイバトゥザホーム#fiber to the home;FTTH#
+2323090##ファイフォー#FIFO#
+2323110##ファイラー;ファイラ#filer#
+2323120#ファイルＤＳＮ#ファイルディーエスエン#file DSN#
+2323130#ファイルの圧縮#ファイルのあっしゅく#file compression#
+2323140#ファイルの更新#ファイルのこうしん#file updating#
+2323150#ファイルの削除#ファイルのさくじょ#file deletion#
+2323160#ファイルの修復#ファイルのしゅうふく#file recovery#
+2323170#ファイルの断片化#ファイルのだんぺんか#file fragmentation#
+2323180#ファイルの変換#ファイルのへんかん#file conversion#
+2323190#ファイルの保護#ファイルのほご#file protection#
+2323200#ファイルの保守#ファイルのほしゅ#file maintenance#
+2323210##ファイルアクセス;ファイル・アクセス#file access#
+2323220#ファイルアクセスデータ単位#ファイルアクセスデータたんい#file access data unit#
+2323230##ファイルアクセスモード;ファイル・アクセス・モード#file access mode#
+2323240#ファイルアクセス構造#ファイルアクセスこうぞう#file access structure#
+2323250##ファイルアダプタ;ファイル・アダプタ#file adapter#
+2323260##ファイルアロケーションテーブル;ファイル・アロケーション・テーブル#file allocation table;FAT#
+2323270##ファイルオフセット;ファイル・オフセット#file offset#
+2323280##ファイルキャッシュ;ファイル・キャッシュ#file cache#
+2323290##ファイルクリーンアップ;ファイル・クリーンアップ#file clean-up#
+2323300##ファイルグループクラス;ファイル・グループ・クラス#file group class#
+2323310##ファイルコレクション;ファイル・コレクション#file collection#
+2323320##ファイルコンテンツ;ファイル・コンテンツ#file contents#
+2323330##ファイルコンバータ;ファイル・コンバータ#file converter#
+2323340##ファイルサーバ;ファイル・サーバ#file server#
+2323350##ファイルサーバー;ファイル・サーバー#file server#
+2323360#ファイルサービス利用者#ファイルサービスりようしゃ#file service user#
+2323370##ファイルサイズ;ファイル・サイズ#file size#
+2323380##ファイルシェアリング;ファイル・シェアリング#file sharing#
+2323390#ファイルストア動作#ファイルストアどうさ#filestore action#
+2323400##ファイルスロット#file-slot#
+2323410##ファイルセット;ファイル・セット#file set#
+2323420##ファイルテスト;ファイル・テスト#file test#
+2323430##ファイルディスクリプタ;ファイル・ディスクリプタ#file descriptor#
+2323440##ファイルハンドル;ファイル・ハンドル#file handle#
+2323450##ファイルバックアップ;ファイル・バックアップ#file backup#
+2323460##ファイルパーミッション;ファイル・パーミッション#file permission#
+2323470##ファイルフラグメンテーション;ファイル・フラグメンテーション#file fragmentation#
+2323480##ファイルプロパティ;ファイル・プロパティ#file property#
+2323490##ファイルマネージャ;ファイル・マネージャ#file manager#
+2323500##ファイルモード;ファイル・モード#file mode#
+2323510##ファイルモデル;ファイル・モデル#file model#
+2323520#ファイル圧縮#ファイルあっしゅく#file compression#
+2323530#ファイル位置指示子#ファイルいちしじし#file position indicator#
+2323540#ファイル拡張子#ファイルかくちょうし#file extension#
+2323550#ファイル感染型ウイルス#ファイルかんせんかたウイルス#file-infection virus#
+2323560#ファイル管理#ファイルかんり#file management;file-control#
+2323570#ファイル管理記述項#ファイルかんりきじゅつこう#file control entry#
+2323580#ファイル記憶装置#ファイルきおくそうち#file storage#
+2323590#ファイル記述#ファイルきじゅつ#file description#
+2323600#ファイル記述項#ファイルきじゅつこう#file description entry#
+2323610#ファイル記述子#ファイルきじゅつし#file descriptor#
+2323620#ファイル許可ビット#ファイルきょかビット#file permission bits#
+2323630#ファイル共有#ファイルきょうゆう#file sharing#
+2323640#ファイル共用#ファイルきょうよう#file sharing#
+2323650#ファイル句#ファイルく#file clause#
+2323660#ファイル形式#ファイルけいしき#file format#
+2323670#ファイル結合子#ファイルけつごうし#file connector#
+2323680#ファイル固有属性#ファイルこゆうぞくせい#fixed file attributes#
+2323690#ファイル交換ソフトウェア#ファイルこうかんソフトウェア#file replacement software#
+2323700#ファイル作成時#ファイルさくせいじ#file creation time#
+2323710#ファイル始めラベル#ファイルはじめラベル#beginning-of-file label;header label;HDR#
+2323720#ファイル指定#ファイルしてい#file specification#
+2323730#ファイル終わりマーク#ファイルおわりマーク#end-of-file mark#
+2323740#ファイル終わりラベル#ファイルおわりラベル#end-of-file label;trailer label;EOF#
+2323750#ファイル終了条件#ファイルしゅうりょうじょうけん#at end condition#
+2323760#ファイル処理ルーチン#ファイルしょりルーチン#file-handling routine#
+2323770#ファイル所有者クラス#ファイルしょゆうしゃクラス#file owner class#
+2323780#ファイル節#ファイルせつ#file section#
+2323790#ファイル掃除#ファイルそうじ#file clean-up#
+2323800#ファイル送信#ファイルそうしん#file transfer, transmission#
+2323810#ファイル属性#ファイルぞくせい#file attributes#
+2323820#ファイル属性不整合条件#ファイルぞくせいふせいごうじょうけん#file attribute conflict condition#
+2323830#ファイル他者クラス#ファイルたしゃクラス#file other class#
+2323840#ファイル通し番号#ファイルとおしばんごう#file serial number#
+2323850#ファイル転送#ファイルてんそう#file transfer#
+2323860#ファイル転送プロトコル#ファイルてんそうプロトコル#File Transfer Protocol;FTP#
+2323870#ファイル入出力#ファイルにゅうしゅつりょく#file input-output#
+2323880#ファイル分割#ファイルぶんかつ#file section#
+2323890#ファイル編成#ファイルへんせい#file organization#
+2323900#ファイル保護リング#ファイルほごリング#write-enable ring;write ring;file-protection ring;file protect ring;safety ring#
+2323910#ファイル名の完結#ファイルめいのかんけつ#filename completion#
+2323920#ファイル名拡張子#ファイルめいかくちょうし#filename extension#
+2323930#ファイル名置換#ファイルめいちかん#filename substitution#
+2323940#ファイル名展開#ファイルめいてんかい#filename expansion#
+2323950##ファウンダリ#foundry#
+2323960##ファウンドリ#foundry#
+2323970##ファウンドリサービス;ファウンドリ・サービス#foundry service#
+2323980##ファクシミリアダプタ;ファクシミリ・アダプタ#facsimile adapter#
+2323990#ファクス送信#ファクスそうしん#fax transmission#
+2324000##ファクトストア;ファクト・ストア#fact store#
+2324010##ファクトディメンション;ファクト・ディメンション#fact dimension#
+2324020##ファクトリオートメーション;ファクトリ・オートメーション#factory automation;FA#
+2324040##ファジーコンピュータ;ファジー・コンピュータ#fuzzy computer#
+2324050#ファジー制御#ファジーせいぎょ#fuzzy control#
+2324060#ファジー論理#ファジーろんり#fuzzy logic#
+2324070#ファジィ論理#ファジィろんり#fuzzy logic#
+2324080##ファストスカジー#FastSCSI#
+2324090##ファストセレクト;ファスト・セレクト#fast select#
+2324100##ファセットシソーラス#faceted thesaurus#
+2324110#ファセット順位#ファセットじゅんい#citation order#
+2324120#ファセット表示記号#ファセットひょうじきごう#facet indicator#
+2324130#ファセット分類体系#ファセットぶんるいたいけい#faceted classification system#
+2324140#ファセット連結記号#ファセットれんけつきごう#intra-facet connector#
+2324150##ファックスモデム;ファックス・モデム#FAX modem#
+2324160#ファックス通信機能#ファックスつうしんきのう#facsimile communications function#
+2324170##ファット#FAT#
+2324180##ファットパイプ;ファット・パイプ#fat pipe (i.e. a high bandwidth connection)#
+2324190##ファミリーコンピュータ;ファミリー・コンピュータ#family computer#
+2324200##ファンクションコール;ファンクション・コール#function call#
+2324210#ファントムＢＯＭ#ファントムビーオーエム#phantom BOM#
+2324230##フィーチャーグループ;フィーチャー・グループ#feature group#
+2324240##フィーチャコネクタ;フィーチャ・コネクタ#feature connector#
+2324250##フィールドアップグレード;フィールド・アップグレード#field upgrade#
+2324260##フィールドエンジニア;フィールド・エンジニア#field engineer;FE#
+2324270##フィールドテスト;フィールド・テスト#field test#
+2324280#フィールド分離文字#フィールドぶんりもじ#field-separator character#
+2324290##フィップス#FIPS#
+2324300##フィド#FIDO#
+2324310#フィボナッチ探索#フィボナッチたんさく#Fibonacci search#
+2324320#フィボネッチ数列#フィボネッチすうれつ#Fibonacci series#
+2324330#フィラー文字#フィラーもじ#fill character#
+2324340#フィルタ項目#フィルタこうもく#filter-item#
+2324350##フィルハンドル;フィル・ハンドル#fill handle#
+2324360##フィルムスキャナ;フィルム・スキャナ#film scanner#
+2324380##フィルムレコーダ;フィルム・レコーダ#film recorder#
+2324390#フィルム感度#フィルムかんど#film sensitivity#
+2324410##フェースツーフェース#face to face#
+2324420#フェールセーフ動作#フェールセーフどうさ#failsafe operation#
+2324430##フェールソフト#failsoft#
+2324440##フェイスマーク;フェイス・マーク#smiley;emoticon#
+2324450##フェッチサイクル;フェッチ・サイクル#fetch cycle#
+2324460##フェップ#FEP#
+2324470##フェライトコア;フェライト・コア#ferrite core#
+2324480#フェライト磁心#フェライトじしん#ferrite core#
+2324490##フォージーエル#4GL#
+2324500##フォーディー#4D#
+2324510##フォーマ#FOMA#
+2324520##フォーマティング#formatting#
+2324530##フォームスタッカー#form stacker#
+2324540##フォームファクタ;フォーム・ファクタ#form factor#
+2324550##フォールトトレラント#fault-tolerant#
+2324560##フォールバック#fallback;fall-back#
+2324570#フォールバック機能#フォールバックきのう#fallback facility#
+2324580##フォアグラウンドプログラム;フォアグラウンド・プログラム#foreground program#
+2324590##フォアグランドジョブ#foreground job#
+2324600##フォアシステムズ;フォア・システムズ#Fore Systems#
+2324610#フォトＣＤ#フォトシーディー#photo CD#
+2324620##フォトシーディー#PhotoCD#
+2324630##フォトスタンプ;フォト・スタンプ#photo stamp#
+2324640##フォトブラシ;フォト・ブラシ#photo brush#
+2324650##フォトリアリスティック;フォト・リアリスティック#photo realistic#
+2324660##フォトレタッチ;フォト・レタッチ#photo retouching#
+2324670##フォトレタッチソフト;フォトレタッチ・ソフト#photo-retouching software#
+2324680##フォローパン;フォロー・パン#follow pan (in filming)#
+2324690##フォワードリンク;フォワード・リンク#forward link#
+2324700##フォンシェーディング#Phong shading#
+2324710##フォントエディタ;フォント・エディタ#font editor#
+2324720##フォントサイズ;フォント・サイズ#font size#
+2324730##フォントファイル;フォント・ファイル#font file#
+2324740##フォントファミリ;フォント・ファミリ#font family#
+2324750##フォントプログラム;フォント・プログラム#font program#
+2324760##フォントメトリック;フォント・メトリック#font metric#
+2324770#フォント参照#フォントさんしょう#font reference#
+2324780#フォント資源#フォントしげん#font resource#
+2324790#フォント寸法#フォントすんぽう#font size#
+2324800#フォント配置量#フォントはいちりょう#font metrics#
+2324820##フットプリント#footprint#
+2324830##フッロピーディスク#floppy disk#
+2324840##フライアウト;フライ・アウト#fly out#
+2324850##フライトシミュレータ;フライト・シミュレータ#flight simulator#
+2324860##フラクショナル#fractional#
+2324870#フラクタル圧縮#フラクタルあっしゅく#fractal compression#
+2324880##フラグシーケンス;フラグ・シーケンス#flag sequence#
+2324890##フラグレジスタ;フラグ・レジスタ#flag register#
+2324900#フラッシュＲＯＭ#フラッシュロム#flash ROM#
+2324920##フラッシング#flashing#
+2324930##フラッディング#flooding#
+2324940#フラットアドレス空間#フラットアドレスくうかん#flat address space#
+2324950##フラットケーブル;フラット・ケーブル#flat cable#
+2324960##フラットシェーディング;フラット・シェーディング#flat shading#
+2324970##フラットディスプレイ;フラット・ディスプレイ#flat (screen) display#
+2324980##フラットパネル;フラット・パネル#flat panel (monitor, e.g.)#
+2324990##フラットパネルディスプレイ;フラット・パネル・ディスプレイ#flat panel display#
+2325000##フラットパネルモニター;フラット・パネル・モニター#flat panel monitor#
+2325010##フラットベットスキャナ#flatbed scanner#
+2325020##フラットベッドスキャナ;フラットベッド・スキャナ#flatbed scanner#
+2325030#フラットベッド式プロッタ#フラットベッドしきプロッタ#flatbed plotter#
+2325040##フラットリスト;フラット・リスト#flat list#
+2325050#フラット制約集号#フラットせいやくしゅうごう#flat constraint set#
+2325060##フランステレコム;フランス・テレコム#France Telecom#
+2325070#フリーＵＮＩＸ#フリーユニックス#free UNIX#
+2325080##フリーアクセスフロア;フリー・アクセス・フロア#free access floor#
+2325090##フリーエムエル#FreeML#
+2325100##フリーソフトウェアファウンデーション#Free Software Foundation Inc.;FSF#
+2325110##フリービーエスディー#FreeBSD#
+2325120##フリクションフィード;フリクション・フィード#friction feed#
+2325140##フリッカーフリー;フリッカーフリ;リッカフリー;フリッカフリ;フリッカー・フリー;フリッカー・フリ;リッカ・フリー;フリッカ・フリ#flicker-free#
+2325150##フリッカフリー;フリッカ・フリー#flicker free#
+2325160##フリックセット;フリック・セット#flicks set#
+2325170##フルサイズ;フル・サイズ#full size (computer, e.g.)#
+2325180##フルスクリーンエディタ;フルスクリーン・エディタ#full-screen editor#
+2325190#フルタワー型#フルタワーがた#full-tower-style#
+2325200#フルタワー型ＰＣ#フルタワーがたピーシー#full-tower-style PC#
+2325210#フルタワー型コンピュータ#フルタワーがたコンピュータ#full-tower-style computer#
+2325220##フルダンプ;フル・ダンプ#full dump#
+2325230##フルテキストインデックス;フルテキスト・インデックス#full-text index#
+2325240#フルテキスト検索#フルテキストけんさく#full-text search#
+2325250##フルデュプレックス#full-duplex#
+2325260##フルハイト#full-height#
+2325270##フルバージョン;フル・バージョン#full version#
+2325280##フルバックアップ;フル・バックアップ#full backup#
+2325290##フルページディスプレイ;フル・ページ・ディスプレイ#full-page display#
+2325300##フルモーション;フル・モーション#full motion#
+2325310##フルモーションビデオ;フル・モーション・ビデオ#full motion video#
+2325320#フル冗長#フルじょうちょう#fully redundant#
+2325330##フレーミング#framing#
+2325340##フレームシーケンス;フレーム・シーケンス#frame sequence#
+2325350##フレームベース;フレーム・ベース#frame based#
+2325360##フレームリレー;フレーム・リレー#frame relay#
+2325370##フレームリレーサービス;フレーム・リレー・サービス#frame relay service#
+2325380##フレームレート;フレーム・レート#frame rate#
+2325390##フレームロック#framelock#
+2325410#フレーム形式#フレームけいしき#frame format#
+2325420#フレーム検査シーケンス#フレームけんさシーケンス#frame check sequence#
+2325430#フレーム除去#フレームじょきょ#stripping#
+2325440#フレーム同期方式#フレームどうきほうしき#frame synchronous communication#
+2325450#フレーム廃棄#フレームはいき#frame discard#
+2325460##フレキシブルアドバンストアーキテクチャシステム#Flexible Advanced Systems Architecture#
+2325470##フレキシブルディスクカートリッジ;フレキシブル・ディスク・カートリッジ#flexible disk cartridge#
+2325480#フレッツＩＳＤＮ#フレッツアイエスディーエン#FLETS ISDN#
+2325490##フローコントロール;フロー・コントロール#flow control#
+2325500##フローティングパレット;フローティング・パレット#floating palette#
+2325510##フロアノード;フロア・ノード#floor node#
+2325520##フロッピーディスクコントローラ;フロッピー・ディスク・コントローラ#floppy disk controller;FDC#
+2325530##フロッピーディスクドライブ;フロッピー・ディスク・ドライブ#floppy disk drive;FDD#
+2325540##フロッピードライブ;フロッピー・ドライブ#floppy drive#
+2325550##フロップス#FLOPS#
+2325560##フロプティカルディスク#floptical disk#
+2325570##フロントエンドコンピュータ;フロントエンド・コンピュータ#front-end computer#
+2325580#フロントエンド処理#フロントエンドしょり#front-end processing#
+2325590#フロントエンド通信プロセッサ#フロントエンドつうしんプロセッサ#front-end communications processor#
+2325600##フロントバッファ;フロント・バッファ#front buffer#
+2325610##フワイ#for your information;FYI#
+2325620#ブータブルＣＤ#ブータブルシーディー#bootable CDROM#
+2325625#ブータブルＣＤＲＯＭ#ブータブルシーディーロム#bootable CD;bootable CDROM#
+2325640##ブートストラップ#bootstrap#
+2325650##ブートストラッププログラム;ブートストラップ・プログラム#bootstrap program#
+2325660##ブートセクター;ブートセクタ;ブート・セクター;ブート・セクタ#boot sector#
+2325670##ブートディスク;ブート・ディスク#boot disk#
+2325680##ブートドライブ;ブート・ドライブ#boot drive#
+2325690##ブートピー#BOOTP#
+2325700##ブートファイル;ブート・ファイル#boot file#
+2325710##ブートプログラム;ブート・プログラム#boot(strap) program#
+2325720##ブートレコード;ブート・レコード#boot record;BR#
+2325730#ブート可能ディスケット#ブートかのうディスケット#bootable diskette#
+2325740#ブート時に#ブートときに#at boot time#
+2325750#ブート不可能ディスケット#ブートふかのうディスケット#nonbootable diskette#
+2325760##ブードゥー#VooDoo#
+2325770#ブール演算#ブールえんざん#Boolean operation#
+2325780#ブール演算子#ブールえんざんし#Boolean operator#
+2325790#ブール演算表#ブールえんざんひょう#Boolean operation table#
+2325800#ブール関数#ブールかんすう#Boolean function#
+2325810#ブール式#ブールしき#Boolean datatype;logical datatype;Boolean expression#
+2325820#ブール値#ブールち#Boolean value#
+2325830##ブイアール#VR#
+2325840##ブイアールエムエル#VRML#
+2325850##ブイアイ#VI#
+2325860##ブイアイエム#VIM#
+2325870##ブイエフシー#V.FC#
+2325880##ブイエフダブリュー#VFW#
+2325890##ブイエム#VM#
+2325900##ブイエムエス#VMS#
+2325910##ブイエルエスアイ#VLSI#
+2325920##ブイエルエム#VLM#
+2325930##ブイエルバス#VL-bus#
+2325940##ブイオーディー#VOD#
+2325950##ブイサンジュー#V30#
+2325960##ブイサンジューヨン#V.34#
+2325970##ブイシーシーアイ#VCCI#
+2325980##ブイシーピーアイ#VCPI#
+2325990##ブイジーエー#VGA#
+2326000##ブイチャット#V-Chat#
+2326010##ブイティーヒャク#VT-100#
+2326020##ブイテキスト#V-Text#
+2326030##ブイディーティー#VDT#
+2326040##ブイビー#VB#
+2326050##ブイビーエー#VBA#
+2326060##ブイビーエックス#VBX#
+2326070##ブイファスト#V.fast#
+2326080##ブイヨンジューニ#V.42#
+2326090##ブイヨンジューニビアイエス#V.42bis#
+2326100##ブイラム#VRAM#
+2326120##ブックモビル;ブック・モビル#mobile library;bookmobile (USA)#
+2326130##ブックリスト#booklist;bookmark file#
+2326140#ブラインド入力#ブラインドにゅうりょく#blind input#
+2326150##ブラウザクラッシャー;ブラウザ・クラッシャー#browser crasher;browser crusher#
+2326160##ブラウザヘルパーオブジェクト;ブラウザ・ヘルパー・オブジェクト#browser helper object#
+2326170#ブラウザ戦争#ブラウザせんそう#browser war#
+2326180##ブラックバースト;ブラック・バースト#black burst#
+2326190##ブランキング#blanking#
+2326200##ブランクディスク;ブランク・ディスク#blank disk#
+2326210##ブランドウィンドウ;ブランド・ウィンドウ#branding pane#
+2326220##ブリーフケースコンピュータ;ブリーフケース・コンピュータ#briefcase computer#
+2326230##ブリオクエリー#BrioQuery#
+2326240##ブリキング#blinking#
+2326250##ブリッジング#bridging#
+2326260#ブリッジ入力回路#ブリッジにゅうりょくかいろ#bridge input circuit (e.g. in process control)#
+2326270##ブリティッシュテレコム;ブリティッシュ・テレコム#British Telecom;BT#
+2326280##ブリンク#blink#
+2326290##ブルータ#brouter#
+2326300#ブルートフォース攻撃#ブルートフォースこうげき#brute force attack#
+2326310#ブルックの法則#ブルックのほうそく#Brooks's Law#
+2326320#ブレーカーが壊れる#ブレーカーがこわれる#to throw (open) a breaker#
+2326330##ブレークポイント#breakpoint#
+2326340##ブレードサーバ;ブレード・サーバ#blade server#
+2326350##ブレッドボード#breadboard#
+2326360##ブロードキャストアドレス;ブロードキャスト・アドレス#broadcast address#
+2326370##ブロードキャストストーム;ブロードキャスト・ストーム#broadcast storm#
+2326380#ブロードバンドＬＡＮ#ブロードバンドラン#broadband LAN#
+2326390##ブロードバンドルータ;ブロードバンド・ルータ#broadband router#
+2326400#ブロッキング系数#ブロッキングけいすう#blocking factor#
+2326410##ブロックサイズ;ブロック・サイズ#block size#
+2326420##ブロックソフト;ブロック・ソフト#blocking software#
+2326430##ブロックチェック;ブロック・チェック#block check#
+2326440#ブロックチェック文字#ブロックチェックもじ#block check character;BCC#
+2326450##ブロックデバイス;ブロック・デバイス#block device#
+2326460##ブロックバッファリング;ブロック・バッファリング#block buffering#
+2326470##ブロックレベルバックアップ;ブロック・レベル・バックアップ#block level backup#
+2326480#ブロック化#ブロックか#blocking#
+2326490#ブロック化因数#ブロックかいんすう#blocking factor#
+2326500#ブロック間ギャップ#ブロックかんギャップ#interblock gap#
+2326510#ブロック間隔#ブロックかんかく#interblock gap;IBG#
+2326520#ブロック型特殊ファイル#ブロックがたとくしゅファイル#block special file#
+2326530#ブロック検査#ブロックけんさ#block check#
+2326540#ブロック長#ブロックちょう#block size;block length#
+2326550#ブロック転送#ブロックてんそう#block transfer#
+2326560#ブロック符号#ブロックふごう#block code#
+2326570#ブロック連鎖#ブロックれんさ#block chaining#
+2326580##プッシュテクノロジー;プッシュ・テクノロジー#push technology#
+2326590#プッシュ技術#プッシュぎじゅつ#push technology#
+2326600##プライオリティキューシステム#priority queue system#
+2326610#プライバシ保護#プライバシほご#privacy protection#
+2326620#プライベートＩＰアドレス#プライベートアイピーアドレス#private IP address#
+2326630##プライベートアドレス;プライベート・アドレス#private address#
+2326640#プライマリＤＮＳサーバ#プライマリディーエンエスサーバ#primary DNS server#
+2326650##プライマリキャッシュ;プライマリ・キャッシュ#primary cache#
+2326660##プライマリサイト;プライマリ・サイト#primary site#
+2326670##プライマリディスク;プライマリ・ディスク#primary disk#
+2326680##プライマリマスタ;プライマリ・マスタ#primary master#
+2326690##プライマリリング;プライマリ・リング#primary ring#
+2326700#プラグ＆プレー#プラグアンドプレー#plug and play#
+2326710##プラグアンドプレイ;プラグ・アンド・プレイ#plug and play#
+2326720#プラグアンドプレイＢＩＯＳ#プラグアンドプレイバイオス#plug and play BIOS#
+2326730##プラグイン#plug-in (software);plugin#
+2326740#プラグ及びジャック#プラグおよびジャック#plug and jack#
+2326750#プラグ互換#プラグごかん#plug-compatible#
+2326760#プラスチック光ファイバ#プラスチックひかりファイバ#plastic optical fiber#
+2326770##プラズマディスプレイパネル;プラズマ・ディスプレイ・パネル#plasma display panel;PDP#
+2326780##プラズマパネル;プラズマ・パネル#plasma panel;gas panel#
+2326790##プラッタ#platter#
+2326800#プラットフォーム特有#プラットフォームとくゆう#platform specific#
+2326810##プラテン#platen#
+2326820##プリアンブル#preamble#
+2326830##プリインストール#preinstall#
+2326840##プリインストールソフトウェア;プリインストール・ソフトウェア#preinstalled software#
+2326850##プリエンプティブ#preemptive#
+2326860##プリエンプティブなマルチタスク#preemptive multitasking#
+2326870##プリエンプティブマルチタスク;プリエンプティブ・マルチタスク#preemptive multitasking#
+2326880#プリエンプティブ式のマルチタスキング#プリエンプティブしきのマルチタスキング#preemptive multitasking#
+2326890#プリセット値#プリセットあたい#preset value#
+2326900##プリチャージ#precharge#
+2326910##プリトラ#pre-translation#
+2326920##プリフェッチ#prefetch#
+2326940##プリベータ#pre-beta#
+2326950##プリペイドテレフォンカード;プリペイド・テレフォン・カード#prepaid telephone card#
+2326960##プリンタウィンドウ;プリンタ・ウィンドウ#printer window#
+2326970##プリンタエンジン;プリンタ・エンジン#printer engine#
+2326980##プリンタケーブル;プリンタ・ケーブル#printer cable#
+2326990##プリンタコネクタ;プリンタ・コネクタ#printer connector#
+2327000##プリンタセッション;プリンタ・セッション#printer session#
+2327010##プリンタドライバ;プリンタ・ドライバ#printer driver#
+2327020##プリンタバッファ;プリンタ・バッファ#printer buffer#
+2327030##プリンタフォント;プリンタ・フォント#printer font#
+2327040##プリンタポート;プリンタ・ポート#printer port#
+2327050#プリンタ指定#プリンタしてい#printer designation#
+2327060#プリンタ制御コード#プリンタせいぎょコード#printer control code#
+2327070##プリントキュー;プリント・キュー#print queue#
+2327080##プリントサーバー;プリント・サーバー#print server#
+2327090##プリントスプーラ;プリント・スプーラ#print spooler#
+2327100##プリントスプール;プリント・スプール#print spooling#
+2327110##プリントスルー;プリント・スルー#print through#
+2327120##プリントプレビュー;プリント・プレビュー#print preview#
+2327130##プリントプロセッサ;プリント・プロセッサ#print processor#
+2327140##プリントマネージャ;プリント・マネージャ#Print Manager#
+2327150#プリント回路#プリントかいろ#printed circuit#
+2327170#プリント配線盤#プリントはいせんばん#printed circuit board#
+2327180#プリント板#プリントばん#printed circuit board;PC board;PCB#
+2327190##プルアップメニュー;プルアップ・メニュー#pull-up menu#
+2327200##プルダウンメニュー;プルダウン・メニュー#pulldown menu#
+2327210#プレーンテキスト版#プレーンテキストはん#plain text version#
+2327220##プレインストール#preinstall#
+2327230##プレシャットダウン#preshutdown#
+2327240##プレシャットダウンタイムアウト#preshutdown time-out#
+2327250##プレゼンテーションコンテキスト;プレゼンテーション・コンテキスト#presentation context#
+2327260#プレゼンテーションコンテキスト識別#プレゼンテーションコンテキストしきべつ#presentation context identification#
+2327270#プレゼンテーションコンテキスト識別子#プレゼンテーションコンテキストしきべつし#presentation context identifier#
+2327280##プレゼンテーションソフト;プレゼンテーション・ソフト#presentation software#
+2327290##プレゼンテーションソフトウェア;プレゼンテーション・ソフトウェア#presentation software#
+2327300#プレゼンテーションデータ値#プレゼンテーションデータち#presentation data value#
+2327310##プレゼンテーションマネージャ;プレゼンテーション・マネージャ#presentation manager;PM#
+2327320#プレゼンテーション層#プレゼンテーションそう#presentation layer#
+2327330##プレップ#PReP#
+2327340##プレビューリリース;プレビュー・リリース#preview release#
+2327350##プレフィックス#prefix#
+2327360#プレフィックス形シフトキー#プレフィックスがたしふとキー#prefix-type shift key#
+2327370#プレフィックス表記法#プレフィックスひょうきほう#prefix notation;Polish notation;parenthesis-free notation;Lukasiewicz notation#
+2327380##プレマスタリング#premastering#
+2327390##プロアクティブ#ProActive#
+2327400##プロアクティブキャッシュ;プロアクティブ・キャッシュ#proactive caching#
+2327440##プログラマーズツールキット#programmer's tool kit#
+2327450##プログラマブル#programmable#
+2327460##プログラミングインターフェイス;プログラミング・インターフェイス#programming interface#
+2327470##プログラミングシステム;プログラミング・システム#programming system#
+2327480#プログラミング可能#プログラミングかのう#programmable#
+2327490#プログラミング環境#プログラミングかんきょう#programming environment#
+2327500#プログラミング言語#プログラミングげんご#programming language#
+2327510#プログラムＩＯ#プログラムアイオー#Programmed Input-Output#
+2327520##プログラムエリア;プログラム・エリア#program area#
+2327530##プログラムカウンタ;プログラム・カウンタ#program counter#
+2327540##プログラムデータ;プログラム・データ#program data#
+2327550##プログラムファンクションキー;プログラム・ファンクション・キー#program function key;PF key#
+2327560##プログラムマネージャ;プログラム・マネージャ#program manager#
+2327570##プログラムライブラリ;プログラム・ライブラリ#program library#
+2327580##プログラムレジスタ;プログラム・レジスタ#instruction address register;program register;instruction pointer register#
+2327590#プログラム依存形障害#プログラムいぞんがたしょうがい#program-sensitive fault#
+2327600#プログラム可能#プログラムかのう#programmable#
+2327610#プログラム可能読取り専用記憶装置#プログラムかのうよみとりせんようきおくそうち#programmable read-only memory;PROM#
+2327620#プログラム固定式計算器#プログラムこていしきけいさんき#nonprogrammable calculator#
+2327630#プログラム仕様#プログラムしよう#program specification#
+2327640#プログラム試験時間#プログラムしけんじかん#program test time#
+2327650#プログラム式計算器#プログラムしきけいさんき#programmable calculator#
+2327660#プログラム実動時間#プログラムじつどうじかん#program production time#
+2327670#プログラム終わり見出し#プログラムおわりみだし#end program header#
+2327680#プログラム状態語#プログラムじょうたいご#program status word;PSW#
+2327690#プログラム制御式のアドレス指定可能な記憶域をもつ計算器#プログラムせいぎょしきのアドレスしていかのうなきおくいきをもつけいさんき#calculator with program-controlled addressable storage#
+2327700#プログラム制御式及びキーボード制御式のアドレス指定可能な記憶域をもつ計算器#プログラムせいぎょしきおよびキーボードせいぎょしきのアドレスしていかのうなきおくいきをもつけいさんき#calculator with program-controlled and keyboard controlled addressable storage#
+2327710#プログラム単位#プログラムたんい#module;program unit#
+2327720#プログラム保守マニュアル#プログラムほしゅマニュアル#program maintenance manual#
+2327730#プログラム保守説明書#プログラムほしゅせつめいしょ#program maintenance manual#
+2327740#プログラム名#プログラムめい#program-name#
+2327750#プログラム名記述項#プログラムめいきじゅつこう#program identification entry#
+2327760#プログレッシブＪＰＥＧ#プログレッシブジェーペッグ#progressive Joint Photographic Expert Group#
+2327770##プロシー#Pro*C#
+2327780##プロジェクトグループ;プロジェクト・グループ#project group#
+2327790##プロジェクトタイプ;プロジェクト・タイプ#project type#
+2327800##プロジェクトタスク;プロジェクト・タスク#project tasks#
+2327810##プロジェクトデザイナ;プロジェクト・デザイナ#project designer#
+2327820##プロジェクトファイル;プロジェクト・ファイル#project file#
+2327830#プロジェクト管理#プロジェクトかんり#project management#
+2327840#プロジェクト管理ソフト#プロジェクトかんりソフト#project managemnet software#
+2327850#プロジェクト計画#プロジェクトけいかく#project planning#
+2327860#プロジェクト仕様書#プロジェクトしようしょ#project specification#
+2327870#プロジェクト制御#プロジェクトせいぎょ#project control#
+2327880#プロジェクト統制#プロジェクトとうせい#project control#
+2327890#プロジェクト立案#プロジェクトりつあん#project planning#
+2327900#プロセスＩＤ#プロセスアイディー#process ID#
+2327910#プロセスの生存期間#プロセスのせいぞんきかん#process lifetime#
+2327920##プロセスアカウンティング;プロセス・アカウンティング#process accounting#
+2327930##プロセスインタフェースシステム;プロセス・インタフェース・システム#process interface system#
+2327940##プロセスカラー;プロセス・カラー#process color#
+2327950##プロセスグループ;プロセス・グループ#process group#
+2327960#プロセスグループＩＤ#プロセスグループアイディー#process group ID#
+2327980##プロセスグループリーダ;プロセス・グループ・リーダ#process group leader#
+2327990#プロセス割込み信号#プロセスわりこみしんごう#process interrupt signal#
+2328000#プロセス間通信#プロセスかんつうしん#InterProcess Communication#
+2328010#プロセス制御装置#プロセスせいぎょそうち#process control equipment#
+2328020#プロセス番号#プロセスばんごう#process number#
+2328030##プロセッサカード;プロセッサ・カード#processor card#
+2328040##プロセッサバウンド;プロセッサ・バウンド#processor bound#
+2328050##プロセッサバス;プロセッサ・バス#processor bus#
+2328060##プロセッサボード;プロセッサ・ボード#processor board#
+2328070#プロセッサ処理主体#プロセッサしょりしゅたい#processor bound#
+2328080##プロダクションルール;プロダクション・ルール#production rule#
+2328090##プロッタフォント;プロッタ・フォント#plotter font#
+2328100#プロッタ増分量#プロッタぞうぶんりょう#plotter step size#
+2328110##プロッティングヘッド;プロッティング・ヘッド#plotting head#
+2328120##プロットエリア;プロット・エリア#plot area#
+2328130#プロテクティブＭＢＲ#プロテクティブエムビーアー#protective MBR#
+2328140##プロテクトメモリー;プロテクト・メモリー#protected memory#
+2328150##プロテクトモード;プロテクト・モード#protected mode#
+2328160##プロディジー#Prodigy#
+2328170##プロトコルアナライザ;プロトコル・アナライザ#protocol analyzer#
+2328180##プロトコルスイート;プロトコル・スイート#protocol suite#
+2328190##プロトコルスタック;プロトコル・スタック#protocol stack#
+2328200#プロトコルデータ単位#プロトコルデータたんい#PDU;Protocol Data Unit#
+2328210#プロトコル階層#プロトコルかいそう#protocol hierarchy#
+2328220#プロトコル機械#プロトコルきかい#Protocol Machine;PM#
+2328230#プロトコル群#プロトコルぐん#protocol suite;protocol set#
+2328240#プロトコル誤り#プロトコルあやまり#protocol error#
+2328250#プロトコル実装適合性宣言#プロトコルじっそうてきごうせいせんげん#protocol implementation conformance statement;PICS#
+2328260#プロトコル適合性試験報告書#プロトコルてきごうせいしけんほうこくしょ#protocol conformance test report;PCTR#
+2328270#プロトコル変換#プロトコルへんかん#protocol conversion#
+2328280##プロトタイプシステム;プロトタイプ・システム#prototype system#
+2328290##プロパティエディタ;プロパティ・エディタ#property editor#
+2328300##プロパティキャッシュ;プロパティ・キャッシュ#property cache#
+2328310##プロパティセット;プロパティ・セット#property set#
+2328320##プロパティバッグ;プロパティ・バッグ#property bag#
+2328330##プロパティマッピング;プロパティ・マッピング#property mapping#
+2328340##プロビジョニング#provisioning#
+2328350##プロファイル#profile#
+2328360##プロファイルエディタ;プロファイル・エディタ;プロ・ファイル・エディタ#profile editor#
+2328370##プロファイルチケット;プロファイル・チケット#profile ticket#
+2328380##プロファイルプロパティ;プロファイル・プロパティ#profile property#
+2328390##プロフェショナル#professional#
+2328400##プロプライエタリ#proprietary#
+2328410##プロポーショナルスペーシング#proportional spacing#
+2328420##プロポーショナルフォント#proportional font#
+2328430##プロミスキャスモード;プロミスキャス・モード#promiscuous mode#
+2328440##プロリニア#PROLINEA#
+2328450#プロンプトに対して#プロンプトにたいして#at the prompt#
+2328460#プロ版#プロはん#professional version#
+2328470##ヘイズ#Hayes#
+2328480#ヘイズＡＴコマンド#ヘイズエーティーコマンド#Hayes AT command#
+2328490#ヘイズ互換#ヘイズごかん#Hayes compatible#
+2328500##ヘッダーファイル;ヘッダファイル;ヘッダー・ファイル;ヘッダ・ファイル#header file (e.g. .h)#
+2328520##ヘッダレコード;ヘッダ・レコード#header record#
+2328530##ヘッドエンド#headend#
+2328540##ヘッドクラッシュ;ヘッド・クラッシュ#head crash#
+2328550##ヘッドクリーニングキット;ヘッド・クリーニング・キット#head cleaning kit#
+2328560##ヘッドディスクアセンブリ;ヘッド・ディスク・アセンブリ#head-disk assembly;HDA#
+2328570##ヘッドマウンテッド;ヘッド・マウンテッド#head-mounted (display, for VR)#
+2328580##ヘッドマウントディスプレイ;ヘッド・マウント・ディスプレー;ヘッドマウントディスプレー#head mounted display;HMD#
+2328590##ヘッドレス#headless#
+2328600##ヘッドレスサーバ;ヘッドレス・サーバ#headless server#
+2328610#ヘッドローディング域#ヘッドローディングいき#head loading zone#
+2328620#ヘッド高#ヘッドこう#flying height;head gap#
+2328630#ヘッド衝突#ヘッドしょうとつ#head crash#
+2328640#ヘッド切換え#ヘッドきりかえ#head switching#
+2328650##ヘテロジニアスコンソリデーション;ヘテロジニアス・コンソリデーション#heterogeneous consolidation#
+2328660##ヘビーユーザー;ヘビー・ユーザー#heavy user#
+2328670##ヘリカルスキャン;ヘリカル・スキャン#helical scan#
+2328680##ヘルパーアプリケーション;ヘルパー・アプリケーション#helper application#
+2328690##ヘルパプログラム;ヘルパ・プログラム#helper program#
+2328700##ヘルプコレクション;ヘルプ・コレクション#help collection#
+2328710##ヘルプデスク;ヘルプ・デスク#help desk#
+2328720##ヘルプトピック;ヘルプ・トピック#help topics#
+2328730##ヘルプファイル;ヘルプ・ファイル#help file#
+2328740##ヘルプメッセージ;ヘルプ・メッセージ#help message#
+2328750##ヘルプメニュー;ヘルプ・メニュー#help menu#
+2328760#ヘルプ画面#ヘルプがめん#help screen#
+2328770#ヘルプ機能#ヘルプきのう#help function#
+2328780##ベーシックサービス;ベーシック・サービス#basic service#
+2328790##ベーシックディスク;ベーシック・ディスク#basic disk#
+2328800##ベースアドレス;ベース・アドレス#base address#
+2328810##ベースアドレスレジスタ;ベース・アドレス・レジスタ#base address register#
+2328820##ベースステーション;ベース・ステーション#base station#
+2328830##ベースバンド#baseband#
+2328840#ベースバンドＬＡＮ#ベースバンドラン#baseband LAN#
+2328860#ベースバンド伝送#ベースバンドでんそう#baseband transmission#
+2328870##ベースメモリ;ベース・メモリ#base memory#
+2328880##ベースラインドキュメント;ベースライン・ドキュメント#baseline document#
+2328890##ベースレジスタ;ベース・レジスタ#base register#
+2328900#ベース基地#ベースきち#base station#
+2328910##ベータテスト;ベータ・テスト#beta test#
+2328920#ベータテストを実施する#ベータテストをじっしする#to beta test (something)#
+2328930##ベータバージョン;ベータ・バージョン#beta version#
+2328940##ベーパーウェア#vaporware#
+2328950##ベアラ#bearer#
+2328960##ベアラサービス;ベアラ・サービス#bearer service#
+2328970##ベイシック#BASIC#
+2328980##ベクターグラフィックス;ベクタグラフィックス;ベクター・グラフィックス;ベクタ・グラフィックス#vector graphics#
+2328990##ベクターフォント;ベクタフォント;ベクター・フォント;ベクタ・フォント#vector font#
+2329020##ベクトルジェネレータ;ベクトル・ジェネレータ#vector generator#
+2329030##ベクトルデータ;ベクトル・データ#vector data#
+2329040##ベクトルフォント;ベクトル・フォント#vector font#
+2329050##ベクトルプロセッサ;ベクトル・プロセッサ#vector processor#
+2329060##ベクトルラベル;ベクトル・ラベル#vector label#
+2329070#ベクトル処理機構#ベクトルしょりきこう#array processor;vector processor#
+2329080#ベクトル処理装置#ベクトルしょりそうち#array processor;vector processor#
+2329090#ベクトル添字#ベクトルそえじ#vector subscript#
+2329100#ベクトル発生器#ベクトルはっせいき#vector generator#
+2329110##ベサ#VESA#
+2329120##ベジェ#Bezier#
+2329130#ベジェ曲線#ベジェきょくせん#Bezier curve#
+2329140##ベストエフォート;ベスト・エフォート#best effort#
+2329150#ベストエフォート型#ベストエフォートかた#best effort type#
+2329160##ベゼル#bezel#
+2329170##ベッキー#Becky!#
+2329190##ベリサイン#Verisign#
+2329200##ベルアトランティック;ベル・アトランティック#Bell Atlantic (Regional Bell Operating Company - US)#
+2329210##ベルトプリンタ;ベルト・プリンタ#belt printer#
+2329220#ベルト印字装置#ベルトいんじそうち#belt printer#
+2329230##ベルヌーイ#Bernoulli#
+2329240#ベル型#ベルがた#bell-shaped (e.g. curve)#
+2329250#ベル研究所#ベルけんきゅうしょ#Bell laboratories#
+2329260##ベロシティ#velocity#
+2329270#ベンダ側#ベンダがわ#vendor-side#
+2329280##ベンチマークテスト;ベンチマーク・テスト#benchmark test#
+2329290#ベンチマーク試験#ベンチマークしけん#benchmark test#
+2329300#ページの向き#ページのむき#page orientation#
+2329320##ページデータセット;ページ・データセット#page data set#
+2329330##ページビュー;ページ・ビュー#page view#
+2329340##ページファイル;ページ・ファイル#page file#
+2329350##ページフォルト;ページ・フォルト#page fault#
+2329360##ページフレーム;ページ・フレーム#page frame#
+2329370##ページプリンタ;ページ・プリンタ#page printer#
+2329380##ページミル#PageMill#
+2329390##ページモード;ページ・モード#page mode#
+2329400##ページャー#pager#
+2329410##ページレイアウトプログラム;ページ・レイアウト・プログラム#page layout program#
+2329420#ページング可能#ページングかのう#pageable#
+2329430#ページング技法#ページんぐぎほう#paging technique#
+2329440#ページ印字装置#ページいんじそうち#page printer#
+2329450#ページ記述言語#ページきじゅつげんご#Page Description Language;PDL#
+2329460#ページ脚書き#ページあしがき#page footing#
+2329470#ページ区切り#ページくぎり#page break#
+2329480#ページ座標系#ページざひょうけい#page coordinate system#
+2329490#ページ集合#ページしゅうごう#page set#
+2329500#ページ書き込み保護#ページかきこみほご#page write protect#
+2329510#ページ置換アルゴリズム#ページちかんアルゴリズム#page replacement algorithm#
+2329520#ページ読取り装置#ページよみとりそうち#page reader#
+2329530#ページ番号#ページばんごう#page number#
+2329540#ページ番号を付ける#ページばんごうをつける#to paginate#
+2329550#ページ分け#ページわけ#pagination#
+2329560#ページ変換例外#ページへんかんれいがい#page translation exception#
+2329570#ページ本体#ページほんたい#page body#
+2329580#ページ枠#ページわく#page frame#
+2329590##ペーパフィード;ペーパ・フィード#paper feed#
+2329600##ペイジャー#pager#
+2329610##ペイジング#paging#
+2329620##ペイパーユーズ#pay-per-use#
+2329630##ペイロード#payload (of a cell, packet, etc.)#
+2329640##ペインティング#painting#
+2329650##ペインティングソフトウェア;ペインティング・ソフトウェア#painting software#
+2329660##ペイントソフト;ペイント・ソフト#paint software#
+2329670##ペイントプログラム;ペイント・プログラム#paint program#
+2329680#ペイント系プログラム#ペイントけいプログラム#paint program#
+2329690##ペギング#pegging#
+2329700##ペタ#peta-;10^15#
+2329710##ペタバイト#petabyte#
+2329720##ペネトレーションテスト#penetration test#
+2329730##ペリフェラル#peripheral#
+2329740##ペル#pel#
+2329760##ペンコンピュータ;ペン・コンピュータ#pen computer#
+2329770##ペンティアム#Pentium (Intel processor)#
+2329810##ペンティアムオーディーピー;ペンティアム・オーディーピー#Pentium ODP#
+2329820##ペンティアムスリー;ペンティアム・スリー#Pentium III#
+2329830##ペンティアムツー;ペンティアム・ツー#Pentium II#
+2329840##ペンティアムツージーオン;ペンティアムツー・ジーオン#Pentium II Xeon#
+2329850##ペンティアムプロ#Pentium Pro#
+2329860##ペンフリック;ペン・フリック#pen flick#
+2329880##ペンボタン#pen button#
+2329890#ペン入力#ペンにゅうりょく#pen input#
+2329900##ホーブ#HORB#
+2329910##ホームアドレス;ホーム・アドレス#home address#
+2329920##ホームコンピューティング;ホーム・コンピューティング#home computing#
+2329930##ホームテレホン;ホーム・テレホン#home telephone#
+2329940##ホームポジション;ホーム・ポジション#home position#
+2329950##ホームマシン;ホーム・マシン#exercise machine;trainer#
+2329970##ホームユーザー;ホームユーザ;ホーム・ユーザー;ホーム・ユーザ#home user#
+2329980#ホーム位置#ホームいち#home position#
+2329990##ホールドタイム;ホールド・タイム#hold time#

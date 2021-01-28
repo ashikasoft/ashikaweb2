@@ -1,0 +1,977 @@
+2390000#無駄時間#むだじかん#dead time#
+2390010#無通話時#むつうわじ#silent time;silence period#
+2390020#無停電電源#むていでんでんげん#uninterruptible power supply;UPS#
+2390030#無停電電源装置#むていでんでんげんそうち#Uninterruptible Power Supply;UPS#
+2390040#無変換#むへんかん#non-conversion;nonconversion#
+2390050#矛盾データ#むじゅんデータ#inconsistent data#
+2390060#名称集#めいしょうしゅう#nomenclature#
+2390070#名称変更#めいしょうへんこう#name change#
+2390080#名称領域#めいしょうりょういき#title-domain#
+2390090#名称領域名#めいしょうりょういきめい#title-domain-name#
+2390100#名前による代入#なまえによるだいにゅう#assignment by name#
+2390110#名前コンテキスト#なまえコンテキスト#naming context#
+2390120#名前解決#なまえかいけつ#name resolution#
+2390130#名前解析#なまえかいせき#name resolution#
+2390140#名前開始文字#なまえかいしもじ#name start character#
+2390150#名前群#なまえぐん#name group#
+2390160#名前結合#なまえけつごう#name association#
+2390170#名前指定実体参照#なまえしていじったいさんしょう#named entity reference#
+2390180#名前指定文字参照#なまえしていもじさんしょう#named character reference#
+2390190#名前字句#なまえじく#name token#
+2390200#名前字句群#なまえじくぐん#name token group#
+2390210#名前集合#なまえしゅうごう#name set#
+2390230#名前付き定数#なまえつきていすう#named constant#
+2390240#名前文字#なまえもじ#name character#
+2390250#名目転送速度#めいもくてんそうそくど#nominal transfer rate#
+2390260#名礼#なれ#label (e.g. in programming languages)#
+2390270#命名機関#めいめいきかん#naming-authority#
+2390280#命名規則#めいめいきそく#naming rule#
+2390290#命名副領域#めいめいふくりょういき#naming-subdomain#
+2390300#命名方法引数#めいめいほうほうひきすう#naming rules parameter#
+2390310#命名領域#めいめいりょういき#naming domain#
+2390320#命令アドレスレジスタ#めいれいアドレスレジスタ#instruction address register;program register;instruction pointer register#
+2390330#命令コード#めいれいコード#Operation Code;opcode#
+2390340#命令サイクル#めいれいサイクル#instruction cycle#
+2390350#命令セット#めいれいセット#instruction set#
+2390360#命令セットアーキテクチャ#めいれいセットアーキテクチャ#instruction set architecture#
+2390370#命令ポインタレジスタ#めいれいポインタレジスタ#instruction address register;program register;instruction pointer register#
+2390380#命令レジスタ#めいれいレジスタ#instruction register#
+2390390#命令形式#めいれいけいしき#instruction format#
+2390400#命令再試行#めいれいさいしこう#instruction execution retry#
+2390410#命令実行段階#めいれいじっこうだんかい#execution cycle#
+2390420#命令取り出しサイクル#めいれいとりだしサイクル#fetch cycle#
+2390430#命令取出し段階#めいれいとりだしだんかい#instruction fetch cycle#
+2390440#命令制御ユニット#めいれいせいぎょユニット#instruction control unit#
+2390450#明確化#めいかくか#definition;clarification#
+2390460#明示アドレシング#めいじアドレシング#explicit addressing#
+2390470#明示アドレス指定#めいじアドレスしてい#explicit addressing#
+2390480#明示的引用仕様#めいじてきいんようしよう#explicit interface#
+2390490#明示的順方向輻輳通知#めいじてきじゅんほうこうふくそうつうち#explicit forward congestion indication#
+2390500#明示的並列命令コンピューティング技術#めいじてきへいれつめいれいコンピューティングぎじゅつ#EPIC:Explicitly Parallel Instruction Computing#
+2390510#明示内容参照#めいじないようさんしょう#explicit content reference#
+2390520#明示範囲符#めいじはんいふ#explicit scope terminator#
+2390530#明示番地指定#めいじばんちしてい#explicit addressing#
+2390540#明示表現#めいじひょうげん#explicit expression#
+2390550#明示変換#めいじへんかん#explicit conversion#
+2390560#明示連結#めいじれんけつ#explicit link (process definition)#
+2390570#明示輻輳通知#めいじふくそうつうち#explicit congestion notification#
+2390580#面オクテット#めんオクテット#plane octet#
+2390590#網エレメント#もうエレメント#network element#
+2390600#網リソース#もうリソース#network resource;network resources#
+2390610#網安定性#もうあんていせい#network stability#
+2390620#網管理#もうかんり#network management#
+2390630#網効率#もうこうりつ#network efficiency#
+2390640#網識別子#もうしきべつし#network identifier#
+2390650#網制御装置#もうせいぎょそうち#NCU;Network Control Unit#
+2390660#網点#あみてん#dot#
+2390670#網目状ネットワーク#あみめじょうネットワーク#mesh network#
+2390680#網目状網#あみめじょうもう#mesh network#
+2390690#木構造#きこうぞう#tree structure#
+2390700#木状ネットワーク#きじょうネットワーク#tree network#
+2390710#木状網#きじょうもう#tree network#
+2390720#木探索#きたんさく#tree search#
+2390730#黙示属性#もくしぞくせい#impliable attribute#
+2390740#目的プログラム#もくてきプログラム#object program#
+2390750#目的モジュール#もくてきモジュール#object module#
+2390760#目的言語#もくてきげんご#object language#
+2390770#目的要素#もくてきようそ#target element#
+2390780#目標シソーラス#もくひょうシソーラス#target thesaurus#
+2390790#目標デスクリプタ#もくひょうデスクリプタ#target descriptor#
+2390800#目標プログラム#もくひょうプログラム#target program#
+2390810#戻り値#もどりち#return value;return(ed) value#
+2390820#問合せ関数#といあわせかんすう#inquiry function#
+2390830#問合せ機能#といあわせきのう#inquiry function#
+2390840#問合せ言語#といあわせげんご#query language#
+2390850#問合せ端末#といあわせたんまつ#inquiry station#
+2390870#問題記述#もんだいきじゅつ#problem definition;problem description#
+2390880#問題向き言語#もんだいむきげんご#problem-oriented language#
+2390890#問題定義#もんだいていぎ#problem definition;problem description#
+2390900#矢印キー#やじるしキー#arrow key#
+2390910#輸出権#ゆしゅつけん#export license, permit#
+2390920#輸送問題#ゆそうもんだい#transportation problem#
+2390930#優先Ｎサービスデータ単位#ゆうせんエンサービスデータたんい#expedited (N)-service-data-unit;(N)-expedited-data-unit#
+2390940#優先リンクセット#ゆうせんリンクセット#priority link set#
+2390950#優先語#ゆうせんご#preferred term#
+2390960#優先使用語#ゆうせんしようご#preferred term#
+2390970#優先使用語をもたないシソーラス#ゆうせんしようごをもたないシソーラス#thesaurus without preferred terms#
+2390980#優先使用語をもつシソーラス#ゆうせんしようごをもつシソーラス#thesaurus with preferred terms#
+2390990#優先度#ゆうせんど#degree of relative priority#
+2391000#有意瞬間#ゆういしゅんかん#significant instant#
+2391010#有意状態#ゆういじょうたい#significant condition#
+2391020#有機ＥＬ#ゆうきイーエル#organic electroluminescence#
+2391030#有効ＰＰＤＵ#ゆうこうピーピーディーユー#valid PPDU#
+2391040#有効ＳＰＤＵ#ゆうこうエスピーディーユー#valid SPDU#
+2391050#有効けた#ゆうこうけた#significant digit#
+2391060#有効けた演算#ゆうこうけたえんざん#significant digit arithmetic#
+2391070#有効データ転送速度#ゆうこうデータてんそうそくど#effective data transfer rate#
+2391080#有効域#ゆうこういき#scoping unit#
+2391090#有効化#ゆうこうか#validation#
+2391100#有効桁#ゆうこうけた#significant digit#
+2391110#有効試験事象#ゆうこうしけんじしょう#valid test event#
+2391120#有効状態#ゆうこうじょうたい#active state#
+2391130#有効範囲#ゆうこうはんい#scope;valid range;coverage#
+2391140#有向ビーム表示装置#ゆうこうビームひょうじそうち#calligraphic display device;directed beam display device#
+2391150#有償収集#ゆうしょうしゅうしゅう#non-gratuitous acquisition#
+2391160#有利化#ゆうりか#rationalization#
+2391170#誘電性プラスチック#ゆうでんせいプラスチック#conductive plastic#
+2391180#遊休時間#ゆうきゅうじかん#idle time#
+2391190#郵便ＯＲアドレス#ゆうびんオーアーアドレス#postal OR address#
+2391200#郵便ＯＲアドレス構成要素#ゆうびんオーアーアドレスこうせいようそ#postal OR address components#
+2391210#雄コネクタ#おすコネクタ#male connector#
+2391220#予期しない#よきしない#unexpected (e.g. results);unforeseen;unanticipated#
+2391230#予見外試験結果#よけんがいしけんけっか#unforeseen test outcome#
+2391240#予見試験結果#よけんしけんけっか#foreseen test outcome#
+2391250#予防保守#よぼうほしゅ#preventive maintenance#
+2391260#予防保全#よぼうほぜん#preventive maintenance#
+2391270#予約ファイル名#よやくファイルめい#reserved filename#
+2391280#予約購読#よやくこうどく#subscription#
+2391290#予約名#よやくめい#reserved name#
+2391300#予約名使用引数#よやくめいしようひきすう#reserved name use parameter#
+2391310#余剰パルス#よじょうパルス#extra-pulse#
+2391320#容易にする#よういにする#to facilitate;to make easy;to simplify#
+2391330#容量集合#ようりょうしゅうごう#capacity set#
+2391340#揺らん期本;揺籃期本#ようらんきぼん#incunabulum#
+2391350#溶融型熱転写プリンタ#ようゆうがたねつてんしゃプリンタ#phase change printer#
+2391360#用語の抽出#ようごのちゅうしゅつ#extraction of terms#
+2391370#用語解説#ようごかいせつ#glossary#
+2391380#用語索引#ようごさくいん#concordance#
+2391390#用語表#ようごひょう#basic list#
+2391400#用紙スタッカー#ようしスタッカー#form stacker#
+2391410#用紙トレイ#ようしトレイ#paper tray#
+2391420#用紙切れ#ようしきれ#out of paper#
+2391430#用紙速送り#ようしはやおくり#paper skip;paper throw;paper slew#
+2391440#要求モード#ようきゅうモード#request mode#
+2391450#要求時ページング#ようきゅうじページング#on-demand paging#
+2391460#要求側#ようきゅうがわ#requester;requesting SS user#
+2391470#要求側ＳＳ利用者#ようきゅうがわエスエスりようしゃ#requester;requesting SS user#
+2391480#要求側アソシエーション制御プロトコル機械#ようきゅうがわアソシエーションせいぎょプロトコルきかい#requesting Association Control Protocol Machine#
+2391490#要求側遠隔操作プロトコル機械#ようきゅうがわえんかくそうさプロトコルきかい#requesting-remote-operation-protocol-machine#
+2391500#要求配信方法#ようきゅうはいしんほうほう#requested preferred delivery method#
+2391510#要求分解#ようきゅうぶんかい#request decomposition#
+2391520#要求分析#ようきゅうぶんせき#requirements analysis#
+2391530#要素ポインタ#ようそポインタ#element pointer#
+2391540#要素位置#ようそいち#element position#
+2391550#要素型#ようそがた#element type#
+2391560#要素型引数#ようそがたひきすう#element type parameter#
+2391570#要素型定義#ようそがたていぎ#element type definition#
+2391580#要素構造#ようそこうぞう#element structure#
+2391590#要素参照リスト#ようそさんしょうリスト#element reference list#
+2391600#要素種別#ようそしゅべつ#element type#
+2391610#要素集合#ようそしゅうごう#element set#
+2391620#要素数#ようそすう#number of elements (e.g. in a matrix)#
+2391630#要素宣言#ようそせんげん#element declaration#
+2391640#要素別処理#ようそべつしょり#elemental#
+2391650#要望クラス#ようぼうクラス#preferred class#
+2391660#抑止信号#よくししんごう#inhibiting signal#
+2391670#乱呼出し#らんよびだし#random access#
+2391680#乱数生成#らんすうせいせい#random number generation#
+2391690#乱数列#らんすうれつ#random number sequence#
+2391700#利用可能#りようかのう#available;usable (e.g. bandwidth)#
+2391710#利用可能ビットレート#りようかのうビットレート#available bit rate;ABR#
+2391720#利用可能時間#りようかのうじかん#accountable time#
+2391730#利用可能領域#りようかのうりょういき#available area#
+2391740#利用者ＡＳＥ#りようしゃエーエスイー#user-ASE#
+2391750#利用者ＩＤ#りようしゃアイディー#user ID#
+2391760#利用者の登録#りようしゃのとうろく#user registration#
+2391770#利用者の認証#りようしゃのにんしょう#user authentication#
+2391780#利用者サービスクラス#りようしゃサービスクラス#user class of service#
+2391790#利用者マニュアル#りようしゃマニュアル#user manual;user's guide#
+2391800#利用者機能#りようしゃきのう#user facility#
+2391810#利用者機能体#りようしゃきのうたい#User Agent;UA#
+2391820#利用者語#りようしゃご#user-defined word#
+2391830#利用者誤り指示未完了#りようしゃあやまりしじみかんりょう#user error indication outstanding#
+2391840#利用者誤り要求未完了#りようしゃあやまりようきゅうみかんりょう#User error request outstanding#
+2391850#利用者座標#りようしゃざひょう#user coordinate#
+2391860#利用者証明証#りようしゃしょうめいしょう#user certificate;certificate#
+2391870#利用者定義演算#りようしゃていぎえんざん#defined operation#
+2391880#利用者定義代入文#りようしゃていぎだいにゅうぶん#defined assignment statement#
+2391890#利用者名#りようしゃめい#user name#
+2391900#利用頻度#りようひんど#frequency of use#
+2391910#利用便覧#りようびんらん#user handbook#
+2391920#利用率#りようりつ#utilization rate;capacity factor;utilization factor;coefficient of use#
+2391930#履歴データ#りれきデータ#historical data#
+2391940#履歴情報#りれきじょうほう#historical information#
+2391950#裏プロセス#うらプロセス#background process#
+2391960#裏プロセスグループ#うらプロセスグループ#background process group#
+2391970#離散コサイン変換#りさんコサインへんかん#Discrete Cosine Transform;DCT#
+2391980#離散フーリエ変換#りさんフーリエへんかん#Discrete Fourier Transform;DFT#
+2391990#離散的データ#りさんてきデータ#discrete data#
+2392000#離散的表現#りさんてきひょうげん#discrete representation#
+2392010#立上がり#たちあがり#leading edge;start;stand up#
+2392020#立上がり時間#たちあがりじかん#rise time;launch time;release time#
+2392030#立体集合演算#りったいしゅうごうえんざん#set operation#
+2392040#略記組合せ比較条件#りゃっきくみあわせひかくじょうけん#abbreviated combined relation condition#
+2392050#略字方式コード#りゃくじほうしきコード#letter type code#
+2392060#略成語#りゃくせいご#acronym#
+2392070#流れの向き#ながれのむき#flow direction#
+2392080#流れ図記号#ながれずきごう#flowchart symbol#
+2392090#流れ制御#ながれせいぎょ#flow control#
+2392100#流れ線#ながれせん#flowline#
+2392110#両方向印刷#りょうほうこういんさつ#bidirectional printing#
+2392120#両方向交互データ通信#りょうほうこうこうごデータつうしん#two-way alternate data communication#
+2392130#両方向交互相互動作#りょうほうこうこうごそうごどうさ#two-way-alternate interaction#
+2392140#両方向交互通信#りょうほうこうこうごつうしん#two-way alternative communication#
+2392150#両方向同時データ通信#りょうほうこうどうじデータつうしん#two-way simultaneous data communication#
+2392160#両方向同時相互動作#りょうほうこうどうじそうごどうさ#two-way-simultaneous interaction#
+2392170#両方向同時通信#りょうほうこうどうじつうしん#two-way simultaneous communication#
+2392180#両面ディスク#りょうめんディスク#double-sided disk#
+2392190#料金体系#りょうきんたいけい#rate structure#
+2392200#量子化雑音#りょうしかざつおん#quantization noise#
+2392210#量集合#りょうしゅうごう#quantity set#
+2392220#領域確保#りょういきかくほ#partitioning#
+2392230#領域型出力基本要素#りょういきがたしゅつりょくきほんようそ#area primitive#
+2392240#領域集合#りょういきしゅうごう#fill area set#
+2392250#領域束表#りょういきたばひょう#fill area bundle table#
+2392260#領域定義属性#りょういきていぎぞくせい#domain defined attributes#
+2392270#領域塗りつぶし#りょういきぬりつぶし#area filling#
+2392280#臨時従業員#りんじじゅうぎょういん#temporary employee;temp#
+2392290#輪郭線要素#りんかくせんようそ#trimming curve#
+2392300#隣接ドメイン#りんせつドメイン#adjacent domain#
+2392310#隣接ノード#りんせつノード#adjacent node#
+2392320#隣接局#りんせつきょく#neighboring office;adjoining office#
+2392330#隣接局通知#りんせつきょくつうち#neighbor notification#
+2392340#隣接節点#りんせつせってん#adjacent node#
+2392350#隣接単位料金区域#りんせつたんいりょうきんくいき#adjacent message area#
+2392360#隣接定義域#りんせつていぎいき#adjacent domain#
+2392370#累計メモリ#るいけいメモリ#sigma memory#
+2392380#累算器#るいさんき#accumulator#
+2392390#累積差率#るいせきさりつ#cumulative remainder#
+2392400#累積索引付け#るいせきさくいんつけ#cumulative indexing#
+2392410#累積分布関数#るいせきぶんぷかんすう#cumulative distribution function#
+2392420#累積率#るいせきりつ#cumulative percentage#
+2392430#累積和#るいせきわ#cumulative sum#
+2392440#類義性#るいぎせい#quasi-synonymy;quasi-synonymity#
+2392450#類似製品#るいじせいひん#lookalike (product)#
+2392470#例外条件#れいがいじょうけん#exception condition#
+2392480#例外状態#れいがいじょうたい#exception condition#
+2392490#暦週#れきしゅう#calendar week#
+2392500#暦日付#れきひづけ#calendar date#
+2392510#列ピッチ#れつピッチ#row pitch#
+2392520#列ベクトル#れつベクトル#column vector#
+2392530#列挙分類体系#れっきょぶんるいたいけい#enumerative classification system#
+2392540#列番号#れつばんごう#column number#
+2392550#列変数#れつへんすう#string variable#
+2392560#列方行奇偶検査#れつほうこうきぐうけんさ#transverse parity check#
+2392570#劣化故障#れっかこしょう#degradation failure#
+2392580#連係編集#れんけいへんしゅう#linkage editing#
+2392590#連係編集プログラム#れんけいへんしゅうプログラム#linker;linking program#
+2392600#連結リスト#れんけつリスト#chained list;linked list#
+2392610#連結リスト探索#れんけつリストたんさく#chained list search#
+2392620#連結演算子#れんけつえんざんし#concatenation operator#
+2392630#連結型宣言#れんけつがたせんげん#link type declaration#
+2392640#連結型宣言部分集合#れんけつがたせんげんぶぶんしゅうごう#link type declaration subset#
+2392650#連結式#れんけつしき#concatenation expression#
+2392660#連結集合#れんけつしゅうごう#link set#
+2392670#連結集合宣言#れんけつしゅうごうせんげん#link set declaration#
+2392680#連結処理#れんけつしょり#link process#
+2392690#連結処理の連鎖#れんけつしょりのれんさ#chain of link processes#
+2392700#連結処理定義#れんけつしょりていぎ#link process definition#
+2392710#連結性#れんけつせい#connectivity#
+2392720#連結操作#れんけつそうさ#linked-operations#
+2392730#連結属性#れんけつぞくせい#link attribute#
+2392740#連結網#れんけつもう#web#
+2392750#連結網表示#れんけつもうひょうじ#view#
+2392760#連言#れんごん#(logical) conjunction#
+2392770#連鎖シーケンス#れんさシーケンス#chained sequence#
+2392780#連鎖リスト#れんさリスト#chained list;linked list#
+2392790#連鎖リスト探索#れんさリストたんさく#chained list search#
+2392800#連想関係#れんそうかんけい#associative relation#
+2392810#連想記憶装置#れんそうきおくそうち#associative storage;content addressable storage#
+2392820#連想検索#れんそうけんさく#associative retrieval#
+2392830#連想配列#れんそうはいれつ#associative array#
+2392840#連続関係#れんぞくかんけい#consecutive relation#
+2392850#連続項目#れんぞくこうもく#contiguous items#
+2392860#連続紙#れんぞくし#continuous forms;continuous forms paper#
+2392870#連続帳票#れんぞくちょうひょう#continuous form#
+2392880#連続分布#れんぞくぶんぷ#continuous distribution#
+2392890#連続用紙#れんぞくようし#continuous-feed paper;fan-fold paper#
+2392900#連文節変換#れんぶんせつへんかん#group paragraph conversion#
+2392910#連邦航空管理局#れんぽうこうくうかんりきょく#Federal Aviation Administration;FAA#
+2392930#連邦赤字#れんぽうあかじ#federal (budget) deficit#
+2392950#連邦通信協会#れんぽうつうしんきょうかい#Federal Communications Commission;FCC#
+2392960#連邦貿易委員会#れんぽうぼうえきいいんかい#Federal Trade Commission;FTC#
+2392970#連絡節#れんらくせつ#linkage section#
+2392980#露光装置#ろこうそうち#lithography#
+2392990#漏れ電流#もれでんりゅう#leakage current#
+2393000#論文集#ろんぶんしゅう#collected papers;collected works;collection of articles and essays#
+2393010#論理けた送り#ろんりけたおくり#logical shift;logic shift#
+2393020#論理アドレス#ろんりアドレス#logical address#
+2393030#論理エラー#ろんりエラー#logical error#
+2393040#論理ゲート#ろんりゲート#logic gate#
+2393050#論理コントローラ#ろんりコントローラ#logical controller#
+2393060#論理シフト#ろんりシフト#logical shift#
+2393070#論理ドライブ#ろんりドライブ#logical drive#
+2393080#論理ノード#ろんりノード#logical node#
+2393090#論理パス#ろんりパス#logical path#
+2393100#論理フォーマット#ろんりフォーマット#logical format#
+2393110#論理ブロック#ろんりブロック#logical block#
+2393120#論理ブロックアドレス#ろんりブロックアドレス#logical block address#
+2393130#論理プログラミング#ろんりプログラミング#logic programming#
+2393140#論理ページ#ろんりページ#logical page#
+2393150#論理ユニット#ろんりユニット#logical unit#
+2393160#論理ユニット番号#ろんりユニットばんごう#logical unit number#
+2393170#論理リンク#ろんりリンク#logical link#
+2393180#論理リンク制御#ろんりリンクせいぎょ#logical link control;LLC#
+2393190#論理リンク制御プロトコル#ろんりリンクせいぎょプロトコル#logical link control protocol#
+2393200#論理リンク制御副層#ろんりリンクせいぎょふくそう#logical link control layer#
+2393210#論理リング#ろんりリング#logical ring#
+2393220#論理レコード#ろんりレコード#logical record#
+2393230#論理レベル#ろんりレベル#logic level#
+2393240#論理演算機構#ろんりえんざんきこう#logic unit#
+2393250#論理演算子#ろんりえんざんし#logical operator#
+2393260#論理演算装置#ろんりえんざんそうち#logic unit;arithmetic and logic unit;ALU#
+2393270#論理機構#ろんりきこう#logic device#
+2393280#論理記号#ろんりきごう#logic symbol#
+2393290#論理型#ろんりがた#Boolean type#
+2393300#論理型言語#ろんりがたげんご#logic programming language#
+2393310#論理構成#ろんりこうせい#logical layout, organization#
+2393320#論理構造#ろんりこうぞう#logical structure#
+2393330#論理構造編集処理#ろんりこうぞうへんしゅうしょり#logical structure editing process#
+2393340#論理順番#ろんりじゅんばん#sequential logical order#
+2393350#論理図#ろんりず#logic diagram#
+2393360#論理積演算#ろんりせきえんざん#AND operation#
+2393370#論理積結合#ろんりせきけつごう#conjunction#
+2393380#論理積素子#ろんりせきそし#AND gate;AND element#
+2393390#論理設計#ろんりせっけい#logic design#
+2393400#論理装置#ろんりそうち#logical unit#
+2393410#論理対象体#ろんりたいしょうたい#logical object#
+2393420#論理対象体クラス#ろんりたいしょうたいクラス#logical object class#
+2393430#論理的否定#ろんりてきひてい#logical negation#
+2393440#論理入力装置#ろんりにゅうりょくそうち#logical input device;logical input value#
+2393450#論理爆弾#ろんりばくだん#logic bomb#
+2393460#論理番号#ろんりばんごう#logical number#
+2393470#論理否定演算#ろんりひていえんざん#NOT operation#
+2393480#論理比較#ろんりひかく#logical comparison#
+2393490#論理矛盾#ろんりむじゅん#(logically) inconsistent#
+2393500#論理和素子#ろんりわそし#(INCLUSIVE-) OR gate;(INCLUSIVE-)OR element#
+2393510#冪乗演算子#べきじょうえんざんし#exponential operator (**)#
+2393520#輻輳状態#ふくそうじょうたい#congestion condition;congestion state#
+2393530#輻輳制御#ふくそうせいぎょ#collision congestion control#
+2393540#読み解く#よみとく#to read and understand;to subject to close analysis;to read deeply;to read carefully (esp. a difficult text);to decipher;to decode#
+2393550#交際中#こうさいちゅう#in a relationship#
+2393560#読み飛ばす;読飛ばす#よみとばす#to skip over (while reading);to skim#
+2393570##ナイトクラス;ナイト・クラス#night class#
+2393580#方位磁石#ほういじしゃく#compass#
+2393590#度胸を据える#どきょうをすえる#to muster one's courage;to resolve oneself;to ready oneself for what is to come#
+2393600#覚悟を決める#かくごをきめる#to prepare oneself (for the worst);to resolve oneself#
+2393610##ウィッケット#wicket (cricket)#
+2393620#知り尽くす#しりつくす#to have full knowledge (of something);to know something thoroughly#
+2393630#通信経路#つうしんけいろ#communication path;communication channel#
+2393640#粗炊き#あらだき#simmered fish#
+2393650#荒布#あらめ;アラメ#arame (species of kelp, Eisenia bicyclis)#
+2393660#鬣犬#たてがみいぬ#hyena#
+2393680##ファイヤリング#firing;igniting;kindling#
+2393690##サステイン#sustain#
+2393700#不法所持#ふほうしょじ#illegal possession;unlawful possession#
+2393710#違法所持#いほうしょじ#illegal possession;unlawful possession#
+2393720#銃規制法#じゅうきせいほう#gun control law#
+2393730#裁判所庁舎#さいばんしょちょうしゃ#courthouse#
+2393740#死刑宣告#しけいせんこく#death sentence#
+2393750#訴追者#そついしゃ#prosecutor#
+2393760#被告側#ひこくがわ#(the) defense#
+2393770#訴追側#そついがわ#(the) prosecution#
+2393780#ハプロタイプ地図#ハプロタイプちず#haplotype map;HapMap;Hap Map#
+2393790#談話分析#だんわぶんせき#discourse analysis#
+2393800##デカ#deca-;10^1#
+2393810##ゼタ#zetta-;10^21#
+2393820##ヨタ#yotta-;10^24#
+2393830##ゼプト#zepto-;10^-21#
+2393840##ヨクト#yocto-;10^-24#
+2393850#天に二物を与えられた#てんににぶつをあたえられた#gifted with two things (usu. beauty and intelligence)#
+2393860##プロイセン#Prussia#
+2393870#足が重い#あしがおもい#one's legs being leaden (through tiredness, etc.)#
+2393880#原子力空母#げんしりょくくうぼ#nuclear-powered aircraft carrier#
+2393890#陸軍中将#りくぐんちゅうじょう#lieutenant general (army);lt. general#
+2393900#いい加減にしろ#いいかげんにしろ#that's enough!;cut it out!;get a life!#
+2393910#子宮内避妊器具#しきゅうないひにんきぐ#intrauterine device;IUD#
+2393920#免疫源#めんえきげん#immunogen#
+2393930#訳する#やくする#to translate;to interpret#
+2393940#網代笠#あじろがさ#conical wicker hat#
+2393950#網代垣#あじろがき#wicker fence#
+2393960#子安#こやす#safe, easy childbirth;guardian bodhisattva, buddha or deity of children or childbirth (esp. Ksitigarbha or Avalokitesvara)#
+2393970#子安地蔵#こやすじぞう#guardian Ksitigarbha of childbirth (bodhisattva)#
+2393980#子安観音#こやすかんのん#guardian Avalokitesvara of children and childbirth (bodhisattva)#
+2393990#通字#つうじ#distinctive character used in the names of all people belonging to a single clan or lineage#
+2394000#水子地蔵#みずこじぞう#Ksitigarbha statue erected to help deliver miscarried and aborted fetuses to buddhahood (foetuses)#
+2394010#未来学者#みらいがくしゃ#futurist;futurologist#
+2394020#非発火性#ひはっかせい#non-incendive;non-firing#
+2394040#出版地#しゅっぱんち#place of publication#
+2394050#出版地不明#しゅっぱんちふめい#without a place of publication;sine loco;s.l.#
+2394060#いい線いってる;いい線行ってる#いいせんいってる#to be on the right track;to be close enough#
+2394070#西#せい#Spain#
+2394080#代理申請会社#だいりしんせいかいしゃ#proxy application company#
+2394090#長めに;長目に#ながめに#at the long end (e.g. hold);on the long side (e.g. cut)#
+2394100#呪術師#じゅじゅつし#witch doctor;shaman#
+2394110#生物多様性条約#せいぶつたようせいじょうやく#Convention on Biological Diversity;CBD#
+2394120#遺伝資源へのアクセスと利益配分#いでんしげんへのアクセスとりえきはいぶん#access to genetic resources and benefit sharing;Access and Benefit-Sharing;ABS#
+2394130##なんくるない#don't worry - be happy#
+2394140#遅まきながら;遅蒔きながら;晩蒔きながら#おそまきながら#belatedly#
+2394150#遅ればせながら;後ればせながら;遅れ馳せながら;後れ馳せながら;遅ばせながら#おくればせながら;おそればせながら#belatedly;tardily#
+2394160#無条件解約#むじょうけんかいやく#unconditional cancellation of a contract#
+2394170#可能形#かのうけい#potential form#
+2394180#一寸宜しい#ちょっとよろしい#(can you) spare a little time (to speak)?;(do you) have a moment (to speak)?#
+2394190#張り渡す;張渡す#はりわたす#to string along (of rope, etc.)#
+2394200#垂直離着陸#すいちょくりちゃくりく#vertical take off and landing;VTOL#
+2394210#独占権#どくせんけん#exclusive license;exclusive right (to)#
+2394220#航時機#こうじき#time machine#
+2394230#並び変える;並変える;並び替える;並替える#ならびかえる#to put (things) in order#
+2394240##ドブン;ドボン;どぶん;どぼん;どんぶり#plop;splash#
+2394250##インテレクト#intellect#
+2394260##ホテルヘルス;ホテル・ヘルス#prostitution services in hotels#
+2394270#無店舗型#むてんぽがた#non-store operation, i.e. operating from home, hotel, etc.#
+2394280#無店舗販売#むてんぽはんばい#non-store retailing (e.g. Internet, mail-order, etc.)#
+2394290#腰を入れる;腰をいれる#こしをいれる#to take a solid stance;to put one's back in it;to exert oneself#
+2394300#犬笛#いぬぶえ#dog whistle#
+2394320#奥歯に物が挟まる#おくばにものがはさまる#to talk around something (exp. derived from having something stuck in your back teeth and thus be unable to speak clearly);to imply something in a roundabout way#
+2394330#裏帆#うらほ#sail with the wind at its back;aback#
+2394340#露にする;露わにする#あらわにする#to lay bare;to expose;to reveal#
+2394350#喘ぎ声;あえぎ声#あえぎごえ#heavy breathing#
+2394360#喘ぎ喘ぎ#あえぎあえぎ#gasping;breathing heavily#
+2394370##あ#Ah! (expression of surprise, recollection, etc.);Oh!;Hey! (to get someone's attention)#
+2394380##ホトシンセシス#photosynthesis#
+2394390#論理合成#ろんりごうせい#logic synthesis (semiconductor technique)#
+2394400#メモリ不足#メモリぶそく#low memory#
+2394410#年金手帳#ねんきんてちょう#pension book#
+2394420#基礎年金番号#きそねんきんばんごう#universal pension number;common number shared between different pension schemes;basic pension number#
+2394430#アロマを焚く#アロマをたく#to burn aromatherapy oils;to diffuse aromatherapy oils#
+2394440#薫く;炷く#たく#to burn (usu. incense)#
+2394450#ストレス対処法#ストレスたいしょほう#method of dealing or coping with stress#
+2394460#鼻がグスグスする;鼻がぐすぐすする#はながグスグスする;はながぐすぐすする#to have a sniffle;to have a congested nose#
+2394470#試合終了#しあいしゅうりょう#the end of the match;the end of the game#
+2394480#意のままに;意の儘に#いのままに#at will#
+2394490#手を下す;手をくだす#てをくだす#to do oneself;to do by oneself;to start work (on);to commence#
+2394500#白鍵#はっけん#white keys#
+2394510#火のないところに煙は立たない#ひのないところにけむりはたたない#There's no smoke without fire.#
+2394520#耐震基準#たいしんきじゅん#earthquake resistance standards#
+2394530#足纏い;足まとい#あしまとい#someone or something that just gets in the way;a burden#
+2394540#町石;丁石#ちょういし#roadside stone distance indicators placed at intervals of one cho (approx. 109 meters)#
+2394550#町石卒塔婆#ちょうせきそとば#stupa-shaped stone distance indicators placed at intervals of one cho (approx. 109 meters) on a temple approach#
+2394560#貼り絵#はりえ#collage#
+2394570#直交振幅変調#ちょっこうしんぷくへんちょう#Quadrature Amplitude Modulation;QAM#
+2394580#パニック障害#パニックしょうがい#panic disorder#
+2394590#先哲像伝;先哲像傳#せんてつぞうでん#pictures of ancient wise men (name of a book)#
+2394600#流行らす#はやらす#to popularize;to give currency to;to set a trend#
+2394610#流行らせる#はやらせる#to popularize;to give currency to;to set a trend#
+2394620#連結事業#れんけつじぎょう#consolidated operations#
+2394630#無性語#むせいご#gender neutral word (usu. to replace word with gender bias)#
+2394640#糖尿病網膜症#とうにょうびょうもうまくしょう#diabetic retinopathy;retinopathia diabetica#
+2394650##メールニュース;メール・ニュース#email newsletter#
+2394660#ないと行けない;無いといけない;無いと行けない#ないといけない#(after negative base of verb) have to (verb);must (verb);is indispensable;absolutely necessary#
+2394670#組織横断#そしきおうだん#cross-departmental;cross-functional#
+2394680#思うに;惟うに#おもうに#presumably;conceivably;in my opinion;in my view;I think (that);upon thought;upon reflection#
+2394690#親見出し#おやみだし#main entry (in dictionary)#
+2394700#子見出し#こみだし#subentry (in dictionary);subentry#
+2394710#無いと#ないと#(after negative base of verb) have to (verb);must (verb);is indispensable;absolutely necessary#
+2394720#近医#きんい#local doctor#
+2394730#ＬＤＬ#エルディーエル#Low-density lipoprotein;LDL#
+2394740#立ちっぱなし#たちっぱなし#stand on one's feet for a long time#
+2394750#立ちっぱ#たちっぱ#stand on one's feet for a long time#
+2394760#電装品#でんそうひん#electrical component#
+2394770#目が黒いうち#めがくろいうち#while alive (e.g. I won't allow ... while I'm alive)#
+2394780##ちょこまか#restlessly;in continuous motion#
+2394790##シークレットシューズ;シークレット・シューズ#shoes with thick soles to make one look taller#
+2394800#立教#りっきょう#established church#
+2394810#神伝#しんでん#teachings conveyed by the gods#
+2394820#口に含む#くちにふくむ#to hold in one's mouth (without biting, before chewing or swallowing, etc.)#
+2394830##なのである#it is assuredly (that)...;can say with confidence that it is...#
+2394840##エアロバイク#exercise bike#
+2394850##フィットネスバイク;フィットネス・バイク#exercise bike#
+2394860##マグネットバイク#magnetic bike;magnetic exercise bike#
+2394870#非モテ#ひモテ#unpopular (esp. with the opposite sex)#
+2394880#知的生命体#ちてきせいめいたい#intelligent life#
+2394890##とる#is being#
+2394900##セオレティカル;セオレテイカル#theoretical#
+2394910#弾き物;弾物#ひきもの#string instrument (esp. in gagaku);stringed instrument#
+2394920#吹き物;吹物#ふきもの#wind instrument (esp. in gagaku)#
+2394930#田助すいか;田助スイカ#でんすけすいか;でんすけスイカ#black-skinned variety of watermelon#
+2394940#心肺停止#しんぱいていし#cardiopulmonary arrest#
+2394950#二つに一つ;２つに１つ#ふたつにひとつ#one of two (possibilities, alternatives, etc.)#
+2394960##モデルルーム;モデル・ルーム#showroom;model home#
+2394970##レースクイーン;レース・クイーン#promotion girl#
+2394980##されなければならない#must have been done;has to have been done#
+2394990#高付加価値化#こうふかかちか#adding of value#
+2395000#ヤニ中#ヤニちゅう#nicotinism#
+2395010#ニコ中#ニコちゅう#nicotinism#
+2395020#山行#さんこう#mountain hiking;walking in the mountains#
+2395030#山行者#さんこうしゃ#mountain hiker;person engaging in walking activities in the mountains#
+2395040#第一幕目#だいいちまくめ#first act (play, ballet, opera, etc.)#
+2395050#低血糖症#ていけっとうしょう#hypoglycaemia;hypoglycemia;glucopenia#
+2395060#低血糖#ていけっとう#low blood sugar;hypoglycemia#
+2395070#力を合わせる#ちからをあわせる#to join forces;to cooperate#
+2395080#過ぎたるは及ばざるがごとし#すぎたるはおよばざるがごとし#the last drop makes the cup run over;too much of a good thing;less is more#
+2395090#過ぎたるは猶及ばざるが如し#すぎたるはなおおよばざるがごとし#the last drop makes the cup run over;too much of a good thing;less is more#
+2395100#木簡#もっかん;もくかん#narrow, long, and thin pieces of wood strung together that were used to write on in ancient times#
+2395110#保体#ほたい#health and physical education#
+2395120#一体に#いったいに#generally;in general#
+2395130#県政#けんせい#prefectural government;prefectural administration#
+2395140#檜林#ひのきばやし#cypress woodland#
+2395150##ハーニー#honey;sweetheart#
+2395160##ショウタイム;ショウ・タイム#show time#
+2395170#心理音響#しんりおんきょう#psychoacoustic#
+2395180#音響心理学#おんきょうしんりがく#psychoacoustics#
+2395190#顕微受精#けんびじゅせい#intra-cytoplasmic sperm injection;ICSI#
+2395200#生殖工学#せいしょくこうがく#reproduction technology#
+2395210#ヒト疾患モデルマウス#ヒトしっかんモデルマウス#mouse model for human disease#
+2395220#ヒト疾患モデル#ヒトしっかんモデル#human disease model (e.g. using experimental animals)#
+2395230#卒業アルバム#そつぎょうアルバム#classbook;yearbook;graduation album#
+2395250##ハーフウェー;ハーフウエー#halfway#
+2395260##ハーフサイズ#half-size#
+2395270#個人線量計#こじんせんりょうけい#personal dosimeter#
+2395280#脳ドック#のうドック#examinatinon with MRI, MRA, etc. to check for aneurysms and other problems#
+2395290#脳外科医#のうげかい#brain surgeon#
+2395300##プリナップ;プレナップ#prenuptial agreement#
+2395310#婚前契約書#こんぜんけいやくしょ#prenuptial agreement#
+2395320#婚前契約#こんぜんけいやく#prenuptial agreement#
+2395330#明か;清か#さやか#clear;fresh;bright#
+2395340##ロードローラー;ロード・ローラー#road roller#
+2395370#配架法#はいかほう#library arrangement;organization of books in a library#
+2395380##メタボ#metabolic syndrome;overweight#
+2395390##メタボリックシンドローム;メタボリック・シンドローム#metabolic syndrome#
+2395400##となるために#in order to be(come)...;since it amounts to...;since it is advantageous to...#
+2395410#角印#かくいん#square seal (companies, etc.)#
+2395420##ばっさり#with a single stroke;resolutely;drastically;completely#
+2395430#精神疾患#せいしんしっかん#mental disorder;mental disease#
+2395440#運営管理官#うんえいかんりかん#administrator (government)#
+2395450#管理官#かんりかん#administrator;director;commissioner#
+2395460#詩行#しぎょう#line of a poem#
+2395470#若き日#わかきひ#younger days;youth#
+2395480##ハイファイビデオ;ハイファイ・ビデオ#hi-fi video#
+2395490##なのに#and yet;despite this;but even so;but even then;however;nevertheless;for all that;notwithstanding that#
+2395500#長着#ながぎ#long (i.e. ankle-length) tradional Japanese garment (esp. a kimono)#
+2395510#尻が軽い#しりがかるい#fast;brisk;careless;thoughtless;impudent;rash;(of a woman) wanton;promiscuous#
+2395520#紐パン#ひもパン;ヒモパン#string bikini;g-string;thong#
+2395530#頭首#とうしゅ#boss;chief;manager#
+2395540#頭首工#とうしゅこう#weir (usu. for irrigation)#
+2395550#愛しき#いとしき#dear#
+2395560#セルビア人#セルビアじん#Serbian#
+2395570##いばりんぼ;えばりんぼ#boaster#
+2395580#ＡＫＹ#エーケイワイ#not noticing mood implicit to situations, conversations, etc.#
+2395590#しつつ行なう#しつつおこなう#to be carrying out;to be in the process of carrying out;to be performing;to be in the process of performing#
+2395600#本曲#ほんきょく#var. of traditional shakuhachi music#
+2395610##きつぷ#ticket#
+2395620#必須入力#ひっすにゅうりょく#required entry (e.g. in online forms)#
+2395630#嘸や#さぞや#surely;certainly#
+2395640#隙間市場;すき間市場#すきましじょう#niche market#
+2395650#計測器#けいそくき#measuring instrument;instrumentation#
+2395660#放射線発生装置#ほうしゃせんはっせいそうち#radiation generator#
+2395670#癜風#でんぷう#chromophytosis;tinea versicolor#
+2395680##にょっきり#sticking out prominently (usu. something long and thin);rising up#
+2395690##クラリティー;クラリティ#clarity#
+2395700##エコカー#eco-car#
+2395710#インフラ整備#インフラせいび#infrastructure improvement#
+2395720##ホルド;オルド#horde;hold#
+2395730#山岳部時間#さんがくぶじかん#Mountain Time (US time zone)#
+2395740#東部時間#とうぶじかん#Eastern Time (US time zone)#
+2395750#中部時間#ちゅうぶじかん#Central Time (US time zone)#
+2395760#太平洋時間#たいへいようじかん#Pacific Time (US time zone)#
+2395770#成分名#せいぶんめい#ingredient name;constituent name#
+2395780#造詣深い#ぞうけいふかい;ぞうけいぶかい#scholarly;learned#
+2395790#候ふ;候#そうろう;そうらう#to serve (by a superior's side);to be (auxiliary used in place of "aru" after "de" or "ni" when forming a copula);to do (auxiliary used in place of "-masu" after a -masu stem)#
+2395800#先導性#せんどうせい#leadership#
+2395810#全国安全週間#ぜんこくあんぜんしゅうかん#National Safety Week#
+2395820#洞爺湖サミット#とうやこサミット#G8 Hokkaido Toyako Summit;Hokkaido Toyako G8 summit#
+2395830#保管庫#ほかんこ#safe;vault;storage cabinet#
+2395840#喝#かつ#exclamation used to scold practitioners (in Zen);scolding or threatening with a shout#
+2395850##ガスバーナー;ガス・バーナー#blowtorch;gas burner;bunsen burner#
+2395860#耐圧試験#たいあつしけん#pressure test#
+2395870##ビッチ#bitch#
+2395880##サノバビッチ;サンオブアビッチ;サン・オブ・ア・ビッチ#son of a bitch#
+2395890##マザーファッカー#mother fucker#
+2395900#管見#かんけん#narrow insight;narrow view;my humble opinion#
+2395910#お熱#おねつ#having a crush on someone;flushing#
+2395920##エルゴノミク#ergonomic#
+2395930#サンダル履き#サンダルばき#wearing sandals;informal;casual#
+2395940#叱#しっ#shh! (used to silence someone);sh!;shoo! (used to drive off an approaching animal, etc.)#
+2395950#叱り;呵り;叱;呵#しかり#scolding#
+2395960#お叱り;御叱り#おしかり#scolding#
+2395970#除光液#じょこうえき#nail polish remover#
+2395980#手塚治虫文化賞#てづかおさむぶんかしょう#Tezuka Osamu Cultural Prize#
+2395990#講談社漫画賞#こうだんしゃまんがしょう#Kodansha Manga Award#
+2396000#急を要する#きゅうをようする#urgent;requiring quick (response)#
+2396010#一計を案じる#いっけいをあんじる#to devise a plan;to work out a plan#
+2396020#開発元#かいはつもと#developer;(software) development agency#
+2396030##カードル#curdle;bundle;rack for storage or transport;stillage#
+2396040#姉さん被り;姉さんかぶり;あねさん被り#あねさんかぶり#towel wrapped around a woman's head#
+2396050#被り#かぶり#headdress;crown;covering;fogging (photography);blushing#
+2396060#最高限度#さいこうげんど#upper limit;ceiling#
+2396070#最高限#さいこうげん#top (e.g. of the market)#
+2396080##メタボゾーン#danger zone for developing metabolic syndrome#
+2396090##テレビドアホン#video intercom;intercom with a video camera and display;video doorphone#
+2396100#合宿形式#がっしゅくけいしき#residential;training-camp-style;boarding#
+2396110#居宅#きょたく#residence;dwelling;home#
+2396120#布張り#ぬのばり#cloth-covered#
+2396130#目に入って来る#めにはいってくる#to come into view#
+2396140#簡易住宅#かんいじゅうたく#prefab;prefabricated house#
+2396150##プレハブコンクリート;プレハブ・コンクリート#prefabricated concrete#
+2396160#従い#したがい#in accordance with;subordinate to#
+2396170#目に入る#めにはいる#to catch sight of;to come into view;to happen to see#
+2396180#中心核#ちゅうしんかく#core (of planets, stars, galaxies, etc.);nucleus (of comets, galaxies, etc.)#
+2396190#其れと#それと#and then;even so;and#
+2396200#眼筋#がんきん#ocular muscles;muscles that control eye movement#
+2396210#外眼筋#がいがんきん#extraocular muscle;external eye muscle#
+2396220#眼窩底#がんかてい#orbital floor (thin bone floor of eye socket)#
+2396230#幹;柄#から#trunk;stem;stalk;shaft (of an arrow);handle#
+2396240#殻#かく#shell (e.g. electron shell)#
+2396260##スケールモデル;スケール・モデル#scale model#
+2396270#規模効果#きぼこうか#economy of scale#
+2396280#回転灯#かいてんとう#flashing lights;revolving lights;lights used on the top of emergency vehicles#
+2396290#保管施設#ほかんしせつ#storage facility#
+2396300#断裂#だんれつ#snapping apart#
+2396310#小ジョッキ#しょうジョッキ#small beer mug#
+2396320#中ジョッキ#ちゅうジョッキ#medium beer mug#
+2396330#大ジョッキ#だいジョッキ#large beer mug#
+2396340#一パイント;１パイント#いちパイント#one pint#
+2396350#生中#なまちゅう#medium-size draft beer#
+2396360##パイロキネシス#pyrokinesisis#
+2396370#念発火能力#ねんはっかのうりょく#pyrokinesisis#
+2396380#慫慂#しょうよう#advice;recommendation;suggestion;inducement;persuasion#
+2396390#直観像#ちょっかんぞう#eidetic imagery#
+2396400#白馬の騎士#はくばのきし#white knight;knight in shining armor#
+2396410#予知能力#よちのうりょく#precognition#
+2396420#霊力#れいりょく#spiritual power#
+2396430#出展作品#しゅってんさくひん#works (art, etc.) on display#
+2396440#対処法#たいしょほう#coping method;approach;how to deal with (problem, etc.)#
+2396450#使用時#しようじ#when using#
+2396460#内疎外親#ないそがいしん#superficially cordial but actually uninterested#
+2396470##キャンピングトレーラー;キャンピング・トレーラー#camping trailer;caravan#
+2396480#身をかわす;身を躱す#みをかわす#to dodge;to evade#
+2396490##コインパーキング;コイン・パーキング#coin-operated parking (spaces)#
+2396500#荒節#あらぶし;あらよ#common and low grade type of katsuobushi;bamboo rod used during imperial exorcism ceremonies#
+2396510#枯節#かれぶし#high grade katsuobushi (with mold)#
+2396520#制震#せいしん#vibration control (in earthquake-resistant construction)#
+2396540#単語表#たんごひょう#vocabulary word list#
+2396550##さえに#furthermore;and another thing;even as#
+2396560#当選券;当籤券#とうせんけん#winning ticket (in a lottery, etc.)#
+2396570#気を引き締める#きをひきしめる#to brace oneself;to focus one's energies;to focus one's mind#
+2396580#聞き逃す#ききのがす#to fail to hear something;to miss;to act as if one didn't hear something;to let a remark slide#
+2396590#ＮＨＫ教育テレビ;エヌエッチケー教育テレビ#エヌエイチケーきょういくテレビ;エヌエッチケーきょういくテレビ#NHK Educational TV#
+2396600#ＮＨＫ教育テレビジョン;エヌエッチケー教育テレビジョン#エヌエイチケーきょういくテレビジョン;エヌエッチケーきょういくテレビジョン#NHK Educational TV#
+2396610#張り替え;張替え;張替#はりかえ#re-upholstering;re-covering;repapering#
+2396620#子宮内膜炎#しきゅうないまくえん#endometritis#
+2396630#リンゴ病#リンゴびょう#fifth disease;erythema infectiosum;slapped cheek syndrome#
+2396640#国際政治経済#こくさいせいじけいざい#international political economy#
+2396650#排卵痛#はいらんつう#ovulation pain#
+2396660#誘導子#ゆうどうし#inductor (electronics)#
+2396670#悪徳サイト#あくとくサイト#fraudulent site#
+2396680#感染症対策#かんせんしょうたいさく#infection control measures#
+2396690#体の不自由#からだのふじゆう#disabled;handicapped#
+2396700#原子力基本法#げんしりょくきほんほう#Atomic Energy Basic Law#
+2396710#高さ計#たかさけい#height gauge#
+2396720##ハバタキ#Habataki (variety of rice)#
+2396730##インフォメーションテクノロジー;インフォメーション・テクノロジー#information technology;IT#
+2396740#準恒星状天体#じゅんこうせいじょうてんたい#quasar;quasi-stellar object;QSO#
+2396750#東証一部#とうしょういちぶ#First Section of the Tokyo Stock Exchange#
+2396760#テンションマリオン構法#テンションマリオンこうほう#tension-mullion glazing system#
+2396780#元社長#もとしゃちょう#former president of a company#
+2396790#百円玉;１００円玉#ひゃくえんだま#100 yen coin#
+2396800#五百円玉;５００円玉#ごひゃくえんだま#500 yen coin#
+2396810#電気式#でんきしき#electrical;electric#
+2396820#そこら中;其処ら中#そこらじゅう#everywhere;all over the place#
+2396830#服務期間#ふくむきかん#period of work;period of service;tour of duty#
+2396840#指紋押捺#しもんおうなつ#fingerprinting#
+2396850#脱メタボ#だつメタボ#losing weight;dieting#
+2396860#自己金融#じこきんゆう#self-financing#
+2396870#他動的#たどうてき#passive;lacking initiative;lacking autonomy#
+2396880#色気より食い気;色気より食気#いろけよりくいけ#Fair words fill not the belly;Food before romance#
+2396890#入居案内#にゅうきょあんない#tenant guide#
+2396900#当然視する#とうぜんしする#to consider to be inevitable;to consider to be reasonable#
+2396910##エンタメ#entertainment#
+2396920#迎車#げいしゃ#taxi en route to a customer#
+2396930#本切羽#ほんせっぱ#functioning cuff buttons on a jacket (i.e. those that can be buttoned and unbuttoned);surgeon's cuffs#
+2396940#本開き#ほんびらき#functioning cuff buttons on a jacket (i.e. those that can be buttoned and unbuttoned);surgeon's cuffs#
+2396950#連絡盤#れんらくばん#bus tie (electrical)#
+2396960#選炭機#せんたんき#coal washing system;coal dressing machine;coal washer#
+2396970#副申書#ふくしんしょ#document permitting foreign students to work part-time#
+2396980#頸椎脱臼#けいついだっきゅう#cervical dislocation#
+2396990#機能塗料#きのうとりょう#functional coating;functional paint#
+2397000#切磋琢磨し合う#せっさたくましあう#to work hard together;to be in a state of friendly rivalry#
+2397010#桂剥き#かつらむき#rotary cutting;thinly slicing into a long strip (e.g. daikon, carrot, wood for plywood, etc.)#
+2397020#正八胞体#せいはちほうたい#tesseract#
+2397030#正八面体#せいはちめんたい#regular octahedron#
+2397040#四次元超立方体#よじげんちょうりっぽうたい#tesseract#
+2397050#条件付採録;条件付き採録#じょうけんつきさいろく#conditional acceptance#
+2397060#論文誌#ろんぶんし#(academic) journal#
+2397070#噂をすれば影が射す;噂をすれば影がさす#うわさをすればかげがさす#speak of the devil and he shall appear;speak rumours of someone and they shall appear#
+2397080#側座核#そくざかく#nucleus accumbens (part of the forebrain)#
+2397090#彼等;彼ら#あれら#those (indicating something distant from both speaker and listener, or something understood without naming it directly);they (of people) (used to refer to one's equals or inferiors)#
+2397100#鶏胸肉;とりむね肉#とりむねにく#chicken breast meat#
+2397110#濡れ雑巾#ぬれぞうきん#wet cloth;damp rag#
+2397120#馬印#うまじるし#commander's battle standard#
+2397130#三大#さんだい#the big three ...#
+2397140#巧笑;巧咲#こうしょう#courteous laughter;forced laughter#
+2397150##るっさい#noisy;loud;fussy;annoying;troublesome;tiresome;importunate;bossy#
+2397160#すべり出し;滑り出し;滑出し#すべりだし#start;beginning#
+2397170##インラインスケート;インライン・スケート#inline skates#
+2397180#麸;麩#ふ#wheat gluten;seitan#
+2397190#凡体#はんたい#mediocrity;mediocre#
+2397200#事こそ#ことこそ#this for sure;certainly is#
+2397210##バッドウェア#badware#
+2397220#ホモ達#ホモだち#homo-friend#
+2397230##なみなみ#to the brim#
+2397240#潮溜まり;潮溜り#しおだまり#tide pool;rocky place where sea water remains after the tide draws out#
+2397250#切手収集家#きってしゅうしゅうか#philatelist;stamp collector#
+2397260#切手収集#きってしゅうしゅう#philately;stamp collecting#
+2397270#誰一人として;誰ひとりとして;だれ一人として#だれひとりとして#not a single person (with negative verb);no one#
+2397280#動物愛護#どうぶつあいご#animal rights;animal welfare;animal protection#
+2397290#写真廃液#しゃしんはいえき#photographic processing waste water;photographic effluent;photo-processing waste#
+2397300#国民保護法#こくみんほごほう#Civil Protection Law#
+2397310#国民保護計画#こくみんほごけいかく#Civil Protection Plan#
+2397320#除草剤耐性#じょそうざいたいせい#herbicide resistance;herbicide resistant#
+2397330##ブラザー#brother (usu. in names of films, companies, etc.)#
+2397340#就職者#しゅうしょくしゃ#employed person#
+2397350#放射能マーク#ほうしゃのうマーク#radiation symbol;trefoil;radiation warning symbol#
+2397360#放射能標識#ほうしゃのうひょうしき#radiation warning sign;trefoil;radiation warning symbol#
+2397370#遺灰#いはい#ashes (of the deceased);remains from cremation#
+2397380#金銭ずく;金銭尽く;金銭づく;金銭尽#きんせんずく;きんせんづく#using money as a weapon;power of money#
+2397400#前近代的#ぜんきんだいてき#premodern;feudalistic#
+2397410#対露;対ロ#たいろ;たいロ#towards Russia (relations, policy, etc.)#
+2397420#生物剤#せいぶつざい#biological agent#
+2397440##オプティミスティック#optimistic#
+2397450##ソロプチミスト#soroptimist#
+2397460#号する#ごうする#to name;to take a second name or alias;to announce;to boast;to declare#
+2397470##すっこむ#to draw back;to leave (the area)#
+2397480#対消滅#ついしょうめつ#annihilation (of particle and anti-particle)#
+2397490#在園#ざいえん#enrolment of a child in a kindergarten#
+2397500#言語獲得#げんごかくとく#language acquisition#
+2397510#動的束縛#どうてきそくばく#dynamic restraints#
+2397520#影響波及解析#えいきょうはきゅうかいせき#impact analysis#
+2397530#アスペクト指向#アスペクトしこう#aspect-oriented design#
+2397540#情報隠蔽#じょうほういんぺい#information hiding#
+2397550#閉包#へいほう#closure#
+2397560#第九#だいく#the ninth (i.e. Beethoven's Ninth Symphony)#
+2397570##ヘキソキシ#hexoxy#
+2397580#甲#きのえ#first sign of the Chinese calendar#
+2397590##ぱあ#paper (in rock, paper, scissors);disappearing completely;foolishness;stupidity#
+2397600#人工乳#じんこうにゅう#formula (milk)#
+2397610##ボンタン#baggy pants, worn by construction workers and juvenile delinquents#
+2397620#欧州中央銀行#おうしゅうちゅうおうぎんこう#European Central Bank;ECB#
+2397630#フィリピン人#フィリピンじん#Filipino#
+2397640#標準準拠#ひょうじゅんじゅんきょ#standards compliance#
+2397650##ストラディバリ#violin made by Stradivari;Stradivarius violin#
+2397660##ノーパソ#notebook PC#
+2397680##すぃません#sorry;excuse me#
+2397690#途に就く;途につく#とにつく#to set out (on a journey);to start (a task)#
+2397700#等色#とうしょく#isochromatic#
+2397710##シーズナリティ#seasonal adjustment (to prices, etc.);seasonality#
+2397720#複合体#ふくごうたい#complex#
+2397730#受容器#じゅようき#receptor;acceptor#
+2397740#出発日#しゅっぱつび#day of departure#
+2397750#情報インフラ#じょうほうインフラ#information infrastructure#
+2397760##ではありますまいか#I wonder if it is not (something, a thing)#
+2397770#資金面#しきんめん#financials;on the funding (capital) side#
+2397790##テストラン;テスト・ラン#test run;trial run#
+2397800#試験実行#しけんじっこう#test run;trial run#
+2397810##ネガティブカラー;ネガティブ・カラー#negative color;negative colour#
+2397820#後腹膜#こうふくまく#retroperitoneum#
+2397830#大分類#だいぶんるい#broad category#
+2397840##のっけ#the very beginning#
+2397850#白鬼茸#しろおにたけ;シロオニタケ#shiroonitake;false virgin's lepidella;Amanita virgineoides Bas#
+2397860#老人性白内障#ろうじんせいはくないしょう#senile cataract#
+2397870#目付#めつけ#censor;overseer;inspector (Edo period)#
+2397880#メラネシア人#メラネシアじん#Melanesian (people)#
+2397890#物価上昇率#ぶっかじょうしょうりつ#price escalation rate;price increase rate;inflation#
+2397900#物価上昇#ぶっかじょうしょう#price increase;prise rise#
+2397910#野球人#やきゅうじん#baseball player#
+2397920#避妊リング#ひにんリング#intrauterine device;IUD;contraceptive ring#
+2397930##リスクマネー;リスク・マネー#risk money;money invested in high-risk, high-return, investments#
+2397940#思い立ったが吉日#おもいたったがきちじつ;おもいたったがきちにち#no time like the present;make hay while the sun shines;it's the auspicious day when you've just thought of it#
+2397950#そうした中で#そうしたなかで#meanwhile#
+2397960#基本設計#きほんせっけい#baseline design;preliminary design;basic design#
+2397970#実施設計#じっしせっけい#detail design;detailed design;final design#
+2397980#機密情報#きみつじょうほう#confidential information#
+2397990#支え合う#ささえあう#to support (each other, one another)#
+2398000#常識を覆す#じょうしきをくつがえす#to defy conventional wisdom#
+2398010#データベース化#データベースか#compilation of a database#
+2398020#統一性#とういつせい#uniformity;integrity#
+2398030##グッモーニン#G'morning;Good morning#
+2398040#抜き足差し足忍び足#ぬきあしさしあししのびあし#stealthy footsteps;walking on tiptoe#
+2398050#知らないうちに#しらないうちに#before one knew it;before one realized it#
+2398070#再使用型#さいしようがた#reusable#
+2398080#有翼#ゆうよく#winged#
+2398090#就学生#しゅうがくせい#former residence status in Japan for foreign students in Japanese language schools and vocational schools (abolished in 2010)#
+2398100#抗張力#こうちょうりょく#tensile strength#
+2398110#高抗張力#こうこうちょうりょく#high tensile strength#
+2398120#ＵＮ#ユーエン#United Nations;UN#
+2398130##ヤフオク#Yahoo auctions#
+2398140#揚げじゃが#あげじゃが#fried potato (incl. French fries, chips, croquettes, etc.)#
+2398150#複合名詞#ふくごうめいし#compound noun#
+2398160#瓦人形#かわらにんぎょう#tile figure;ceramic figurine#
+2398170#爆薬庫#ばくやくこ#munitions bunker#
+2398180#利子率#りしりつ#interest rate#
+2398190#学級崩壊#がっきゅうほうかい#class disruption (e.g. due to discipline problems);classroom chaos#
+2398200#再度弁論#さいどべんろん#repleading;pleading again#
+2398210##ドクロマーク;どくろマーク#skull and crossbones#
+2398220#主要部品#しゅようぶひん#main parts;main components#
+2398230##ミード#mead;honey wine;ambrosia;nectar of the gods#
+2398240#蜂蜜酒;はちみつ酒#はちみつしゅ#mead;honey wine;ambrosia;nectar of the gods#
+2398250#液晶表示装置#えきしょうひょうじそうち#liquid crystal display;LCD#
+2398260#微睡#まどろみ;びすい#doze;nap;slumber#
+2398270#美腰#びこし#slim waist;beautiful waistline#
+2398280#注目に値する#ちゅうもくにあたいする#to be noteworthy;to be worthy of attention#
+2398290#家事都合#かじつごう#family reasons;personal reasons#
+2398300#癤#せつ#furuncle#
+2398310#派手婚#はでこん#flashy showy wedding#
+2398320#できちゃった婚;出来ちゃった婚#できちゃったこん#marriage due to unintended pregnancy;shotgun wedding#
+2398330#こそげ取る;刮げ取る#こそげとる#to scrape off#
+2398340#椎間板ヘルニア#ついかんばんヘルニア#disk herniation;herniated disk;hernia of intervertebral disk;slipped disk#
+2398350##メディケイド#Medicaid#
+2398360#低所得者医療扶助#ていしょとくしゃいりょうふじょ#support for medical treatment for those on low income;Medicaid#
+2398370#文法形式#ぶんぽうけいしき#grammatical form#
+2398380#非核武装#ひかくぶそう#nuclear weapon free;non-nuclear;denuclearized#
+2398390#化学添加物#かがくてんかぶつ#chemical additives#
+2398410#害魚#がいぎょ#harmful fish (e.g. non-native and prolific, etc.)#
+2398420#絶対静止#ぜったいせいし#absolute rest#
+2398430##インターネットサイト;インターネット・サイト#Internet site#
+2398440#休らい;安らい#やすらい#resting;relaxing;hesitating;loitering#
+2398450#堰板;せき板#せきいた#sheeting;sheathing board;cover#
+2398460#花がるた;花ガルタ#はながるた;はなガルタ#floral playing cards;Japanese playing cards (12 suits of 4 cards, each suit repr. a month indic. by a flower)#
+2398470#公労委#こうろうい#Public Corporation and National Enterprise Labor Relations Commission#
+2398480#公労協#こうろうきょう#Council of the Public Corporations and Government Workers Unions#
+2398490#公労法#こうろうほう#Public Corporations and Government Enterprises Labor Relations Act#
+2398500#口話#こうわ#silent mouthing#
+2398510#好カード#こうカード#drawcard;attractive program;good match;good game#
+2398520#小汚い#こぎたない#dirty;sloppy#
+2398530#小切れ#こぎれ#small piece (e.g. of cloth)#
+2398540#国蝶#こくちょう#national butterfly#
+2398550#心して#こころして#carefully;with caution#
+2398560#小腰#こごし#waist#
+2398570#小腰をかがめる;小腰を屈める#こごしをかがめる#to bow slightly;to make a slight bow#
+2398580#漉し餡;こし餡#こしあん#strained bean paste#
+2398590#轂#こしき#hub;nave#
+2398600#拵え#こしらえ#make;workmanship;preparation#
+2398610#抉じ入れる#こじいれる#to force something (into);to thrust forcibly (into)#
+2398620#拗らす#こじらす#to make worse (e.g. disease);to aggravate;to complicate#
+2398630#擦れる#こすれる#to be rubbed#
+2398640#堪えられない#こたえられない#really good;irresistible#
+2398650##こつんと#with a bump;with a clunk#
+2398660#小突き回す#こづきまわす#to push somebody around;to shove someone about;to handle roughly#
+2398680#小手毬#こでまり#Reeves spirea (Spiraea cantoniensis)#
+2398690#事有り顔#ことありがお#worried look;troubled face#
+2398700#庫内#こない#inside (refrigerator, warehouse, etc.)#
+2398710#この次#このつぎ#next#
+2398720#再見#さいけん#looking at again;watching again;discovering again;seeing again#
+2398730#訪比#ほうひ#visit to the Philippines#
+2398740#リング状#リングじょう#ring (shaped);circular#
+2398750##ビルベリー#bilberry;European blueberry#
+2398760#自己反省#じこはんせい#self-questioning;to self-question;to rethink;to reflect on oneself#
+2398770#雲物理学#うんぶつりがく#cloud physics#
+2398780#吝い#しわい#stingy;cheap;very frugal#
+2398790#胎嚢#たいのう#fetal sac;foetal sac;gestation sac;gestational sac#
+2398800#暇を潰す;暇をつぶす#ひまをつぶす#to waste time;to kill time#
+2398810#ジャンボジェット機#ジャンボジェットき#jumbo-jet#
+2398820#証券化#しょうけんか#securitization;securitisation#
+2398830##コマンタレブー#Comment allez-vous?#
+2398840#共同事業#きょうどうじぎょう#joint enterprise;joint venture#
+2398850#発症#はっしょう#outbreak of an illness;time where the first symptoms of an illness appear;crisis#
+2398860#深川飯;深川めし#ふかがわめし#fukagawa-meshi;rice cooked with clams#
+2398870#明石焼き;明石焼#あかしやき#var. of pottery from Hyogo prefecture;round balls made from eggs, flour, etc., (local food of Akashi)#
+2398880##しゃこめし;シャコめし#shako meshi;rice cooked with shrimp#
+2398890##スジャータ#Sujahta (brand of coffee cream and icecream)#
+2398900#名産地#めいさんち#location famous for production of something (usually food)#
+2398910#一押し;いち押し;一推し;いち推し#いちおし#recommendation;(something) highly recommended;to recommend#
+2398920#重箱の隅をつつく#じゅうばこのすみをつつく#to nitpick;to complain about trifles#
+2398930##メガドラ#Mega Drive#
+2398940##メモカ#memory card#
+2398950#紳士風#しんしふう#gentlemanly;gentlemanlike;in the manner of a gentleman#
+2398960#淑女風#しゅくじょふう#ladylike;in the manner of a lady#
+2398970#貧困者#ひんこんしゃ#pauper#
+2398980##フラッター#flutter (sound)#
+2398990#認め合う#みとめあう#to mutually recognize;to agree;to accept#
+2399000#桿状核球#かんじょうかくきゅう#band cell;stab cell#
+2399010##ベレッタ#Beretta (Italian firearm manufacturer)#
+2399020##ソトワール#sautoir;long necklace (longer than opera-length), often with an ornament (tassel or pendant) at the end#
+2399030#環境活動#かんきょうかつどう#environmental practice;environmental practices#
+2399040#保健師#ほけんし#public health nurse#
+2399050#衛生管理者#えいせいかんりしゃ#health supervisor#
+2399060#アメリカ連合国#アメリカれんごうこく#The Confederate States of America;The Confederacy;CSA#
+2399070#導管実体#どうかんじったい#pass-through entity (legal term);look-through entity;(fiscally) transparent entity#
+2399080#導管課税#どうかんかぜい#conduit taxation#
+2399090#純資産価値#じゅんしさんかち#net asset value#
+2399100#法域#ほういき#jurisdiction#
+2399110##わはは#Wa-haha!;vigorous laughter#
+2399120#課税漏れ#かぜいもれ#tax leakage#
+2399130#安全港#あんぜんこう#safe harbour#
+2399140#いい薬になる;良い薬になる#いいくすりになる#to learn a lesson (usu. from an unpleasant experience);to be good for someone#
+2399150##ソーシング#sourcing (e.g. of components)#
+2399160#契約を交わす#けいやくをかわす#to sign a contract#
+2399170#州間高速道路#しゅうかんこうそくどうろ#interstate highway#
+2399180#ユビキタス社会#ユビキタスしゃかい#society where IT related gadgets are prevalent and their function transparent (from "ubiquitous computing")#
+2399190#ユビキタス講演会#ユビキタスこうえんかい#lecture on a topic related to "ubiquitous computing"#
+2399200#ユビキタス環境#ユビキタスかんきょう#computing environment characterized by "ubiquitous computing"#
+2399210#豚めし;豚飯#ぶためし#pork with rice#
+2399220#間接選挙制#かんせつせんきょせい#indirect electoral system#
+2399230#修正論#しゅうせいろん#revisionism#
+2399240#小児愛者#しょうにあいしゃ#paedophile;pedophile#
+2399250#小児性愛者#しょうにせいあいしゃ#paedophile;pedophile#
+2399260#お母ちゃん#おかあちゃん#mum;mom#
+2399270#母ちゃん#かあちゃん#mum;mom#
+2399280#客観視#きゃっかんし#objective point of view#
+2399290#客観化#きゃっかんか#objectivization;externalization#
+2399300#足し#たし#top up (e.g. a little bit to remedy an insufficiency)#
+2399310#足しにする#たしにする#to make up (an insufficiency);to ease (a lack)#
+2399320#計算ずく;計算尽く;計算づく;計算尽#けいさんずく;けいさんづく#calculated;premeditated;considered#
+2399330#異世代#いせだい#intergenerational;of different generations#
+2399340#同世代#どうせだい#same generation;one's generation#
+2399350#異世代間#いせだいかん#intergenerational#
+2399360#意地張る;意地ばる;意地はる#いじばる;いじはる#to be stubborn;to be obstinate;to be perverse;to not give in#
+2399370#社会保険労務士#しゃかいほけんろうむし#licensed social insurance consultant;labor and social security attorney#
+2399380##ソフトカバー;ソフト・カバー#soft-cover (book)#
+2399390#陳列棟#ちんれつとう#gallery;exhibition hall#
+2399400#必要不可欠#ひつようふかけつ#essential;indispensable;imperative;necessary;compelling, vital, critical#
+2399410#本枯#ほんかれ#high grade katsuobushi (with mold)#
+2399420#発生源#はっせいげん#source;origin#
+2399430#口が減らない#くちがへらない#fast-talking;always having another argument ready;not able to keep one's mouth shut;never at a loss for words#
+2399440#口の減らない#くちのへらない#always having a comeback (often used derogatorily);fast-talking#
+2399450#楽屋口#がくやぐち#stage door#
+2399460#既卒者#きそつしゃ#graduate from an earlier year;alumnus;alumna;former graduate#
+2399470#流線#りゅうせん#flow line;streamline;lines representing the flow of a fluid#
+2399480#二次創作#にじそうさく#derivative work (e.g. alt. world, side story, doujinshi, fanfiction, etc.);derived work#
+2399490#手を煩わせる#てをわずらわせる#to cause a person trouble#
+2399500#除湿機#じょしつき#dehumidifier;dehumidification machine#
+2399510#内輪差#ないりんさ#difference between track followed by front and back inner wheels when turning#
+2399520#手がすべる;手が滑る#てがすべる#to have one's hands slip (and drop something)#
+2399530#恥ずかしげもなく#はずずかしげもなく#brazenly;unabashedly#
+2399540#目にする#めにする#to see;to witness#
+2399550#目が見える#めがみえる#to be able to see (oft. used in the negative)#
+2399560#歯に衣着せぬ#はにきぬきせぬ#to not mince matters;to speak frankly#
+2399570#不適合#ふてきごう#non-conforming process;noncompliant;incompatible#
+2399580#四輪#よんりん#four-wheeled#
+2399590#心を通わせる#こころをかよわせる#to establish an emotional bond with;to reach out to;to relate to#
+2399600#資格を有する#しかくをゆうする#to qualify (as);to have the qualifications (for ...);to be entitled to;to have a claim (for)#
+2399610#水分補給#すいぶんほきゅう#hydration;rehydration;to hydrate;to rehydrate;to moisturize#
+2399620#意味段落#いみだんらく#logical paragraph (as opposed to a formal paragraph);segment of text expressing a single meaning#
+2399630#形式段落#けいしきだんらく#formal paragraph (in opposition to a logical paragraph);paragraph as defined by its formal elements (e.g. line break and initial indentation)#
+2399640#高学歴#こうがくれき#high academic achievement;advanced academic training;higher education#
+2399650#黒魔法#くろまほう#black magic#
+2399660#白魔法#しろまほう#white magic#
+2399670#草付き;草付#くさつき#patch of plants or shrubs (e.g. on a steep rocky surface)#
+2399680#攀じる#よじる#to clamber (up);to scale#
+2399690#通学路#つうがくろ#school route;street for students going to and from school (esp. on foot)#
+2399700##うながっぱ#maki sushi typically made from eel and cucumber, often with a face-like pattern when cut;mascot character used by Tajimi City in Gifu#
+2399730##ファイアフォックス#Firefox#
+2399740#呼び出し側#よびだしがわ#caller;calling party#
+2399750#進んで#すすんで#voluntarily;willingly;of one's own free will#
+2399760#飛ぶように売れる#とぶようにうれる#to sell like hot cakes;to fly off the shelves#
+2399770#稲わら;稲藁#いねわら;いなわら#rice straw;paddy straw#
+2399780##リグニン#lignin#
+2399790##フリース#fleece#
+2399800#沖する;冲する#ちゅうする#to rise up into the air;to ascend into the sky#
+2399810#空芯菜;空心菜#くうしんさい;クウシンサイ#Chinese water spinach (Ipomoea aquatica);ong choy;kang kong;water morning glory;water convolvulus;swamp cabbage;hung tsai;rau muong;pak boong;swamp morning-glory#
+2399820##リンクバナー;リンク・バナー#link banner (graphic or logo provided for use in linking to web site)#
+2399830#柔剣棒#じゅうけんぼう#juukenbou;"body, sword and staff" techniques in martial arts#
+2399840#非効率#ひこうりつ#inefficient#
+2399850#非効率的#ひこうりつてき#inefficient#
+2399860#遊びに来る;遊びにくる#あそびにくる#to come and stay;to drop in;to visit#
+2399870#緑豊か#みどりゆたか#lushly green;verdant#
+2399880#規範意識#きはんいしき#normative consciousness#
+2399890#耳に入る;耳にはいる#みみにはいる#to hear of#
+2399900#袋茸#ふくろたけ;フクロタケ#paddy straw mushroom;straw mushroom;Volvariella volvacea#
+2399910#身のこなし;身の熟し#みのこなし#carriage;movement (of the body);agility#
+2399920#分かり兼ねる;分かりかねる#わかりかねる#to be difficult to ascertain;to be difficult to understand#
+2399930#バーベキュー場#バーベキューじょう#barbecue site;barbecue area#
+2399940#避難場#ひなんば#refuge;evacuation center#
+2399950#避難場所#ひなんばしょ#evacuation site;exposure;refuge shelter;shelter#
+2399960#預言書#よげんしょ#prophetic writing (e.g. Biblical);written prophesy#
+2399970#実地調査#じっちちょうさ#site survey;field study#
+2399980#訂する#ていする#to correct#
+2399990#歴代志#れきだいし#The Chronicles (books of the Bible)#

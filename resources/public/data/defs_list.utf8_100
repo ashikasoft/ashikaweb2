@@ -1,0 +1,894 @@
+1000000##ヽ;くりかえし#repetition mark in katakana#
+1000010##ヾ;くりかえし#voiced repetition mark in katakana#
+1000020##ゝ;くりかえし#repetition mark in hiragana#
+1000030##ゞ;くりかえし#voiced repetition mark in hiragana#
+1000040#〃#おなじ;おなじく#ditto mark#
+1000050#仝#どうじょう#"as above" mark#
+1000060#々#くりかえし;おなじ;おなじく;のま;どうのじてん#repetition of kanji (sometimes voiced)#
+1000080#漢数字ゼロ#かんすうじゼロ#"kanji" zero#
+1000090#○;〇#まる#circle (sometimes used for zero);'correct' (when marking);symbol used as a placeholder (either because a number of other words could be used in that position, or because of censorship);period;full stop;maru mark;semivoiced sound;p-sound#
+1000100#ＡＢＣ順#エービーシーじゅん#alphabetical order#
+1000110#ＣＤプレーヤー;ＣＤプレイヤー#シーディープレーヤー;シーディープレイヤー#CD player#
+1000130#Ｎ響#エヌきょう#NHK Symphony Orchestra#
+1000140#Ｏバック#オーバック#O-back;skirt with peek-a-boo hole in rump#
+1000150#ＲＳ２３２ケーブル#アールエスにさんにケーブル#rs232 cable#
+1000160#Ｔシャツ#ティーシャツ#T-shirt#
+1000170#Ｔバック#ティーバック#T-back;bikini thong#
+1000200#あうんの呼吸;阿吽の呼吸#あうんのこきゅう#the harmonizing, mentally and physically, of two parties engaged in an activity#
+1000210##あおば#(former) regular (stops at every station) Tohoku-line Shinkansen#
+1000220#明白#めいはく#obvious;clear;plain;evident;apparent;explicit;overt#
+1000225#明白;偸閑;白地#あからさま#plain;frank;candid;open;direct;straightforward;unabashed;blatant;flagrant#
+1000230#明かん#あかん;アカン#useless;no good;hopeless#
+1000260#悪どい#あくどい#gaudy;showy;excessive;crooked;vicious#
+1000280#論う#あげつらう#to discuss;to find fault with;to criticize;to criticise#
+1000290##あさひ#Jouetsu line express Shinkansen#
+1000300##あしらう#to arrange;to treat;to handle;to deal with#
+1000310#馬酔木#あせび;あしび;あせぼ;あせぶ;アセビ#Japanese andromeda (Pieris japonica);lily-of-the-valley#
+1000320#彼処;彼所#あそこ;あすこ;かしこ;あしこ;あこ#there (place physically distant from both speaker and listener);over there;that place;yonder;genitals;that far (something psychologically distant from both speaker and listener);that much;that point#
+1000360##あっさり#easily;readily;quickly;lightly (flavored food, applied makeup)#
+1000390#あっと言う間に;あっという間に;あっとゆう間に#あっというまに;あっとゆうまに#just like that;in the twinkling of an eye;in the blink of an eye;in the time it takes to say "ah!"#
+1000400##あっぷあっぷ#floundering while nearly drowning;suffering#
+1000410##あどけない#innocent;cherubic#
+1000420#彼の#あの;かの#that (someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener)#
+1000430##あのう;あの;あのー#say;well;errr ...#
+1000440#あの人;彼の人#あのひと#he;she;that person;you#
+1000450#あの方;彼の方#あのかた#that gentleman (lady);he;she#
+1000460#溢れる#あぶれる#to fail (in getting a job);to miss out (at fishing, hunting, etc.);to be left out;to be crowded out#
+1000470##あべこべ#contrary;opposite;inverse#
+1000480#阿呆陀羅#あほんだら;あほだら#fool;oaf;airhead#
+1000490#甘子;天魚;雨子#あまご;アマゴ#land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae);amago#
+1000500##あやす#to cuddle;to comfort;to rock;to soothe;to dandle#
+1000510##あやふや#uncertain;vague;ambiguous#
+1000520##あら#oh;ah#
+1000525#𩺊#あら;アラ#saw-edged perch (Niphon spinosus)#
+1000580#彼#あれ;あ#that (indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly);that person (used to refer to one's equals or inferiors);over there;down there (i.e. one's genitals);period;menses;hey (expression of surprise, suspicion, etc.);huh?;eh?;that (something mentioned before which is distant psychologically or in terms of time)#
+1000590##あんな#such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener);so;that;sort of#
+1000600#いい加減にしなさい#いいかげんにしなさい#shape up!;act properly!#
+1000610#いい年をして#いいとしをして#(in spite of) being old enough to know better#
+1000620#否々;否否#いやいや;いえいえ#no!;no no!;no, not at all#
+1000630#如何わしい#いかがわしい#suspicious;dubious;unreliable;indecent;unseemly#
+1000640##いかす#to be smart;to be cool;to be sharp;to be stylish#
+1000650#いかなる場合でも#いかなるばあいでも#in any case;whatever the case may be#
+1000660#如何にも#いかにも#indeed;really;phrase indicating agreement#
+1000710#幾つも#いくつも#many;great number of#
+1000730#行けない#いけない#wrong;not good;of no use;hopeless;past hope;must not do#
+1000740##いごっそう#stubborn person;strong-minded person;obstinate person#
+1000750##いざ#now;come (now);well#
+1000760##いざこざ#trouble;quarrel;difficulties;complication;tangle#
+1000770##いじいじ#reserved;timid;servile;unable to be honest;perverse#
+1000780##いじける#to grow timid (e.g. from an inferiority complex);to lose one's nerve;to become perverse;to become contrary#
+1000790##いじましい#piddling;paltry#
+1000800##いじらしい#innocent;lovable;sweet;pitiful;pathetic#
+1000810#いじり回す;弄り回す;弄りまわす#いじりまわす#to tinker with;to fumble with;to twist up#
+1000820##いそいそ#cheerfully;excitedly#
+1000830##いちゃいちゃ#flirt;make out#
+1000840##いちゃつく#to flirt with;to dally#
+1000860#何時もより#いつもより#more than usual#
+1000870#いとも簡単に#いともかんたんに#very easily#
+1000880#鯔背#いなせ#gallant;dashing;smart#
+1000885#嘶く#いななく#to neigh#
+1000890#嘶き#いななき#neigh of a horse#
+1000900##いびる#to pick on;to tease#
+1000910#嫌に;厭に#いやに#awfully;terribly#
+1000920##いらっしゃい;いらしゃい#(used as a polite imperative) come;go;stay;welcome!#
+1000930##いらっしゃいませ;いらしゃいませ;いっらしゃいませ#welcome (in shops, etc.)#
+1000940##いらっしゃる#to come;to go;to be (somewhere);(after a -te form, or the particle "de") is (doing);are (doing)#
+1000960##うじうじ#irresolute;hesitant#
+1000970##うじゃうじゃ#in swarms;in clusters;tediously;slowly#
+1000980##うずうず#sorely tempted;itching to do something;eager#
+1000990##うぞうぞ#irrepressibly aroused (esp. sexually);stimulated#
+1001000##うだうだ#idle;long-winded and meaningless#
+1001010##うっかり#carelessly;thoughtlessly;inadvertently#
+1001020##うっとりさせる#to enchant;to enrapture;to enthrall (enthral);to charm#
+1001030##うとうと;うとっと#falling in a doze;dozing#
+1001040##うねうね#winding;meandering;zigzag;sinuous;tortuous#
+1001050#畝ねり#うねり#wave motion;undulation;winding;heaving sea;swell;roller#
+1001060##うろうろ;うそうそ#loiteringly;aimless wandering;restlessly#
+1001070#狼狽える#うろたえる#to be flustered;to lose one's presence of mind#
+1001090##うん#yes;yeah;uh huh#
+1001100##うんこ#poop;faeces;feces#
+1001110##うんざり#tedious;boring;being fed up with#
+1001120##うんち#poop;faeces;feces#
+1001130#海鷂魚;鱝;鱏#えい;エイ#ray (fish);stingray#
+1001140##ええ;えー#yes;that is correct;right;um;errr;huh?;grrr;gah;Must I?;good#
+1001150##ええと;えっと#let me see;well;errr ...#
+1001160##えげつない#dirty;vulgar;nasty#
+1001170#斉魚#えつ;エツ#Japanese grenadier anchovy (Coilia nasus)#
+1001180#お出でになる;御出でになる#おいでになる#to be;to come;to go#
+1001190##おいでやす#welcome (in shops, etc.)#
+1001200##おおい;おい#hey!;oi!;I;me#
+1001220##おけさ#style of Japanese folk song associated with Niigata Prefecture#
+1001230#おけさ節#おけさぶし#style of Japanese folk song associated with Niigata Prefecture#
+1001240##おこしやす#welcome (in shops, etc.)#
+1001250##おざなりになって#to say commonplace things#
+1001260##おしっこ#wee-wee;pee-pee;number one#
+1001280##おしゃぶり#teething ring;pacifier;dummy#
+1001290#悍ましい#おぞましい#disgusting;repulsive#
+1001300##おたおた#(shocked) speechless;flustered;flurried;help#
+1001310#御珍々#おちんちん#penis#
+1001330##おっかない#frightening;scary;extreme;exaggerated;huge#
+1001340#落っこちる#おっこちる#to fall down;to drop#
+1001350##おっさん#middle-aged man;Buddhist priest#
+1001360##おっちょこちょい#careless person;scatterbrain;birdbrain#
+1001370##おっぱい;オッパイ#breasts;boobies;tits;breast milk#
+1001390#御田#おでん#oden;dish of various ingredients, e.g. egg, daikon, potato, chikuwa, konnyaku, etc. stewed in soy-flavored dashi#
+1001400##おどおど#coweringly;hesitantly#
+1001410#お鍋;御鍋#おなべ#pot;typical name for a female servant in the Edo-period;working at night;female with symptoms of gender identity disorder (i.e. a transvestite)#
+1001420#屁#おなら;へ#wind;gas;fart;something worthless;something not worth considering#
+1001430##おばこ#young girl;daughter;unmarried girl#
+1001440##おべっか#flattery#
+1001450##おべんちゃら#(excessive) flattery;smarminess;fawning#
+1001480#御負けに;お負けに#おまけに#to make matters worse;besides;what's more;in addition;on top of that#
+1001490#お呪い;御呪い#おまじない#good luck charm;uttered when using magic;abracadabra;presto#
+1001500##おまんこ;おめこ#vagina;to have sexual intercourse;to screw#
+1001510#御襁褓気触れ;お襁褓気触れ;オムツ気触れ#おむつかぶれ;オムツかぶれ#diaper rash;nappy rash#
+1001520#お粧し;御粧し#おめかし#dressing up#
+1001540#お目出度うご座います;御目出度う御座います#おめでとうございます#congratulations#
+1001560##おや#oh!;oh?;my!#
+1001570##おやおや#my goodness!;oh my!;oh dear!#
+1001580##おろおろ;オロオロ#nervous;flustered;in a dither;all shook up#
+1001600##おろちょろ#lounging about#
+1001610##おデブさん#chubby person#
+1001620#お握り;御握り#おにぎり#rice ball (often triangular, sometimes with a filling and wrapped in nori)#
+1001640#お蔭;御蔭;お陰;御陰#おかげ#grace (of God);benevolence (of Buddha);blessing;assistance;help;aid;effects;influence#
+1001650#お蔭様;御蔭様#おかげさま#(somebody's) backing;assistance;thanks to (somebody)#
+1001660#お下げ#おさげ#wearing one's hair in braids#
+1001670#お化け;御化け#おばけ#goblin;apparition;monster;ghost#
+1001680#お化け屋敷;御化け屋敷#おばけやしき#haunted house#
+1001690#お嫁さん#およめさん#bride#
+1001700#お花見#おはなみ#cherry blossom viewing;flower viewing#
+1001710#お菓子;御菓子#おかし#confections;sweets;candy#
+1001720#お願いします;御願いします#おねがいします#please#
+1001730#お願いいたします;お願い致します#おねがいいたします#please#
+1001740#お帰りなさい;御帰りなさい#おかえりなさい#welcome home#
+1001750#お気の毒#おきのどく#pitiful;pity#
+1001760#お客さん;御客さん#おきゃくさん#guest;visitor;customer#
+1001770#お客さま;お客様;御客様#おきゃくさま#guest;visitor;customer#
+1001780#お休みなさい;御休みなさい#おやすみなさい#good night#
+1001790#お宮#おみや#Shinto shrine#
+1001800#お宮参り;御宮参り#おみやまいり#shrine visit#
+1001810#お供;御供#おとも#attendant;companion#
+1001820#お金;御金#おかね#money#
+1001830#お兄さん;御兄さん#おにいさん#older brother;elder brother;(vocative) young man;buddy;fella;laddie#
+1001840#お兄ちゃん;御兄ちゃん#おにいちゃん#familiar form of "older brother";form of address for young adult male;mister#
+1001850#お結び;御結び#おむすび#rice ball#
+1001860#お見えになる;御見えになる#おみえになる#to arrive#
+1001870#お見舞い;お見舞;御見舞い;御見舞#おみまい#calling on someone who is ill;enquiry;inquiry#
+1001880#お古;御古#おふる#used article (esp. clothes)#
+1001890#お好み焼き;お好み焼;御好み焼き;御好み焼#おこのみやき#savoury pancake with various ingredients#
+1001900#お構いなく;御構いなく#おかまいなく#please don't fuss over me#
+1001910#お絞り;御絞り#おしぼり#wet towel (supplied at table);hot, moistened hand towel#
+1001920#お札;御札#おさつ#bill;note (currency)#
+1001930#お雑煮;御雑煮#おぞうに#soup containing rice cakes and vegetables (New Year's dish)#
+1001940#お三時;御三時#おさんじ#three-o'clock snack#
+1001950#お参り;御参り#おまいり#worship;shrine visit#
+1001960#お産;御産#おさん#(giving) birth;childbirth;delivery;confinement#
+1001970#お仕舞い;お終い;御仕舞い;御終い;お仕舞;御仕舞#おしまい#the end;closing;being done for;That's it;That's enough;That's all#
+1001980#お使い;御使い;御遣い;お遣い;お使#おつかい#errand;mission;going as envoy;messenger;bearer;errand boy;errand girl;familiar spirit#
+1001990#お姉さん;御姉さん#おねえさん#elder sister;(vocative) young lady;miss (referring to a waitress, etc.);ma'am (used by geisha to refer to their superiors)#
+1002000#お子さん;御子さん#おこさん#child#
+1002010#お子様#おこさま#child (someone else's)#
+1002020#お歯黒;御歯黒;鉄漿#おはぐろ;かね;てっしょう#tooth blackening;tooth-blackening dye#
+1002030#お辞儀;御辞儀#おじぎ#bow;bowing#
+1002040#お七夜#おしちや#name-giving ceremony#
+1002050#お邪魔します;御邪魔します#おじゃまします#excuse me for disturbing (interrupting) you;greeting used when entering someone's home#
+1002060#お守り;御守り;お守;御守#おまもり#charm;amulet#
+1002070#お手玉;御手玉#おてだま#beanbag;beanbag juggling game;bobbling the ball (baseball)#
+1002080#お手上げ;お手あげ;御手上げ#おてあげ#all over;given in;given up hope;bringing to knees;throwing up one's hands#
+1002090#お手盛り;御手盛り#おてもり#making arbitrary decisions which benefit oneself;self-approved plan#
+1002100#お手洗い;御手洗い#おてあらい#toilet;restroom;lavatory;bathroom#
+1002110#お手伝いさん#おてつだいさん#maid#
+1002120#お巡りさん;御巡りさん#おまわりさん#police officer#
+1002130#お召し;御召し;お召;御召#おめし#summoning;calling;riding;wearing;dressing;clothing;(high-quality) silk crepe (fabric)#
+1002140#お召し物;御召し物#おめしもの#clothing#
+1002150#お勧め;御勧め;お薦め;御薦め;お奨め;御奨め#おすすめ#recommendation;advice;suggestion;encouragement#
+1002160#お上りさん#おのぼりさん#countryside people (in town);visitor from the country;out-of-towner;country bumpkin (visiting the big city);yokel#
+1002170#お嬢さん;御嬢さん#おじょうさん#daughter;young lady#
+1002180#お食い初め;御食い初め#おくいぞめ#weaning ceremony#
+1002190#お尻;御尻#おしり;オシリ#bottom;buttocks#
+1002200#お寝小;御寝小#おねしょ#bed-wetting#
+1002210#お新香;御新香#おしんこ#pickled vegetables;pickles#
+1002220#お浸し;御浸し;御したし#おひたし;おしたし#boiled greens in bonito-flavoured soy sauce (vegetable side dish)#
+1002230#お神酒;御神酒#おみき#sacred wine or sake;sake offered to the gods;sake#
+1002240#お尋ね者#おたずねもの#wanted man;person sought by the police#
+1002250#お世辞;御世辞#おせじ;おせいじ#flattery;compliment#
+1002260#お世話になる;御世話になる#おせわになる#to receive favor (favour);to be much obliged to someone;to be indebted;to be grateful#
+1002270#お生憎さま;御生憎様;お生憎様#おあいにくさま#that's too bad (ironical);unfortunate person (often a gleeful "too bad for you!")#
+1002280#お先に#おさきに#before;previously;ahead;Pardon me for leaving (before you)#
+1002290#お前;御前#おまえ;おまい;おめえ#you (formerly honorific, now sometimes derog. term referring to an equal or inferior);presence (of a god, nobleman, etc.)#
+1002300#お前さん;御前さん#おまえさん#you;my dear;hey#
+1002310#お膳#おぜん#four-legged tray for festive food#
+1002320#お祖父さん;御祖父さん;お爺さん;御爺さん#おじいさん#grandfather;male senior-citizen#
+1002330#お祖母さん;お婆さん;御祖母さん;御婆さん#おばあさん#grandmother;female senior-citizen#
+1002340#お早うございます#おはようございます#good morning#
+1002350#お孫さん;御孫さん#おまごさん#grandchild#
+1002360#お待ち遠様;御待ち遠様;お待ち遠さま#おまちどおさま#I'm sorry to have kept you waiting#
+1002370#お袋;御袋;お母#おふくろ#one's mother#
+1002390#お大事に#おだいじに#take care of yourself;get well soon;God bless you;bless you#
+1002400#お宅;御宅#おたく#your house;your home;your family;your husband;your organization;you (referring to someone of equal status with whom one is not especially close)#
+1002410#お誕生日おめでとうございます;御誕生日おめでとうございます#おたんじょうびおめでとうございます#Happy Birthday#
+1002420#お知らせ;御知らせ;お報せ;御報せ#おしらせ#notice;notification#
+1002430#お茶;御茶#おちゃ#tea (usu. green);tea break (at work);tea ceremony#
+1002440#お猪口;御猪口#おちょこ#small cup;sake cup;cup-shaped#
+1002450#お喋り;御喋り#おしゃべり#chattering;talk;idle talk;chat;chitchat;gossip;chatty;talkative;chatterbox;blabbermouth#
+1002470#お天気;御天気#おてんき#weather;temper;mood#
+1002480#お転婆;御転婆#おてんば#tomboy#
+1002490#お屠蘇#おとそ#New Year's sake;spiced sake#
+1002500#お土産;御土産#おみやげ#present;souvenir#
+1002510#お湯;御湯#おゆ#hot water;hot bath#
+1002520#お徳;お得;御徳;御得#おとく#economical;bargain;good-value#
+1002530#お凸;御凸#おでこ#brow;forehead;prominent forehead;beetle brow;not catching anything (in fishing)#
+1002550#お婆はる#おばはる#to shamelessly demand one's rights#
+1002560#お婆ん#おばん#old maid;frump;hag;old woman#
+1002570#お疲れ様;お疲れさま;御疲れ様#おつかれさま#thank you;many thanks;much appreciated;that's enough for today#
+1002580#お付き;御付き#おつき#retainer;attendant;escort#
+1002590#お父さん;御父さん#おとうさん;おとっさん#father;dad;papa;pa;pop;daddy;dada#
+1002600#お風呂に入る#おふろにはいる#to take a bath#
+1002610#お腹;御腹;お中;御中#おなか#stomach#
+1002630#お別れ#おわかれ#farewell#
+1002640#お返し;御返し#おかえし#return gift;return favour (favor);revenge;change (in a cash transaction)#
+1002650#お母さん;御母さん#おかあさん#mother#
+1002660#お母様;御母様;お母さま#おかあさま#mother#
+1002670#お坊っちゃん;御坊っちゃん;お坊ちゃん;御坊ちゃん#おぼっちゃん#son (of others);young master;green young man from a well-to-do family#
+1002680#お墨付き;御墨付き#おすみつき#handwriting;autograph;authorization;authorisation;certificate;certified document;paper with signature of the shogun or lord#
+1002690#お盆;御盆#おぼん#O-Bon;Bon Festival;Lantern Festival;Festival of the Dead;tray#
+1002700#お餅#おもち#rice cakes;pounded mochi rice#
+1002720#お冷や;お冷#おひや#cold (drinking) water;cold boiled rice#
+1002740#お漏らし#おもらし#peeing#
+1002750#お話し中;お話中;御話し中;御話中#おはなしちゅう#busy (phone)#
+1002760#お碗;御碗#おわん#bowl#
+1002770#御洒落;お洒落#おしゃれ;オシャレ#smartly dressed;stylish;fashion-conscious;someone smartly dressed;to dress up;to be fashionable#
+1002790#畏まりました#かしこまりました#certainly!#
+1002800##かしら#I wonder#
+1002810#悴む#かじかむ#to grow numb with cold#
+1002820#梶木;旗魚#かじき#marlin;swordfish;spearfish;sailfish#
+1002830#片口鰯#かたくちいわし;カタクチイワシ#Japanese anchovy (Engraulis japonica)#
+1002840##かちかち;こちこち;カチカチ;コチコチ#ticktock;chinking (e.g. of a hammer against rock);knocking;clicking;clacking;clattering;dry and hard;(frozen) stiff;hidebound;die-hard;stubborn;obstinate;bigoted;scared stiff;tense;nervous;frightened#
+1002850##かちっと#with a click (door sound);with tenseness or firmness#
+1002860##かちん#clink;clack#
+1002870##かっか;かっかと#burning hotly;burning redly#
+1002880#格好つける;格好付ける;恰好付ける#かっこうつける;かっこつける#to affect a stylish air;to try to look good;to show off#
+1002890#掻っ攫う;掻っさらう;掻攫う#かっさらう#to nab;to snatch#
+1002900##かっちり#tightly;exactly#
+1002910##カッと;かっと#flaring up;burning hotly;suddenly becoming bright;flying into a rage;losing one's cool;opening suddenly and widely (e.g. eyes, mouth);acting resolutely#
+1002930##かつかつ#barely;scraping by#
+1002940##かな;かなあ#(at sentence end) I wonder;(at sentence end) should I?;is it?;(at sentence end) I wish that (with a negative);I hope that#
+1002950#敵わない;適わない#かなわない#no match for;unbearable;unable;can't do;beyond one's power#
+1002960#上さん#かみさん#(one's) wife;(someone's) wife;landlady#
+1002970#かも知れない#かもしれない#may;might;perhaps;may be;possibly#
+1002975#かも知れません#かもしれません#may;might;perhaps;may be;possibly#
+1002980##から#from (e.g. time, place, numerical quantity);since;from (originator);because;out of (constituent, part);through (e.g. window, vestibule);after;since (following te-form verb)#
+1002990#揶揄い#からかい#banter;teasing;persiflage#
+1003000##からから#parched;dried-up;rattle;clatter;loud laughter#
+1003010#絡繰り;絡繰;機関#からくり#mechanism;machinery;contrivance;device;trick;dodge;mechanical doll;string puppet#
+1003020##からっと;カラッと#changing suddenly and completely;crisp and dry (e.g. skies, weather, tempura, laundry, etc.)#
+1003030#からと言って#からといって#while it may be true that;just because;nevertheless;not necessarily#
+1003040##からり#clatter (noise made by hard objects coming in contact, e.g. a door flinging open);bright and clear (e.g. sky);nicely dry (e.g. laundry);crisp (e.g. tempura);cheerful and open-hearted;changing suddenly and completely;completely forgetting something#
+1003050#かんかん怒る#かんかんおこる#to get very mad#
+1003060#か弱い#かよわい#frail;feeble#
+1003070##ガーッと;がーっと;があっと#with a grinding noise#
+1003080##がくがく;ガクガク#body trembling;teeth clattering;something coming loose#
+1003090##がさがさ#rustling;dry or rough feeling#
+1003100##ガタガタ;がたがた#rattle;clatter;trembling;shivering;quaking;wobbling;swaying;whining;grumbling;griping;bellyaching;rickety;shaky;wobbly;decrepit;ramshackle;broken down#
+1003110##がちがち#chattering (teeth);(frozen, worried) stiff;rigid (personality, thinking, etc.);inflexible;overly serious;voracious (e.g. work, study);without slack or pause#
+1003120##がちゃがちゃ#clatter#
+1003130##がちゃりと#with a clank#
+1003140##ガチャン;がちゃん;ガチン;がちん#(with a) slamming noise (door, telephone receiver);(with a) banging noise;(with a) clash (broken dish);(with a) clank;(with a) bang#
+1003160##がちんがちん#tick-tock;chipping (sound)#
+1003170##がっかり#feel disappointed;dejected;lose heart;feel emotionally drained;feel let down#
+1003180##がっかりするな#cheer up!#
+1003190##がっくり#heartbroken;crestfallen#
+1003200##がっしり#firmly;solidly;tough#
+1003210##がっちり#solidly built;tightly;shrewd;calculating#
+1003220#がっちり屋#がっちりや#tightwad#
+1003230##がっぷり#firmly (grasped);latched onto;locked onto#
+1003240##がつがつ;ガツガツ#greedily;burning with desire for something#
+1003250##がぶがぶ#gulping down;guzzling;sloshing around (e.g. liquid in one's stomach, esp. from drinking too much)#
+1003270##ガミガミ;がみがみ#nagging;griping#
+1003280##がやがや;ガヤガヤ;かやかや;カヤカヤ#noisily;in a crowd of people talking;clamorously;in a hubbub#
+1003290##がらがら#clattering;rattling;gargling;empty;bare;uninhabited;vacant;unoccupied;raspy (voice);gravelly;rattle (e.g. baby's toy)#
+1003300#がらがら蛇#がらがらへび;ガラガラヘビ#rattlesnake#
+1003330##がらんどう#hollowness;emptiness;void#
+1003340##がり;ガリ#sliced ginger prepared in vinegar (served with sushi);pickled ginger;mimeograph;reprimand;rebuke;censure;reproof;overly skinny person#
+1003350#がり勉;ガリ勉;我利勉#がりべん;ガリべん#drudge;grind;swot;someone who studies too much;cram-study (for exam, etc.);swotting#
+1003360##キイキイ;キーキー;キィキィ#(sharp) creak;squeak#
+1003370#きかん気;利かん気#きかんき#daring;unyielding#
+1003380##きちきち;キチキチ#jam-packed (physically or of schedule, etc.);(used to denote a) grinding noise;precisely;correctly (e.g. when working, etc.);acrida cinerea;oriental longheaded locust#
+1003390##きちっと#exactly;perfectly#
+1003400##きちんと#precisely;accurately;neatly#
+1003410##きっかり#exactly;precisely#
+1003420##きっちり#punctually;on the dot;precisely;closely;tightly;(fits) like a glove;without fail#
+1003430#屹度;急度#きっと;キッと#surely;undoubtedly;almost certainly;most likely (e.g. 90 percent);sternly;severely;having no slack;rigid;stiff;tight;suddenly;abruptly;instantly#
+1003440##きっぱり;きっぱりと#clearly;plainly;decisively;distinctly;flatly#
+1003450##きつい#intense;severe;hard;determined;forceful;formidable;strong;tight;close#
+1003460##きびきび#brisk;lively;energetic#
+1003470##きゅうきゅう#squeak#
+1003480##きゅっと;きゅうっと#tightly;squeaking;(drinking) all in one sweep#
+1003490##きょろきょろ;きょときょと#look around restlessly#
+1003500##きらきら;キラキラ#glitter;sparkle;glisten;twinkle#
+1003520##きんきん;キンキン#shrill;strident;piercing;tinkling;metallic-sounding;ice-cold;very cold;ice cream headache;brain freeze#
+1003540##ギクシャク;ぎくしゃく#jerkiness;awkwardness;stiltedness;souring (of a relationship);strain (e.g. in relations)#
+1003550##ぎこちない;ぎごちない#awkward;clumsy;stiff;crude;unrefined;constrained#
+1003560##ぎざぎざ;ギザギザ#jagged;notched;corrugated;milled;serrated;with jaggies (stair-step artifacts in computer images)#
+1003570##ギスギス;ぎすぎす#strained (atmosphere);thin and bony#
+1003580#ぎっくり腰;ギックリ腰#ぎっくりごし;ギックリごし#strained back;slipped disk;lumbosacral strain#
+1003590##ぎっしり#tightly;fully#
+1003600##ぎゅうぎゅう#packing in tightly;creaking leather, door, etc.#
+1003610##ぎゅぎゅ#snoringly#
+1003620##ぎゅっと;ぎゅって#tightly (squeezing);firmly;hard#
+1003630##ぎょっと;ギョッと#being startled#
+1003640##ぎょろぎょろ#goggling;rolling (one's eyes)#
+1003650##ぎらぎら#glare;dazzle;glitter#
+1003660##ぎりぎり;ギリギリ#at the last moment;just barely;grinding sound#
+1003680##クイント#quinto#
+1003690##くさくさ#feeling depressed#
+1003700##くしゃくしゃ#crumpled;disheveled;dishevelled;rumpled;tousled;wrinkled;creased;depressed;gloomy;noisily (chewing)#
+1003710#嚏;嚔#くしゃみ;くさめ;くっさめ;クシャミ#sneeze;spoken twice in response to someone sneezing as a charm against an early death#
+1003720#くすくす笑う;クスクス笑う#くすくすわらう;クスクスわらう#to giggle#
+1003730#擽ったい;擽ぐったい#くすぐったい#ticklish;embarrassing#
+1003740#擽る;擽ぐる#くすぐる#to tickle;to tickle (one's fancy);to appeal;to flatter;to titillate;to amuse;to entertain#
+1003770##くたくた;ぐたぐた;ぐだぐだ#exhausted;tired;withered;worn out;boiling until shapeless or mushy;tediously;repetitively;wordily#
+1003780##くたばっちまえ#Drop dead, you bastard!;fuck you!#
+1003790##くたばる#to kick the bucket;to drop dead;to die;to croak;to be pooped;to be exhausted;to be knackered#
+1003800##くたばれ#drop dead!;go to hell!;fuck you!;shove it!#
+1003810#草臥れる#くたびれる#to get tired;to be exhausted;to wear out;to be battered from long use#
+1003820#梔子;巵子;山梔子;梔#くちなし;クチナシ;しし;さんしし#Cape jasmine (Gardenia jasminoides);Cape jessamine;gardenia#
+1003840##くっきり#distinctly (standing out);clearly;in sharp relief;boldly#
+1003860#くっ付く;食っ付く#くっつく#to adhere to;to stick to;to cling to;to keep close to;to go along with;to get involved with;to be thick with;to become intimate#
+1003870#くっ付ける;くっ着ける;食っ付ける#くっつける#to attach;to stick together;to paste;to glue;to place together;to put side-by-side;to make someone get married;to get someone hitched#
+1003880#くつくつ法師#くつくつぼうし#Meimuna opalifera (species of cicada)#
+1003890##くどくど#tediously;repetitively#
+1003900##くねくね;クネクネ;ぐねぐね;グネグネ#winding;meandering;wriggling;wiggling;waving;swaying;twisting and turning#
+1003910##くねる#to bend loosely back and forth;to wriggle;to be crooked#
+1003920#隈なく;隈無く#くまなく#all over;everywhere;in every nook and cranny#
+1003930##くよくよ#worrying about;moping;brooding over;fretting#
+1003940##くらくら#dizzy;giddy#
+1003950#比べ;較べ;競べ#くらべ#contest;comparison;competition#
+1003960##くるくる;クルクル#whirling;revolving;spinning;going round and round;coiling around;winding around;rolling around;working tirelessly;working hard;constantly changing#
+1003970#佝僂病;くる病#くるびょう#rickets#
+1003990#くわ入れ式;鍬入れ式#くわいれしき#ground-breaking ceremony#
+1004000#クンクン鳴く;くんくん鳴く#クンクンなく;くんくんなく#to whine (of a dog)#
+1004010##ぐいぐい#doing something forcefully and continuously (pulling hard, gulping drink)#
+1004020##ぐうぐう#fast (asleep);snoring or grumbling sound#
+1004040#愚図愚図#ぐずぐず#slowly;tardily;hesitatingly;lingering;complaining;loose;slackened#
+1004050##ぐちゃぐちゃ#pulpy;soppy;sloppy#
+1004060##ぐっすり#sound asleep;fast asleep#
+1004070##ぐったり;ぐたり#completely exhausted;dead tired;limp;senseless#
+1004080##ぐっと#suddenly;at once;in one go;with a jerk;with a gulp;considerably;very much;a lot;firmly;with an effort;tightly;exerting pressure;completely (e.g. at a loss);deeply (e.g. moved)#
+1004090##ぐにゃぐにゃ#flabby;limp;soft;flexible#
+1004100##ぐぶぐぶ#gurgling;sound of rinsing one's mouth#
+1004110##ぐらぐら#loose, irregular movement;lolling;indecisiveness#
+1004120##ぐらつく#to be unsteady;to reel;to shake;to waver;to be unsettled (feelings, thoughts, etc.)#
+1004130##ぐる;グル#accomplice;cohort#
+1004140##ぐるぐる#turning round and round;going around in circles;wrapped around#
+1004150##ぐれる#to stray from the right path#
+1004160##ぐんぐん#steadily#
+1004170##けじめ#distinction (e.g. between right and wrong, public and private, etc.)#
+1004180##けたたましい#piercing;shrill;noisy;loud;clamorous;wild#
+1004190#けつの穴;ケツの穴#けつのあな;ケツのあな#anus;asshole;arsehole#
+1004200##けど;けれども;けれど;けども#but;however;although#
+1004210##けばけば#gaudy;garish#
+1004220#けらけら笑う#けらけらわらう#to cackle#
+1004250##げっそり#being disheartened;losing weight#
+1004260##げっぷ#belch;burp;eructation#
+1004270#げらげら笑う#げらげらわらう#to guffaw#
+1004280##げろ#spew#
+1004290##げろげろ#gross me out!;disgusting!#
+1004300#げんを担ぐ;験を担ぐ#げんをかつぐ#to be superstitious#
+1004310#斯う#こう#in this way (used for something or someone close to the speaker, including the speaker himself, or for the opinions of the speaker);thus;such;uh... (interjection used as a verbal pause)#
+1004320#こう言う;斯ういう;斯う言う#こういう;こうゆう#such;like this#
+1004330##こうすると#having done this;if this is done;if it is done in this way#
+1004340##こうすれば#if you do this;if this is the case#
+1004390##こじつける#to distort;to strain (interpretation);to force (meaning)#
+1004400##こせこせ#fussy;making a big deal out of nothing;fidgety;restless;being cramped;being claustrophobic#
+1004410##こそ#for sure (emphasize preceding word)#
+1004420##こそこそ#sneakily;secretly;to move stealthily#
+1004430#こそ泥#こそどろ#sneak thief;petty thief;cat burglar#
+1004440#炬燵掛け;炬燵掛;火燵掛#こたつがけ#futon or cloth attached to the kotatsu's frame;cover for kotatsu#
+1004450#火燵布団#こたつぶとん#cover for kotatsu#
+1004460##こだま#regular (stops at every station) Toukai-line Shinkansen#
+1004470#拘り#こだわり#obsession;fixation;hangup;determination;fastidiousness;pickiness about (trait, style, etc.);complaining;criticizing#
+1004480#拘わる;拘る#こだわる#to fuss over;to be particular about;to be obsessive;to be fixated#
+1004500#此方#こちら;こっち;こち#this way (direction close to the speaker or towards the speaker);this direction;here (place close to the speaker or where the speaker is);this one (something physically close to the speaker);I;me;we;us;this person (someone physically close to the speaker and of equal or higher status)#
+1004505#此方#こなた;こんた#this way;here;the person in question;he;she;him;her;since (a time in the past);prior to (a time in the future);me;you#
+1004510##こちらこそ#it is I who should say so#
+1004520##こっそり#stealthily;secretly#
+1004530##こつこつ;コツコツ#unflaggingly;steadily;untiringly;laboriously;knocking;tapping;clicking;drumming#
+1004540#事がある#ことがある#(something) has occurred;to have done (something);such a thing happened;(something) happens on occasions;there are times when#
+1004550#ことが出来る;事ができる;事が出来る#ことができる#can (do);to be able to (do);can be done;is able to be done#
+1004560##ことこと#simmering noise;light bubbling;gentle clinking;sound of rapping;sound of rattling;cooking something on a low flame;chopping something lightly#
+1004570#悉く;尽く#ことごとく#altogether;entirely#
+1004580#事にすると#ことにすると#perhaps;maybe;possibly#
+1004590#事になる#ことになる#it has been decided (so) that;it has been arranged (so) that#
+1004600#事によって#ことによって#via;through;by doing;by means of;using#
+1004610#此間#こないだ#the other day;lately;recently#
+1004620##こんにちわ;こにちわ;こにちは#hello;good day (daytime greeting)#
+1004630##このおかげで#because of this;thanks to this;due to this#
+1004640##このため#because of this#
+1004660#この外#このほか#besides;moreover;in addition#
+1004680#このような場合に#このようなばあいに#in this kind of situation#
+1004690#この間;此の間#このあいだ;このかん#the other day;lately;recently;during this period;meanwhile;in the meantime#
+1004700#この結果#このけっか#consequently;as a result#
+1004710#この頃;此の頃#このごろ;このころ#recently;nowadays;these days;now;at present#
+1004720#この場合#このばあい#in this case#
+1004730#この先の心持ち#このさきのこころもち#feelings from this point on#
+1004740#この度;此の度;此度#このたび;こたび#this occasion;at this time;now#
+1004750#この辺;此の辺#このへん#this area;around here#
+1004760#こぼし話;零し話#こぼしばなし#complaining#
+1004780##こら;コラ#hey!;interjection meant to scold or reprove someone;hey!;interjection to call out to someone#
+1004790#此れから;此から#これから#after this#
+1004800##これで#here;with this#
+1004810#これと同じ#これとおなじ#the same as this#
+1004820#此れ迄;此れまで#これまで#hitherto;so far#
+1004830#これ等;此れ等;此等;是等#これら#these#
+1004840##ころころ;ころんころん#lightly rolling (of a small and round thing);pleasant, high-pitched sound (e.g. bell, young woman's laughter);changing frequently (e.g. conversation, plans);(occurring) in rapid succession (e.g. sumo wrestlers being defeated);fickly;in a fickle manner;roly-poly;chirp chirp;sound of insects;ribbit ribbit;croak croak#
+1004850##ころり#easily;effortlessly;suddenly;utterly;changing completely;plink (sound of something light falling or rolling)#
+1004870##コンコン;こんこん#tap-tap;knock-knock;bang-bang;cough-cough;bark (of a fox);yelp;cry;heavily (e.g. of snow falling);fox#
+1004880##こんな#such (about something or someone close to the speaker (including the speaker), or about ideas expressed by the speaker);like this#
+1004890##こんなに#so;like this;in this way#
+1004910##こんばんわ#good evening#
+1004920##ゴソゴソ;ごそごそ#rustling sound;rummaging sound#
+1004930##ごたごた;ゴタゴタ#trouble;difficulties;confusion;complication;disorder;mix-up;imbroglio;mess#
+1004940##ごちゃごちゃ;ごっちゃ#jumble;mix up;complaining about various things#
+1004950##ごっこ#something done together;game of make-believe#
+1004960##ごった#confusion;mess;mix;huddle#
+1004970#ごった返す;ごった返えす#ごったがえす#to be in confusion or commotion;to be in a turmoil;to be crowded or jammed with people#
+1004980##ごぼごぼ#gurgling;burbling;bubbling;sound of water mixing with air (e.g. water welling up, pouring water, drain pipe, gushing forth)#
+1004990#誤魔化し;胡麻化し#ごまかし#hanky-panky;juggling;cheating;deception;smoke and mirrors#
+1005000#ごみ入;塵入#ごみいれ#trashcan;rubbish bin;dustbin;ashcan#
+1005010#ごみ箱;ゴミ箱;塵箱;芥箱#ごみばこ;ゴミばこ#garbage can;garbage box;rubbish bin;trash can;dust bin;dustbin#
+1005020##ゴロゴロ;ごろごろ;ゴロンゴロン;ごろんごろん#thundering;purring;grumbling (e.g. stomach);something large and heavy starting to roll;scattered about;common;commonplace;all over;idleness;idling about;having a foreign substance in (e.g. one's eye or stomach);thunder#
+1005030#ご苦労さま;御苦労様;ご苦労様#ごくろうさま#thank you very much for your ...;I appreciate your efforts#
+1005040#ご苦労さん;御苦労さん#ごくろうさん#I appreciate your efforts#
+1005050#ご兄弟;御兄弟#ごきょうだい#siblings;brothers and sisters#
+1005070#ご心配なく;御心配なく#ごしんぱいなく#don't worry;never mind#
+1005080#ご馳走様でした;御馳走様でした#ごちそうさまでした#That was a delicious meal (said after meals);What a wonderful meal#
+1005090#ご注意;御注意#ごちゅうい#caution;being careful;attention (heed);warning;advice#
+1005100#ご覧ください;御覧ください;ご覧下さい;御覧下さい#ごらんください#please look at it#
+1005110##さあ#come;come now;come along;go on;hurry up;well;who knows;I don't know...;uh;hmm;well now;let's see;there we go;all right;about that;you see#
+1005120##さえ;すら#even;if only;if just;as long as;the only thing needed#
+1005130##さくさく;サクサク#crisp (not moist or juicy);crunchy;flaky (as in pastry);crunching sound (of walking on snow, frost, sand, etc.);doing skillfully and efficiently;doing quickly;proceeding smoothly;sound of pouring liquid;speaking clearly#
+1005150##ささくれる#to split finely;to splinter;to get frayed;to become irritable#
+1005160#為せる#させる#to make (someone) do;to allow (someone) to#
+1005170#させ子#させこ#whore#
+1005180##さっき#some time ago;just now#
+1005190##さっさ#promptly;immediately;quickly;without delay;indifferently#
+1005200#颯と;颯っと#さっと#quickly (esp. actions);suddenly (esp. wind, rain, etc.)#
+1005210##さっぱり#feeling refreshed;feeling relieved;neat;trimmed;plain;simple;completely;entirely;not in the least (in sentence with negative verb);not at all;completely ignorant;not doing at all#
+1005230#さて置く;扠置く#さておく#to set aside#
+1005240##さてさて#well;now;then#
+1005250##さばさば#relieved;refreshed;frank;candid#
+1005260#さまざまな理由から#さまざまなりゆうから#for various reasons#
+1005270##さめざめ#sorrowfully;anguishedly#
+1005280##さもしい#selfish;self-seeking;self-interested;mean#
+1005290##さよならホームラン;さようならホームラン#game-ending home run#
+1005300#さらけ出す;曝け出す;曝けだす#さらけだす#to expose;to disclose;to lay bare;to confess#
+1005310##さらさら#rustling;murmuring;fluently;silky (hair)#
+1005320##さらば#farewell#
+1005330#さり気ない;然り気無い;然り気ない;然りげ無い#さりげない#nonchalant;unconcerned;in a casual manner#
+1005340##さん#Mr.;Mrs.;Miss;Ms.;-san;makes words more polite (usu. in fixed expressions)#
+1005360##ざあざあ#sound of rushing water;sound of pouring rain;white noise sound#
+1005370##ざくざく#lots of coins or jewels;cutting up roughly;walking on frost;mixing gravel#
+1005380##ざっくばらん#frankness#
+1005390##ざっと#roughly;in round numbers;cursorily;briefly#
+1005410#ざまを見ろ;様を見ろ#ざまをみろ#serves you right!;see what happens!#
+1005420##ざらざら#rough (touch, voice, etc.);coarse;gritty;granular;sound of grains or beads moving#
+1005430##ざわざわ#noisy;sound of people talking#
+1005450#悄悄;悄々#しおしお;しょうしょう;すごすご#in low spirits;dejected;sad#
+1005460##しか;しきゃ;しっきゃ#only;nothing but#
+1005470#しがみ付く#しがみつく#to cling#
+1005480#頻りに#しきりに#frequently;repeatedly;often;incessantly;constantly;strongly;eagerly#
+1005490#しくしく泣く#しくしくなく#to sob;to weep#
+1005500##しくじる#to fail;to fall through;to blunder#
+1005510#繁繁;繁々#しげしげ#frequently;often;fixedly;narrowly;closely#
+1005530##しっくり#exactly;nicely;to a tee;to be fitting#
+1005540##しっとりと#gently;softly#
+1005550##しつこい;しつっこい#insistent;obstinate;persistent;tenacious;too rich (taste, etc.);fatty;heavy;greasy#
+1005570##しとしと#gently (raining);drizzling;moist;damp#
+1005580#屡々;屡屡;屡;数数;数々;数#しばしば#often;again and again;frequently#
+1005590##しぶとい#tenacious;tough;enduring;dogged;headstrong;stubborn;obstinate;unyielding#
+1005600#仕舞った#しまった#damn it!;damn!;oops!;oh dear!;oh no!#
+1005610#沁み沁み;染み染み;泌み泌み#しみじみ#earnestly;keenly;fully;deeply;heartily;seriously;calmly#
+1005620##しゃあしゃあ#shamelessly#
+1005630##しゃがむ#to squat;to crouch#
+1005640##しゃきしゃき#crisp;precise;clipped#
+1005650#吃逆#しゃっくり#hiccough;hiccup#
+1005660##しゃぶしゃぶ#shabu-shabu (thinly sliced meat boiled quickly with vegetables, and dipped in sauce)#
+1005670##しゃぶる#to suck;to chew#
+1005680#喋り#しゃべり#talk;chat#
+1005690##しゃり#rice prepared for sushi#
+1005700##しやすい#easy to make;easy to do#
+1005710##しょっちゅう#always;constantly;frequently;often#
+1005720#小便をする#しょうべんをする;しょんべんをする#to pee;to piss#
+1005730#小便を垂れる#しょんべんをたれる#to pee;to piss#
+1005740##しょんぼり#being downhearted#
+1005760#白口#しろぐち;シログチ#white croaker (Pennahia argentata)#
+1005770#嗄れる#しわがれる;しゃがれる#to become hoarse#
+1005790#涔々;涔涔#しんしん#falling heavily (of rain, snow, etc.)#
+1005800##しんどい#tired;frazzled;tiresome;worrisome;bothersome#
+1005810##しんねり#annoying persistence#
+1005820##しんみり#solemn;serious;sad;heart-to-heart#
+1005830#し吹く;繁吹く;重吹く#しぶく#to splash;to spray#
+1005840##じくじく#oozily#
+1005850##じたばた#(kick and) struggle;wriggle#
+1005860##じっくり#deliberately;carefully;thoroughly;without rushing#
+1005870#凝乎と#じっと;じーっと;じーと;じいっと#motionlessly (e.g. stand, wait);(be) still;fixedly (e.g. gaze, stare);intently (e.g. listen, think);patiently (endure);stoically;firmly (e.g. hold);restrained#
+1005880#じっと見る#じっとみる#to watch steadily;to stare#
+1005890##じめじめ#damp and humid;sodden;wet;clammy;gloomy;melancholy;depressing#
+1005900##じゃあ;じゃ#then;well;so;well then;combination of 'de' and 'wa' particles;plain copula#
+1005910##じゃあじゃあ#noisily (of water gushing, pouring, spilling, splashing, spraying, etc.)#
+1005920#また明日#またあした#see you tomorrow#
+1005930#じゃが芋;ジャガ芋;馬鈴薯#じゃがいも;ジャガいも;ジャガイモ;ばれいしょ#potato (Solanum tuberosum)#
+1005940#じゃじゃ馬#じゃじゃうま#restive horse;unmanageable person (esp. a woman);shrew;stubborn tomboy#
+1005950##じゃぶじゃぶ#splashing water sound#
+1005960##じゃりじゃり#crunchy;gritty (sand, pebbles, etc.)#
+1005970#じゃん拳#じゃんけん#rock, paper, scissors game#
+1005980##じゅうじゅう;ジュージュー#sizzle (as in meat cooking);sizzling sound;frizzle;juju (African fetish)#
+1005990#焦らす#じらす#to irritate;to tease#
+1006000##じりじり;ぢりぢり#slowly (but steadily);gradually;bit-by-bit;irritatedly;impatiently;scorchingly (of the sun);sizzling (i.e. sound of frying in oil);sound of a warning bell, alarm clock, etc.;oozing out (oil, sweat, etc.);seeping out#
+1006010#焦れったい#じれったい#vexing;irritating;impatient#
+1006020#じろじろ見る;ジロジロ見る#じろじろみる;ジロジロみる#to stare at;to look hard at;to look up and down;to scrutinize;to scrutinise#
+1006030##じんわり#gradually#
+1006040##すーすー#cool sensation from passing air;sound of air leaking#
+1006050##スイスイ;すいすい#(swim, work) smoothly;unhindered#
+1006070#好き者#すきもの#dilettante;lecher;nymphomaniac#
+1006080#すすり泣く;啜り泣く;啜りなく#すすりなく#to sob#
+1006090##すたすた#(walk) briskly;at a brisk pace;quickly#
+1006100##すっからかん#flat out (of);completely empty;out of money;penniless;broke#
+1006110##すっかり#all;completely;thoroughly#
+1006120##すっきり#feeling refreshed;feeling fine;feeling clear-headed;shapely;neatly;refinedly;cleanly;without trouble;clearly;plainly;distinctly;completely;thoroughly;not at all (with negative sentence);not even slightly#
+1006130##すかっと#refreshed;clear;to feel refreshed#
+1006140##すっと;スッと;スーッと;すうっと#straight;quickly;directly;all of a sudden;quietly;gently;softly;to feel refreshed;to feel satisfied#
+1006150##すっぱり;すぱり#completely (quitting, etc.);entirely;thoroughly;totally;wholly;without hesitation;cleanly (cutting, snapping off, etc.);in a single blow#
+1006160##すっぽかす#to stand (someone) up;to leave (something) undone;to neglect (a duty)#
+1006170##すっぽんぽん#utterly stark naked;wearing only one's birthday suit#
+1006180##すばしこい;すばしっこい#nimble;smart;quick#
+1006200#す可き#すべき#should do (abbr. of suru+beki);ought to do#
+1006220##スベタ;すべた#bitch;witch;ugly woman;dog;normal card;card having only a floral pattern that gives a player only one point#
+1006230##すやすや#sleeping peacefully;sleeping quietly;sleeping soundly#
+1006240##すらすら#smoothly#
+1006250##すらり#long, slender and well-proportioned;smooth, continuous (movement)#
+1006260#するが良い#するがいい;するがよい#had better ...;may as well ...#
+1006270##するすると;するする#smoothly;swiftly#
+1006280##すると#thereupon;hereupon#
+1006290##するよろし#had better ...;may as well ...#
+1006300##するり#with a smooth, unhindered motion;speedily and without delay#
+1006310#擦れ擦れ#すれすれ#grazing;skimming;almost touching;passing within inches;being within a whisker;shaving close;barely;just;narrowly;by a slim margin#
+1006320##すんなり#slim;slender;lithe;supple;smoothly;without resistance;without trouble;without difficulty;without dissent;easily;readily#
+1006330##ずかずか#making rude entrance#
+1006340##ずきずき#throbbing pain;heartbreakingly#
+1006350##ずけずけ;つけつけ;づけづけ#(speak) bluntly;frankly#
+1006370##ずっしり;ずしり;ずしっ;ズシッと#heavily;profoundly#
+1006380##ずっと;ずーっと;ずうっと#continuously in some state (for a long time, distance);throughout;all along;the whole time;all the way;much (better, etc.);by far;far and away;far away;long ago;direct;straight#
+1006390#ずばずば言う#ずばずばいう#to speak one's mind;to speak very frankly#
+1006400##ずばり#decisively;decidedly;boldly;once and for all;unreservedly;frankly;precisely;exactly#
+1006410#ずぶ濡れ#ずぶぬれ#soaked;dripping wet#
+1006420#滑らす#ずらす#to shift;to slide (e.g. something away from something else);to move (e.g. something out of the way);to put off;to delay;to postpone;to stagger (e.g. working hours)#
+1006430##ずらっと#in a line;in a row#
+1006440##ずるずる#sound or act of dragging;slowly slipping or drawing back;slithering;loose;lax;inconclusive;trailingly;dragging on;slurping;sniffling#
+1006450##ずれ#gap;slippage#
+1006460##ずれる;ズレる#to slide;to slip off;to get dislocated;to be out of alignment;to get dislodged;to deviate;to shift (position);to be out of sync.;to be slightly off;to be off-point#
+1006470##ずんずん#rapidly (e.g. progress, moving forward);growing visibly;quickly;steadily;by leaps and bounds#
+1006480##せかせか#restless;fidgety;hurriedly;agitatedly#
+1006490##せがむ#to badger (pester) (a person to do)#
+1006500##せこい#petty;small-minded;stingy;cheap (as in cheap shot, cheating, skirting the rules, etc.)#
+1006510#せざるを得ない#せざるをえない#cannot avoid doing;cannot help but (do);is compelled to do;(feel) obliged to (do);has to do#
+1006520##せしめる#to cheat someone out of;to wangle;to get;to obtain#
+1006530##せず#without#
+1006540##せずに#without (doing);instead of#
+1006550##せっかち#hasty;impatient#
+1006560##せびる#to demand money;to pester;to extort#
+1006570##せめて#at least;at most#
+1006580#せん状骨#せんじょうこつ#scaphoid bone (in wrist near thumb)#
+1006600#其奴#そいつ;そやつ#that person (guy, fellow);that (one)#
+1006610##そう#so;really;seeming;(after masu stem and adj-stem) appearing that;seeming that;looking like;having the appearance of#
+1006620#そうかと言って#そうかといって#but still#
+1006630##そうすると#having done that;if that is done;if it is done in that way#
+1006640#然う然う#そうそう#so long;so often;so many;so much;oh, yes!;that's right;hmmm#
+1006650##そうだ;そうです#that is so;that is right;it looks to me;I am of the impression;people say that (after plain verb, adj);it is said that;I hear that#
+1006660#そうでない場合は#そうでないばあいは#if this is not the case#
+1006670#其処#そこ#there (place relatively near listener);there (place just mentioned);that place;then (of some incident just spoken of);that (of point just raised);you#
+1006680#其処いら#そこいら#that area#
+1006690##そこそこ#reasonably;fairly well;or so;about#
+1006700##そこそこに#hurriedly;in a hurry#
+1006710##そこまで#go that far;to that extent#
+1006720#其処ら#そこら#everywhere;somewhere;approximately;that area;around there#
+1006730#然して;而して#そして;しかして#and;and then;thus;and now#
+1006740##そそっかしい#careless;thoughtless#
+1006750#唆る#そそる#to excite;to incite;to stimulate;to arouse;to tempt;to stir up#
+1006760#漫ろに#そぞろに#in spite of oneself;somehow;without knowing why;vaguely#
+1006770#そぞろ歩き;漫ろ歩き#そぞろあるき#slow, relaxed walk;stroll#
+1006780#其方#そちら;そっち;そなた;そち#that way (direction distant from the speaker, close to the listener);there (place distant from the speaker, close to the listener);that one (something close to the listener);you;your family;your company;that person (someone close to the listener)#
+1006790##そっくり#all;altogether;entirely;just like;the spitting image of#
+1006810##そっと;そうっと;そおっと;そーっと#softly;gently;quietly;secretly#
+1006830#其の#その#that (something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener);the;um...;er...;uh...#
+1006840#その上で;其の上で#そのうえで#moreover;in addition#
+1006850#その為;其の為#そのため#hence;for that reason#
+1006860#その後;其の後#そのご;そのあと;そののち#after that;afterwards;thereafter#
+1006870#その実;其の実#そのじつ#in fact#
+1006880#その上;其の上#そのうえ#in addition;furthermore;above (which);on top of (which)#
+1006890#その場合には#そのばあいには#in that case#
+1006900#その他;その外;其の他#そのほか;そのた#etc.;otherwise;besides;in addition;the rest;the others;and so forth#
+1006920#その都度#そのつど#each time it happens;at all such times#
+1006930#その内;其の内#そのうち#before very long;soon;eventually;sooner or later;of the previously mentioned#
+1006940#その反面#そのはんめん#on the other hand#
+1006950#抑;抑抑;抑々#そもそも#in the first place;to begin with;from the start;originally;ab initio#
+1006960#そよ風;微風#そよかぜ;びふう#gentle breeze;soft wind;breath of air;zephyr#
+1006970#其れ;其#それ#that (indicating an item or person near the listener, the action of the listener, or something on their mind);it;that time;then;there (indicating a place near the listener);you#
+1006980#其れから#それから#and then;after that#
+1006990#其れ丈;其れだけ#それだけ#that much;as much;to that extent;only that;that alone;no more than that;that is all (when finished speaking)#
+1007000#其れで#それで#and;thereupon;because of that#
+1007010#其れ共#それとも#or;or else#
+1007020#それ処か;其れ処か;其れどころか;其れ所か#それどころか#on the contrary#
+1007030#其れなり;其れ形#それなり#in itself;as it is;in its own way;as suits the occasion;within its capacity;within limitations#
+1007040#其れに#それに#besides;moreover#
+1007050#それに加えて#それにくわえて#in addition to this#
+1007060#其れ程;それ程#それほど#to that degree;extent#
+1007070#其れ等;其等#それら#those (near the second person)#
+1007080#それ以上#それいじょう#further;above;anymore#
+1007090#それ以来#それいらい#since then;from that time;ever since#
+1007100#それ故に;其れ故に#それゆえに#and so ...#
+1007120##そわそわ#fidgety;restless;nervous;uneasy#
+1007130##そんな#such (about the actions of the listener, or about ideas expressed or understood by the listener);like that;that sort of#
+1007140##ぞくぞく#shiver;feel chilly;shudder;thrill#
+1007150##ぞっと;ゾッと#shuddering;shivering;trembling;being horrified;being disgusted#
+1007160##ぞろぞろ#in groups;in succession#
+1007170##ぞんざい#rude;careless;slovenly#
+1007180#高が#たかが#it's only ... (something);at most#
+1007190##たかり#extortion;sponging#
+1007200#たくし上げる#たくしあげる#to roll up or pull up (sleeves, skirt, etc.)#
+1007210##たじたじ#overwhelmed;recoiling;cringing#
+1007220##たじろぐ#to falter;to wince#
+1007230##たった#only;merely;but;no more than#
+1007240##たっぷり#full;in plenty;ample#
+1007250#辿々しい;辿辿しい;辿たどしい#たどたどしい#with difficulty;faltering;tottering;awkward#
+1007260#鱮;鰱#たなご;タナゴ#bitterling (any fish of subfamily Acheilognathinae, esp. species Acheilognathus melanogaster)#
+1007270#度に#たびに;たんびに#each time;every time;whenever (something happens);on the occasion of#
+1007280##たらたら#drop-by-drop;dribbling;in a trickle;incessantly (esp. speaking, e.g. complaints, compliments);in great profusion#
+1007290##たらんと#tending to be;wanting to be#
+1007300##たんこぶ#bump;lump;protuberance;swelling#
+1007310##だから#so;therefore#
+1007320##だからって#even so;all the same;nevertheless;yes, but ...#
+1007330#だからと言って#だからといって#while it may be true that;just because;nevertheless;not necessarily#
+1007340#丈#だけ#only;just;as#
+1007350##だけあって#.. being the case;(precisely) because ...;as might be expected (from ..)#
+1007360##だけでなく#not just ... (but also ..)#
+1007370##だけど#however#
+1007380#丈に#だけに#.. being the case;(precisely) because ...;as might be expected (from ..)#
+1007390##ダサい;ださい#uncool;unsophisticated;unfashionable;out of fashion#
+1007400##だったら#if it's the case#
+1007420##だと#if it's the case#
+1007430##だぶだぶ;ダブダブ#loose;baggy;overflowing;brimming#
+1007440#だぼ鯊#だぼはぜ#goby (fish)#
+1007450#だまし取る;騙し取る;騙しとる#だましとる#to take something away by deception#
+1007460#駄目になる#だめになる#to spoil;to break;to go bad;to go wrong;to fail#
+1007470##だもの#indicate reason;infers some protest#
+1007480##だらけ#implying (negatively) that something is full of (e.g. mistakes);covered all over (e.g. with blood)#
+1007490##だらける#to be lazy;to be slack;to feel dull;to feel languid;to feel listless#
+1007500#だらし無い#だらしない#slovenly;loose;sluttish;slatternly;untidy;undisciplined;careless#
+1007510##だらだら#in drops;dripping;trickling;streaming;flowing;gently (sloping);sluggishly;endlessly;lengthily;leisurely;idly;slowly;slovenly#
+1007520#怠い;懈い#だるい#sluggish;languid;listless;heavy (heart, legs, etc.);dull#
+1007530##ちぎりぎ#weight-chain-pole weapon#
+1007540##ちぐはぐ#mismatched;odd;irregular#
+1007550#些と;少と#ちっと;ちと#a little bit;a little while#
+1007560#些とも#ちっとも#not at all (neg. verb)#
+1007570##ちっぽけ#very small;tiny#
+1007590##ちびちび;ちびりちびり#making something last#
+1007600##ちゃきちゃき#efficient#
+1007610##ちゃっかり#shrewd;calculating;nervy;cheeky#
+1007620##ちやほや;ちゃほや#pamper;make a fuss of;spoil#
+1007630##チャラ;ちゃら#forgiving a debt;getting even#
+1007640##ちゃり;チャリ#bicycle#
+1007650##ちゃりんこ;チャリンコ#bicycle;child pickpocket#
+1007660##ちゃん#suffix for familiar person#
+1007670#ちゃんこ鍋#ちゃんこなべ#chankonabe;fish, meat, and vegetable stew traditionally served to wrestlers#
+1007680#ちゃんこ料理#ちゃんこりょうり#fish, meat, and vegetable stew traditionally served to wrestlers#
+1007690##ちゃんたま#testicles#
+1007700##ちゃんちゃん#regularly;promptly#
+1007710##ちゃんちゃんこ#padded sleeveless kimono jacket;Japanese vest#
+1007720##ちゃんと#diligently;seriously;earnestly;reliably;steadily;legitimately;perfectly;properly;exactly;orderly;punctually;regularly;sufficiently;satisfactorily;quickly#
+1007730##ちゃんばら;チャンバラ#sword fight;sword play#
+1007740#ちゃんばら映画#ちゃんばらえいが#samurai movie#
+1007750##ちゅう;ちゅー;チュー#kiss;squeak (as in the sound made by mice);sound of liquid being sucked up#
+1007760#ちゅうちゅう吸う#ちゅうちゅうすう#to suck#
+1007770#チューチュー鳴く;ちゅうちゅう鳴く#チューチューなく;ちゅうちゅうなく#to squeak;to chirp;to twitter#
+1007780##ちょいちょい#often;frequently;now and then;occasionally#
+1007790##ちょくちょく#often;frequently;now and then;occasionally#
+1007800##ちょこちょこ#toddling;with small, quick steps;restlessly;in continuous motion;quickly and easily;often;frequently;now and then;occasionally#
+1007810##ちょっかい#meddle;dabble;make a pass at#
+1007820##ちょっくら#(a) little#
+1007830#ちょっと一杯#ちょっといっぱい#let's have a quick drink#
+1007840##ちょっぴり;ちょぴり#very little bit;just a smidgin;wee bit#
+1007850#ちょび髭#ちょびひげ#small mustache;short mustache#
+1007860#点#ちょぼ;チョボ#dot;point;mark;gidayuu musicians (in kabuki)#
+1007870##ちょぼちょぼ#sparsely;drop-by-drop#
+1007880##ちょろい#easy;simple;soft;lax;slack#
+1007890##ちょろちょろ;チョロチョロ#in trickles (e.g. water flowing);darting about (e.g. a small animal);moving rapidly#
+1007900#丁髷;ゝ髷#ちょんまげ#topknot (hair style)#
+1007910##ちらちら;チラチラ;チラッチラッ#falling lightly (e.g. snow, petals, confetti);fluttering;flickering;twinkling;glimmering;sparkling;dazzling;appearing and disappearing;catching glimpses;glancing (repeatedly);(hear, see) from time to time;intermittently#
+1007920##ちらっと;ちらと#at a glance;by accident#
+1007940##ちんこ;チンコ#penis;practice#
+1007960##ちんちん;チンチン#chink;jingle;tinkle;whistle (kettle);begging (animal);penis#
+1007970#ちんちん鳴る#ちんちんなる#to jingle;to tinkle;to whistle (kettle)#
+1007980#ちんどん屋#ちんどんや#traditional Japanese band of sandwich board advertisers#
+1007990##チンピラ;ちんぴら#(young) hoodlum;small-time yakuza;delinquent boy;delinquent girl;hooligan;punk#
+1008000##ちんぽ#penis#
+1008010#珍矛#ちんぽこ#penis#
+1008020#っ放し#っぱなし;っはなし#keep ...-ing (negative nuance, with the state being improper, unpleasant, etc.);have been ...-ing;leaving (something) on;leaving (something) still in use#
+1008030##つい#just (now);quite (near);unintentionally;unconsciously;by mistake;against one's better judgement (judgment)#
+1008050#序でに;序に#ついでに#incidentally;taking the opportunity;while (you) are at it;on the occasion#
+1008060##つかつか#walking briskly;determinedly#
+1008070#つかみ取る;掴み取る;摑み取る#つかみとる#to grasp;to get#
+1008100#つくつく法師#つくつくぼうし;ツクツクボウシ#Meimuna opalifera (species of cicada)#
+1008110#熟;熟熟;熟々#つくづく;つくつく#completely;really;thoroughly;deeply;severely;intently#
+1008120##つつ#while;even though;despite#
+1008130#躑躅#つつじ#azalea;Rhododendron spp.#
+1008140#つなぎ合わせる;繋ぎ合わせる;繋ぎあわせる#つなぎあわせる#to connect;to join;to join or tie or knot together#
+1008150#つなぎ目;繋ぎ目#つなぎめ#joint;link;knot;tie-together point#
+1008160##つばさ#extra-high-speed Tohoku-line Shinkansen#
+1008170##つべこべ#complaining;nitpicking#
+1008190#詰らない;詰まらない#つまらない#dull;uninteresting;boring;tedious;insignificant;unimportant;trifling;trivial;worthless;absurd;foolish;silly;useless;pointless;disappointing#
+1008220##つるつる#slick;slippery;smooth;sleek;slurping (noodles)#
+1008230##つんつん#aloof;morose;pointed#
+1008240##つんのめる#to pitch (fall) forward#
+1008250##テカテカ;てかてか#gleaming#
+1008260##てくてく#trudgingly;going long way at steady pace#
+1008270#手こずる;手古摺る;手子摺る;梃子摺る;梃摺る#てこずる#to have much trouble;to have a hard time;to not know how to handle#
+1008280##てこてこ#sound of walking#
+1008290##てっきり#surely;certainly;beyond doubt#
+1008310##てれながら#feeling awkward#
+1008320##てんで#(not) at all;altogether;entirely#
+1008330#て拳道;跆拳道#てこんどー;テコンドー#Tae Kwon Do#
+1008340##である#to be (formal, literary)#
+1008350##であろう#will;probably;may;I think;surely;I hope;I fear;it seems#
+1008360##でか;デカ#detective#
+1008370##でかい;でっかい#huge;gargantuan#
+1008380##でかでか#in a big way#
+1008390##でかぱい;デカパイ#huge breasts#
+1008400#出来るようになる#できるようになる#(something) has become possible;(something) is now possible#
+1008420##でしょう;でしょ#seems;I think;I guess;I wonder;I hope;don't you agree?;I thought you'd say that!#
+1008430##ですから#so;therefore#
+1008450##では#then;well;so;well then#
+1008460##でも#but;however;though;nevertheless;still;yet;even so;even;however;no matter how;even if;even though;... or something;either ... or ...;neither ... nor ...;pseudo-;quack;in-name-only;for lack of anything better to do#
+1008470##でれっと#exhausted;lovestruck;logy#
+1008480##でれでれ#idling;lazing;(being) exhausted;flirting;philandering;womanizing;being lovestruck;fawning;mooning#
+1008490##と#if;when;and;with;particle used for quoting (with speech, thoughts, etc.);quoting particle;promoted pawn (shogi);indicates question (sentence end)#
+1008500#と言うのは#というのは#means;is;because;that is to say#
+1008510#と言うもの;と言う物#というもの#something like ...;something called ...#
+1008530##とか#among other things;such things as;or something like that#
+1008540##とき#regular (stops at every station) Jouetsu-line Shinkansen#
+1008550##ときめき#palpitation;throbbing#
+1008560##ときめく#to throb;to flutter;to palpitate#
+1008570#所が#ところが#even so;however;still;whereupon;even though;nevertheless;on the contrary;as a matter of fact;despite#
+1008580##ところがどっこい#on the contrary#
+1008590##として#as (i.e. in the role of);for (i.e. from the viewpoint of);apart from... (used to change the topic);(before a negative form) even (e.g. "not even a single person");(after a volitional form) thinking that...;trying to...#
+1008600##としても#assuming ...;even if ...#
+1008610##とすると#if we make ...;if we take ...;if we assume ...#
+1008620#途轍もない;途轍も無い#とてつもない#extravagant;absurd;unbelievable;preposterous;unreasonable;enormous;tremendous;extraordinary;monumental#
+1008630#迚も#とても;とっても#very;awfully;exceedingly;(before a negative form) (not) at all;by no means;simply (cannot)#
+1008640##とと;とっと#fish;bird#
+1008660#となりの芝生は青い;隣の芝生は青い#となりのしばふはあおい#the grass is always greener on the other side#
+1008670#鳶;鴟;鵄#とび;とんび;トビ#black kite (Milvus migrans);construction worker;scaffold erector;firefighter;Inverness cape#
+1008680##とべ#last (in a contest)#
+1008700##とぼとぼ#totteringly;trudgingly#
+1008710#とも言う#ともいう#also called#
+1008720#とやかく言う;兎や角言う#とやかくいう#to say all kinds of things;to complain;to find fault (with)#
+1008730##とろ;トロ#fatty tuna meat (esp. belly, an expensive cut);fatty ...;fatty cut of meat#
+1008750#とろろ芋#とろろいも#yam#
+1008760##とんずら#fleeing;escape#
+1008770##とんだ#unthinkable;unimaginable;inconceivable;unexpected;terrible;awful;serious;very#
+1008790#とんでも無い;飛んでもない#とんでもない#unthinkable;unexpected;outrageous;offensive;terrible;absolutely not!;not at all!;far from it!;impossible!;preposterous!;what a thing to say!;no way!;bullshit;don't mention it;you're welcome#
+1008800##とんとん#tap;rap-tap;tapping;without delay;smoothly;without a hitch;even;equal;with no advantage or disadvantage#
+1008810#と仮定して#とかていして#assuming that ...;supposing that ...#
+1008820#と仮定しても#とかていしても#even assuming that ...;even granted that ...#
+1008830#と共に#とともに#together with#
+1008840#と言う訳だ#というわけだ#this is why;this means;it is the case that#
+1008850#と言えば#といえば#speaking of#
+1008860#言える#いえる#to be possible to say;to be able to say#
+1008870#と言われる#といわれる#to be called ...;to be referred to as ...#
+1008880#と考えられる#とかんがえられる#one can think that ...;it is conceivable that ...#
+1008890#と同じように;と同じ様に#とおなじように#in the same way as;just like#
+1008900#と比べて#とくらべて#compared with#
+1008910#如何#どう;いかが;いか#how;in what way;how about#
+1008920#如何いう;どう言う;如何言う#どういう#somehow;how;in what way;why;what kind of#
+1008930##どうしたの;どうしたん#what's the matter?;what's wrong?#
+1008940#どうしたら良い#どうしたらいい;どうしたらよい#what's the best thing to do?#
+1008950##どうせ#anyhow;in any case;at any rate;after all;at best;at most;at all#
+1008960#どうぞ宜しく#どうぞよろしく#pleased to meet you#
+1008970##どうってことはない#nothing special;no big deal;doesn't matter#
+1008980#どうという事もない#どうということもない#nothing special;no big deal;doesn't matter#
+1008990##どうにか#in some way or other;one way or another#
+1009000##どうも#thanks;much (thanks);very (sorry);quite (regret);quite;really;mostly;somehow;in spite of oneself;no matter how hard one may try (one is unable to) (with negative verb);no matter how hard one may try not to (one ends up doing) (with positive verb, esp. -shimau);greetings;hello;goodbye#
+1009010##どうやって#how;in what way;by what means#
+1009020##どうやら#it seems like;it appears that;somehow or other#
+1009030#どう致しまして;如何致しまして#どういたしまして#you are welcome;don't mention it;not at all;my pleasure#
+1009040##どきっと;どきんと#feeling a shock;startling#
+1009050##ドキドキ;どきどき;どきんどきん;ドキンドキン#thump-thump;bang-bang;pit-a-pat;pitapat;pitter-patter;to beat fast (of one's heart);to throb;to pound;to palpitate#
+1009060##どきり;どっきり;ドッキリ#feeling shocked or startled#
+1009070#何処其処#どこそこ#such-and-such a place#
+1009080#何処でも#どこでも#anywhere#
+1009090#どさ回りをやる#どさまわりをやる#to go on tour;to be on the road (e.g. theatre troupe) (theater)#
+1009100##どしどし#rapidly;constantly;one after the other;without hesitation;sound of tramping#
+1009110##ドジ;どじ#blunder;bungle;clumsiness#
+1009120##どすこい#sumo exclamation#
+1009130##どたばた;ドタバタ#noisily (esp. the noise of heavy feet);slapstick#
+1009140##どちみち#whichever;whatever#
+1009150#何方へ#どちらへ#where to?;whither?#
+1009160#何方も#どちらも#both;either;any;all;every#
+1009170#どちら様;何方様#どちらさま#who#
+1009180##どっこい#heigh-hoh;heave-ho;hold on!;just a minute;used as a meaningless word in a song for rhythm#
+1009200#何方付かず#どっちつかず#gray area;grey area;unclear area;uncertain#
+1009210##どっと#suddenly#
+1009220#何方でも#どなたでも#anyone#
+1009240#どの様;何の様#どのよう#what sort;what kind#
+1009250#どの位;何の位;何のくらい#どのくらい;どのぐらい#how long;how far;how much#
+1009260#どの場合にも#どのばあいにも#in any case;in either case;whichever the case may be#
+1009270##どやどや#sound of many footsteps#
+1009280#響めき;響き;響動めき#どよめき#commotion;stir#
+1009290#何れ#どれ#which (of three or more);whichever;any;well;now;let me see#
+1009300##どれでも#any one#
+1009310##どろどろ;ドロドロ#syrupy;muddled;muddy;sordid;rumble (e.g. of drums, of thunder);peal;boom#
+1009320##どんどん#drumming (noise);rapidly;steadily#
+1009330##どんな#what;what kind of;(with -temo, demo, etc.) any(body, thing, means, etc.)#
+1009340##どんなに#how;how much#
+1009350#どん底#どんぞこ#very bottom#
+1009360##なあなあ#complicit;colluding#
+1009370#綯い交ぜにする;ない交ぜにする#ないまぜにする#to blend (e.g. truth and lies);to mix together (e.g. kanji and kana)#
+1009380##なおこ#long thin brown "naoko" mushroom#
+1009390#等閑#なおざり;とうかん#neglect;negligence;disregard;make light of#
+1009400#無けなし;無け無し#なけなし#very small amount which looks like nothing#
+1009410#何故なら#なぜなら#because#
+1009420#何故ならば#なぜならば#because;for;the reason why is ...#
+1009430#憖#なまじ#thoughtlessly;rashly;unwisely;half-heartedly;halfway;half-done;incomplete#
+1009440#憖い#なまじい#thoughtlessly;rashly;unwisely;half-heartedly;halfway;half-done;incomplete#
+1009450#憖っか#なまじっか#thoughtlessly;rashly;unwisely;half-heartedly;halfway;half-done;incomplete#
+1009460##なよなよ#delicately;weakly;gently;supplely#
+1009470##なら;ならば#if;in case;if it is the case that;if it is true that;as for;on the topic of;if that's the case;if so;that being the case;if possible;if circumstances allow#
+1009480##ならでは#distinctive of;characteristic of;uniquely applying to;special to;but;except;without;but for#
+1009500##なんか#things like ...;or something like that ... (often derogatory)#
+1009510#何じゃそりゃ;何じゃそら#なんじゃそりゃ;なんじゃそら#what's that?;what the...#
+1009520#何にしても#なんにしても;なににしても#even so;anyhow;at any rate#
+1009540#にいにい蝉#にいにいぜみ#Kaempfer cicada (Platypleura kaempferi)#
+1009550#に於いて;に置いて#において#in;on;at (place);as for;regarding#
+1009560#に於ける#における#in;at;on;as for;regarding;with regards to#
+1009570##にこやか#smiling#
+1009580#にして置く#にしておく#to leave as;to view as;to maintain the status quo#
+1009590##にちゃにちゃ#slimy#
+1009600#に取って#にとって#to;for;concerning;as far as ... is concerned;regarding#
+1009610##にも#also;too;not ... either;as well;even#
+1009620##ニヤニヤ;にやにや#grinning;broad grin;smirk#
+1009630##にょろにょろ#slitheringly;wriggling, slipping and sliding#
+1009640#に因って;に依って#によって#according to;by (means of);due to;because of#
+1009650#によって異なる#によってことなる#to differ depending on ...#
+1009660#に依る;に因る;に拠る#による#by means of;due to;because of;according to#
+1009670#に依ると#によると#according to (someone)#
+1009680#に拠れば;に依れば;に因れば#によれば#according to (quotation)#
+1009690#に違いない#にちがいない#I am sure;no doubt that;must;must have (done)#
+1009700#に応じて#におうじて#depending on;dependent on#
+1009710#に加え#にくわえ#in addition#
+1009720#に加えて#にくわえて#in addition#
+1009730#に過ぎない#にすぎない#no more than;just;only;mere;goes no further than#
+1009740#に関して#にかんして#related to;in relation to#
+1009750#に関する#にかんする#related to;in relation to#
+1009760#に基づいて#にもとづいて#based on;on the basis of#
+1009770#に似て#ににて#similar to;like#
+1009780#に就いて;に就て;に付いて#について#concerning;regarding;per (e.g. 100 yen per person);for every#
+1009790#に照らして#にてらして#in comparison with;when compared with;according to;in light of;in view of#
+1009800#に対して#にたいして#towards;against;regarding;in contrast with#
+1009810#に対する#にたいする#regarding;in;to;towards;with regards to#
+1009820#に当たって#にあたって#at the time of (ind. opportunity or situation where something should be done)#
+1009830#に反して#にはんして#against;contrary to#
+1009840#に比べ#にくらべ#compared to#
+1009850#に付き;に就き#につき#because of;on account of;regarding;per;apiece#
+1009860##ぬらぬら#slimy;slippery#
+1009870##ぬるぬる#slimy;slippery#
+1009890#ねじ回し;螺子回し#ねじまわし#screwdriver#
+1009900##ねた;ネタ#material;joke material;contents;proof;topping of nigiri sushi#
+1009910##ネチネチ;ねちねち#sticky;persistent;insistent;nagging#
+1009920##のこのこ#unconcernedly;nonchalantly#
+1009930##のそのそ#(move) slowly (e.g. walk);sluggishly;stolidly;ploddingly;heavily#
+1009940##のぞみ#extra-high-speed Toukai-line Shinkansen#
+1009950#の度に#のたびに;のたんびに#on the occasion of#
+1009970##ので;んで#that being the case;because of ...;the reason is ....;given that...#
+1009980##のに#although;when;and yet;despite this;in spite of;even though;but even so;but even then;however;nevertheless;for all that;notwithstanding that;while;if only;I wish;I tell you;you should do;in order to#
+1009990##のみ#only;nothing but#

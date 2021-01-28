@@ -1,0 +1,967 @@
+2300000#ＣＤ−ＤＡ;ＣＤＤＡ#シーディーディーエー#CD-DA#
+2300010##シーディーブイ#CD-V#
+2300020##シートフィードスキャナ;シート・フィード・スキャナ#sheet-fed scanner#
+2300030##シーナップ#CNAP#
+2300040##シーネット#CNET (technology media website);c|net#
+2300050##シーバス;シー・バス#C Bus#
+2300060##シーピーエム#CPM#
+2300070##シーピーエル#CPL#
+2300080##シーピーユー#CPU#
+2300090##シーモス#complementary metal-oxide semiconductor;CMOS#
+2300100##シーユーアイ#CUI#
+2300110##シーユーエスアイ#CUSI#
+2300120##シーユーシーミー#CU-SeeMe#
+2300130##シーユージー#CUG#
+2300140##シーラスロジック#Cirrus Logic#
+2300150##シェーピング#shaping#
+2300160##シェアードハブ;シェアード・ハブ#shared hub#
+2300170##シェアードメモリ;シェアード・メモリ#shared memory#
+2300180##シェアードメモリー;シェアード・メモリー#shared memory#
+2300190##シェアードライブラリ;シェアード・ライブラリ#shared library#
+2300200##シェイパ#shaper#
+2300210##シェイピング#shaping#
+2300220##シェルフ#shelf#
+2300230##シェルプログラマ;シェル・プログラマ#shell program#
+2300240##シェルプロンプト;シェル・プロンプト#shell prompt#
+2300250#シェル変数#シェルへんすう#shell variable#
+2300260##シグ#SIG#
+2300270##シグナリング#signalling#
+2300280##シグナリングメカニズム;シグナリング・メカニズム#signalling mechanism#
+2300290##シグナリングメッセージ;シグナリング・メッセージ#signalling message#
+2300300#シグナリング機能#シグナリングきのう#signalling function#
+2300310#シグナリング層#シグナリングそう#signalling layer#
+2300320##シグナルハンドラ;シグナル・ハンドラ#signal handler#
+2300330#シグナル名#シグナルめい#signal name#
+2300350##シスコシステムズ;シスコ・システムズ#Cisco Systems#
+2300360##システムのエナジーセーブレベル#system energy saver level#
+2300370##システムのリセット#system reset#
+2300380##システムアーキテクチャ;システム・アーキテクチャ#system architecture#
+2300390##システムアクティビティ;システム・アクティビティ#system activity#
+2300400##システムアドミニストレータ;システム・アドミニストレータ#system administrator#
+2300410##システムアプリケーションアーキテクチャ;システム・アプリケーション・アーキテクチャ#System Application Architecture;SAA#
+2300420##システムイニ#SYSTEM.INI#
+2300430##システムイベント;システム・イベント#system event#
+2300440##システムインテグレーション;システム・インテグレーション#system integration;SI#
+2300450##システムインテグレータ;システム・インテグレータ#system integrator#
+2300460##システムエラー;システム・エラー#system error#
+2300470##システムエリア;システム・エリア#system area#
+2300480##システムオペレータ;システム・オペレータ#system operator (sysop)#
+2300490##システムキャレット;システム・キャレット#system caret#
+2300500##システムクラッシュ;システム・クラッシュ#system crash#
+2300510##システムクロック;システム・クロック#system clock#
+2300520##システムコール;システム・コール#system call#
+2300530##システムコンテキスト;システム・コンテキスト#system context#
+2300540##システムコンフィギュレーション;システム・コンフィギュレーション#system configuration#
+2300560##システムセブン;システム・セブン#System 7#
+2300570##システムソフトウェア;システム・ソフトウェア#system software#
+2300580##システムダウン;システム・ダウン#system crash#
+2300590##システムチャネル;システム・チャネル#system channel#
+2300600##システムデータ;システム・データ#system data#
+2300610##システムディスク;システム・ディスク#system disk#
+2300620##システムデバイス;システム・デバイス#system device#
+2300630##システムドライブ;システム・ドライブ#system drive#
+2300640##システムネットワークアーキテクチャ;システムズネットワークアーキテクチャ;システム・ネットワーク・アーキテクチャ;システムズ・ネットワーク・アーキテクチャ#Systems Network Architecture;SNA#
+2300650##システムパラメター;システムパラメータ;システムパラメタ;システムパラメーター;システム・パラメター;システム・パラメータ;システム・パラメタ;システム・パラメーター#system parameter#
+2300670##システムビルダ;システム・ビルダ#system builder#
+2300680##システムファイル;システム・ファイル#system file#
+2300690#システムファイル記述子#システムファイルきじゅつし#system file descriptor#
+2300700##システムフォルダ;システム・フォルダ#system folder#
+2300710##システムフォローアップ;システム・フォローアップ#system follow-up;post-implementation review;post-development review#
+2300720##システムフォント;システム・フォント#system font#
+2300730##システムプログラマ;システム・プログラマ#system programmer#
+2300740##システムプロセス;システム・プロセス#system process#
+2300750##システムプロンプト;システム・プロンプト#system prompt#
+2300760##システムボード;システム・ボード#system board#
+2300770##システムメモリ;システム・メモリ#system memory#
+2300780##システムメンテナンス;システム・メンテナンス#system maintenance#
+2300790##システムライフサイクル;システム・ライフ・サイクル#system life cycle#
+2300800##システムライブラリ;システム・ライブラリ#system library#
+2300810##システムラベル;システム・ラベル#system label#
+2300820##システムリソース;システム・リソース#system resource#
+2300830#システム開発#システムかいはつ#system development#
+2300840#システム概念設計#システムがいねんせっけい#conceptual system design#
+2300850#システム監査#システムかんさ#system auditing#
+2300860#システム管理#システムかんり#systems-management#
+2300870#システム管理オブジェクト#システムかんりオブジェクト#systems managed object#
+2300880#システム管理サービス#システムかんりサービス#systems management service#
+2300890#システム管理応用エンティティ#システムかんりおうようエンティティ#systems-management-application-entity#
+2300900#システム管理応用サービス要素#システムかんりおうようサービスようそ#systems management application service element#
+2300910#システム管理応用プロセス#システムかんりおうようプロセス#systems management application process#
+2300920#システム管理機能#システムかんりきのう#systems management function#
+2300930#システム管理機能単位#システムかんりきのうたんい#systems management functional unit#
+2300940#システム管理機能単位パッケージ#システムかんりきのうたんいパッケージ#systems management package#
+2300950#システム管理機能領域#システムかんりきのうりょういき#systems management functional area#
+2300960#システム管理者#システムかんりしゃ#system administrator#
+2300970#システム管理操作#システムかんりそうさ#(systems management) operation#
+2300980#システム記述#システムきじゅつ#system description#
+2300990#システム共通領域#システムきょうつうりょういき#system common area#
+2301000#システム支援#システムしえん#system support;system aids#
+2301010#システム試験時間#システムしけんじかん#system test time#
+2301020#システム試験評価計画#システムしけんひょうかけいかく#test plan;system test and evaluation plan#
+2301030#システム資源#システムしげん#system resource#
+2301040#システム識別子#システムしきべつし#system identifier#
+2301050#システム実動時間#システムじつどうじかん#system production time#
+2301060#システム修復ディスク#システムしゅうふくディスク#Emergency Repair Disk#
+2301070#システム障害#システムしょうがい#system fault#
+2301080#システム制御プログラム#システムせいぎょプログラム#system control program#
+2301090#システム生成#システムせいせい#system generation;sysgen (acronym)#
+2301100#システム設計#システムせっけい#system design#
+2301110#システム宣言#システムせんげん#system declaration#
+2301120#システム適合性試験報告書#システムてきごうせいしけんほうこくしょ#system conformance test report;SCTR#
+2301130#システム適合性宣言#システムてきごうせいせんげん#system conformance statement#
+2301140#システム統合#システムとうごう#system integration#
+2301150#システム負荷レベル#システムふかレベル#system work load level#
+2301160#システム文字集合#システムもじしゅうごう#system character set#
+2301170#システム文書#システムぶんしょ#system documentation#
+2301180#システム保守#システムほしゅ#system maintenance#
+2301190#システム名#システムめい#system-name#
+2301200#システム名称#システムめいしょう#system-title#
+2301210#システム要求#システムようきゅう#system requirement#
+2301220#システム要件#システムようけん#system requirement#
+2301230#システム立ち上げ#システムたちあげ#system initialization;system start up#
+2301240#システム量#システムりょう#system capacity#
+2301250#システム領域#システムりょういき#system area#
+2301260#システム論理装置#システムろんりそうち#system logical unit#
+2301280##シックスシグマ;シックス・シグマ#six sigma#
+2301290#シックスシグマＤＭＡＩＣサイクル#シックスシグマディーエムエーアイシーサイクル#six sigma DMAIC cycle#
+2301300##シッピングゾーン;シッピング・ゾーン#shipping zone#
+2301320##シフトジス;シフト・ジス#Shifted JIS#
+2301330##シフトレジスタ;シフトレジスター;シフト・レジスタ;シフト・レジスター#shift register#
+2301340#シフト機能#シフトきのう#shift function#
+2301350##シミュレーションゲーム;シミュレーション・ゲーム#simulation game#
+2301360##シムアース#SIMEARTH#
+2301370##シムシティー#SIMCITY#
+2301380##シムバイオス#SYMBIOS#
+2301390#シャーシ接地#シャーシせっち#chassis ground#
+2301400#シャドウＲＡＭ#シャドウラム#shadow Random Access Memory#
+2301420#シャノンの理論#シャノンのりろん#Shannon-Hartley theorem;Shannon's law#
+2301430##シューティングゲーム;シューティング・ゲーム#shooting game#
+2301440##ショートピン;ショート・ピン#short pin#
+2301450##ショートプラグ;ショート・プラグ#short plug#
+2301460##ショートメール;ショート・メール#SMS;short message service#
+2301470#小なり#しょうなり;ショウナリ#less-than mark (<);left angle bracket#
+2301480##ショックウェーブ#ShockWave#
+2301490##シリーズレギュレータ;シリーズ・レギュレータ#series regulator#
+2301500#シリアルＡＴＡ#シリアルエーティーエー#Serial AT Attachment#
+2301510#シリアルＡＴＡＩＩ#シリアルエーティーエーアイアイ#serial AT Attachment 2#
+2301520#シリアルＥＥＰＲＯＭ#シリアルイーイープロム#serial EEPROM#
+2301550##シリアルインタフェース;シリアルインターフェイス;シリアルインターフェース;シリアル・インタフェース;シリアル・インターフェイス;シリアル・インターフェース#serial interface#
+2301560##シリアルコネクタ;シリアル・コネクタ#serial connector#
+2301570##シリアルデバイス;シリアル・デバイス#serial device#
+2301580##シリアルトラックボール;シリアル・トラックボール#serial trackball#
+2301590##シリアルナンバー;シリアル・ナンバー#serial number#
+2301610##シリアルポート;シリアル・ポート#serial port#
+2301620##シリアルポインティングデバイス;シリアル・ポインティング・デバイス#serial pointing device#
+2301630##シリアルマウス;シリアル・マウス#serial mouse#
+2301640##シリアルラインインターネットプロトコル;シリアル・ライン・インターネット・プロトコル#Serial Line Internet Protocol;SLIP#
+2301650#シリアル接続#シリアルせつぞく#serial connection#
+2301660#シリアル転送#シリアルてんそう#serial transfer#
+2301670#シリアル番号#シリアルばんごう#serial number#
+2301680##シリコンウェハ;シリコン・ウェハ#silicon wafer#
+2301690##シリコンウエハ;シリコン・ウエハ#silicon wafer#
+2301700##シリコングラフィックス;シリコン・グラフィックス#Silicon Graphics, Inc.;SGI#
+2301710##シリコンディスク;シリコン・ディスク#silicon disk#
+2301720#シルク形式#シルクけいしき#Symbolic LinK format#
+2301740##シンクパッド#ThinkPad#
+2301750##シンクライアント;シン・クライアント#thin client#
+2301760#シンクロナスＤＲＡＭ#シンクロナスディーラム#Synchronous Dynamic Random Access Memory;SDRAM#
+2301770#シングルＩＴハブ#シングルアイティーハブ#single TT hub#
+2301780##シングルエンド;シングル・エンド#single ended#
+2301790##シングルキャスト;シングル・キャスト#single cast#
+2301800##シングルクォーテーション;シングル・クォーテーション#single quotation (mark);apostrophe#
+2301810##シングルクォート;シングル・クォート#single quote#
+2301820##シングルクリック;シングル・クリック#single click#
+2301830##シングルサインオン;シングル・サインオン#single sign-on#
+2301840##シングルシフト;シングル・シフト#single shift#
+2301850##シングルステップ;シングル・ステップ#single step (debugging mode)#
+2301860##シングルスペース;シングル・スペース#single space#
+2301870##シングルセッション#single-session#
+2301880##シングルソースサプライヤー;シングル・ソース・サプライヤー#single source supplier#
+2301890##シングルタスク;シングル・タスク#single task#
+2301900##シングルボードコンピュータ;シングル・ボード・コンピュータ#single-board computer#
+2301910##シングルモード;シングル・モード#single mode#
+2301920##シングルモードファイバ;シングルモード・ファイバ#singlemode fiber#
+2301940##シングルユーザー;シングル・ユーザー#single user#
+2301950##シングルユーザーシステム;シングル・ユーザー・システム#single-user system#
+2301960#シングルリンク手順#シングルリンクてじゅん#single-link protocol#
+2301970##シンサーバー;シン・サーバー#thin server#
+2301980##シンタックスエラー;シンタックス・エラー#syntax error#
+2301990##シンタックスチェッカ;シンタックス・チェッカ#syntax checker#
+2302000##シンプルステートメント;シンプル・ステートメント#simple statement#
+2302010##シンプレックス#simplex#
+2302020#シンプレックス法#シンプレックスほう#simplex method#
+2302030##シンボリックデバッガ;シンボリック・デバッガ#symbolic debugger#
+2302040##シンボルテーブル;シンボル・テーブル#symbol table#
+2302050##シンボルマップ;シンボル・マップ#symbol map#
+2302060##ジーオン#Xeon#
+2302070##ジージップ#gzip#
+2302080##ジーニー#Jini#
+2302090##ジーメンス#Siemens#
+2302100##ジーリブシー#glibc#
+2302110##ジェイイニシエータ#Jinitiator#
+2302120##ジェイサイド・ドット・コム#Jside.com#
+2302130##ジェイシーエル#JCL#
+2302140##ジェイダ#JEIDA#
+2302150##ジェイデービーシー#JDBC#
+2302160##ジェイディーケー#JDK#
+2302170##ジェイディエドワーズ#JDEdwards#
+2302180##ジェイピーニック#JPNIC#
+2302190##ジェイペグ#JPEG#
+2302210#ジェネリックなＰＣ互換機#ジェネリックなピーシーごかんき#generic PC#
+2302220#ジェネリックセル速度アルゴリズム#ジェネリックセルそくどアルゴリズム#generic cell rate algorithm;GCRA#
+2302230##ジオシティーズ#GeoCities#
+2302240#ジオメトリック平均値#ジオメトリックへいきんち#geometric mean#
+2302260##ジップジス#ZIPJIS#
+2302270##ジャガーシーティーエス#JaguarCTS#
+2302280##ジャグヘッド#Jughead#
+2302290##ジャストインタイムコンパイラ;ジャスト・イン・タイム・コンパイラ#Just In Time Compiler#
+2302300##ジャストウィンドウ;ジャスト・ウィンドウ#Just Window#
+2302310##ジャストシステム#JustSystem#
+2302320##ジャストネット#JustNet#
+2302330##ジャドマ#JADMA#
+2302340##ジャネット#Janet#
+2302350##ジャバ#Java#
+2302360##ジャバー#jabber#
+2302370##ジャバウェブサーバ#JavaWebServer#
+2302380##ジャバオーエス#JavaOS#
+2302390##ジャバサーバ#JavaServer#
+2302400##ジャバスクリプト#JavaScript#
+2302410##ジャバステーション#JavaStation#
+2302420##ジャバソフト#JavaSoft#
+2302430##ジャバツー#Java2#
+2302440##ジャバビーンズ#JavaBeans#
+2302450##ジャバワークショップ#JavaWorkshop#
+2302460#ジャバ制御#ジャバせいぎょ#jabber control#
+2302470#ジャム信号#ジャムしんごう#jam signal#
+2302480##ジャンタグ#JWNTUG#
+2302500##ジャンパオプション;ジャンパ・オプション#strapping option;jumper option#
+2302510##ジャンパスイッチ;ジャンパ・スイッチ#jumper switch#
+2302520##ジャンパピン;ジャンパ・ピン#jumper pin#
+2302530##ジャンパフリー#jumper-free#
+2302540##ジャンパブロック;ジャンパ・ブロック#jumper block#
+2302550##ジャンパプラグ;ジャンパ・プラグ#jumper plug#
+2302560##ジャンパポスト;ジャンパ・ポスト#jumper post#
+2302570#ジャンパ選択可能#ジャンパせんたくかのう#jumper selectable#
+2302580##ジュネット#JUNET#
+2302590##ジョー#joe;jaw#
+2302600##ジョイス#JOIS#
+2302610##ジョイパッド#joypad#
+2302620##ジョイン#join#
+2302630#ジョセフソン接合#ジョセフソンせつごう#Josephson junction#
+2302640#ジョブの流れ#ジョブのながれ#job stream;run stream;input stream#
+2302650##ジョブエントリシステム;ジョブ・エントリ・システム#Job Entry System#
+2302660##ジョブオブジェクト;ジョブ・オブジェクト#job object#
+2302670##ジョブキュー;ジョブ・キュー#job queue#
+2302680##ジョブスケジューラ;ジョブ・スケジューラ#job scheduler#
+2302690##ジョブストリーム;ジョブ・ストリーム#job stream#
+2302700##ジョブタイプ;ジョブ・タイプ#job type#
+2302710#ジョブ回復制御ファイル#ジョブかいふくせいぎょファイル#backup file;job-recovery control file#
+2302720#ジョブ固有領域#ジョブこゆうりょういき#job private area#
+2302740#ジョブ制御#ジョブせいぎょ#job control#
+2302750#ジョブ制御言語#ジョブせいぎょげんご#Job Control Language;JCL#
+2302760#ジョブ番号#ジョブばんごう#job number#
+2302770##スーババイザ#supervisor#
+2302790#スーパーＯＣＮ#スーパーオーシーエン#super OCN#
+2302800#スーパーオーディオＣＤ#スーパーオーディオシーディー#Super Audio CD#
+2302810##スーパースカラー#superscalar#
+2302820##スーパースクリプト;スーパー・スクリプト#super script#
+2302830##スーパースケーラ#superscalar#
+2302840##スーパードライブ#SuperDrive#
+2302850##スーパーネッティング#supernetting#
+2302860#スーパーネット化#スーパーネットか#supernetting#
+2302870##スーパーモザイク#SuperMosaic#
+2302880##スーパセット#superset#
+2302890##スーパバイザコール#supervisor call#
+2302900##スーパミニ#supermini#
+2302910##スイステレコム;スイス・テレコム#Swiss Telecom#
+2302920##スイッチアーキテクチャ;スイッチ・アーキテクチャ#switch architecture#
+2302930##スイッチドバーチャルサーキット#switched virtual circuit#
+2302940##スイッチドバーチャルパス#switched virtual path#
+2302950##スイッチベンダ;スイッチ・ベンダ#switch vendor#
+2302960##スイッチマトリクス;スイッチ・マトリクス#switch matrix;switching matrix#
+2302970##スイッチャ;スイッチャー#switcher#
+2302980##スイッチングステージ;スイッチング・ステージ#switching stage#
+2302990##スイッチングテーブル;スイッチング・テーブル#switching table#
+2303000##スイッチングハブ;スイッチング・ハブ#switching hub#
+2303010##スイッチングルータ;スイッチング・ルータ#switching router#
+2303020##スイッチングレギュレータ;スイッチング・レギュレータ#switching regulator#
+2303030#スイッチング関数#スイッチングかんすう#switching function#
+2303040#スイッチング遅延#スイッチングちえん#switching delay#
+2303050#スイッチング電源#スイッチングでんげん#switching regulator#
+2303060#スイッチング能力#スイッチングのうりょく#switching capacity#
+2303070#スイッチング変数#スイッチングへんすう#switching variable#
+2303080#スイッチ間通信#スイッチあいだつうし#interswitch signalling#
+2303090#スイッチ状態条件#スイッチじょうたいじょうけん#switch-status condition#
+2303100#スイッチ選択可能#スイッチせんたくかのう#switch-selectable#
+2303110#スイッチ容量#スイッチようりょう#switch(ing) capacity#
+2303120##スウィズル#swizzle#
+2303130##スカジー#SCSI#
+2303140##スカジースリー#SCSI-3#
+2303150##スカジーツー#SCSI-2#
+2303160#スカラ値#スカラち#scalar value#
+2303170#スカラ変数#スカラへんずう#scalar variable#
+2303180##スキマー#skimmer#
+2303190#スキマティク図#スキマティクず#schematic#
+2303200##スキャンエンジン;スキャン・エンジン#scan engine#
+2303210##スキャンコンバータ;スキャン・コンバータ#scan converter#
+2303220##スキャンディスク#SCANDISK#
+2303230##スキャンプロファイル;スキャン・プロファイル#scan profile#
+2303240##スキャンヘッド;スキャン・ヘッド#scan head#
+2303250#スキャンライン法#スキャンラインほう#scanline algorithm#
+2303260##スキュー#skew#
+2303270##スクラッチパッド#scratchpad#
+2303280##スクリーンイメージバッファ;スクリーン・イメージ・バッファ#screen image buffer#
+2303290##スクリーンエディタ;スクリーン・エディタ#screen editor#
+2303300##スクリーンカプチャー;スクリーン・カプチャー#screen capture#
+2303310##スクリーンキャプチャ;スクリーン・キャプチャ#screen capture#
+2303330##スクリーンセーバー;スクリーンセーバ;スクリーンセイバー;スクリーン・セーバー;スクリーン・セーバ;スクリーン・セイバー#screen saver#
+2303340##スクリーンセーブ;スクリーンセイブ;スクリーン・セーブ;スクリーン・セイブ#screen save#
+2303360##スクリーンバッファ;スクリーン・バッファ#screen buffer#
+2303370##スクリーンフォント;スクリーン・フォント#screen fonts#
+2303380##スクリプトエンジン;スクリプト・エンジン#scripting engine#
+2303390##スクリプトコマンド;スクリプト・コマンド#script command#
+2303400##スクリプトファイル;スクリプト・ファイル#script file#
+2303410#スクリプト言語#スクリプトげんご#script language#
+2303420##スクローリング#scrolling#
+2303430##スクロールバー;スクロール・バー#scroll bar#
+2303440##スクロールバースライダ;スクロールバー・スライダ;スクロール・バー・スライダ#scroll bar slider#
+2303450##スケーラビリティ;スケーラビリテイ#scalability#
+2303470##スケーラブルフォント;スケーラブル・フォント#scalable font#
+2303480##スケールアウト#scale-out#
+2303490##スコー#SCO#
+2303500##スコープノート;スコープ・ノート#scope note#
+2303520##スターターキット;スターター・キット#starters kit#
+2303530##スタートアップ#startup#
+2303540##スタートアップスクリーン;スタートアップ・スクリーン#startup screen#
+2303550##スタートアップディスク;スタートアップ・ディスク#startup disk#
+2303560##スタートビット;スタート・ビット#start bit#
+2303570##スタートボタン#start button (e.g. in Windows)#
+2303580#スタート信号#スタートしんごう#start signal#
+2303590##スターネットワーク;スター・ネットワーク#star network#
+2303600#スター型;スター形#スターがた#star configuration#
+2303610#スター型ネットワーク#スターがたネットワーク#star network#
+2303630#スター形配線リングネットワーク#スターけいはいせんリングネットワーク#star;ring network#
+2303640#スター状#スターじょう#star configuration#
+2303650##スタイラスペン;スタイラス・ペン#stylus pen#
+2303660##スタックセグメント;スタック・セグメント#stack segment#
+2303670##スタックトレース;スタック・トレース#stack trace#
+2303680##スタックハブ;スタック・ハブ#stack(able) hub#
+2303690##スタッフイット#Stuff It#
+2303700##スタティサイダ#staticizer;serial-parallel converter#
+2303710#スタティックＲＡＭ#スタティックラム#static Random Access Memory;SRAM#
+2303720##スタティックプラグアンドプレイ#static plug and play#
+2303730##スタティックメモリ;スタティック・メモリ#static memory#
+2303740##スタティックラム;スタティック・ラム#static RAM#
+2303750##スタティックランダムアクセスメモリ;スタティック・ランダム・アクセス・メモリ#static random access memory;SRAM#
+2303760##スタディレポート;スタディ・レポート#study report#
+2303770#スタンダードＭＩＤＩファイル#スタンダードミディファイル#Standard MIDI File;SMF#
+2303780##スタンダードバージョン;スタンダード・バージョン#standard version#
+2303790##スタンダードモード;スタンダード・モード#standard mode#
+2303800#スタンダード版#スタンダードはん#standard version#
+2303820##スタンバイファイル;スタンバイ・ファイル#standby file#
+2303830##ステータスインジケータ;ステータス・インジケータ#status indicater#
+2303840##ステータスバー;ステータス・バー#status bar#
+2303850##ステータスレジスタ;ステータス・レジスタ#status register#
+2303860#ステータス行#ステータスぎょう#status line#
+2303870#ステートメント番号#ステートメントばんごう#statement number#
+2303880##スティッキービット;スティッキー・ビット#sticky bit#
+2303890#スティック型ポインティングデバイス#スティックかたポインティングデバイス#stick-type pointing device#
+2303900##ステイルメイト#stalemate#
+2303910##ステップアクション;ステップ・アクション#step-by-step procedure#
+2303920##ステップスカルプチャ#step scarpcher#
+2303930##ステップワイズ#stepwise#
+2303940#ステム幅整合#ステムはばせいごう#snap#
+2303950##ステルスコールバック#stealth callback#
+2303960##ステルスブイラム#Stealth VRAM#
+2303970##ストアコントローラ;ストア・コントローラ#store controller#
+2303980##ストアドプロシージャ;ストアド・プロシージャ#stored procedure#
+2303990##ストアドライバ;ストア・ドライバ#store driver#
+2304000#ストップ信号#ストップしんごう#stop signal#
+2304010##ストライピング#striping#
+2304020##ストライプメディアセット#striped media set#
+2304030##ストラップオプション;ストラップ・オプション#strapping option;jumper option#
+2304040#ストリーミングＳＩＭＤ拡張命令#ストリーミングエスアイエムディーかくちょうめいれい#Streaming SIMD Extensions;SSE#
+2304050##ストリーミングテープ;ストリーミング・テープ#streaming tape#
+2304060#ストリーミングテープ駆動機構#ストリーミングテープくどうきこう#streaming tape drive;streamer#
+2304070##ストリームワークス#StreamWorks#
+2304080#ストリング変数#ストリングへんすう#string variable#
+2304090##ストレージ;ストーレッジ;ストーレジ#storage#
+2304100##ストレージベイ;ストレージ・ベイ#storage bay#
+2304110#ストレージ構造#ストレージこうぞう#storage structure#
+2304120##ストレートケーブル;ストレート・ケーブル#straight cable#
+2304130##ストレステスト;ストレス・テスト#stress test#
+2304140##ストロークフォント;ストローク・フォント#stroke font#
+2304150#ストローク入力装置#ストロークにゅうりょくそうち#stroke device#
+2304160#ストローク文字発生器#ストロークもじはっせいき#stroke character generator#
+2304170##ストローボート;ストロー・ボート#straw vote;straw ballot#
+2304180##スナップイン#snap-in#
+2304190##スナップショットスライド;スナップショット・スライド#snapshot slide#
+2304200##スニーダー#CNIDR#
+2304210##スニファ#sniffer#
+2304220##スノボル#SNOBOL#
+2304230##スパークル#sparkle#
+2304250##スパゲッティコード;スパゲッティ・コード#spaghetti code#
+2304260##スパゲッティプログラム#spaghetti program#
+2304270##スパニング#spanning#
+2304280##スパニングツリー;スパニング・ツリー#spanning tree#
+2304290##スパミング#spamming (sending unwanted email, messages)#
+2304300##スパムブロック#spamblock#
+2304310##スピンイン#spin-in#
+2304320##スピンドル#spindle#
+2304330##スプーリング#spooling#
+2304340##スプライト#sprite#
+2304350#スプライン曲線#スプラインきょくせん#spline curve#
+2304360#スプライン曲面#スプラインきょくめん#spline surface#
+2304370#スプライン補間#スプラインほかん#spline interpolation#
+2304380##スプレッドシート#spreadsheet#
+2304390##スプレッドシートプログラム;スプレッドシート・プログラム#spreadsheet program#
+2304400##スプロケットフィード;スプロケット・フィード#sprocket feed#
+2304410##スペーサ#spacer#
+2304420##スペースキー;スペース・キー#space bar;space key#
+2304430#スペア部品#スペアぶひん#spare part#
+2304440#スペクトラム拡散通信#スペクトラムかくさんつうしん#spread spectrum communication#
+2304450##スペクトルバンド;スペクトル・バンド#spectral band#
+2304460#スペクトル半値幅#スペクトルはんねはば#FWHM;full width half maximum;spectral width#
+2304470#スペクトル幅#スペクトルはば#FWHM;full width half maximum;spectral width#
+2304480##スペックマーク#SPECmark#
+2304490##スペルチェッカ;スペルチェッカー;スペル・チェッカ;スペル・チェッカー#spelling checker#
+2304510##スポットカラー;スポット・カラー#spot color#
+2304520#スポット光源#スポットこうげん#spot light source#
+2304530#スポット穿孔機#スポットせんこうき#spot punch#
+2304540##スマートドライブ#SMARTDRV#
+2304550##スマートフォン;スマートホン;スマート・フォン;スマート・ホン#smart phone#
+2304560##スマートメディア#SmartMedia#
+2304570##スマートメディアフォーラム#smartmedia forum#
+2304580##スマイリーフェイス;スマイリー・フェイス#smiley faces#
+2304590##スマイリーマーク;スマイリー・マーク#smiley mark#
+2304600##スムージング#smoothing#
+2304610##スムーズシェーディング;スムーズ・シェーディング#smooth shading#
+2304620##スムーズスクロール;スムーズ・スクロール#smooth scroll#
+2304630##スモールキャピタル;スモール・キャピタル#small capital#
+2304640##スモールビジネス;スモール・ビジネス#small business#
+2304660##スライドショー;スライド・ショー#slide show#
+2304670##スライドマスタ;スライド・マスタ#slide master#
+2304680##スライドライブラリ;スライド・ライブラリ#slide library#
+2304690##スリーコム#3COM#
+2304700#３Ｄ#さんディー;スリーディー#3D;three dimensional#
+2304710##スリーディーアール#3DR#
+2304720##スリーディーオー#3DO#
+2304730##スリップノット#SlipKnot#
+2304740#スリム型#スリムかた#slim-type#
+2304750#スリム型ＰＣ#スリムかたピーシー#slim-type PC#
+2304760#スリム型コンピュータ#スリムかたコンピュータ#slim-type computer#
+2304770##スルーディーベンチ#3DBENCH#
+2304780#スループットＢＯＤ#スループットビーオーディー#throughput Bandwidth On Demand#
+2304790##スルーホール;スルー・ホール#through hole#
+2304800#スルー接続#スルーせつぞく#through-connect#
+2304810##スレーブドライブ;スレーブ・ドライブ#slave drive#
+2304820##スレッドセーフ;スレッド・セーフ#thread safe#
+2304830##スローダウン#slowdown#
+2304840#スロット形リングネットワーク#スロットがたリングネットワーク#slotted-ring network#
+2304850#スロット時間#スロットじかん#slot time (in CSMA-CD)#
+2304860##スワップアウト;スワップ・アウト#swapped out#
+2304870##スワップイン;スワップ・イン#swapped in#
+2304880##スワップエリア;スワップ・エリア#swap area#
+2304890##スワップファイル;スワップ・ファイル#swap file#
+2304900#スワップ領域#スワップりょういき#swap space;swap area#
+2304910##ズームボックス;ズーム・ボックス#zoom box#
+2304920#セカンダリＤＮＳサーバ#セカンダリディーエンエスサーバ#secondary DNS server#
+2304930##セカンダリキャッシュ;セカンダリ・キャッシュ#secondary cache#
+2304940##セカンダリサイト;セカンダリ・サイト#secondary site#
+2304950##セカンダリビデオディスプレイコントローラ#secondary video display controller#
+2304960##セカンダリリング;セカンダリ・リング#secondary ring#
+2304970##セカンドソース;セカンド・ソース#second source#
+2304980##セカンドバッテリ;セカンド・バッテリ#second battery#
+2304990##セガ#Sega#
+2305000##セガサターン;セガ・サターン#Sega Saturn#
+2305010##セキュアハッシュアルゴリズム;セキュア・ハッシュ・アルゴリズム#secure hash algorithm#
+2305020##セキュアビット;セキュア・ビット#secure bit#
+2305030#セキュリティＩＤ#セキュリティアイディー#security ID#
+2305040##セキュリティコンテキスト;セキュリティ・コンテキスト#security context#
+2305050##セキュリティシステム;セキュリティ・システム#security system#
+2305060##セキュリティファイル;セキュリティ・ファイル#security file#
+2305070##セキュリティプリンシパル;セキュリティ・プリンシパル#security principal#
+2305080##セキュリティプロトコル;セキュリティ・プロトコル#security protocol#
+2305090##セキュリティホスト;セキュリティ・ホスト#security host#
+2305100##セキュリティリスク;セキュリティ・リスク#security risk#
+2305110##セキュリティログ;セキュリティ・ログ#security log#
+2305120#セキュリティ管理#セキュリティかんり#security management#
+2305130#セクション区画#セクションくかく#section#
+2305140#セクタのデータ領域#セクタのデータりょういき#data field of a sector#
+2305150##セクタアンテナ;セクタ・アンテナ#sectored antenna#
+2305160##セグメントアドレッシング;セグメント・アドレッシング#segment addressing#
+2305170##セグメントテーブル;セグメント・テーブル#segment table#
+2305180#セグメント化#セグメントか#segmentation#
+2305190#セグメント属性#セグメントぞくせい#segment attributes#
+2305200#セグメント変換#セグメントへんかん#segment transformation#
+2305210#セグメント優先度#セグメントゆうせんど#segment priority#
+2305220##セション#session#
+2305230#セションコネクション同期#セションコネクションどうき#session-connection synchronization#
+2305240#セションサービス利用者#セションサービスりようしゃ#session service user;SS-user#
+2305250#セションプロトコル機械#セションプロトコルきかい#session protocol machine;SPM#
+2305260##セションリーダ;セション・リーダ#session leader#
+2305270#セション生存期間#セションせいぞんきかん#session lifetime#
+2305280##セス#CES#
+2305290##セッションセレクタ;セッション・セレクタ#session selector#
+2305300#セッション層#セッションそう#session layer#
+2305310##セットアップエグゼ#setup.exe#
+2305320##セットアップタイム;セットアップ・タイム#setup time#
+2305330##セットアップメッセージ;セットアップ・メッセージ#SETUP message#
+2305340#セットアップ時間#セットアップじかん#setup time#
+2305350#セットアップ手続き#セットアップてつづき#(call) setup procedure#
+2305360##セットトップ;セット・トップ#set-top (box, device)#
+2305370#セット販売#セットはんばい#bundle#
+2305380##セパレータ#separator#
+2305390##セパレートアドレッシング;セパレート・アドレッシング#separate addressing#
+2305400##セマンティックエラー;セマンティック・エラー#semantic error#
+2305410##セルアニメーション;セル・アニメーション#cel animation;hand-drawn animation;traditional animation#
+2305420##セルスイッチング;セル・スイッチング#cell switching#
+2305430#セルスイッチング容量#セルスイッチングようりょう#cell switching capacity#
+2305440##セルスクランブル;セル・スクランブル#cell scrambling#
+2305450##セルバス;セル・バス#cell path#
+2305460##セルバッファ;セル・バッファ#cell buffer#
+2305470##セルフタッピングネジ#self-tapping screws#
+2305480##セルヘッダー;セル・ヘッダー#cell header#
+2305490##セルベース;セル・ベース#cell based#
+2305500##セルポインタ;セル・ポインタ#cell pointer#
+2305510##セルラー#cellular#
+2305520##セルラーフォン;セルラー・フォン#cellular phone#
+2305530##セルラーモデム;セルラー・モデム#cellular modem#
+2305540#セルラー方式#セルラーほうしき#cellular system#
+2305550##セルリレー;セル・リレー#cell relay#
+2305560##セルリレーサービス;セル・リレー・サービス#cell relay service#
+2305570#セルループバック試験#セルループバックしけん#cell loopback test#
+2305580##セルレートアルゴリズム;セル・レート・アルゴリズム#cell rate algorithm#
+2305590##セルロス;セル・ロス#cell loss#
+2305600##セルン#CERN#
+2305610#セル化#セルか#cell encapsulation;conversion into cells#
+2305620#セル化遅延#セルかちえん#(cell) encapsulation delay#
+2305630#セル間の到着時間#セルかんのとうちゃくじかん#cell inter-arrival time#
+2305640#セル交換#セルこうかん#cell switching#
+2305650#セル式電話#セルしきでんわ#cellular phone#
+2305660#セル処理#セルしょり#cell processing#
+2305670#セル組立分解#セルくみたてぶんかい#cell assembly and disassembly#
+2305680#セル損失#セルそんしつ#cell loss#
+2305690#セル損失プライオリティ#セルそんしつプライオリティ#cell loss priority;CLP#
+2305700#セル損失比#セルそんしつひ#cell loss ratio#
+2305710#セル損失優先権#セルそんしつゆせんけん#cell loss priority#
+2305720#セル損失率#セルそんしつりつ#cell loss rate#
+2305740#セル遅延変動#セルちえんへんどう#cell delay variation;CDV#
+2305750#セル廃棄#セルはいき#cell discarding#
+2305760#セル廃棄率#セルはいきりつ#cell loss rate#
+2305770#セル配列#セルはいれつ#cell array#
+2305780#セル分割#セルぶんかつ#cell splitting#
+2305790##セレクタチャネル;セレクタ・チャネル#selector channel#
+2305800##セレクティング#selecting#
+2305810##セレロン#Celeron#
+2305820##センシティブ#sensitive#
+2305830##センスデータ#sense data#
+2305840##センタノード;センタ・ノード#center node#
+2305860##センチュラ#Centura#
+2305870##セントラルサイト;セントラル・サイト#central site#
+2305880##セントラルプロセシングユニット;セントラル・プロセシング・ユニット#central processing unit#
+2305890##セントロニクス#Centronics#
+2305900##セントロニクスインターフェース;セントロニクス・インターフェース#centronics interface#
+2305910##ゼットハチマル#Z80#
+2305920##ゼットブイポート#ZV PORT#
+2305930##ゼットモデム#ZMODEM#
+2305940#ゼロアドレス命令#ゼロアドレスめいれい#zero address instruction#
+2305950##ゼロサプレス;ゼロ・サプレス#zero suppression#
+2305960#ゼロサプレス機能#ゼロサプレスきのう#zero suppression function#
+2305970#ゼロ以外#ゼロいがい#non-zero#
+2305980#ゼロ行列#ゼロぎょうれつ#zero matrix#
+2305990#ゼロ充てん#ゼロあてん#zerofill#
+2306000#ゼロ番目#ゼロばんめ#zero argument#
+2306010#ゼロ復帰記録#ゼロふっききろく#return-to-zero recording;RZ#
+2306020#ゼロ抑制#ゼロよくせい#zero suppression#
+2306030#ゼロ抑制機能#ゼロよくせいきのう#zero suppression function#
+2306040##ソーシャルエンジニアリング;ソーシャル・エンジニアリング#social engineering#
+2306050##ソースイメージ;ソース・イメージ#source image#
+2306060#ソースコード管理システム#ソースコードかんりシステム#source code control system#
+2306070##ソーストラヒック;ソース・トラヒック#source traffic#
+2306080##ソースドライブ;ソース・ドライブ#source drive#
+2306090##ソースプログラム;ソース・プログラム#source program#
+2306100##ソースモジュール;ソース・モジュール#source module#
+2306110##ソースルーティング;ソース・ルーティング#source routing#
+2306120##ソースルート;ソース・ルート#source route#
+2306130#ソースレベル互換#ソースレベルごかん#source level compatible#
+2306140##ソーテック#SOTEC#
+2306150##ソートキー;ソート・キー#sort key#
+2306160##ソーホー#SOHO#
+2306170##ソケットサービス;ソケット・サービス#socket services#
+2306180##ソケットサンナナマル#Socket 370#
+2306190##ソケットセブン;ソケット・セブン#Socket 7#
+2306200#ソフトＳＡ#ソフトエスエー#soft SA#
+2306210##ソフトウェアエンジニアリング;ソフトウェア・エンジニアリング#software engineering;SE#
+2306220##ソフトウェアガイド;ソフトウェア・ガイド#software guide#
+2306230##ソフトウェアキーボード;ソフトウェア・キーボード#software keyboard#
+2306240##ソフトウェアスクロール;ソフトウェア・スクロール#software scroll#
+2306250##ソフトウェアディベロッパキット#software developer kit#
+2306260##ソフトウェアハウス;ソフトウェア・ハウス#software house#
+2306270##ソフトウェアパッケージ;ソフトウェア・パッケージ#software package#
+2306280#ソフトウェアフロー制御#ソフトウェアフローせいぎょ#software flow control#
+2306290##ソフトウェアモデム;ソフトウェア・モデム#software modem#
+2306300##ソフトウェアライセンス;ソフトウェア・ライセンス#software license#
+2306310#ソフトウェア開発#ソフトウェアかいはつ#software development#
+2306320#ソフトウェア割り込み#ソフトウェアわりこみ#software interrupt#
+2306330#ソフトウェア許諾契約#ソフトウェアきょだくけいやく#software license agreement#
+2306340#ソフトウェア工学#ソフトウェアこうがく#software engineering#
+2306350#ソフトウェア構成#ソフトウェアこうせい#software configuration#
+2306360#ソフトウェア使用許諾契約#ソフトウェアしようきょだくけいやく#software product license#
+2306370#ソフトウェア使用契約#ソフトウェアしようけいやく#software license agreement#
+2306380#ソフトウェア支援#ソフトウェアしえん#software support#
+2306390#ソフトウェア製品#ソフトウェアせいひん#software product#
+2306410#ソフトウェア品質#ソフトウェアひんしつ#software quality#
+2306420#ソフトウェア品質測定法#ソフトウェアひんしつそくていほう#software quality metric#
+2306430#ソフトウェア品質特性#ソフトウェアひんしつとくせい#software quality characteristics#
+2306440##ソフトエラー;ソフト・エラー#soft error;transient error#
+2306450##ソフトコピー;ソフト・コピー#soft copy#
+2306460##ソフトセクタリング#soft sectoring#
+2306470#ソフトセクタ式ディスク#ソフトセクタしきディスク#soft-sectored diskette#
+2306480##ソフトハイフン;ソフト・ハイフン#soft hyphen#
+2306490##ソフトハウス;ソフト・ハウス#software house#
+2306500##ソフトパッチ;ソフト・パッチ#soft patch#
+2306510##ソフトフォント;ソフト・フォント#soft font#
+2306520##ソフトページブレーク;ソフト・ページ・ブレーク#soft page break#
+2306530##ソフトリターン;ソフト・リターン;ソフトリ・ターン#soft return#
+2306540#ソフト行末#ソフトぎょうまつ#soft line terminator#
+2306550##ソラリス#Solaris#
+2306560##ソリッドモデル;ソリッド・モデル#solid model#
+2306570##ソリューションプロバイダ;ソリューション・プロバイダ#solution provider#
+2306580##ソルバー#solver#
+2306590##ゾープ#Zope#
+2306600##ゾーンパンチ;ゾーン・パンチ#zone punch#
+2306610#ゾーン形式#ゾーンけいしき#zoned format#
+2306620##ターゲットドライブ;ターゲット・ドライブ#target drive#
+2306630##タートル#turtle (esp. a sea turtle);turtleneck sweater#
+2306640##ターボリナックス;ターボ・リナックス#Turbo Linux#
+2306650##ターミナルアダプタ;ターミナル・アダプタ#terminal adapter;TA#
+2306660##ターミナルアダプター;ターミナル・アダプター#terminal adapter#
+2306670##ターミナルエミュレーション;ターミナル・エミュレーション#terminal emulation#
+2306680##ターミナルエミュレータ;ターミナル・エミュレータ#terminal emulator#
+2306690##ターンアラウンドタイム;ターンアラウンド・タイム#turnaround time#
+2306700#ターンオン安定時間#ターンオンあんていじかん#turn-on stabilizing time#
+2306710##ターンキーソリューション;ターンキー・ソリューション#turnkey solution#
+2306720##タイトリージョン#title-region#
+2306730##タイトルバー;タイトル・バー#title bar#
+2306740##タイトルマスタ;タイトル・マスタ#title master#
+2306750##タイプイン;タイプ・イン#type in#
+2306760##タイプスタイル;タイプ・スタイル#type style#
+2306770##タイプセッター#typesetter#
+2306780##タイプファミリ;タイプ・ファミリ#type family#
+2306790##タイプフェース#typeface#
+2306800##タイプライブラリ;タイプ・ライブラリ#type library#
+2306810##タイミングチャート;タイミング・チャート#timing chart#
+2306820#タイミング信号#タイミングしんごう#timing signal#
+2306830#タイミング図#タイミングず#timing chart#
+2306840##タイムインテリジェンス;タイム・インテリジェンス#time intelligence#
+2306850##タイムコード;タイム・コード#time code#
+2306860##タイムシェアリング;タイム・シェアリング#time sharing#
+2306870##タイムシェアリングシステム;タイムシェアリング・システム#time sharing system;TSS#
+2306880##タイムスタンプカウンタ;タイム・スタンプ・カウンタ#time stamp counter#
+2306890##タイムスライシング;タイム・スライシング#time slicing#
+2306900##タイムスライス;タイム・スライス#time slice#
+2306910##タイムパス#Tympass#
+2306920##タイムフェンス;タイム・フェンス#time fence#
+2306930##タイムライン#timeline#
+2306940##タイムリミット;タイム・リミット#time limit#
+2306950##タイリング#tiling#
+2306960#タイリングウィンドウ方式#タイリングウィンドウほうしき#tiling window method#
+2306970#タイル方式#タイルほうしき#tiling#
+2306980#タグＲＡＭ#タグラム#Tag Random Access Memory#
+2306990##タグジャンプ;タグ・ジャンプ#tag jump#
+2307000#タグ付き#タグつき#tagged (as in a tagged cell)#
+2307010#タグ付き型#タグつきがた#tagged type#
+2307020#タグ付け#タグつけ#tagging#
+2307030##タスクスイッチ;タスク・スイッチ#task switching#
+2307040##タスクスイッチャ;タスク・スイッチャ#task switcher#
+2307050##タスクバー;タスク・バー#task bar#
+2307060##タスクマネージャ;タスク・マネージャ#task manager#
+2307070##タックシール;タック・シール#tack seal#
+2307080##タッチタイプ;タッチ・タイプ#touch typing#
+2307090##タッチパネル;タッチ・パネル#touch panel#
+2307100##タッチフリック#touch flick#
+2307110##タッチポインタ;タッチ・ポインタ#touch pointer#
+2307120##タッピングネジ#self-tapping screws#
+2307130##タピ#TAPI#
+2307140##タブキー;タブ・キー#tab key#
+2307150##タブコード;タブ・コード#tab code#
+2307160##タブストップ;タブ・ストップ#tabulation stop;tab stop#
+2307170##タブブラウズ;タブ・ブラウズ#tabbed browsing#
+2307180##タブレットペン;タブレット・ペン#tablet pen#
+2307190##タブレットボタン#tablet button#
+2307200#タブ区切り#タブくぎり#tab delimited#
+2307210#タブ停止位置#タブていしいち#tabulation stop#
+2307220#タブ文字#タブもじ#tab character#
+2307230##タリー#tally#
+2307240#タワー型#タワーがた#tower configuration#
+2307260#ダイアルアップＩＰ接続#ダイアルアップアイピーせつぞく#dial-up IP connection#
+2307270#ダイアルアップ接続#ダイアルアップせつぞく#dial-up connection#
+2307280##ダイアレクト#dialect#
+2307290##ダイアログボックス;ダイアログ・ボックス#dialog box#
+2307300#ダイアログボックスを閉じる#ダイアログボックスをとじる#to dismiss a dialog box#
+2307310#ダイアログ回復#ダイアログかいふく#dialogue recovery#
+2307320#ダイアログ確立指示未完了#ダイアログかくりつしじみかんりょう#dialogue establishment indication outstanding#
+2307330#ダイアログ確立要求未完了#ダイアログかくりつようきゅうみかんりょう#dialogue establishment request outstanding#
+2307340#ダイアログ終了指示未完了#ダイアログしゅうりょうしじみかんりょう#dialogue termination indication outstanding#
+2307350#ダイアログ終了要求未完了#ダイアログしゅうりょうようきゅうみかんりょう#dialogue termination request outstanding#
+2307360#ダイオードトランジスタ論理回路#ダイオードトランジスタろんりかいろ#Diode-Transistor Logic#
+2307370#ダイオード関数発生器#ダイオードかんすうはっせいき#Diode Function Generator;DFG#
+2307380##ダイクロイックミラー#dichroic mirror#
+2307390##ダイサ#DISA#
+2307400##ダイサイズ;ダイ・サイズ#die size#
+2307410##ダイジェストアクセスプロトコル#digest access protocol#
+2307420##ダイナセット#dynamic set#
+2307430##ダイナミサイザ#serializer;parallel-serial converter;dynamicizer#
+2307440#ダイナミックＨＴＭＬ#ダイナミックエッチティーエムエル#dynamic HTML#
+2307450#ダイナミックＲＡＭ#ダイナミックラム#dynamic Random Access Memory (dynamic RAM, DRAM)#
+2307460##ダイナミックアロケーション;ダイナミック・アロケーション#dynamic allocation#
+2307470##ダイナミックデータエクスチェンジ;ダイナミック・データ・エクスチェンジ#dynamic data exchange;DDE#
+2307480##ダイナミックディスク;ダイナミック・ディスク#dynamic disk#
+2307490##ダイナミックメモリ;ダイナミック・メモリ#dynamic memory#
+2307500##ダイナミックリロケーション;ダイナミック・リロケーション#dynamic relocation#
+2307510##ダイナミックリンク;ダイナミック・リンク#dynamic link#
+2307520##ダイナミックリンクライブラリ;ダイナミック・リンク・ライブラリ#dynamic linking library;DLL#
+2307530##ダイナミックリンクライブラリファイル;ダイナミック・リンク・ライブラリ・ファイル#dynamic-link library file#
+2307540##ダイナミックルーティング;ダイナミック・ルーティング#dynamic routing#
+2307550##ダイナミックルート;ダイナミック・ルート#dynamic route#
+2307560##ダイナミックレンジ;ダイナミック・レンジ#dynamic range#
+2307570##ダイナモザイク#DynaMosaic#
+2307580#大なり#だいなり;ダイナリ#greater-than mark (>);right angle bracket#
+2307590##ダイバーシティ#diversity#
+2307600##ダイヤモンドカーソル;ダイヤモンド・カーソル#diamond cursor#
+2307610#ダイヤルＱ２#ダイヤルキュウツー#Dial Q2#
+2307620##ダイヤルアウト;ダイヤル・アウト#dial out#
+2307630#ダイヤルアップＩＰ接続#ダイヤルアップアイピーせつぞく#dial-up IP connection#
+2307640##ダイヤルイン#dial-in#
+2307650##ダイヤルインサービス;ダイヤルイン・サービス#dial-in service#
+2307660#ダイヤルイン番号サービス#ダイヤルインばんごうサービス#dial-in number service#
+2307670##ダイヤルパッド;ダイヤル・パッド#dial pad#
+2307680##ダイヤルプラン;ダイヤル・プラン#dial plan#
+2307690#ダイヤル音#ダイヤルおん#dial tone#
+2307700#ダイレクトＯＥＭ#ダイレクトオーイーエム#direct OEM#
+2307710#ダイレクトＲＤＲＡＭ#ダイレクトアーディーラム#Direct Rambus Dynamic Random Access Memory#
+2307720##ダイレクトアクセス;ダイレクト・アクセス#direct access#
+2307730##ダイレクトエックス#DirectX#
+2307740#ダイレクトコール機能#ダイレクトコールきのう#direct call facility#
+2307750##ダイレクトコネクション;ダイレクト・コネクション#direct connection#
+2307760##ダイレクトプッシュ;ダイレクト・プッシュ#direct push#
+2307770##ダイレクトメモリーアクセス;ダイレクト・メモリー・アクセス#direct memory access;DMA#
+2307780#ダイレクト接続#ダイレクトせつぞく#direct connection#
+2307790##ダウンストリーム#downstream#
+2307800##ダウンラインロード;ダウンライン・ロード#down-line loading;sending data from a central node to a remote node#
+2307810##ダウンリンク#downlink#
+2307820#ダウン時間#ダウンじかん#down time#
+2307830##ダオ#DAO#
+2307840##ダストカバー;ダスト・カバー#jacket;book jacket;dust cover#
+2307850##ダスド#DASD#
+2307860##ダブダブダブシー#WWWC#
+2307870##ダブリュースリー#W3#
+2307880##ダブリュースリーシー#W3C#
+2307890##ダブリュズィーエディター#WZ EDITOR#
+2307900##ダブルクォーテーション;ダブル・クォーテーション#double quotation (mark)#
+2307910##ダブルクォート;ダブル・クォート#double quote#
+2307920##ダブルクリック;ダブル・クリック#double click#
+2307930##ダブルスペース;ダブル・スペース#Double Space#
+2307940##ダブルターム#Wterm#
+2307950##ダブルタップ#double-tap#
+2307960##ダブルハイト#double-height#
+2307970##ダブルバイト;ダブル・バイト#double byte#
+2307980##ダブルラム#WRAM#
+2307990##ダブルワード#doubleword#
+2308000##ダミーパラメタ;ダミー・パラメタ#dummy parameter#
+2308010##ダミーレコード;ダミー・レコード#dummy record#
+2308020##ダムターミナル;ダム・ターミナル#dumb terminal#
+2308030##ダムハブ;ダム・ハブ#dumb hub#
+2308040#ダム端末#ダムたんまつ#dumb terminal#
+2308050##ダラー#dollar (symbol)#
+2308060##ダルパ#DARPA#
+2308070#ダンピング抵抗#ダンピングていこう#damping resistor#
+2308080##ダンプリスト;ダンプ・リスト#dump list#
+2308100##チェーンプリンタ;チェーン・プリンタ#chain printer#
+2308110##チェーンメール;チェーン・メール#chain mail#
+2308120#チェーン印字装置#チェーンいんじそうち#chain printer#
+2308130##チェックディスク#CHKDSK#
+2308140##チェックビルド;チェック・ビルド#checked build#
+2308150##チェックボックス#checkbox#
+2308160##チップセット;チップ・セット#chip set#
+2308170##チボリ#Tivoli#
+2308180##チャープ#CHRP#
+2308190##チャールズバベイジ#Charles Babbage#
+2308200##チャットエリア;チャット・エリア#chat area#
+2308210##チャド#Chad;chad#
+2308220##チャネルアジリティ;チャネル・アジリティ#channel agility#
+2308230##チャネルステータスワード;チャネル・ステータス・ワード#channel status word#
+2308240##チャネルデフィニションフォーマット;チャネル・デフィニション・フォーマット#channel definition format#
+2308250#チャネルパス再接続#チャネルパスさいせつぞく#CPR;Channel Path Reconnection#
+2308260##チャネルプログラム;チャネル・プログラム#channel program#
+2308270#チャネルプロトコル機械#チャネルプロトコルきかい#channel protocol machine;CPM#
+2308280#チャネル間アダプタ#チャネルかんアダプタ#channel-to-channel adapter#
+2308290#チャネル間結合装置#チャネルかんけつごうそうち#CTCA;Channel To Channel Adapter#
+2308300#チャネル間分離#チャネルかんぶんり#interchannel isolation#
+2308310#チャネル状態語#チャネルじょうたいご#channel status word#
+2308320#チャネル当たり#チャネルあたり#per channel#
+2308340##チャンドラ#chandra#
+2308350##ティルト;チルト#tilt#
+2308360##ツールキット#toolkit#
+2308370##ツールサーバ;ツール・サーバ#tool server#
+2308380##ツールセット;ツール・セット#tool set#
+2308390##ツイストペア;ツイスト・ペア#twisted pair#
+2308400##ツイストペアケーブル;ツイスト・ペア・ケーブル#twisted pair cable#
+2308410##ツインリーキーバケット#twin leaky bucket#
+2308420##ツェン#TSENG#
+2308430#ツリー構造#ツリーこうぞう#tree structure#
+2308440#ヅアル運転#ヅアルうんてん#dual drive#
+2308450##テーブルルックアップ;テーブル・ルックアップ#table lookup#
+2308460##テープカートリッジ;テープ・カートリッジ#tape cartridge#
+2308470##テープストリーマ;テープ・ストリーマ#tape streamer#
+2308480##テープスプール;テープ・スプール#tape spool;hub#
+2308490##テープデバイス;テープ・デバイス#tape device#
+2308500##テープドライブ;テープ・ドライブ#tape drive#
+2308510##テープバックアップ;テープ・バックアップ#tape backup#
+2308520##テープフレーム;テープ・フレーム#tape row;tape frame#
+2308530##テープマーク;テープ・マーク#tape mark#
+2308540##テープライブラリ;テープ・ライブラリ#tape library#
+2308550#テープ駆動機構#テープくどうきこう#tape drive#
+2308560#テープ駆動部#テープくどうぶ#tape transport#
+2308570#テープ始端マーカ#テープしたんマーカ#beginning-of-tape marker;BOT marker#
+2308580#テープ終わりマーク#テープおわりマーク#end-of-tape mark#
+2308590#テープ終端マーカ#テープしゅうたんマーカ#end-of-tape marker;EOT marker#
+2308600#テープ穿孔機構#テープせんこうきこう#tape punch#
+2308610#テープ穿孔装置#テープせんこうそうち#tape punch#
+2308620#テープ装置#テープそうち#tape device;tape drive#
+2308630#テープ複製機構#テープふくせいきこう#tape reproducer#
+2308640#テープ複製装置#テープふくせいそうち#tape reproducer#
+2308650##ティーエー#TA#
+2308660##ティーエーピーアイ#TAPI#
+2308670##ティーエスアール#TSR#
+2308680##ティーエヌエヌ#tnn#
+2308690##ティーエフティー#TFT#
+2308700##ティーシーピーアイピー#TCP-IP#
+2308710##ティースリー#T3#
+2308720##ティーゾーン#T-ZONE#
+2308730##ティーディーエムエー#TDMA#
+2308740##ティーピーシー#TPC#
+2308750##ティーピーシーシー#TPC-C#
+2308760##ティーピーモニタ#TP monitor#
+2308770##ティーワン#T1#
+2308780##ティッカー;チッカー#ticker#
+2308790##ティッカーバー;ティッカー・バー#ticker bar#
+2308800##ティックル#Tcl#
+2308810##ティックルティーケー#Tcl-Tk#
+2308820##ティップス#TIPS#
+2308830##ティフ#TIFF#
+2308840##テイカデ#teikade#
+2308850##テイント#tainted#
+2308860##テキストイメー#text image#
+2308870##テキストエディタ;テキスト・エディタ#text editor#
+2308880##テキストオブジェクト;テキスト・オブジェクト#text object#
+2308890##テキストクエリ;テキスト・クエリ#text query#
+2308900##テキストスライド;テキスト・スライド#text slide#
+2308910##テキストデータ;テキスト・データ#character data#
+2308920##テキストフォーマット;テキスト・フォーマット#text format#
+2308930##テキストフォント;テキスト・フォント#text font#
+2308940##テキストブロック;テキスト・ブロック#text block#
+2308950##テキストベース;テキスト・ベース#text based (e.g. interface)#
+2308960##テキストボックス;テキスト・ボックス#text box#
+2308970##テキストモード;テキスト・モード#text mode#
+2308980##テキストラベル;テキスト・ラベル#text label#
+2308990#テキスト位置#テキストいち#text position#
+2309000#テキスト画面#テキストがめん#text plane#
+2309010#テキスト局所座標系#テキストきょくしょざひょうけい#text local coordinate system#
+2309020#テキスト区域#テキストくいき#text extent#
+2309030#テキスト形式#テキストけいしき#text format#
+2309040#テキスト処理#テキストしょり#text processing#
+2309050#テキスト配置#テキストはいち#text alignment#
+2309060#テキスト表示精度#テキストひょうじせいど#text precision#
+2309070#テキスト平面#テキストへいめん#text plane#
+2309080#テキスト平面定義ベクトル#テキストへいめんていぎベクトル#text direction vectors#
+2309090#テキスト方向#テキストほうこう#text path#
+2309100##テクスチャマッピング;テクスチャ・マッピング#texture mapping#
+2309110##テクニカルサポート;テクニカル・サポート#technical support#
+2309120##テクニカルネーム#technical#
+2309130##テクノインダストリアル#techno-industrial#
+2309140##テクラム#Tekram#
+2309150##テストスクリプト;テスト・スクリプト#test script#
+2309160##テストモード;テスト・モード#static test mode#
+2309170##テストリリース;テスト・リリース#test release#
+2309180#テスト結果#テストけっか#test results#
+2309190#テスト仕様#テストしよう#test specification#
+2309200#テスト版#テストばん#test version, edition, release#
+2309210##テックエド;テック・エド#Tech Ed#
+2309220##テックワイヤー#TechWire#
+2309230##テラターム;テラ・ターム#Tera Term#
+2309240##テラバイト#terabyte#
+2309250##テルネット#telnet#
+2309260##テレウェイシリウス#Teleway Sirius#
+2309270##テレコミューティング#telecommuting#
+2309280##テレコムネットワーク;テレコム・ネットワーク#telecom network#
+2309290##テレコムベンダー;テレコム・ベンダー#telecom vendor#
+2309300##テレコムマレーシア;テレコム・マレーシア#Telecom Malaysia#
+2309310##テレチョイス#Telechoice#
+2309320##テレテル#Teletel#
+2309330##テレビパソコン;テレビ・パソコン#PC using a TV as a monitor#
+2309340#テレビ信号#テレビしんごう#television signal#
+2309350#テレビ方式#テレビほうしき#television system#
+2309360##テレフォニー#telephony#
+2309370##テレプロセシング#teleprocessing#
+2309380##テレホーダイ#off-peak telephone call price reduction#
+2309390##テレメディスン#telemedicine#
+2309400##テンベースツー#10BASE-2#
+2309410##テンベースティー#10BASE-T#
+2309420##テンベースファイブ#10BASE-5#
+2309430##テンポラリファイル;テンポラリ・ファイル#temporary file#
+2309440#テンポラリ変数#テンポラリへんすう#temporary variable#
+2309450##デージーチェーン;デージー・チェーン#daisy chain#
+2309460#デージーチェーン接続#デージーチェーンせつぞく#daisy chain connection#
+2309470##デージーホイールプリンタ;デージーホイール・プリンタ#daisy-wheel printer#
+2309480#データの階層;データ階層#データのかいそう;データかいそう#data hierarchy#
+2309490#データの汚染#データのおせん#data corruption;data contamination#
+2309500#データの完全性#データのかんぜんせい#data integrity#
+2309510#データの丸め#データのまるめ#data rounding#
+2309520#データの基底アドレス#データのきていアドレス#base address of data#
+2309530#データの品質#データのひんしつ#data quality#
+2309540#データの保全性#データのほぜんせい#data integrity#
+2309550#データの要素#データのようそ#data element#
+2309560##データインスタンス;データ・インスタンス#data instance#
+2309570##データインタフェース;データ・インタフェース#data interface#
+2309580##データインテンシブ;データ・インテンシブ#data intensive#
+2309590##データインベントリ;データ・インベントリ#data inventory#
+2309600##データウェアハウス;データ・ウェアハウス#data warehouse;data warehousing#
+2309610##データエンジン;データ・エンジン#data engine#
+2309620##データエントリ;データ・エントリ#data entry#
+2309630##データグラムサービス;データグラム・サービス#datagram service#
+2309640##データコム#datacom#
+2309650##データコンバータ;データ・コンバータ#data converter#
+2309660##データステーション;データ・ステーション#data station#
+2309670##データストレージ;データ・ストレージ#data storage#
+2309690##データセンター;データセンタ;データ・センター;データ・センタ#data center;data centre#
+2309700##データタグ;データ・タグ#data tag#
+2309710#データタグ群#データたぐぐん#data tag group#
+2309720#データタグ形式#データたぐけいしき#data tag pattern#
+2309730##データチャネル;データ・チャネル#data channel#
+2309740#データチャネル装置#データチャネルそうち#data channel equipment#
+2309750##データチャンネル;データ・チャンネル#data channel#
+2309760##データディクショナリ;データ・ディクショナリ#data dictionary#
+2309770##データバス;データ・バス#data bus#
+2309780##データパイプ;データ・パイプ#data pipe#
+2309790##データパケット;データ・パケット#data packet#
+2309800##データフィールド;データ・フィールド#data field#
+2309810##データフォーク;データ・フォーク#data fork#
+2309820##データブレード#DataBlade#
+2309830##データベースアプリケーション;データベース・アプリケーション#database application#
+2309840##データベースエンジン;データベース・エンジン#database engine#
+2309850##データベースサーバー;データベース・サーバー#database server#
+2309860##データベースソフト;データベース・ソフト#database software#
+2309870##データベースソフトウェア;データベース・ソフトウェア#database software#
+2309880#データベース管理#データベースかんり#database management#
+2309890#データベース管理システム#データベースかんりシステム#Data Base Management System;DBMS#
+2309910#データベース管理者#データベースかんりしゃ#Data Base Administrator;DBA#
+2309920#データベース再編成#データベースさいへんせい#database restructure;database reorganization#
+2309930##データマート#datamart#
+2309940##データマルチプレクサ;データ・マルチプレクサ#data multiplexer#
+2309950##データモジュール;データ・モジュール#data module#
+2309960#データリンクコネクション識別子#データリンクコネクションしきべつし#data link connection identifier;DLCI#
+2309970##データリンクレベル;データ・リンク・レベル#data link level#
+2309980#データリンク層#データリンクそう#data link layer#
+2309990##データレコード;データ・レコード#data record;DR#

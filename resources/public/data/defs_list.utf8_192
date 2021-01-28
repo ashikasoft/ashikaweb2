@@ -1,0 +1,942 @@
+1920000##ヘイスト#haste#
+1920010##ディスペル;デスペル#dispel (esp. magic or potion used to return one's character to normal status in an RPG, etc.)#
+1920020##アンチドート#antidote#
+1920030##エイド#aid#
+1920040##メテオ;ミーティア#meteor#
+1920050##クラウド#cloud;crowd#
+1920060##デス#death#
+1920070##タイダル#tidal#
+1920080##ゴッド#god#
+1920100##ウォール;ウオール#wall#
+1920110##ストーン#stone;bijou;trinket;gemstone;stone (unit of weight: 14lb);curling stone;curling rock#
+1920120##トーネード#tornado#
+1920130##イラプション#eruption#
+1920140##グレイブ#grave#
+1920150##ソルジャー#soldier#
+1920160##ライトニング#lightning#
+1920180##トルバドール;トルバドゥール#troubadour#
+1920190##グーングニル#Gungnir (spear of Odin)#
+1920200#二年生#にねんせい#second-year student;biennial#
+1920220#交尾む;遊牝む;孳尾む#つるむ#to copulate (animals);to mate#
+1920230#連む#つるむ#to go with (a companion);to hang out with#
+1920240#何の#どの#which;what (way)#
+1920245#何の#なんの#what kind;what sort#
+1920250#喉の痛み#のどのいたみ#sore throat#
+1920260#洗濯籠#せんたくかご#laundry basket#
+1920270#アジア太平洋機械翻訳協会#アジアたいへいようきかいほんやくきょうかい#Asia-Pacific Association for Machine Translation;AAMT#
+1920280#安定状態#あんていじょうたい#steady state;stable state#
+1920290#暗黙の主語#あんもくのしゅご#understood subject#
+1920300#意味の関係理論#いみのかんけいりろん#relational theory of meaning#
+1920310#意味原理#いみげんり#semantics principle#
+1920320#意味部門#いみぶもん#semantic component#
+1920330#意味役割#いみやくわり#semantic role#
+1920340#意味上の主語#いみじょうのしゅご#sense subject#
+1920350#意味上の目的語#いみじょうのもくてきご#sense object#
+1920360#英国発音#えいこくはつおん#British pronunciation#
+1920370#演繹的説明法#えんえきてきせつめいほう#deductive method#
+1920380#音韻部門#おんいんぶもん#phonological component#
+1920390#音声形式#おんせいけいしき#phonetic form#
+1920400#音節主音#おんせつしゅおん#syllabic#
+1920410#音節主音的子音#おんせつしゅおんてきしいん#syllabic consonant#
+1920420#外的根拠#がいてきこんきょ#external ground#
+1920430#下位範疇化#かいはんちゅうか#subcategorization;subcategorisation#
+1920440#下位範疇化原理#かいはんちゅうかげんり#subcategorization principle;subcategorisation principle#
+1920450#下位範疇化素性#かいはんちゅうかそせい#subcategorization feature;subcategorisation feature#
+1920460#かき混ぜ規則#かきまぜきそく#scrambling#
+1920470#可能世界モデル#かのうせかいモデル#possible-world model#
+1920480#可能な文法#かのうなぶんぽう#possible grammar#
+1920510#核文法#かくぶんぽう#core grammar#
+1920520#格理論#かくりろん#case theory#
+1920530#簡潔性#かんけつせい#simplicity#
+1920540#簡潔性の尺度#かんけつせいのしゃくど#simplicity measure#
+1920560#記述的妥当性#きじゅつてきだとうせい#descriptive adequacy#
+1920570#機能単一化文法#きのうたんいつかぶんぽう#functional unification grammar;FUG#
+1920580#記号トークン#きごうトークン#sign token#
+1920590#疑似直接目的語#ぎじちょくせつもくてきご#pseudo-direct object#
+1920600#基底構造#きていこうぞう#deep structure;underlying structure#
+1920610#基底部門#きていぶもん#base component#
+1920620#共通言語#きょうつうげんご#lingua franca#
+1920630#境界理論#きょうかいりろん#bounding theory#
+1920640#句構造規則#くこうぞうきそく#phrase structure rule#
+1920650#句構造文法#くこうぞうぶんぽう#phrase structure grammar;PSG#
+1920660#クロスランゲージ情報検索#クロスランゲージじょうほうけんさく#cross-language information retrieval;CLIR#
+1920665#クロスランゲージ情報アクセス#クロスランゲージじょうほうアクセス#cross-language information access#
+1920670#計算生物学#けいさんせいぶつがく#computational biology#
+1920680#形式的な性#けいしきてきなせい#formal gender#
+1920690#言語運用#げんごうんよう#(linguistic) performance#
+1920700#言語学的観念論#げんごがくてきかんねんろん#linguistic conceptualism#
+1920710#言語学的実在論#げんごがくてきじつざいろん#linguistic realism#
+1920720#言語機能#げんごきのう#language faculty#
+1920730#言語知識#げんごちしき#knowledge of language#
+1920740#言語能力#げんごのうりょく#(linguistic) competence;language capability#
+1920750#原理とパラメータのアプローチ#げんりとパラメータのアプローチ#principles and parameters approach#
+1920760#語彙機能文法#ごいきのうぶんぽう#lexical-functional grammar;LFG#
+1920770#語彙規則#ごいきそく#lexical rule#
+1920780#語彙的#ごいてき#lexical#
+1920790#語彙的コントロールの原理#ごいてきコントロールのげんり#principle of lexical control;PLC#
+1920800#項位置#こういち#argument position#
+1920810#構成素構造#こうせいそこうぞう#constituent structure#
+1920820#構成素統御#こうせいそとうぎょ#constituent command#
+1920830#構造記述#こうぞうきじゅつ#structural description#
+1920840#構造変化#こうぞうへんか#structural change#
+1920850#構造保持#こうぞうほじ#structure preserving#
+1920860#合理論#ごうりろん#rationalism#
+1920870#国際機械翻訳協会#こくさいきかいほんやくきょうかい#International Association for Machine Translation;IAMT#
+1920880#コミュニケーション科学基礎研究所#コミュニケーションかがくきそけんきゅうしょ#Communication Science Laboratories#
+1920890#コントロール理論#コントロールりろん#control theory#
+1920900#恣意性#しいせい#arbitrariness#
+1920910#θ理論#シータりろん#theta-theory#
+1920920#ＧＢ理論#ジービーりろん#government-binding theory;government and binding theory#
+1920930#子音性#しいんせい#consonantal#
+1920940#自然な性#しぜんなせい#natural gender#
+1920950#自然類#しぜんるい#natural class#
+1920960#刺激の貧困#しげきのひんこん#poverty of stimulus#
+1920970#辞書部門#じしょぶもん#lexicon#
+1920980#島の制約#しまのせいやく#island constraint#
+1920990#斜格性#しゃかくせい#obliqueness#
+1921000#斜格性の階層#しゃかくせいのかいそう#obliqueness hierarchy#
+1921010#斜格性統御#しゃかくせいとうぎょ#obliqueness command#
+1921020#集合記述#しゅうごうきじゅつ#set description#
+1921030#主語助動詞倒置#しゅごじょどうしとうち#subject-auxiliary inversion#
+1921040#主辞駆動句構造文法#しゅじくどうくこうぞうぶんぽう#head-driven phrase structure grammar;HPSG#
+1921050#主辞素性規約#しゅじそせいきやく#head feature convention;HFC#
+1921060#主辞素性原理#しゅじそせいげんり#head feature principle;HFP#
+1921070#主要部#しゅようぶ#head#
+1921080#主要部終端型#しゅようぶしゅうたんがた#head-final#
+1921090#主要部先導型#しゅようぶせんどうがた#head-initial#
+1921100#循環性#じゅんかんせい#cyclicity#
+1921110#状況意味論#じょうきょういみろん#situation semantics#
+1921120#上下関係#じょうげかんけい#pecking order;hierarchical relationship;vertical relationship;hyponymy#
+1921130#情報可視化#じょうほうかしか#information visualization;information visualisation#
+1921140#情報量が多い#じょうほうりょうがおおい#having high information content;informative#
+1921150#瞬時獲得モデル#しゅんじかくとくモデル#instantaneous acquisition model#
+1921160#心的表示#しんてきひょうじ#mental representation#
+1921170#心理主義#しんりしゅぎ#psychologism#
+1921180#推移的#すいいてき#transitive#
+1921190#生物情報学#せいぶつじょうほうがく#bioinformatics#
+1921200#説明的妥当性#せつめいてきだとうせい#explanatory adequacy#
+1921210#先行詞#せんこうし#antecedent#
+1921220#先行条件#せんこうじょうけん#antecedent condition#
+1921230#線形順序#せんけいじゅんじょ#linear precedence;LP#
+1921240#宣言的#せんげんてき#declarative#
+1921250#相関ルール#そうかんルール#associate rule#
+1921260#挿入文#そうにゅうぶん#parenthetic sentence#
+1921270#属性値行列#ぞくせいねぎょうれつ#attribute-value matrix;AVM#
+1921280#束縛継承原理#そくばくけいしょうげんり#binding inheritance principle;BIP#
+1921290#束縛理論#そくばくりろん#binding theory#
+1921300#束縛変項#そくばくへんこう#bound variable#
+1921310#素出力条件#そしゅつりょくじょうけん#bare output conditions#
+1921320#素性構造#そせいこうぞう#feature structure#
+1921330#足素性原理#あしすじょうげんり#foot feature convention;FFP#
+1921340#体系文法#たいけいぶんぽう#systemic grammar#
+1921350#単一化に基づく形式化#たんいつかにもとづくけいしきか#unification-based formalisms#
+1921360#談話表示構造理論#だんわひょうじこうぞうりろん#discourse representation structure theory;DRS#
+1921370#知能情報研究部#ちのうじょうほうけんきゅうぶ#Intelligent Communication Laboratory#
+1921380#超規則#ちょうきそく#metarule#
+1921390#長距離依存#ちょうきょりいぞん#long-distance dependency (dependencies)#
+1921400#直接支配#ちょくせつしはい#immediate dominance;ID#
+1921410#ＤＲＳ理論#ディーアールエスりろん#discourse representation structure theory#
+1921420#定常状態#ていじょうじょうたい#steady state#
+1921430#データタイプ理論#データタイプりろん#data type theory#
+1921440#手続き的#てつづきてき#procedural#
+1921450#転移性#てんいせい#displacement#
+1921460#等位構造#とういこうぞう#coordinate structure#
+1921470#道具論#どうぐろん#instrumentalism#
+1921480#統語指標#とうごしひょう#syntactic index#
+1921490#統語的な整合性#とうごてきなせいごうせい#well-formedness#
+1921500#統語範疇#とうごはんちゅう#syntactic category#
+1921510#投射原理#とうしゃげんり#projection principle#
+1921520#統率束縛理論#とうそつそくばくりろん#government-binding theory#
+1921530#統率理論#とうそつりろん#government theory#
+1921540#透明性の原理#とうめいせいのげんり#transparency principle#
+1921550#内的根拠#ないてきこんきょ#internal ground#
+1921560##バイオインフォマティクス#bioinformatics#
+1921570#葉節点#はせってん#leafnodes#
+1921580#反射的半順序#はんしゃてきはんじゅんじょ#reflexive partial ordering#
+1921590#反証可能性#はんしょうかのうせい#falsifiability#
+1921600#反対称的#はんたいしょうてき#antisymmetric#
+1921610#範疇部門#はんちゅうぶもん#categorial component#
+1921620#範疇文法#はんちゅうぶんぽう#categorical grammar#
+1921630#非循環的#ひじゅんかんてき#acyclic#
+1921640#必須格#ひっすかく#indispensable case#
+1921650#評価の尺度#ひょうかのしゃくど#evaluation measure#
+1921660#表層構造#ひょうそうこうぞう#surface structure#
+1921670#表層の語順#ひょうそうのごじゅん#surface order#
+1921680#袋小路文#ふくろこうじぶん#easily misunderstood sentence;garden-path sentence;cul-de-sac sentence#
+1921690#符号化文字集合#ふごうかもじしゅうごう#coded character set;code#
+1921700#不透明性#ふとうめいせい#opacity#
+1921710#不飽和#ふほうわ#unsaturated#
+1921720#普遍原理#ふへんげんり#universal principle;universal principles#
+1921730#普遍文法#ふへんぶんぽう#universal grammar#
+1921740#部分情報構造#ぶぶんじょうほうこうぞう#partial information structure#
+1921750#プラトンの問題#プラトンのもんだい#Plato's problem#
+1921760#文法規則#ぶんぽうきそく#grammar rule#
+1921770#文法性#ぶんぽうせい#grammaticality#
+1921780#変形規則#へんけいきそく#transformational rule#
+1921790#変形生成統語論#へんけいせいせいとうごろん#transformational generative syntax#
+1921800#変形部門#へんけいぶもん#transformational component#
+1921810#弁別素性#べんべつそせい#distinctive feature#
+1921820#母音性#ぼいんせい#vocalic#
+1921830#母語話者#ぼごわしゃ#native speaker#
+1921850#翻訳メモリ#ほんやくメモリ#translation memory#
+1921860##ミニマリストプログラム;ミニマリスト・プログラム#minimalist program;minimalist programme#
+1921870#文字符号化法#もじふごうかほう#character encoding scheme#
+1921880#文字符号系#もじふごうけい#character coding system#
+1921890#有限状態文法#ゆうげんじょうたいぶんぽう#finite-state grammar#
+1921900#ヨーロッパ機械翻訳協会#ヨーロッパきかいほんやくきょうかい#The European Association for Machine Translation;EAMT#
+1921910#理想的な言語使用者#りそうてきなげんごしようしゃ#ideal speaker-hearer#
+1921920#論理形式#ろんりけいしき#logical form#
+1921930#論理和#ろんりわ#disjunction;logical sum;logical add;OR operation#
+1921940#右方高麗楽#うほうこまがく#old Japanese court music from the Nara period#
+1921950#高麗楽#こまがく#old Japanese court music from the Nara period#
+1921960#歩兵#ふひょう#pawn (shogi)#
+1921970#桂#けい#knight (shogi)#
+1921980#飛#ひ#rook (shogi)#
+1921990#玉#ぎょく#precious stone (esp. jade);egg (sometimes esp. as a sushi topping);stock or security being traded;product being bought or sold;position (in finance, the amount of a security either owned or owed by an investor or dealer);geisha;time charge for a geisha;king (shogi)#
+1922000#香#きょう#spear (shogi);lance#
+1922010#と金#ときん#promoted pawn (shogi)#
+1922030#成銀#なりぎん#promoted silver general (shogi)#
+1922040#成桂#なりけい#promoted knight (shogi)#
+1922050#成香#なりきょう#promoted lance (shogi)#
+1922090#橡;栃;栃の木;橡の木#とちのき;とち;トチノキ#Japanese horse chestnut (Aesculus turbinata)#
+1922100#柊;疼木#ひいらぎ;ひらぎ;ヒイラギ#holly olive (Osmanthus heterophyllus);false holly;holly;spotnape ponyfish (Leiognathus nuchalis)#
+1922110#中央アメリカ#ちゅうおうアメリカ#central America#
+1922120#兼ねない#かねない#quite capable of ...;might happen;not unlikely to#
+1922130#猿の腰掛け;胡孫眼#さるのこしかけ;サルノコシカケ#polypore (bracket fungus, esp. of family Polyporaceae)#
+1922140#禿鷲#はげわし#Old World vulture#
+1922150#芒#のぎ#arista;awn;(grain) beard#
+1922160#連量#れんりょう#weight of 1000 sheets of paper;ream weight#
+1922170#キロ連量#キロれんりょう#weight of 1000 sheets of paper;ream weight#
+1922180#コリア語#コリアご#Korean (language)#
+1922190#米坪#べいつぼ#paper weight in gsm#
+1922200#坪量#つぼりょう#paper weight in gsm#
+1922210#メートル坪量#メートルつぼりょう#paper weight in gsm#
+1922220#文字コード#もじコード#character code (e.g. JIS, Unicode, etc.)#
+1922230#白頭鷲#はくとうわし;ハクトウワシ#bald eagle (Haliaeetus leucocephalus)#
+1922240##コッカースパニエル;コッカー・スパニエル#Cocker spaniel#
+1922250#物作り;物づくり;物造り#ものづくり;ものつくり#manufacturing;craftsmanship;making things by hand;making New-Year's decorations;preparing fields;farming;farmer#
+1922260#帰国セール#きこくセール#sale of one's belongings before returning to one's country;sayonara sale#
+1922270##ぱっとしない;パッとしない#expression of vague dissatisfaction with a thing, person, or situation#
+1922280##ぼったくる#to rip someone off#
+1922290#オウム真理教;アウム真理教#オウムしんりきょう;アウムしんりきょう#Aum Shinrikyo;Japanese religious group responsible for the 1995 sarin gas attack on the Tokyo subway#
+1922300##ゲバ#(political) violence;violent tactics used by political radicals#
+1922310#窃ちゃり#せっちゃり#bicycle theft#
+1922330#パクパク人形#パクパクにんぎょう#puppet with a moving mouth#
+1922360#レ点#レてん#mark showing character order in Chinese texts;tick mark#
+1922370#庵点#いおりてん#part alternation mark (symbol indicating the following words are taken from a song or that the person saying the words is singing);Unicode U+303D symbol#
+1922380#鰻巻き#うまき#skewered eel roasted and wrapped in fried egg#
+1922390#差別表現#さべつひょうげん#word, phrase, or image that is perceived as showing or suggesting discrimination or prejudice against a person or group of people#
+1922400#砂下ろし#すなおろし#cleaning dirt or sand out of the digestive system#
+1922410#赤信号皆で渡れば怖くない#あかしんごうみんなでわたればこわくない#if everyone crosses against the red light, then there's nothing to be afraid of;there's no reason to feel guilty about doing something bad if everyone does it#
+1922420#絶対敬語#ぜったいけいご#absolute respectful speech;absolute honorifics#
+1922430#相対敬語#そうたいけいご#relative respectful speech;relative honorifics#
+1922440#浅間山荘事件;あさま山荘事件#あさまさんそうじけん#Asama-Sanso incident (famous hostage crisis and police siege in Feb. 1972)#
+1922450#中部アメリカ#ちゅうぶアメリカ#central America#
+1922460#天井扇#てんじょうせん#ceiling fan#
+1922470#姫御子#ひめみこ#imperial princess#
+1922480##とろい#slow (slightly pejorative);dull;stupid#
+1922500#ギャル男#ギャルお#fashion style for young men (brown-dyed hair, gaudy clothes and accessories)#
+1922510#くノ一;くの一#くのいち#female ninja;woman#
+1922520#欠品#けっぴん#stockout;out of stock#
+1922530#女王蟻#じょおうあり#queen ant#
+1922540#参院選#さんいんせん#House of Councillors election;upper house election#
+1922550#枠線#わくせん#grid-line (e.g. in spreadsheet);closing line#
+1922560#箍#たが#hoop;binding (e.g. of a barrel)#
+1922570#箍を締める#たがをしめる#to pull oneself together;to get one's act together;to brace oneself#
+1922580#箍を嵌める#たがをはめる#to hoop;to put a hoop on;to bind a barrel with hoops#
+1922590#群伝搬時間#ぐんでんぱんじかん#group delay (in fibre optics, fiber optics)#
+1922600#群速度#ぐんそくど#group velocity (in fibre optics, fiber optics)#
+1922610#位相速度#いそうそくど#phase velocity#
+1922620##ハウスボート;ハウス・ボート#house boat#
+1922630#判決に従う#はんけつにしたがう#to abide by the verdict#
+1922640#普通でない#ふつうでない#abnormal;not the rule;not customary#
+1922645#普通ではない#ふつうではない#abnormal;not the rule;not customary#
+1922650#承認図#しょうにんず#approved plan or drawing#
+1922660#探番#たんばん#attributing a sequence number (packet, message, etc.)#
+1922670#顔着#がんちゃく#face landing (used by BMX riders)#
+1922680#丸一日#まるいちにち#the whole day;all the day#
+1922690#丸一週間#まるいっしゅうかん#the whole week;all the week#
+1922700#丸一月#まるひとつき#the whole month;all the month#
+1922710#丸一ヶ月;丸一ケ月#まるいっかげつ#the whole month;all the month#
+1922720#丸一年#まるいちねん#the whole year;all the year#
+1922730#ひよこ豆;ヒヨコ豆;雛豆#ひよこまめ;ヒヨコまめ;ヒヨコマメ#chickpea (Cicer arietinum);garbanzo bean#
+1922740#皮肉る#ひにくる#to speak cynically or with sarcasm#
+1922750#稗#ひえ#barnyard millet (Echinochloa utilis);Japanese millet;sanwa millet#
+1922760#と言う#という;とゆう#called;named;as many as;as much as;all X;every X#
+1922770#三十;卅#さんじゅう;みそ#thirty#
+1922780#不#ふ#un-;non-;negative prefix#
+1922790#縁;因;便#よすが;よすか#something to rely on;aid;clue;way;means;someone to rely on;relative;reminder;memento#
+1922800#香具師#こうぐし#master perfume maker#
+1922810#不学#ふがく#unlearned;uneducated#
+1922820#各停#かくてい#train that stops at every station;local train#
+1922830##スリランカ#Sri Lanka#
+1922840#変成器#へんせいき#(impedance) transformer#
+1922850#利害関係者#りがいかんけいしゃ#stakeholder;person holding other people's stakes in a venture (legal)#
+1922860#盗る#とる#to take (nuance of stealing)#
+1922870#文部科学省#もんぶかがくしょう#Ministry of Education, Culture, Sports, Science and Technology;MEXT#
+1922880#補佐役#ほさやく#assistant;adjunct;lieutenant#
+1922890#擦る#なぞる#to trace (drawing);to follow#
+1922900##アイスキャンディー;アイスキャンデー;アイス・キャンディー;アイス・キャンデー#ice pop;icy pole;popsicle;ice lolly#
+1922910##アールをとる#to take the radius#
+1922920##アグロメ#agglomeration#
+1922930##アシマネ#assistant manager#
+1922940##アスコン#asphalt concrete#
+1922950##アッシー#(automotive) assembly;man who drives a woman around for free;man used by a woman for his car#
+1922960##アッテネーター;アッテネータ;アテネーター;アテネータ#attenuator#
+1922970##アップトーク;アップ・トーク#style of speaking in which the speaker gives the end of each sentence or phrase a higher intonation#
+1922980##アナカン#unaccompanied baggage#
+1922990##アニカラ#anime karaoke;karaoke accompanied by animation#
+1923000##アパコン#aperture compensation#
+1923010##アポ#appointment#
+1923020##アメカジ#American casual (fashion style)#
+1923030##アームウォマー#arm warmer;knitted sleeve, analogous to a leg warmer#
+1923040##アムラー#young girls who imitate the style of singer Amuro Namie#
+1923050##アルサロ#"salon" where the hostesses are supposedly part-timers with other jobs#
+1923060##アンコン#overcoat with very simple lines and no shoulder pads, etc. (from: unconstructed)#
+1923070##アンビリ#unbelievable#
+1923080##イイ#Iran-Iraq#
+1923090##イージーパンツ;イージー・パンツ#loose-fitting pants with an elastic or drawcord waist#
+1923100##イタカジ#Italian casual#
+1923110##イタめし#Italian food#
+1923120##イルコン#illumination control#
+1923130##イルミ#illumination#
+1923140##インクリビジネス#incremental business#
+1923150##インディーズビデオ;インディーズ・ビデオ#pornographic videos#
+1923160##インメガチャート#TV test pattern chart;megacycles chart#
+1923170##ウエス;ウェス#rag (for wiping);waste (cloth)#
+1923180##ウエストモール;ウエスト・モール#weatherstrip molding;weatherstrip moulding#
+1923190##エアサス#air suspension#
+1923200##エアモニ#on-air monitor#
+1923210##エーコッコシー#someone who is overly concerned with status. Can be used enviously with reference to someone of real accomplishment#
+1923220##エキパイ#exhaust pipe#
+1923230##エキマニ#exhaust manifold#
+1923240##エコステーション;エコ・ステーション#a service station for cars that run on alternative fuels#
+1923250##エステサロン#salon where people go to get makeovers, massages, facials, etc.;beauty salon#
+1923260##エネトピア#housing development designed with an eye toward energy conservation#
+1923270##エバチップ#special version of a product with features that allow it to be used for evaluation#
+1923280#ＥＦＦ#イーエフエフ#Extended Fund Facility;EFF;Electronic Frontier Foundation;EFF#
+1923290##エミフィル#EMI (electro-magnetic interference) filter#
+1923300##オナドル#fantasy object for masturbation#
+1923310##オナペット#fantasy object for masturbation#
+1923320##オペアンプ#operational amplifier#
+1923330##オリフラ#orientation flat (semiconductors)#
+1923340##ガスクロ#gas chromatography#
+1923350##カステン#cabinet, usu. containing medical instruments, medicines, etc.;case#
+1923360##カゼ#casein#
+1923370##カミセン#younger members of the group#
+1923380##カメリハ#camera rehearsal#
+1923390##ガヤ;がや#background chatter on a soundtrack;extra (actor);(and) many others#
+1923400##カラバラ#ballads sung by Karashima Midori#
+1923410##カルウエ#calcium wafer#
+1923420##ガンクロ#darkly tanned face (fashionable among trendy young people ca. 1999-2000)#
+1923430##ガンバリズム#attitude that one must keep going no matter what#
+1923440##ガンプラ#Gundam plastic models#
+1923450##キープサンプル;キープ・サンプル#reference sample#
+1923460##キープボットル;キープ・ボットル#bottle of whiskey (whisky) that a bar customer buys, writes his name on, keeps on a shelf at the bar, and drinks little by little on successive visits#
+1923470##キャッチコピー;キャッチ・コピー#large text that appears in ads or brochures to catch the reader's attention (in copywriting)#
+1923480##キャラ#character (often in a manga, anime, game, etc.)#
+1923490##キャンギャル#model featured in an advertising campaign#
+1923500##クラサバ#client server#
+1923510##クリコン#Christmas concert#
+1923520##グルイン#group interview#
+1923530##クレパス#pastel crayons#
+1923540##クロカン#off-road vehicle (from cross-country)#
+1923550##クロコン#cross-country skiing#
+1923560##クロスニコル#crossed Nichol prism#
+1923570##ケアウエル#wellness care#
+1923580##コギャル#obsessively trend-conscious teen-age girls#
+1923590##コズミックボーリング;コズミック・ボーリング#cosmic bowling;bowling in a bowling alley that is lit up like a disco with lots of flashing lights#
+1923600##コマソン#commercial song;commercial jingle#
+1923610##コミケット#Comic Market (semiannual self-published comic book convention);comiket;comic book market;comicbook market#
+1923620##コングラ#computer graphics#
+1923630##コンサバ#conservative#
+1923640##コンスト#control strip#
+1923650##コンパネ#plywood panel;control panel;concrete panel#
+1923660##コンパレート#comparison#
+1923670##コンロッド;コン・ロッド#connecting rod (automotive);con-rod#
+1923680##サウンドロゴ;サウンド・ロゴ#sound logo;commercial jingle#
+1923700##スブエコ#sub-economizer (electronics);sub-economiser#
+1923710##サラドレ#salad dressing#
+1923720##サンスポ#Sankei Sports#
+1923730##シールセット;シール・セット#seal set;set of stickers#
+1923740##ジージャン#denim jacket#
+1923750##シグラ#signal ground#
+1923760##シスオペ#system operator;sysop#
+1923770##シズルカット#sizzle cut;sizzle shot;mouth-watering image in an advertising#
+1923780##シネコン#cinema complex#
+1923790##ジベタリアン#young people who sit on the ground or sidewalk (footpath)#
+1923800##ジャストクロック;ジャスト・クロック#internal clock that is always correct#
+1923810##ジャスピン#in perfect focus#
+1923820##シャネラー#young women completely outfitted in Chanel clothing and accessories#
+1923830##ジュンロン#Junlon (synthetic fibre, fiber)#
+1923840##ジョントラ#John Travolta#
+1923850##スキャントーク;スキャン・トーク#Scan Talk (brand name for a barcode system for recording and playing back brief sequences of sound)#
+1923860##スタンディング#free-standing bar#
+1923870##スチコン#Styrol condensor#
+1923880##スッチー#stewardess;(female) flight attendant#
+1923890##ストパ;ストパー#straight permanent wave#
+1923910##スペアナ#spectrum analyzer#
+1923920##スポドリ#sports drink#
+1923930##スライダック#variable autotransformer#
+1923940##スリーター#three-wheeled bicycle#
+1923950##スルーレート;スルー・レート#slew rate#
+1923960##セカンドスクール;セカンド・スクール#outdoor environmental educational program for city children (programme)#
+1923970##セカンドバッグ;セカンド・バッグ#second bag;zippered carrying case#
+1923980##セックスフレンド;セックス・フレンド#friend with benefits;fuck-buddy;sex friend;someone with whom one is not romantically involved but frequently has sexual relations with anyway#
+1923990#ヤリ友;やり友;遣り友#ヤリとも;やりとも#fuck buddy;someone with whom one is not romantically involved but frequently has sexual relations with anyway#
+1924000##セットメーカー;セット・メーカー#manufacturer of assembled products#
+1924010##セリーグ#Central League#
+1924020##セルフアップネジ#captive screw#
+1924030##セルフスタンド;セルフ・スタンド#self-service gasoline station;self-service petrol station#
+1924040##ゼンスト#general strike#
+1924050##スピコン#speed controller#
+1924070##タクトタイム;タクト・タイム#cycle time#
+1924080##タコジェネ#tachogenerator#
+1924090##ダストボックス;ダスト・ボックス#dust box;dumpster;skip#
+1924100##ダボ#double bogie#
+1924105#太枘#だぼ#dowel;joggle#
+1924120##ダンする#to make a done deal#
+1924130##チクソモールド#thixomolding (plastic and semiconductor industries)#
+1924140##チャームポイント;チャーム・ポイント#most attractive feature of a person#
+1924150##チョベリグ#very, very good#
+1924160##チョベリバ#very, very bad#
+1924170##チョムカ#very sickening#
+1924180##ディジカメ#digital camera#
+1924190##ディジボル#digital voltmeter#
+1924200##デニる#to eat at Denny's#
+1924210##テレワーク#telework;telecommuting#
+1924230##ドイト#a do-it-yourself store#
+1924250##ドタキャン;どたキャン#last-minute cancellation#
+1924260##トルコン#torque converter#
+1924270##ドルペッグ;ドル・ペッグ#dollar peg;being pegged to the dollar#
+1924280##トレペ#tracing paper#
+1924290##ドロア#drawer#
+1924300##ナイラッチ#nylon latch#
+1924310##ナウい#modern (1980s slang);trendy;hip;in;up-to-date#
+1924320##ナウナウイズム#now-now-ism;being interested only in the here and now without any regard for the future#
+1924330##ナシュプロ#national project#
+1924340##ナースコール;ナース・コール#nurse call;a patient's call button in a hospital#
+1924350#懐メロ#なつメロ;ナツメロ#nostalgic song;golden oldie#
+1924360##ネチズン#netizen;Net citizen#
+1924370##ノーヘル#without a helmet#
+1924380##ノンコンデザイン#non-conforming design#
+1924390##バイじい#old man who takes Viagra#
+1924400##ハイス#high-speed steel#
+1924410##ハウスミヌカン#sales clerk in a fancy boutique clothing store#
+1924420##パーキングドライバー;パーキング・ドライバー#parking valet#
+1924430##パジャマコール#late-night phone call#
+1924440##バストフィット;バスト・フィット#the way a bra fits#
+1924450##バストレ#bass-treble#
+1924460##パチスロ#slot machine in a pachinko parlor (parlour)#
+1924470##パチプロ#professional pachinko player#
+1924490##パッサージ#passage;glassed-over arcade#
+1924500##バッタモン#merchandise obtained by buying out the inventories of failed retailers instead of going through normal wholesale channels#
+1924510##パトライト#rotating warning light similar to the one on a patrol car#
+1924520##パナホール#Panasert hole (semiconductors)#
+1924530##パナマックス#Panamax (maximum size of ship that can pass through the Panama Canal)#
+1924540##ハーフミラー;ハーフ・ミラー#half mirror;50% beam splitter#
+1924550##ハマトラ#style of clothing popular in the late 1970s and resembling a Catholic school uniform#
+1924560#散#ばら;バラ#bulk storage;loose articles;coins;small change#
+1924570##パラサイトシングル;パラサイト・シングル#single person who earns enough to live alone but prefers to live rent-free with his or her parents#
+1924580##バリコン#variable condensor#
+1924590##パルスモータ;パルス・モータ#pulse motor;stepping motor#
+1924600##バルボル#valve volt;vacuum tube volt meter#
+1924610##ハローワーク;ハロー・ワーク#Hello Work;Public Employment Security Office#
+1924620##パステ#power steering#
+1924630##ハンドキャリアー;ハンド・キャリアー#employee of a messenger or delivery service#
+1924640##ハンドリフト#handlift;pallet jack;manual forklift#
+1924650##パンピ;パンピー#common folk (somewhat insulting);commoner#
+1924660##ヒーポン#heat pump#
+1924670##ビジネスプロデュース;ビジネス・プロデュース#starting up and developing a business#
+1924680##ピスコ#piston corer#
+1924690##ビシチェ#bustier#
+1924700##ヒッパレ#hit parade#
+1924710##ビニハン#vinyl (plastic) headed hammer#
+1924720##ビニボン#pornographic magazines sold wrapped in plastic#
+1924730##ヒーロパケージ#hero package (commercial in which the product is the hero of the segment)#
+1924740##ひやりはっと;ヒヤリハット#close call;near miss#
+1924750##ビルジャック;ビル・ジャック#building highjack (hostage situation)#
+1924760##ピンクちらし#flyer advertising a sex-related business#
+1924770##ファイアーストーム;ファイヤーストーム;ファイアストーム;ファイヤストーム;ファイヤー・ストーム;ファイア・ストーム;ファイヤ・ストーム#(large number of people, esp. students) singing and dancing around a bonfire at night#
+1924780##ファストン#fast on (terminal)#
+1924790##ファミレス#family restaurant#
+1924800##フィンドレビン#vinyl drainpipe with fins#
+1924810##フェースシート;フェース・シート#face sheet (top copy);questionnaire that asks for a demographic profile#
+1924820##ブラピ#Brad Pitt#
+1924830##プラボットル#plastic bottle#
+1924840##フラマグ#flywheel magnet#
+1924850##プリクラ#photo booth that prints out cards and stickers of the resulting photograph, which are then traded among friends#
+1924860##フリーマ;フリマ#flea market#
+1924870##プレスコ#prescoring (recording the music or sound effects before filming a scene)#
+1924880##フレキ#flexible cable#
+1924890##フレコン#flexible conduit;flexible container;flexible control#
+1924900##プレゾンエイド#presentation aid#
+1924910##フロアレディー;フロア・レディー#bar hostess#
+1924920##プログレ#progressive rock#
+1924930##ヘアマニキュアー#hair manicure (temporary hair dye or streaks)#
+1924940##ベークオフ#bake off (when a bakery bakes its wares from dough brought in from elsewhere)#
+1924950#ＰＥＴボトル#ペットボトル#PET bottle (clear plastic beverage bottle)#
+1924960##ベビーオール;ベビー・オール#one-piece garment with snaps up the front, sort of like a jumpsuit for babies#
+1924970##ポイントメイク;ポイントメーク;ポイント・メイク;ポイント・メーク#making up only parts of one's face instead of doing a full make-up job#
+1924980##ポケバイ#pocket bike (very small motorbike)#
+1924990##ポケハロ#"pocket Hello Kitty" that combines a pedometer and a tamagotchi#
+1925000##ポケベル#pager;beeper#
+1925010##ポケモン#pocket monster (internationally popular cartoon series, originally a video game)#
+1925020##ポジフィルム;ポジ・フィルム#positive film;reversal film;slide film#
+1925030##ポテチ#potato chip#
+1925040##ホトマル#photo multiplier#
+1925050##ホームエステ;ホーム・エステ#service that goes to clients' homes to give beauty treatments#
+1925060##プロマネ#project manager#
+1925070##マイブーム;マイ・ブーム#current obsession;current kick;personal obsession#
+1925080##マーケットイン;マーケット・イン#incorporating the needs of the market into a product#
+1925090##マテハン#materials handling;material handling#
+1925100##マニューシャ#minutia#
+1925110##マネロン#money laundering#
+1925120##ママチャリ#ladies' bicycle (of a kind often used by housewives, usu. with a basket in front);granny bike#
+1925130##ミスコン#beauty contest to name Miss ...#
+1925140##ミスターレディー;ミスター・レディー#transvestite#
+1925150##ムーバー#mover;mechanical ride#
+1925160##メーカーオプション;メーカー・オプション#factory-installed option;factory option#
+1925170##メクラキャップ#blank plug#
+1925180##メモる#to take notes#
+1925190##メルアド;メールアド#e-mail address#
+1925200##メルヘンチック;メルヘンティック#having a fairy-tale atmosphere#
+1925210##メンテ#maintenance#
+1925220##モガ#modern girl;flapper (1920s slang)#
+1925230##モバイラー#person fond of using a mobile phone#
+1925240##モリダグ#dag coating containing molybdenum#
+1925250##モールファブリック;モール・ファブリック#chenille#
+1925260##ヤマンバ#subculture of teenage girls ca. 1999 (blonde hair, dark make-up except eyes, platform boots)#
+1925270##ヤンママ#young mother (i.e. early twenties or younger, sometimes previously a juvenile delinquent)#
+1925280##ランクル#(Toyota) Land Cruiser#
+1925290##ランコン#lunchtime concert#
+1925300##リベンジ;リヴェンジ#revenge;making a new attempt where one previously failed;determination of a loser to win the next time#
+1925310##リュック#rucksack;knapsack;backpack#
+1925320##レハビリ#rehabilitation#
+1925330##ロビイズム#lobbying#
+1925340##ローレットねじ#knurled screw#
+1925350##ホワイトキック;ホワイト・キック#dead silence after a joke falls flat#
+1925360##ワンウェイびん;ワンウェーびん;ワンウエイびん#one way bottle;non-returnable bottle#
+1925370##ワンレン#haircut of uniform length#
+1925380#イソ体#イソたい#isomer#
+1925390#インポ薬#インポやく#anti-impotence medication#
+1925400#絵コンテ;画コンテ#えコンテ#storyboard (film, television);design for a series of movie scenes#
+1925410#顔アップ#かおアップ#close-up of a face#
+1925420#軽トラック#けいトラック#lightweight truck#
+1925430#軽カー#けいカー;ケイカー#lightweight car with low registration costs#
+1925440#公園デビュー#こうえんデビュー#bringing one's child to the local park to play for the first time#
+1925450#合同コンパ#ごうどうコンパ#joint party (e.g. by students from several colleges);combined party;mixer;two or more groups, esp. female and male students, combining for a party#
+1925460#子マダム#こマダム#wealthy women who strive to follow the fashions exactly and be seen in all the right place#
+1925470#サンケア指数#サンケアしすう#sun protection index#
+1925480#シルボン紙#シルボンし#lens-cleaning paper#
+1925490#シンクロ納入#シンクロのうにゅう#synchronous supply#
+1925510#捨てポジ#すてポジ#photographic prints that you don't keep#
+1925520#セル付#セルつき#with a self-starter#
+1925530#ソルベン率#ソルベンりつ#solvency ratio#
+1925540#チクソ性#チクソせい#thixotrophy (property of certain gels to liquefy when subjected to vibratory forces)#
+1925550#チップ抵抗#チップていこう#SMT resistor#
+1925560#テレ放題#テレほうだい#NTT's unmetered telephone service#
+1925570#バイフュウエル車#バイフュウエルしゃ#dual-fuel vehicle#
+1925580#ビタビ復号#ビタビふくごう#Viterbi decoding#
+1925600#フレコン化#フレコンか#changing something to full remote control#
+1925610#ベル友#ベルとも#person with whom one communicates by pager#
+1925620#ボキャ貧#ボキャひん#lacking the words to say what one means#
+1925630#ポリ公#ポリこう#police;policeman;police officer#
+1925640#ポリ袋#ポリぶくろ#polyethylene bag#
+1925650#メル友;メール友#メルとも;メールとも#email friend;email penpal#
+1925660#ヤングラ市場#ヤングラいちば#young underground market (the underground economy in goods and services, involving lots of barter and buying and selling of secondhand goods)#
+1925670#テ欄#テらん#television listings#
+1925680#ラ欄#ラらん#radio listings#
+1925690#ローラー族#ローラーぞく#people devoted to inline rollerskating#
+1925700#ロン毛#ロンげ#long hair#
+1925710#お聞きいただく;お聞き頂く#おききいただく#to ask (politely)#
+1925730#時を刻む#ときをきざむ#to mark the passage of time;to let (feel) time pass#
+1925740#歴史を刻む#れきしをきざむ#to let (feel) time pass#
+1925750#奏する#そうする#to report to the Emperor;to play (musical instrument);to accomplish#
+1925760#毘沙門天#びしゃもんてん#Vaisravana (guardian god of Buddhism)#
+1925780#小い#ちっこい#very small (slightly pejorative)#
+1925800#意見書#いけんしょ#opinion in writing;written opinion;argument#
+1925830#英語を教える#えいごをおしえる#to teach English#
+1925840#自社製品#じしゃせいひん#in-house manufactured goods#
+1925850#約半年#やくはんねん#approximately half a year#
+1925870##アイススケート;アイス・スケート#ice skating#
+1925880##アイスダンス;アイス・ダンス#ice dancing#
+1925900##アウトコーナー;アウト・コーナー#outside corner (baseball, racetrack, etc.)#
+1925910##アクアポリス#aqua polis;city on water#
+1925920#アメリカ蝲蛄#アメリカざりがに;アメリカザリガニ#red swamp crayfish (Procambarus clarkii)#
+1925930##アメリカねずこ#redwood#
+1925940##アメリケーヌソース#American sauce#
+1925950##アラビアゴム#gum arabic#
+1925960##イソプレンゴム;イソプレン・ゴム#isoprene rubber#
+1925970##イチボ#aitchbone#
+1925980##インコーナー;イン・コーナー#inside corner#
+1925990##インストルメントパネル;インストルメント・パネル#instrument panel#
+1926000##インターステートハイウエー;インター・ステート・ハイウエー#interstate highway#
+1926010##インドライオン;インド・ライオン#Asiatic lion (Panthera leo persica);Indian lion;Persian lion;Eurasian lion#
+1926020##インフォマーシャル#information commercial#
+1926030##ウエーティング#waiting game#
+1926040##ウエストバッグ;ウェストポーチ;ウエスト・バッグ;ウェスト・ポーチ#waist pouch;waist bag#
+1926050##ウレタンゴム;ウレタン・ゴム#polyurethane rubber#
+1926060##エアサイクルシステム;エア・サイクル・システム#air circulating system#
+1926070##エアマット#air mattress#
+1926080##エコマーク;エコ・マーク#ecological mark#
+1926090##エスパニョールソース;エスパニョール・ソース#espagnole sauce#
+1926100##エトピリカ#tufted puffin (Fratercula cirrhata);crested puffin#
+1926110##エンタイトルツーベース;エンタイトル・ツーベース#two-base entitlement (baseball)#
+1926120##オートバイレース;オートバイ・レース#motorcycle race#
+1926130##オガライト#wood briquet#
+1926140##オフブロードウェー;オフ・ブロードウェー#off Broadway#
+1926150##オフショルダーネックライン#off-the-shoulder neckline#
+1926160##オブリーク#oblique line#
+1926170##オランデーズソース;オランデーズ・ソース#hollandaise sauce#
+1926180##オンエアランプ;オン・エア・ランプ#on the air lamp#
+1926200##カーブミラー;カーブ・ミラー#convex traffic mirror at a road curve#
+1926210##カスタムコミュニケーション;カスタム・コミュニケーション#customized communication;customised communication#
+1926220##カリガラス#Kaliglas;potash glass#
+1926230##カラートタン;カラー・トタン#colored galvanized steel sheet (coloured)#
+1926240##ガソリンカー;ガソリン・カー#gasoline engine car;petrol engine car#
+1926250##ガラスウール;ガラス・ウール#glass wool#
+1926260##キセノンアークランプ;キセノン・アーク・ランプ#Xenon arc lamp#
+1926270##キセノンランプ;キセノン・ランプ#Xenon lamp#
+1926280##キャッチボール;キャッチ・ボール#playing catch#
+1926290##ギヤマン#diamant;diamond#
+1926300##クイーンメリー;クイーン・メリー#the Queen Mary#
+1926310##クイーンサイズ;クイーン・サイズ#queen size;large size#
+1926320##クリームパン;クリーム・パン#cream-filled roll#
+1926330##クリアビジョン;クリア・ビジョン#Extended Definition Television;EDTV#
+1926340##クロロプレンゴム;クロロプレン・ゴム#chloroprene rubber#
+1926350##ケアワーカー;ケア・ワーカー#nursing care worker;care provider;home-care worker#
+1926360##ケルメット#kelmet alloy#
+1926370##ゲネプロ#costume rehearsal#
+1926380##コーヒーブラウン#(brown) coffee#
+1926390##コリントゲーム;コリント・ゲーム#pinball machine game#
+1926400##コルレス#correspondent#
+1926410##コロップ#cork#
+1926420##コングレスブーツ;コングレス・ブーツ#congress gaiters;congress boots;elastic-sided boots#
+1926430##ゴムテープ;ゴム・テープ#elastic;elastic band;insulating tape;rubberized tape;rubberised tape#
+1926440##ゴムライニング;ゴム・ライニング#rubber lining#
+1926450##サーベルタイガー;サーベル・タイガー#sabre-toothed tiger (prehistoric feline, esp. the species Smilodon fatalis);saber-toothed tiger#
+1926460##サイクルサッカー#cycle ball;cycle soccer#
+1926470##サインブック;サイン・ブック#autograph album#
+1926480##サインペン;サイン・ペン#felt-tip pen#
+1926490##サスプロ#sustaining program;sustaining programme#
+1926500##サファリレース;サファリ・レース#safari race;safari rally#
+1926510##シールドルーム;シールド・ルーム#shield room#
+1926520##シスターボーイ;シスター・ボーイ#sissy#
+1926530##シリコーンゴム;シリコーン・ゴム#silicone rubber#
+1926540##シルバーエイジ;シルバー・エイジ#old age#
+1926550##シングルブレスト;シングル・ブレスト#single-breasted suit#
+1926560##ジェスチャーゲーム;ジェスチャー・ゲーム#charades#
+1926570##ジシアン#dicyanogen#
+1926580##ジャムパン;ジャム・パン#jam bun#
+1926590##ジュニアボード;ジュニア・ボード#junior board of directors#
+1926600##スイフト#swift ball#
+1926620##スコッチライト;スコッチ・ライト#road reflector#
+1926630##スチレンブタジエンゴム;スチレン・ブタジエン・ゴム#styrene-butadiene rubber;SBR#
+1926640##ステージダンス;ステージ・ダンス#dance for the stage#
+1926650##ステアリング#steering;steering gear#
+1926660##スピードスケート;スピード・スケート#speed skating#
+1926670##スフ#staple fiber;staple fibre#
+1926680##スポンジゴム;スポンジ・ゴム#sponge rubber#
+1926690##スポンジボール;スポンジ・ボール#soft ball;sponge ball#
+1926700##スモークサーモン;スモーク・サーモン#smoked salmon#
+1926710##スモークチーズ;スモーク・チーズ#smoked cheese#
+1926720##スリーバント#bunting on two strikes#
+1926730##スリーマー#slimmer#
+1926740##スロービデオ;スロー・ビデオ#slow-motion video#
+1926750##スワガーコート#swagger coat#
+1926760##ズロース;ドロワーズ;ドロワース;ドロワ#drawers;knickers;bloomers#
+1926770##セコハン#secondhand#
+1926780##セットローション;セット・ローション#setting lotion#
+1926790##セミタイト#semi-tight (skirt)#
+1926800##セミダブルベッド;セミダブル・ベッド#three-quarter bed#
+1926810##セミプロ#semiprofessional#
+1926820##セミロング#shoulder length hair#
+1926830##ゼブラゾーン;ゼブラ・ゾーン#zebra crossing;zebra zone#
+1926840##ソーシャルダンス;ソーシャル・ダンス#social dancing#
+1926850##ソーダガラス;ソーダ・ガラス#soda-lime glass#
+1926860##タイカラー#four-in-hand (type of necktie)#
+1926870##タイトルバック;タイトル・バック#film credits#
+1926880##タイムアップ;タイム・アップ#time is up#
+1926890##タオルケット;タウルケット#type of bed linen resembling a large beach towel and used to cover oneself in hot weather#
+1926900##タッチアウト;タッチ・アウト#tag out (baseball)#
+1926910##タッチアップ;タッチ・アップ#tag up (baseball)#
+1926920##タンシチュー#stewed tongue#
+1926930##タンデムスプリント;タンデム・スプリント#tandem bicycle sprint#
+1926940##ダービータイ#necktie;tie#
+1926950##ダイヤモンドゲーム;ダイヤモンド・ゲーム#chinese checkers#
+1926960##ダスターコート#duster;dust-coat#
+1926970##ダブルカフス;ダブル・カフス#French cuffs#
+1926980##ダブルブレスト#double-breasted#
+1926990##ダランベールのパラドックス#d'Alembert's paradox#
+1927000##チェリーピンク#(cerise) cherry#
+1927010##チキンカツ;チキン・カツ#chicken cutlet#
+1927020##チキンライス;チキン・ライス#simple chicken and rice stir fry dish (usu. flavoured with ketchup or tomato pure)#
+1927030##チクロ#sodium cyclohexylsulfamate#
+1927040##チッキ#baggage check;check one's baggage;book one's luggage#
+1927050##チック#cosmetic;stick pomade;chick;tic;-tic#
+1927060##チャイニーズカラー;チャイニーズ・カラー#Mandarin collar;Chinese collar#
+1927070##チャコ#chalk#
+1927080##チャンピオンフラッグ;チャンピオン・フラッグ#pennant;champion flag#
+1927090##チャンピオンベルト;チャンピオン・ベルト#championship belt#
+1927100##ティーグラウンド;ティグラウンド#teeing ground (golf)#
+1927110##テック#technical center;technical centre;TeX#
+1927120##テレビカメラ;テレビ・カメラ#television camera#
+1927130##テレビファクシミリ;テレビ・ファクシミリ#facsimile through television#
+1927140##トマスカップ;トマス・カップ#Thomas Cup (International Badminton Championship)#
+1927150##ドーピングテスト;ドーピング・テスト#drug test;dope test#
+1927160##ドアスコープ;ドア・スコープ#peep hole#
+1927170##ドアホン#intercommunication system#
+1927180##ドッグレース;ドッグ・レース#dog racing#
+1927190##ドライブクラブ;ドライブ・クラブ#car rental agency;driving club#
+1927200##ドンゴロス#dungarees#
+1927210##ヌードショー;ヌード・ショー#striptease#
+1927220##ノーコン#poor control (pitcher);no control#
+1927230##ノースリーブ;ノー・スリーブ#sleeveless#
+1927240##ノーダウン;ノーダン;ノー・ダウン;ノー・ダン#no outs (baseball)#
+1927250##ハーフコート;ハーフ・コート#three-quarter;half coat;top coat#
+1927260##バギーカー;バギー・カー#all-terrain vehicle;sand buggy;buggy car#
+1927270##バッティングピッチャー#batting practice pitcher#
+1927280##バテンレース#Battenberg lace#
+1927290##バトルロイヤル;バトルロワイヤル;バトル・ロイヤル;バトル・ロワイヤル#battle royal#
+1927300##バルカンファイバー;バルカン・ファイバー#vulcanized fiber;vulcanised fiber;vulcanized fibre;vulcanised fibre#
+1927310##バルクワイン;バルク・ワイン#barreled wine#
+1927320##パスボール;パス・ボール#passed ball (baseball);catcher's error#
+1927330##パリコミューン;パリ・コミューン#the Paris Commune#
+1927340##パワーウエイトレシオ;パワー・ウエイト・レシオ#power weight ratio#
+1927350##パンクロ#panchromatic#
+1927360##ビーチバレー;ビーチ・バレー#beach volleyball#
+1927370##ビッグニュース;ビッグ・ニュース#important news#
+1927380##ピンぼけ#out of focus;off the point#
+1927390##ファゴッティングステッチ#fagot-stitch;fagotting stitch#
+1927400##ブラッシュボール;ブラッシュ・ボール#brushback (pitch)#
+1927410##プルトップ;プル・トップ#pull-top;pop-top;pop top;pull tab#
+1927420##プロショップ;プロ・ショップ#speciality shop;specialty shop;pro shop#
+1927430##プロスポーツ;プロ・スポーツ#professional sports#
+1927440##ベッドシーン;ベッド・シーン#bedroom scene#
+1927450##ベリカード#verification card#
+1927460##ホームパーティー;ホーム・パーティー#house party;stayover#
+1927470##ホスジャンプ#hop step and jump;triple jump#
+1927480##ホットカーペット;ホット・カーペット#electric carpet#
+1927490##ホッピング#pogo stick#
+1927500##ホンコンシャツ;ホンコン・シャツ#short-sleeved dress shirt#
+1927510##ポシャる#to break down;to fail;to fizzle;to flop;to peter out;to fall flat#
+1927520##ポッケ#pocket#
+1927530##ポリバケツ;ポリ・バケツ#polyethylene bucket#
+1927540##ポリバス#polyethylene bathtub#
+1927550##マイクロケ#microphone location#
+1927560##マグネチックスピーカー;マグネチック・スピーカー#electromagnetic loudspeaker#
+1927570##マルチョイ#multiple choice (method)#
+1927580##ミルクプラント;ミルク・プラント#dairy;milk plant#
+1927590##ミルクホール;ミルク・ホール#milk bar;small shop selling milk, sweets, snacks, limited foodstuffs, etc.#
+1927600##ムーンフェース;ムーンフェイス;ムーン・フェース;ムーン・フェイス#swollen face;puffy face;moon display on a watch indicating am or pm (usually analogue)#
+1927610##モザイクパーケットフロア#mosaic parquetry#
+1927620##モスグレー;モス・グレー#greenish gray;greenish grey#
+1927630##ライスカレー;ライス・カレー#curry and rice#
+1927640##ラインダンス;ライン・ダンス#revue dance performed in a line;line dance#
+1927650##ラッキーセブン;ラッキー・セブン#lucky seventh#
+1927660##ラップスカート#wraparound skirt#
+1927670##ラブチェア;ラブ・チェア#love seat;love chair#
+1927680##ラムネ#lemon soda;lemon pop;soda pop#
+1927690##ランニングシャツ;ランニング・シャツ#athletic-style shirt;running vest#
+1927700##リゾートハウス;リゾート・ハウス#villa#
+1927710##リビングセット;リビング・セット#living room set#
+1927720##リヤカー;リヤ・カー#trailer towed by bicycle, etc.#
+1927730##リリーフカー;リリーフ・カー#bullpen cart;bullpen car#
+1927740##リングノート;リング・ノート#ring binder#
+1927750##ルビーガラス;ルビー・ガラス#ruby glass#
+1927760##レースペーパー;レース・ペーパー#lace paper doily#
+1927770##レシプロ#reciprocating engine#
+1927780##レジャーランド;レジャー・ランド#recreational area;leisure land#
+1927790##レステル#facility that serves meals and provides rooms for short-stay or overnight guests#
+1927800##レタックス#Letax;letter facsimile#
+1927810##ロールケーキ;ロール・ケーキ#Swiss roll;jelly roll;roll cake#
+1927820##ロールサンド;ロール・サンド#roll sandwich;sandwich roll#
+1927830##ロールパン;ロール・パン#bread roll#
+1927840##ロスタイム;ロス・タイム#loss of time;lost time#
+1927850##ロマンチスト;ロマンティスト#romanticist#
+1927860##ロングリリーフ;ロング・リリーフ#long relief pitcher#
+1927870##ワイドニュース;ワイド・ニュース#news program;news programme#
+1927880##ワイドレンズ;ワイド・レンズ#wide-angle lens#
+1927890##ワンダン#down one out;one down#
+1927900##ワンツー;ワン・ツー#one-two punch#
+1927910#中間テスト#ちゅうかんテスト#midterm (mid-semester) test or exam#
+1927920##がじゃまめ#peanut brittle#
+1927940##アテレコ#dubbing;voice over#
+1927960##シスアド#(computer) systems administrator#
+1927970#間に#あいだに#while;during (the time when)#
+1927980#特別措置#とくべつそち#special measure;special measures#
+1927990#特措#とくそ#special measure;special measures#
+1928000#社会経済#しゃかいけいざい#socio-economics;social economy#
+1928010#地方行財政#ちほうぎょうざいせい#local economy;local financial affairs#
+1928020#沈砂#ちんさ#grit#
+1928030#米市場#べいいちば#the rice market#
+1928040#和英辞書#わえいじしょ#Japanese-English dictionary#
+1928050#朔風#さくふう#north wind#
+1928060#平和協力#へいわきょうりょく#peace collaboration#
+1928070#政労#せいろう#government-labour (e.g. liaison meeting);government-labor#
+1928080#少子#しょうし#low birth rate#
+1928090#竃;竈#かまど;へっつい#kitchen range;cooking stove;hearth;(kitchen) furnace#
+1928100#看護師#かんごし#(hospital) nurse;registered nurse;RN#
+1928110#都市再生#としさいせい#urban regeneration#
+1928130#検非違使#けびいし;けんびいし;けいびいし#police and judicial chief (Heian and Kamakura periods)#
+1928150#舟盛り#ふなもり#boat-wrap sushi#
+1928160#太巻き;太巻#ふとまき#rolling something thickly;something rolled thickly (i.e. a cigar, a thick roll of makizushi, etc.)#
+1928170#軍艦巻#ぐんかんまき#battleship roll sushi#
+1928180#鰺のたたき#あじのたたき#fresh scad#
+1928190#あん肝;鮟肝#あんきも#monkfish liver;goosefish liver#
+1928200#小豆鱒#あずきます#rock cod;black-saddled grouper#
+1928210#ばい貝#ばいがい#whelk;small water snails#
+1928220#牡丹海老;牡丹蝦#ぼたんえび#botan shrimp (Pandalus nipponensis)#
+1928230#四七抜き#よなぬき#pentatonic scale (music)#
+1928240##フリーウエイト;フリー・ウエイト#free weights (i.e. weights lined up on the side wall of a gym)#
+1928250##アベックホームラン#back-to-back homeruns (baseball)#
+1928260##イージーフライ;イージー・フライ#routine fly ball (baseball)#
+1928270#荒れ球#あれだま#wild ball (usually a pitcher with poor control) (baseball)#
+1928280##インスラ#inside slider (baseball)#
+1928290##エンドラン;エンド・ラン#hit-and-run play;end run (American football)#
+1928300#壁役#かべやく#catchers who warm up pitchers in the bullpen (baseball);tank (character that soaks up damage for the rest of the party in an MMORPG)#
+1928310##クリーンアップ;クリーン・アップ#clean up (esp. baseball)#
+1928320#ゲーム差#ゲームさ#distance in the standings between two teams expressed as the difference in number of games won or lost (baseball)#
+1928340#好ゲーム#こうゲーム#excellent effort in a losing cause (baseball)#
+1928350#好プレー#こうプレー#good play or effort (baseball)#
+1928370#首位攻防戦#しゅいこうぼうせん#game or series of games between the first and second place teams (baseball)#
+1928380#出塁率#しゅつるいりつ#on-base percentage (baseball)#
+1928390#守備固め#しゅびがため#making replacements for defensive purposes in the late inning of a game (baseball)#
+1928400##ショートライナー;ショート・ライナー#line drive to the shortstop#
+1928410##シングルハンデッドキャッチ#one-handed catch (baseball)#
+1928430##セットポジション;セット・ポジション#set position (baseball)#
+1928440##タイムリエラー;タイムリーエラー;タイムリ・エラー;タイムリー・エラー#error which directly allows a run to score#
+1928460##チェンジアップ#changeup;pitch that comes toward the batter at a speed slower than expected#
+1928470#長打コース#ちょうだコース#ball hit toward the gap between outfielders (baseball)#
+1928480#珍プレー#ちんプレー#unusual play (baseball)#
+1928490##ツーベース;ツー・ベース#double (baseball)#
+1928500#得点圏#とくてんけん#scoring position, with runners on second and-or third base (baseball)#
+1928510#内安打#ないあんだ#infield hit (baseball)#
+1928520##ピッチャーマウンド;ピッチャー・マウンド#pitcher's mound (baseball)#
+1928530##ファストカンバス;ファスト・カンバス#first base (baseball)#
+1928540##ボールカウント;ボール・カウント#count of balls and strikes (baseball)#
+1928550#満塁ホームラン#まんるいホームラン#grand slam (baseball)#
+1928560#両バッテリー#りょうバッテリー#pitcher and catcher (baseball)#
+1928570#連係プレー#れんけいプレー#good teamwork play (baseball)#
+1928580##シャコタン#vehicle with body lowered#
+1928590#進ぜる#しんぜる#to offer;to present#
+1928600#進ずる#しんずる#to offer;to present#
+1928610##カットソー#clothes made from jersey cloth#
+1928620#空穴#からけつ#flat or stone broke#
+1928630#左のような理由#ひだりのようなりゆう#the reason(s) is (are) as follows#
+1928640#左のような訳#ひだりのようなわけ#the reason(s) is (are) as follows#
+1928650#使いっ走り;使いっぱしり#つかいっぱしり#gofer;dogsbody;person who is made to do things or get things for someone else#
+1928660##ぱしり#person who is made to do things or go get things for someone else;gofer#
+1928670##だろう;だろ#seems;I think;I guess;I wonder;I hope;don't you agree?;I thought you'd say that!#
+1928680#食感#しょっかん#food texture#
+1928690##からっきし;からきし;からきり#quite;utterly;(not) at all;completely;wholly;entirely;totally;altogether#
+1928720#関説#かんせつ;かんぜい#allusion;alluding;related explanation#
+1928740#組織改革#そしきかいかく#organizational change;organisational change;organizational reform#
+1928770#組織の硬直化#そしきのこうちょくか#organizational inertia;organisational inertia#
+1928790#蕗の薹#ふきのとう#edible flower bud of the fuki (Petasites japonicus) plant, an early spring delicacy#
+1928800#強がる#つよがる#to cry sour grapes;to bluff;to whistle in the dark;to pretend to be tough#
+1928810#得意がる#とくいがる#to be inflated with pride#
+1928820#後釜に座る#あとがまにすわる#to take someone's place;to step into someone's shoes;to succeed someone in his post#
+1928830#茶を濁す#ちゃをにごす#to evade (questions);to reply evasively;to beat around the bush;to throw up a smoke screen.#
+1928840##どさくさ#confusion;turmoil#
+1928850#ぼろを出す;襤褸を出す#ぼろをだす#to reveal the faults#
+1928870#馬脚を表わす;馬脚を露わす;馬脚を露す#ばきゃくをあらわす#to reveal the true nature#
+1928890#亜鉛華軟膏#あえんかなんこう#zinc oxide ointment#
+1928900#亜鉛中毒#あえんちゅうどく#zinc poisoning#
+1928910#亜鉛鉄板#あえんてっぱん#galvanized sheet iron;galvanised sheet iron#
+1928920#亜鉛鉄#あえんてつ#galvanized iron;galvanised iron#
+1928930#亜音速#あおんそく#subsonic speed#
+1928940#亜寒帯気候#あかんたいきこう#subarctic climate#
+1928950#亜急性#あきゅうせい#subacute;subacute illness#
+1928960#亜酸化窒素#あさんかちっそ#nitrous oxide (N2O)#
+1928970#亜大陸#あたいりく#subcontinent#
+1928980#亜脱臼#あだっきゅう#subluxation#
+1928990#亜熱帯気候#あねったいきこう#subtropical climate#
+1929000#亜熱帯高気圧#あねったいこうきあつ#subtropical anticyclone#
+1929010#亜熱帯植物#あねったいしょくぶつ#subtropical plants#
+1929020#亜熱帯林#あねったいりん#subtropical forest#
+1929030#亜麻色の髪#あまいろのかみ#flaxen hair#
+1929040#亜硫酸ガス#ありゅうさんガス#sulphurous acid gas;sulfurous acid gas;sulphur dioxide gas;sulfur dioxide gas#
+1929050#阿弗利加;亜弗利加#アフリカ#Africa#
+1929070#婀娜っぽい;阿娜っぽい#あだっぽい#coquettish#
+1929080#阿娜めく;婀娜めく;徒めく#あだめく#to be bewitching;to look coquettish;to behave in an alluring manner;to behave in a seductive manner#
+1929090#阿媽港#あまこう#Macau (Macao)#
+1929100#愛の神#あいのかみ#Amor;Eros;Venus;god of love#
+1929110#愛の巣#あいのす#love nest#
+1929120#愛校心#あいこうしん#love for one's school or alma mater#
+1929130#愛国の志士#あいこくのしし#patriot#
+1929140#愛国運動#あいこくうんどう#patriotic movement#
+1929150#愛国団体#あいこくだんたい#patriotic group or organization (organisation)#
+1929160#愛他主義者#あいたしゅぎしゃ#altruist#
+1929170#愛党心#あいとうしん#party loyalty#
+1929180#愛用者#あいようしゃ#regular user;person who favors (favours) (something)#
+1929190#悪し様#あしざま#unfavourable;unfavorable#
+1929200#悪貨は良貨を駆逐する#あっかはりょうかをくちくする;あくかはりょうかをくちくする#when there is a legal tender currency, bad money drives out good money (Gresham's Law)#
+1929210#悪玉化#あくだまか#scapegoating#
+1929220#悪性水腫#あくせいすいしゅ#malignant edema;malignant oedema#
+1929230#悪性貧血#あくせいひんけつ#pernicious anemia;pernicious anaemia#
+1929240#悪宣伝#あくせんでん#false propaganda#
+1929250#悪徳政治家#あくとくせいじか#corrupt politician#
+1929260#悪訳#あくやく#bad translation#
+1929270#圧搾ポンプ#あっさくポンプ#compression pump#
+1929280#圧縮効率#あっしゅくこうりつ#compression efficiency#
+1929290#圧縮酸素#あっしゅくさんそ#compressed oxygen#
+1929300#圧迫包帯#あっぱくほうたい#pressure bandage#
+1929310#圧力釜#あつりょくがま#pressure vessel#
+1929320#圧力容器#あつりょくようき#pressure vessel#
+1929350#暗ます;晦ます#くらます#to abscond;to conceal oneself;to deceive;to dissemble;to fool#
+1929370#暗号帳#あんごうちょう#codebook#
+1929380#暗視装置#あんしそうち#night vision device#
+1929390#暗視#あんし#night vision#
+1929400#暗点#あんてん#scotoma;scotomatous#
+1929410#暗幕#あんまく#blackout curtain#
+1929420#暗鬱#あんうつ#gloom;melancholy#
+1929430#闇市場#やみしじょう#black market#
+1929440#闇夜に鉄砲#やみよにてっぽう#aimless attempt;shot in the dark#
+1929450#位相差#いそうさ#phase contrast#
+1929480##オーディーン#Odin#
+1929490##エクスカリバー#Excalibur#
+1929500##ヴァルキリー#valkyrie#
+1929520##ユミル#Ymir#
+1929530##モレキュラー#molecular#
+1929540##ロアー#lore#
+1929550##エルヴン#elven#
+1929560##プライマル#primal#
+1929570##ドワーフ#dwarf#
+1929580##ホーネット#hornet#
+1929590##オーブ#orb#
+1929610##ワイヴァーン;ワイバーン;ワイヴァン#wyvern (two-legged dragon);wivern#
+1929620##ターコイズ#turquoise#
+1929630##バシリスク#basilisk#
+1929640##アデプト#adept#
+1929650##クレリック#cleric#
+1929660##スクイッド#squid#
+1929670##バグベア#bugbear#
+1929680##ビー#bee#
+1929690##スラッグ#slug#
+1929700##トード#toad#
+1929710##コープス#corpse#
+1929720##バンシー#banshee#
+1929730##イーブル;イービル#evil#
+1929740##ポルターガイスト#poltergeist#
+1929750#驢馬の橋;ロバの橋#ろばのはし;ロバのはし#pons asinorum (hurdle to learning)#
+1929770#藍染め;藍染#あいぞめ#indigo dye#
+1929790#上布#じょうふ#high-quality plain-woven hemp cloth#
+1929800#修了証#しゅうりょうしょう#evidence of course completion (e.g. diploma)#
+1929810#絣;飛白#かすり#splash pattern (e.g. on a kimono);dye pattern;kasuri#
+1929820#織り;織#おり#weave;weaving;woven item#
+1929850#副鼻腔#ふくびこう;ふくびくう#paranasal sinus;paranasal cavity;sinus paranasales#
+1929860#副鼻腔炎#ふくびこうえん;ふくびくうえん#sinusitis#
+1929870#館#かん#house;hall;building#
+1929880##ソリューション#solution (esp. to a problem)#
+1929890#変換済み#へんかんずみ#(something) converted#
+1929900##トラクタトラック;トラクタ・トラック#tractor-trailer;semi-trailer;18-wheeler;articulated lorry#
+1929910##ダンプトラック;ダンプ・トラック#dump truck#
+1929930#心が込められた#こころがこめられた#wholehearted#
+1929940#日本国民#にほんこくみん#Japanese citizen;Japanese citizens#
+1929950#詩#し#poem;verse of poetry#
+1929960#気が弱い#きがよわい#timid;faint of heart#
+1929970#山側#やまがわ#mountain-side#
+1929980#山川#やまがわ#mountain rivers#
+1929990##ハートフル#heart-warming;feel-good;emotionally uplifting;warm-hearted;barrier-free;disabled or senior-friendly#

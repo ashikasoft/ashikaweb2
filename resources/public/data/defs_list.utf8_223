@@ -1,0 +1,983 @@
+2230000#胡琴#こきん#huqin (any Chinese string instrument played with a bow);biwa (4 or 5-stringed Oriental lute)#
+2230010#二胡#にこ#erhu (2-stringed Chinese instrument played with a bow);erh hu#
+2230020#京胡#きょうこ#jinghu (2-stringed Chinese instrument played with a bow)#
+2230030#椰胡#やこ#yehu (bowed Chinese instrument with a coconut-shell body)#
+2230040#月琴#げっきん#yueqin (4-stringed Chinese lute)#
+2230050#阮咸#げんかん#ruanxian (4 or 5-stringed Chinese lute);ruan#
+2230060#奚琴#けいきん#xiqin (2-stringed Chinese musical instrument)#
+2230070#四胡#しこ#sihu (4-stringed Chinese musical instrument played with a bow)#
+2230080#携琴#けいきん#sihu (4-stringed Chinese musical instrument played with a bow)#
+2230090##ミズマール#zurna (Anatolian woodwind instrument);surnay#
+2230100##ズルナ#zurna (Anatolian woodwind instrument);surnay#
+2230110##スルナーイ#surnay (Anatolian woodwind instrument);zurna#
+2230120##ショーム#shawm#
+2230130#哨吶草;チャルメル草#チャルメルそう#Mitella stylosa (species of miterwort)#
+2230140#哨吶;嗩吶#さない#suona (Chinese shawm)#
+2230150#雲鑼#うんら#yunluo (10 small gongs mounted in a wooden frame)#
+2230160#簧#した#reed (of a woodwind, etc.)#
+2230170#洞簫#どうしょう#dongxiao (Chinese bamboo flute similar to a shakuhachi)#
+2230180#排簫#はいしょう#paixiao (ancient Chinese bamboo panpipes)#
+2230190#簫#しょう#xiao (vertical Chinese bamboo flute)#
+2230200#簫の笛#しょうのふえ#xiao (vertical Chinese bamboo flute)#
+2230210#普化宗#ふけしゅう#Fuke school (defunct sect of Zen Buddhism)#
+2230220##リードオルガン;リード・オルガン#reed organ#
+2230230##ハルモニウム;ハーモニウム#harmonium#
+2230240#鳳笙#ほうしょう#sho (Japanese free reed musical instrument)#
+2230250#鳳管#ほうかん#sho (Japanese free reed musical instrument)#
+2230260#笙の笛#しょうのふえ;そうのふえ#sho (Japanese free reed musical instrument)#
+2230270#清楽#しんがく#Qing-era Chinese music (popularized in Japan during the early 19th century)#
+2230280#清#しん#Qing (dynasty of China, 1616-1912);Ch'ing#
+2230290#明楽#みんがく#Ming-era Chinese music (popularized in Japan during the early 17th century)#
+2230300#明清楽#みんしんがく#Ming & Xing-era Chinese music (as popularized in Japan before the First Sino-Japanese war)#
+2230310#羯#けつ#Jie (ancient Chinese ethnic group)#
+2230320#鮮卑#せんぴ#Xianbei (ancient nomadic tribe of northern Asia)#
+2230330#氐#てい#Di (ancient Chinese ethnic group);Chinese "root" constellation (one of the 28 mansions)#
+2230340#羌#きょう#Qiang (Chinese ethnic group)#
+2230350#五胡#ごこ#Wu Hu (five tribes that migrated into China between the 3rd & 5th centuries: Xiongnu, Jie, Xianbei, Di, Qiang)#
+2230360#フン族#フンぞく#the Huns#
+2230370#匈#フン#Hun#
+2230380#五胡十六国#ごこじゅうろっこく#Sixteen Kingdoms (collection of sovereign states in and around China from 304 to 439 CE);Sixteen Kingdoms period#
+2230390#胡#こ#barbarian tribes surrounding ancient China#
+2230400#行けども行けども#いけどもいけども#as (one) walks on, and on#
+2230410#脇付#わきづけ#any of a number of respectful terms written after the addressee's name in a formal letter#
+2230430#頭が柔らかい#あたまがやわらかい#flexible (person);open-minded#
+2230440##もうすっかり#already completed (arrived, happened, etc.)#
+2230450#初動捜査#しょどうそうさ#initial investigation (by police)#
+2230470#御前#おんまえ#word used after an addressee's name in a formal letter#
+2230480#御前方#おまえがた#you (plural)#
+2230490#御先;御前#みさき;おんさき#leader of a nobleman's cavalcade;animal messenger of the gods (i.e. a fox)#
+2230500#前駆体#ぜんくたい#(biochemical) precursor#
+2230510#赤緯#せきい#declination#
+2230520#歳差#さいさ#(phenomenon of) precession of the equinoxes#
+2230530#歳差運動#さいさうんどう#(motion of) precession of the equinoxes;precession#
+2230540#トレミー星座#トレミーせいざ#Ptolemaic constellations#
+2230550#天文学的数字#てんもんがくてきすうじ#astronomical figure;astronomical number#
+2230560#白羊宮#はくようきゅう#Aries (1st zodiacal sign);the Ram#
+2230570#双児宮#そうじきゅう#Gemini (3rd zodiacal sign);the Twins#
+2230580#巨蟹宮#きょかいきゅう#Cancer (4th zodiacal sign);the Crab#
+2230590#処女宮#しょじょきゅう#Virgo (6th zodiacal sign);the Virgin#
+2230600#天秤宮#てんびんきゅう#Libra (7th zodiacal sign);the Scales#
+2230610#天蠍宮#てんかつきゅう#Scorpio (8th zodiacal sign);the Scorpion#
+2230620#人馬宮#じんばきゅう#Sagittarius (9th zodiacal sign);the Archer#
+2230630#騎射宮#きしゃきゅう#Sagittarius (9th zodiacal sign);the Archer#
+2230640#磨羯宮#まかつきゅう#Capricorn (10th zodiacal sign);the Goat#
+2230650#宝瓶宮#ほうへいきゅう#Aquarius (11th zodiacal sign);the Water Bearer;the Water Carrier#
+2230660#双魚宮#そうぎょきゅう#Pisces (12th zodiacal sign);the Fish;the Fishes#
+2230670#縛める#いましめる#to bind (with rope, etc.)#
+2230690#黒雀蜂#くろすずめばち;クロスズメバチ#Vespula flaviceps (species of yellowjacket)#
+2230700#穴蜂#あなばち;アナバチ#digger wasp#
+2230710#土蜂#ゆするばち#digger wasp#
+2230720#土蜂#つちばち;ツチバチ#scoliid wasp (any wasp of family Scoliidae)#
+2230730#腰細蜂#こしぼそばち#red-banded sand wasp (Ammophila sabulosa)#
+2230740#嬢さん#じょうさん#daughter (may be used a honorific after name);young lady (esp. of respectable upbringing) (may be used a honorific after name)#
+2230750#ハチ目;蜂目#ハチもく;はちもく#Hymenoptera#
+2230760#鱗翅類#りんしるい#lepidopterans#
+2230770##ビビビッ#the 'be-be-be' sound of a detector going off;clicking with someone;being compatible#
+2230780#雀蛾;天蛾#すずめが;スズメガ#hawk moth (any moth of family Sphingidae);hawkmoth;sphinx moth#
+2230790#白蝶#しろちょう;シロチョウ#any butterfly of family Pieridae (inc. the white butterflies and the sulfur butterflies)#
+2230800#条黒白蝶#すじぐろしろちょう;スジグロシロチョウ#Pieris melete (species of cabbage white butterfly)#
+2230810#螟蛉#めいれい#hornworm;adopted child#
+2230820#膜翅類#まくしるい#hymenopterans#
+2230830#チョウ目;蝶目#チョウもく;ちょうもく;チョウモク#Lepidoptera#
+2230840#ハエ目;蠅目#ハエもく;はえもく#Diptera#
+2230850#衣虱#ころもじらみ;コロモジラミ#body louse (Pediculus humanus humanus);body lice#
+2230860#着物虱#きものじらみ#body louse (Pediculus humanus humanus);body lice#
+2230870#完全変態#かんぜんへんたい#complete metamorphosis;holometabolism#
+2230880#不完全変態#ふかんぜんへんたい#incomplete metamorphosis;hemimetabolism#
+2230890#蜾蠃#すがる;スガル#red-banded sand wasp (Ammophila sabulosa);deer#
+2230900#蜂の子;はちの子#はちのこ#hornet larva (esp. of yellowjacket species Vespula flaviceps);bee larva#
+2230910#松藻虫#まつもむし;マツモムシ#Notonecta triguttata (species of backswimmer)#
+2230920#洗濯槽#せんたくそう#washing machine tub#
+2230930#肉蠅#にくばえ;ニクバエ#flesh fly (any fly of family Sarcophagidae)#
+2230940#銀蠅#ぎんばえ#large silvery fly#
+2230950#糞蠅#くそばえ;クソバエ#greenbottle#
+2230960#吉#きち;きつ#good fortune (esp. omikuji fortune-telling result);good luck;auspiciousness#
+2230970#黒蠅#くろばえ;クロバエ#blowfly (excluding bluebottles and greenbottles)#
+2230980#茶立虫;茶柱虫#ちゃたてむし;チャタテムシ#psocid (any insect of order Psocoptera, which includes booklice)#
+2230990#牛蠅#うしばえ;ウシバエ#ox warble fly (Hypoderma bovis)#
+2231000#爺さん;祖父さん#じいさん#grandfather (may be used after name as honorific);male senior-citizen (may be used after name as honorific)#
+2231010#黒丸花蜂#くろまるはなばち;クロマルハナバチ#Bombus ignitus (species of bumblebee)#
+2231020#黒大蟻#くろおおあり;クロオオアリ#Japanese carpenter ant (Camponotus japonicus)#
+2231030#熊蟻#くまあり;クマアリ#Japanese carpenter ant (Camponotus japonicus)#
+2231040#孫さん#まごさん#grandchild#
+2231050#誕生日おめでとうございます#たんじょうびおめでとうございます#Happy Birthday#
+2231060##ダンベル#dumbbell#
+2231070##ぷっと#puffing motion (when blowing, spitting, etc.);pouting (with displeasure)#
+2231080#止し#さし#(after the -masu stem of a verb) stopped in the midst of;half- (i.e. half-read)#
+2231090#止し#よし#quitting;ceasing;giving up#
+2231100#止す#さす#to stop in the midst of;to leave undone#
+2231110#エッセネ派#エッセネは#the Essenes#
+2231120#サドカイ派#サドカイは#the Sadducees#
+2231130#ファリサイ派;パリサイ派#ファリサイは;パリサイは#Pharisees#
+2231140#凸#でこ#brow;forehead#
+2231150#母様;母さま#かあさま#mother#
+2231160#お互いに;御互いに#おたがいに#mutually;with each other;reciprocally;together;both#
+2231170##テーパールドスラックス#tapered slacks#
+2231180##アイビーシャツ;アイビー・シャツ#ivy shirt#
+2231190#多忙中#たぼうちゅう#being very busy;being busy at work#
+2231200#埋葬虫#しでむし;シデムシ#carrion beetle (any beetle of family Silphidae, inc. burying beetles)#
+2231210#粉吹金亀子#こふきこがね;コフキコガネ#Japanese cockchafer (Melolontha japonica)#
+2231220#蜻蜒;蜻蜓#やんま;ヤンマ#darner (any dragonfly of family Aeshnidae);devil's darning needle;dragonfly (esp. a large one)#
+2231230#馬大頭;鬼蜻蜓#おにやんま;オニヤンマ#Siebold's dragonfly (Anotogaster sieboldii);jumbo dragonfly#
+2231240#銀蜻蜓#ぎんやんま;ギンヤンマ#lesser emperor (species of dragonfly, Anax parthenope)#
+2231250#団扇蜻蜓#うちわやんま;ウチワヤンマ#Sinictinogomphus clavatus (species of clubtail dragonfly)#
+2231260#蛇蜻蛉#へびとんぼ;ヘビトンボ#dobsonfly (esp. species Protohermes grandis)#
+2231270#孫太郎虫#まごたろうむし#hellgrammite (larva of dobsonfly species Protohermes grandis)#
+2231280#川螻蛄#かわげら;カワゲラ#stonefly (any insect of order Plecoptera, esp. those of family Perlidae)#
+2231290#ざざ虫#ざざむし#dobsonfly or stonefly larva#
+2231300#川虫#かわむし#aquatic insect larva (esp. of caddisflies, mayflies, etc.)#
+2231310#皮虫#かわむし#hairy caterpillar#
+2231320#赤蟻#あかあり#red ant#
+2231330#山蟻#やまあり;ヤマアリ#wood ant (any ant of genus Formica)#
+2231340#黄蟻#きあり#yellow ant#
+2231350#姫蟻#ひめあり;ヒメアリ#Monomorium intrudens (species of ant)#
+2231360#黒山蟻#くろやまあり;クロヤマアリ#Japanese wood ant (Formica japonica)#
+2231370#侍蟻#さむらいあり;サムライアリ#Polyergus samurai (species of amazon ant)#
+2231380#赤山蟻#あかやまあり;アカヤマアリ#Formica sanguinea (species of red wood ant)#
+2231390#猫蚤#ねこのみ;ネコノミ#cat flea (Ctenocephalides felis)#
+2231400#泡吹虫#あわふきむし;アワフキムシ#froghopper (any insect of family Cercopidea);spittlebug#
+2231410#たま蜂;癭蜂#たまばち;タマバチ#gall wasp (any insect of family Cynipidae)#
+2231420#五倍子蜂;没食子蜂#ふしばち#gall wasp (any insect of family Cynipidae)#
+2231430#筍虫#たけのこむし#horse botfly larva#
+2231440#馬虻#うまあぶ#horse botfly#
+2231450#馬追虫#うまおいむし#Hexacentrus japonicus (species of katydid);Hexacentrus unicolor (species of katydid)#
+2231460#葉切蟻#はきりあり;ハキリアリ#leafcutter ant#
+2231470#虫引虻;虫曳虻;食虫虻#むしひきあぶ;ムシヒキアブ#robber fly (any fly of family Asilidae)#
+2231480#挙尾虫#しりあげむし;シリアゲムシ#scorpionfly (esp. the Japanese scorpionfly, Panorpa japonica);scorpion fly#
+2231490#家白蟻#いえしろあり;イエシロアリ#Formosan subterranean termite (Coptotermes formosanus)#
+2231500#兵蟻#へいぎ;へいあり#soldier ant#
+2231510#兵隊アリ;兵隊蟻#へいたいアリ;へいたいあり#soldier ant#
+2231520#飛七節#とびななふし;トビナナフシ#Micadina phluctaenoides (species of stick insect)#
+2231530#七節;竹節虫#ななふし;ナナフシ#walking stick (any insect of order Phasmatodea);walkingstick;stick insect;leaf insect#
+2231540#徳利蜂#とっくりばち;トックリバチ#potter wasp (esp. species Eumenes mikado)#
+2231550#弾き#ひき#player (of music, instrument, etc.)#
+2231570##エアレーション;エアレション#aeration#
+2231580##シンチレーション#scintillation#
+2231590##セレーション#serration#
+2231600##レベレーション#revelation#
+2231610##コンステレーション#constellation#
+2231620#幣#へい;ぬさ#staff with plaited paper streamers#
+2231630#ローレンツ短縮#ローレンツたんしゅく#Lorentz contraction#
+2231640#ローレンツ収縮#ローレンツしゅうしゅく#Lorentz contraction#
+2231650#ローレンツ力#ローレンツりょく#Lorentz force#
+2231660#世界線#せかいせん#world line#
+2231670#座標幾何学#ざひょうきかがく#coordinate geometry#
+2231680#円柱座標#えんちゅうざひょう#cylindrical coordinates#
+2231690#赤道座標#せきどうざひょう#equatorial coordinates#
+2231700#直角座標#ちょっかくざひょう#rectangular coordinates#
+2231710#天球座標#てんきゅうざひょう#celestial coordinates#
+2231720#天体座標#てんたいざひょう#celestial coordinates#
+2231730#銀河座標#ぎんがざひょう#galactic coordinates#
+2231740#地平座標#ちへいざひょう#horizontal coordinates#
+2231750#銀河群#ぎんがぐん#group of galaxies#
+2231760#銀河団#ぎんがだん#cluster of galaxies#
+2231770#銀河赤道#ぎんがせきどう#galactic equator#
+2231780##ゴンドワナ#Gondwana#
+2231790#ゴンドワナ大陸#ゴンドワナたいりく#Gondwanaland#
+2231800##パンゲア#Pangaea#
+2231810##ローラシア#Laurasia#
+2231820#ローラシア大陸#ローラシアたいりく#Laurasia#
+2231830##ガイア#Gaia;Gaea;Ge#
+2231840##ディストピア#dystopia#
+2231850##レーション#ration#
+2231860##レビレート#levirate#
+2231870#レビレート婚#レビレートこん#levirate marriage#
+2231880#逆縁婚#ぎゃくえんこん#levirate marriage#
+2231890##ソロレート#sororate#
+2231900#ソロレート婚#ソロレートこん#sororate marriage#
+2231910#聞法#もんぼう;もんぽう#hearing the teachings of Buddha#
+2231920#見仏#けんぶつ#seeing Buddha#
+2231930#見仏聞法#けんぶつもんぽう;けんぶつもんぼう#seeing Buddha and hearing his teachings#
+2231940#観仏#かんぶつ#contemplating Buddha#
+2231950#順縁#じゅんえん#favorable condition (for entering the priesthood);dying in order (from oldest to youngest)#
+2231960##ゴルゴン;ゴルゴー#Gorgon#
+2231970##メドゥーサ;メドゥサ;メデューサ#Medusa#
+2231980#米食鳥#こめくいどり;コメクイドリ#bobolink (species of songbird, Dolichonyx oryzivorous)#
+2231990#四十雀雁#しじゅうからがん;シジュウカラガン#Aleutian Canada goose (Branta canadensis leucopareia)#
+2232000#アメリカ小雀#アメリカこがら;アメリカコガラ#black-capped chickadee (Parus atricapillus)#
+2232010#カロライナ小雀#カロライナこがら;カロライナコガラ#Carolina chickadee (Parus carolinensis)#
+2232020#木走;木走り#きばしり;キバシリ#common treecreeper (species of songbird, Certhia familiaris)#
+2232030#孔雀鳩#くじゃくばと;クジャクバト#fantail pigeon#
+2232040#家鳩#いえばと#domestic pigeon;feral pigeon#
+2232050#飼いバト;飼い鳩#かいバト;かいばと#domestic pigeon#
+2232060#緑鳩;青鳩#あおばと;アオバト#white-bellied green pigeon (Treron sieboldii)#
+2232070##フィンチ#finch#
+2232080#錦華鳥;錦花鳥#きんかちょう;キンカチョウ#zebra finch (Taeniopygia guttata)#
+2232090#進学校#しんがくこう#school centred on preparing students to get into university;high-level school a person has entered#
+2232100#アメリカ夜鷹#アメリカよたか;アメリカヨタカ#common nighthawk (Chordeiles minor)#
+2232110#賀#が#congratulation#
+2232120#算賀#さんが#longevity celebration (on one's 40th, 50th, 60th, etc. birthday)#
+2232130#賀の祝;賀の祝い#がのいわい#longevity celebration (of age 42, 61, 70, 77, 80, 88, 90 or 99)#
+2232140#米の祝い#よねのいわい#longevity celebration for one's 88th year#
+2232150#爻#こう#yao (line representing yin or yang that comprises one third of a trigram)#
+2232160#陽爻#ようこう#yang yao (unbroken line composing one third of a trigram)#
+2232170#陰爻#いんこう#yin yao (broken line composing one third of a trigram)#
+2232180#三易#さんえき#three methods of Chinese divination (Lian Shan of the Xia period, Gui Cang of the Yin period and Zhou Yi of the Zhou period)#
+2232190#帰蔵#きぞう#Gui Cang (Yin period method of Chinese divination)#
+2232200#蓍萩#めどはぎ;メドハギ#Chinese lespedeza (species of bush clover, Lespedeza cuneata)#
+2232210#蓍木#めどぎ#Chinese lespedeza (species of bush clover, Lespedeza cuneata)#
+2232220#筮;蓍#めどぎ;めどき#divination sticks#
+2232230#蓍#めど#Chinese lespedeza (species of bush clover, Lespedeza cuneata);fortune-telling (using divination sticks)#
+2232240#占筮#せんぜい#divination (using bamboo divination sticks)#
+2232250#算籌#さんちゅう#sticks used for counting#
+2232260#籌#ちゅう#wooden skewer used for counting#
+2232270#爻辞#こうじ#commentary (on any of the 384 lines of the hexagrams in the Book of Changes)#
+2232280#卦辞#かじ#commentary (on any of the 64 hexagrams in the Book of Changes)#
+2232290#できない相談;出来ない相談#できないそうだん#impossible proposition;unreasonable proposal;tall order#
+2232300#米離れ;コメ離れ#こめばなれ;コメばなれ#shift away from rice consumption;consumers losing interest in eating rice#
+2232310#日本人離れ;日本人ばなれ#にほんじんばなれ#unJapanese in appearance or character#
+2232320#戌亥;乾#いぬい#northwest#
+2232330#離#り#li (one of the trigrams of the I Ching: fire, south)#
+2232340#坎#かん#pit;hole;kan (one of the trigrams of the I Ching: water, north)#
+2232350#震#しん#zhen (one of the trigrams of the I Ching: thunder, east)#
+2232360#巽#そん#xun (one of the trigrams of the I Ching: wind, southeast)#
+2232370#未申;坤#ひつじさる#southwest#
+2232380#地支#ちし#earthly branches (the 12 signs of the Chinese zodiac)#
+2232390#代引き;代引#だいびき;だいひき#cash on delivery;COD#
+2232400#法定強姦#ほうていごうかん#statutory rape;sexual activity with a minor under the age of consent#
+2232410#筆おろし;筆下ろし;筆降ろし#ふでおろし#using a new brush for the first time;doing something for the first time;man losing his virginity (esp. to an older woman)#
+2232420##モノホン#genuine article;real thing;real deal#
+2232430##ソックパペット;ソック・パペット#sock puppet#
+2232440#代諾者#だいだくしゃ#legal representative;legal guardian#
+2232450#天干#てんかん#celestial stems (10 signs of the Chinese calendar)#
+2232460#五大#ごだい#the five elements (earth, water, fire, wind, aether);five great wisdom kings#
+2232470#行儀悪い#ぎょうぎわるい#bad manners#
+2232480#お子;御子#おこ#(someone else's) child#
+2232490##ダーウィンフィンチ;ダーウィン・フィンチ#Darwin's finches#
+2232500##ダーウィンレア#Darwin's rhea (Rhea pennata)#
+2232510#社会主義リアリズム#しゃかいしゅぎリアリズム#socialist realism#
+2232520#批判的リアリズム#ひはんてきリアリズム#critical realism#
+2232530#素朴実在論#そぼくじつざいろん#naive realism#
+2232540#普遍論争#ふへんろんそう#(debate over) the problem of universals#
+2232550#スコラ学#スコラがく#scholasticism#
+2232560#新スコラ学#しんスコラがく#neo-scholasticism#
+2232570##トミズム#Thomism (theology of Thomas Aquinas or his followers)#
+2232580##ニーソ#knee-high socks#
+2232590#一貫教育校#いっかんきょういくこう#integrated set of schools that offers education from one stage to the next without taking extrance exams en route#
+2232600#静止質量#せいししつりょう#rest mass#
+2232610#静止エネルギー#せいしエネルギー#rest energy#
+2232620#古典力学#こてんりきがく#classical mechanics#
+2232630#君が代蘭#きみがよらん#curve-leaf yucca (Yucca recurvifolia)#
+2232640#糸蘭#いとらん#Yucca smalliana (species of yucca)#
+2232650#千代に八千代に#ちよにやちよに#for millennia and millennia;for years and years;forever and ever#
+2232660#環#かん#ring;band;ring#
+2232670#釧#くしろ#bracelet (usu. dating from the Kofun period)#
+2232680##アクティベート#activation (e.g. of network accounts, etc.)#
+2232690#手纏;環;鐶#たまき#bracelet (made of stringed jewels or bells and worn at the elbow);bracer (for the elbow of an archer)#
+2232700#岩座#いわざ#stone-like socle (used as the base for a Buddhist statue)#
+2232710#磐座;岩座#いわくら#dwelling place of a god (usu. in reference to a large rock)#
+2232720#櫓杭;艪杭#ろぐい#fulcrum peg (fitted into the cavity in an oar as part of a traditional oarlock)#
+2232730#櫓臍;艪臍#ろべそ#fulcrum peg (fitted into the cavity in an oar as part of a traditional oarlock)#
+2232740#突然だけど#とつぜんだけど#apropos of nothing;to change the subject#
+2232750#撓める;橈める#たわめる#to bend (a piece of wood, etc.);to bow#
+2232760#弓籠手#ゆごて#archer's bracer;archer's armguard#
+2232770#射籠手#いごて#archer's bracer;archer's armguard#
+2232780#小上がり;小上り#こあがり#raised tatami-floored seating area (usu. in a Japanese restaurant);small separate dining room#
+2232790#あの頃#あのころ#in those days#
+2232800#萩の餅#はぎのもち#rice ball coated with sweetened red beans, soybean flour or sesame#
+2232810##やらやら#oh my, oh my!;expression of strong emotion or surprise#
+2232820#後月#あとげつ#last month#
+2232830#後の月#あとのつき#last month#
+2232840#後の月#のちのつき#moon of the 13th day of 9th lunar month;leap month#
+2232850#後の月見#のちのつきみ#moon-viewing on the 13th day of the 9th lunar month#
+2232860#蠔油#ハオユー#oyster sauce#
+2232870#エスカレーター校;エスカレータ校#エスカレーターこう;エスカレータこう#private school that allows students to advance from one stage of education to the next, often kindergarten to university, without taking entrance exams en route;"escalator school"#
+2232880#エスカレーター学校;エスカレータ学校#エスカレーターがっこう;エスカレータがっこう#private school that allows students to advance from one stage of education to the next, often kindergarten to university, without taking entrance exams en route;"escalator school"#
+2232890#連絡が取れる;連絡がとれる#れんらくがとれる#to (be able to) make contact;to (be able to) get in touch#
+2232900#ご連絡申し上げます#ごれんらくもうしあげます#I am writing ....;we are contacting ...#
+2232910#波形鋼板#はけいこうばん#corrugated steel (plate);corrugated iron#
+2232920#波型#なみがた#corrugated#
+2232930#自家血清#じかけっせい#autologous serum#
+2232940#礼奉公#れいぼうこう#free service after one has finished one's apprenticeship#
+2232950#名披露目;名広め#なびろめ#announcing the succession to another's stage name#
+2232960#医者さん#いしゃさん#doctor#
+2232970#此の中#このじゅう#recently;not long ago;for a while recently;all the while recently#
+2232980#この内;この中#このうち;このなか#among these;between these;of these;in here;in this#
+2232990#蘭語#らんご#Dutch (language)#
+2233000#里帰り展#さとがえりてん#exhibition of returned works (e.g. from overseas)#
+2233010#展#てん#exhibition;exhibit#
+2233020#ナッシュ均衡#ナッシュきんこう#Nash equilibrium#
+2233040#出国査証#しゅっこくさしょう#departure permit;exit visa#
+2233050#走行会#そうこうかい#track meet (non-competitive driving on a race course);track day;track event#
+2233060#鳥カツ;鳥かつ#とりカツ;とりかつ#chicken cutlet#
+2233070#悴#かせ#low;poor;scrawny#
+2233080#お出来;御出来#おでき#boil;blister;pimple#
+2233090#隠れキャラ#かくれキャラ#hidden character (e.g. in computer games)#
+2233100#残んの#のこんの#remaining#
+2233110#金腹#きんぱら;キンパラ#chestnut munia (species of passerine bird, Lonchura atricapilla);black-headed munia#
+2233120#儘よ#ままよ#whatever;never mind;I don't care;the hell with it#
+2233130#進行波#しんこうは#traveling wave (travelling)#
+2233140#波動関数#はどうかんすう#wave function#
+2233150#波動方程式#はどうほうていしき#wave equation#
+2233160#物質波#ぶっしつは#matter wave#
+2233170#波動説#はどうせつ#wave theory#
+2233180#モル質量#モルしつりょう#molar mass#
+2233190#重力質量#じゅうりょくしつりょう#gravitational mass#
+2233200#質量中心#しつりょうちゅうしん#center of mass (centre)#
+2233210#質量スペクトル#しつりょうスペクトル#mass spectrum#
+2233220#質量欠損#しつりょうけっそん#mass defect#
+2233230##ポテンシャルエネルギー;ポテンシャル・エネルギー#potential energy#
+2233240#質量分析器#しつりょうぶんせきき#mass spectrograph#
+2233250#輻射エネルギー#ふくしゃエネルギー#radiant energy#
+2233260#熱エネルギー#ねつエネルギー#thermal energy;heat energy#
+2233270#内部エネルギー#ないぶエネルギー#internal energy#
+2233280#原子エネルギー#げんしエネルギー#atomic energy#
+2233290#エネルギー論#エネルギーろん#energetics#
+2233300#機械的エネルギー#きかいてきエネルギー#mechanical energy#
+2233310#力学的エネルギー#りきがくてきエネルギー#mechanical energy#
+2233320#集団力学#しゅうだんりきがく#group dynamics#
+2233330#物質量#ぶっしつりょう#amount of substance#
+2233340#聖血#せいけつ#blood of Christ#
+2233350##ヘロヘロ;へろへろ#completely exhausted;dog-tired;dreadfully weary;terribly frustrated;limp;weak;flimsy#
+2233360##ムキムキ#muscular;brawny#
+2233370##ミトコンドリアイブ;ミトコンドリア・イブ#mitochondrial Eve#
+2233380#Ｙ染色体アダム#ワイせんしょくたいアダム#Y-chromosomal Adam#
+2233390#Ｙ染色体#ワイせんしょくたい#Y chromosome#
+2233400#Ｘ染色体#エックスせんしょくたい#X chromosome#
+2233410#ホモ接合体#ホモせつごうたい#homozygote#
+2233420#ヘテロ接合体#ヘテロせつごうたい#heterozygote#
+2233430#異型接合体#いけいせつごうたい#heterozygote#
+2233440#思ってもいない#おもってもいない#unanticipated;unexpected#
+2233450##ばつ#one's circumstances or condition, esp. compared to that of another;coherence (e.g. of a conversation)#
+2233460#ばつが悪い;バツが悪い#ばつがわるい;バツがわるい#awkward;uncomfortable;embarrassing#
+2233470#第一巻#だいいっかん#volume 1;first volume#
+2233480#乞士#こっし#bhikkhu (fully ordained Buddhist monk)#
+2233490#比丘尼ん#びくにん#bhikkhuni (fully ordained Buddhist nun)#
+2233500#尼っ子;尼っこ#あまっこ#native of Amagasaki;bitch#
+2233510#尼っちょ#あまっちょ#bitch#
+2233520#尼#に#bhikkhuni (fully ordained Buddhist nun)#
+2233530#優婆塞#うばそく#upasaka (devout male lay follower of Buddhism)#
+2233540#優婆夷#うばい#upasika (devout female lay follower of Buddhism)#
+2233550#四衆#ししゅ;ししゅう#four orders of Buddhist followers (monks, nuns, male lay devotees and female lay devotees);four monastic communities (ordained monks, ordained nuns, male novices and female novices);(in Tendai) the four assemblies#
+2233560#四部衆#しぶしゅ#four orders of Buddhist followers (monks, nuns, male lay devotees and female lay devotees)#
+2233570#七衆#しちしゅ#seven orders of Buddhist disciples (monks, nuns, probationary nuns, male novices, female novices, male lay devotees, female lay devotees)#
+2233580#式叉摩那#しきしゃまな#probationary nun (undergoing a two-year probationary period before receiving ordainment)#
+2233590#沙弥尼#しゃみに#female Buddhist novice#
+2233600#声聞僧#しょうもんそう#Hinayana monk#
+2233610#検知器#けんちき#sensor;detector#
+2233620#海氷#かいひょう#sea ice#
+2233630#船舶安全法#せんぱくあんぜんほう#Ship Safety Law (1933)#
+2233640#櫓櫂;艪櫂#ろかい#sculls and paddles#
+2233650#男気#おとこげ;おとこけ#male presence#
+2233660#女っ気#おんなっけ#female presence#
+2233670#女気#おんなぎ#feminine spirit;graceful and kind nature#
+2233680#気#ぎ#-like nature;-like disposition;-ish temperament#
+2233690#気#け#sign;indication;trace;touch;feeling;somehow;for some reason;seeming to be#
+2233700#気もない;気も無い#けもない#showing no signs of ~~;there being no hint of ~~;unthinkable#
+2233710##マドラサ#madrasa;madrasah;medrese#
+2233720#自腹を切る;自腹をきる#じばらをきる#to pay for with your own money#
+2233730#定時上がり;定時あがり#ていじあがり#leaving on time (e.g. as opposed to paid or unpaid overtime)#
+2233740#陰謀論#いんぼうろん#conspiracy theory#
+2233750#陰謀説#いんぼうせつ#conspiracy theory#
+2233760#粗熱;あら熱#あらねつ#the heat of food just after cooking#
+2233770#投稿一覧#とうこういちらん#posts list;(summary) list of all messages (threads)#
+2233780#跋#ばつ#epilogue;postscript;envoi#
+2233790#アルコール検知器#アルコールけんちき#breathalyser;alcometer#
+2233800#原子力研究所#げんしりょくけんきゅうじょ#Atomic Energy Research Institute#
+2233810#超銀河集団#ちょうぎんがしゅうだん#supercluster of galaxies#
+2233820#超銀河団#ちょうぎんがだん#supercluster of galaxies#
+2233830#赤紫蘇;赤じそ#あかじそ#red shiso;red perilla#
+2233840#１８禁;十八禁#じゅうはちきん#18 certificate;R-18;restricted to those 18 years or older#
+2233850#レズっ気#レズっけ#lesbian feelings;lesbian tendencies#
+2233860#お子様セット#おこさまセット#kid's meal;special meal prepared for children at a restaurant#
+2233880##ブヒブヒ#squealing (e.g. of small pigs);oinking#
+2233890#偽陽性#ぎようせい#false positive#
+2233900#偽陰性#ぎいんせい#false negative#
+2233910##ジェリカン#jerrycan#
+2233920#売り専;ウリ専#うりせん;ウリせん#male prostitute;rent boy;rentboy;gay brothel#
+2233930#この通り#このとおり#like this;in this way;as you see#
+2233950#お気を確かに#おきをたしかに#Don't do anything rash!;Keep composed!#
+2233960#消費期限#しょうひきげん#consume by;best before#
+2233970#通学定期#つうがくていき#school seasonal (train and bus) ticket#
+2233980#人型ロボット#ひとがたロボット#humanoid robot#
+2233990#大連立#だいれんりつ#grand coalition;grand alliance#
+2234000#便宜置籍船#べんぎちせきせん#flag-of-convenience ship;ship flying a flag of convenience#
+2234010#お子様ランチ;御子様ランチ#おこさまランチ#kid's lunch;special lunch (meal) prepared for children at a restaurant#
+2234020##ガナッシュ#ganache (icing made of mixed chocolate and cream)#
+2234030##ガングリオン#ganglion#
+2234040#順不同#じゅんふどう#(listed in) no particular order;arbitrary order;random order#
+2234050#敬称略#けいしょうりゃく#titles omitted;(names listed) without honorifics#
+2234060#お蔵;お倉;御蔵;御倉#おくら;オクラ#shelving (a play, movie, etc.);closing down;cancelling;canceling;shelf (i.e. "on the shelf");rice storehouse of the Edo shogunate#
+2234070#蔵#ぞう#possession;ownership;(former) Ministry of Finance;Tibet;Tibetan people#
+2234080##けち#stinginess;miserliness;penny-pinching;cheesparing;miser;pinchpenny;skinflint;cheapskate;tightwad;niggard;shabby;cheap;mangy;poor;petty;narrow-minded;quibbling;mean-spirited;bad luck;ill omen;glitch#
+2234090#表現型#ひょうげんがた#phenotype#
+2234100#遺伝子発現#いでんしはつげん#gene expression#
+2234110#遺伝子給源#いでんしきゅうげん#gene pool#
+2234120#遺伝子プール#いでんしプール#gene pool#
+2234130#常染色体#じょうせんしょくたい#autosome (non-sex chromosome)#
+2234140#相同染色体#そうどうせんしょくたい#homologous chromosome#
+2234150#相同#そうどう#homology#
+2234160#相同器官#そうどうきかん#homologous organ#
+2234170#相似器官#そうじきかん#analogous organ#
+2234180#生物化学#せいぶつかがく#biochemistry#
+2234190##アデニン#adenine#
+2234200##チミン#thymine#
+2234210##グアニン#guanine#
+2234220##シトシン#cytosine#
+2234230##ウラシル#uracil#
+2234240##アンチコドン#anticodon#
+2234250##ポリペプチド#polypeptide#
+2234260#唾腺染色体#だせんせんしょくたい#salivary-gland chromosome#
+2234270#唾液腺染色体#だえきせんせんしょくたい#salivary-gland chromosome#
+2234280#遺伝子資源#いでんししげん#gene resource#
+2234290#遺伝子ターゲッティング#いでんしターゲッティング#gene targeting#
+2234300#遺伝子銀行#いでんしぎんこう#gene bank#
+2234310#生物化学的酸素要求量#せいぶつかがくてきさんそようきゅうりょう#biochemical oxygen demand;BOD#
+2234320#ＢＯＤ#ビーオーディー#biochemical oxygen demand;BOD;bandwidth-on-demand#
+2234340##キャッシュオンデリバリー;キャッシュ・オン・デリバリー#cash on delivery;COD#
+2234350#ＣＯＤ#シーオーディー#chemical oxygen demand;COD;cash on delivery;COD#
+2234360##シストロン#cistron#
+2234370#点突然変異#てんとつぜんへんい#point mutation#
+2234380#致死突然変異#ちしとつぜんへんい#lethal mutation#
+2234390#人為突然変異#じんいとつぜんへんい#artificial mutation#
+2234400#遺伝子ライブラリー#いでんしライブラリー#gene library#
+2234410#尿素回路#にょうそかいろ#urea cycle#
+2234420#気をそらす;気を逸らす#きをそらす#to distract#
+2234430#話をそらす;話を逸らす#はなしをそらす#to change the subject (e.g. away from something awkward or inconvenient)#
+2234440#隠れた項目#かくれたこうもく#hidden entry;hidden item#
+2234450##ワカモレ;ワカモーレ;グワカモーレ;グワカモレ#guacamole#
+2234460#代表権#だいひょうけん#(right of) representation;right to represent (e.g. a company)#
+2234470#直示天秤;直示天びん#ちょくじてんびん#analytical balance;direct reading balance#
+2234480#在留届#ざいりゅうとどけ#residence report#
+2234490##ケチつける;けちつける#to find fault with;to rain on one's parade;to nitpick;to quibble#
+2234500#変更届;変更届け#へんこうとどけ#notification of change;alteration report;registration of modification#
+2234510##バルバスバウ#bulbous bow (on a ship to reduce drag)#
+2234520#夜酒#よざけ#nightcap;drink at night#
+2234530#空燃比#くうねんひ#fuel-air ratio;air-fuel ratio;AFR#
+2234540#汽水域#きすいいき#brackish waters (of an estuary)#
+2234550##ローテ#rotation#
+2234560#通常業務#つうじょうぎょうむ#normal duties;(one's) regular work#
+2234570#密着取材#みっちゃくしゅざい#total coverage;giving total coverage to the key figure(s) of a TV or film documentary#
+2234580#戎克#ジャンク#junk (Chinese ship)#
+2234590#ジャンクＤＮＡ#ジャンクディーエヌエー#junk DNA#
+2234600#鯨蝋;鯨ろう#げいろう;くじらろう#spermaceti (waxy substance found in the head cavities of sperm whales)#
+2234610#桐花大綬章#とうかだいじゅしょう#Grand Cordon of the Order of the Paulownia Flowers#
+2234620##ミフェプリストン#mifepristone (abortifacient steroid developed under the name RU-486)#
+2234630##モーニングアフターピル;モーニング・アフター・ピル#morning-after pill#
+2234640#重力レンズ#じゅうりょくレンズ#gravitational lens#
+2234650#ＲＵ４８６#アールユーよんはちろく#RU-486 (trademarked development name of mifepristone);RU 486#
+2234670#茶挽草;茶挽き草;茶引き草#ちゃひきぐさ;チャヒキグサ#wild oat (Avena fatua);wild oats#
+2234680##エレクトリックギター;エレクトリック・ギター#electric guitar#
+2234690#直示はかり;直示秤#ちょくじはかり#direct-reading balance;direct-reading scales#
+2234700#直示#ちょくじ#deixis;indicator;pointer#
+2234710#球状船首#きゅうじょうせんしゅ#bulbous bow (on a ship to reduce drag)#
+2234720##エゴティズム#egotism#
+2234730##パワーシェアリング;パワー・シェアリング#power sharing#
+2234740##ピリミジン#pyrimidine#
+2234750#訳じゃない#わけじゃない#it does not mean that ...;I don't mean that ...;it is not the case that#
+2234760##ジャックランタン;ジャック・ランタン#jack-o'-lantern;jack o'lantern#
+2234770##ジャック・オ・ランターン;ジャックオランターン#jack-o'-lantern;jack o'lantern#
+2234780##チャンプ#champ#
+2234790#トゥレット障害#トゥレットしょうがい#Tourette's Syndrome#
+2234800#蒟醤#きんま;キンマ#betel (Piper betle)#
+2234810#檳榔;蒲葵#びろう;びりょう;ほき;あじまさ#Chinese fan palm (Livistona chinensis)#
+2234820#檳榔#びんろう;びにろう#areca palm (Areca catechu);betel palm#
+2234830#檳榔子#びんろうじ#betel nut;areca nut#
+2234840##フルーレ#foil (fencing)#
+2234850##カテキュー#catechu (vegetable extract containing tannin);cachou#
+2234860##カテキン#catechin#
+2234870##ガンビール#gambir (species of climbing plant, Uncaria gambir);gambier#
+2234880#除菌#じょきん#bacteria elimination#
+2234890##カッチ#cutch (catechu)#
+2234900#靴跡#くつあと#shoe mark;shoe print#
+2234910##カシュー#cashew (Anacardium occidentale);acajou#
+2234920##カシューアップル;カシュー・アップル#cashew apple#
+2234930#カシューの木#カシューのき#cashew tree (Anacardium occidentale);acajou#
+2234940##セネガ#senega (species of milkwort, Polygala senega)#
+2234950#セネガ根#セネガこん#dried senega root#
+2234960#吐根#とこん;トコン#ipecac (species of shrub, Cephaelis ipecacuanha);ipecacuanha#
+2234970#去痰薬#きょたんやく#expectorant#
+2234980#唐棕櫚;唐棕梠#とうじゅろ;トウジュロ#miniature Chusan palm (Trachycarpus wagnerianus);(poss. Trachycarpus fortunei)#
+2234990#油椰子#あぶらやし;アブラヤシ#oil palm (esp. the African oil palm, Elaeis guineensis)#
+2235000#沙穀#サゴ#sago (edible sago palm starch)#
+2235010#サゴ椰子;沙穀椰子#サゴやし;さごやし;サゴヤシ#sago palm (Metroxylon sagu)#
+2235020#大王椰子#だいおうやし;ダイオウヤシ#royal palm (esp. Cuban royal palm, Roystonea regia)#
+2235030#砂糖椰子#さとうやし;サトウヤシ#sugar palm (Arenga pinnata)#
+2235040#仞;仭#じん#ren (ancient Chinese measure of height, depth, etc.; between 1-3 meters)#
+2235050#多羅樹#たらじゅ#palmyra;ancient Indian unit of distance (approx. 15m)#
+2235060#多羅菩薩#たらぼさつ#Tara (female aspect of Avalokitesvara)#
+2235070#パルミラ椰子#パルミラやし;パルミラヤシ#palmyra (species of fan palm, Borassus flabellifer)#
+2235080#多羅葉#たらよう#lusterleaf holly (Ilex latifolia);pattra (palmyra leaves used in Ancient India for writing upon)#
+2235090#貝多羅葉#ばいたらよう;ばいたらば#pattra (palmyra leaves used in Ancient India for writing upon)#
+2235100#貝多羅#ばいたら#pattra (palmyra leaves used in Ancient India for writing upon)#
+2235110##アバランシュ#avalanche#
+2235120##バスターズ#busters (e.g. ghost busters)#
+2235130#和布蕪;芽株#めかぶ;めかぶら#thick wakame leaves, from near the stalk#
+2235140#当選基数#とうせんきすう#electoral quota (e.g. in a proportional representation system)#
+2235150##ノーブルマン#nobleman#
+2235160##トゥレットシンドローム#Tourette's syndrome#
+2235170#大勲位菊花章#だいくんいきっかしょう#Supreme Orders of the Chrysanthemum#
+2235180#大勲位菊花章頸飾;大勲位菊花章頚飾#だいくんいきっかしょうくびかざり#Collar of the Supreme Order of the Chrysanthemum#
+2235190#大勲位菊花大綬章#だいくんいきくかだいじゅしょう#Grand Cordon of the Supreme Order of the Chrysanthemum#
+2235200#桐花大綬章#きりはなだいじゅしょう#Grand Cordon of the Order of the Paulownia Flowers#
+2235210#旭日大綬章#きょくじつだいじゅしょう#Grand Cordon of the Order of the Rising Sun#
+2235220#旭日重光章#きょくじつじゅうこうしょう#Order of the Rising Sun, Gold and Silver Star#
+2235230#綬章#じゅしょう#ribbon;cordon#
+2235240#旭日中綬章#きょくじつちゅうじゅしょう#Order of the Rising Sun, Gold Rays with Neck Ribbon#
+2235250#旭日小綬章#きょくじつしょうじゅしょう#Order of the Sacred Treasure, Gold Rays with Rosette#
+2235260#瑞宝双光章#ずいほうそうこうしょう#Order of the Sacred Treasure, Gold and Silver Rays#
+2235270#給与明細#きゅうよめいさい#payslip#
+2235280#開発経緯#かいはつけいい#features (e.g. of a product);development chronology#
+2235290#税負担#ぜいふたん#tax burden#
+2235300#自機#じき#player character or vehicle (in video games)#
+2235310##ジャユプロ#Japan unique process#
+2235320#別として#べつとして#other than;except for;aside from;apart from;save for#
+2235330#後ろ指を指される;後ろ指をさされる#うしろゆびをさされる#to be talked about behind one's back#
+2235340#国家を挙げて;国家をあげて#こっかをあげて#as a nation;with the whole country#
+2235360#瑞宝単光章#ずいほうたんこうしょう#Order of the Sacred Treasure, Silver Rays#
+2235370#宝冠大綬章#ほうかんだいじゅしょう#Grand Cordon of the Order of the Precious Crown#
+2235380#宝冠牡丹章#ほうかんぼたんしょう#Order of the Precious Crown, Peony#
+2235390#宝冠白蝶章#ほうかんしろちょうしょう#Order of the Precious Crown, Butterfly#
+2235400#宝冠藤花章#ほうかんとうかしょう#Order of the Precious Crown, Wistaria#
+2235410#宝冠杏葉章#ほうかんきょうようしょう#Order of the Precious Crown, Apricot#
+2235420#宝冠波光章#ほうかんはこうしょう#Order of the Precious Crown, Ripple#
+2235430#紅綬褒章#こうじゅほうしょう#Medal with Red Ribbon#
+2235440#紺綬褒章#こんじゅほうしょう#Medal with Dark Blue Ribbon#
+2235450#知らないふり;知らない振り#しらないふり#feigning ignorance;acting dumb#
+2235460#やきもちを焼く;焼きもちを焼く;やきもちを妬く;焼餅を焼く;焼きもちを妬く;焼もちを焼く;焼餅を妬く;焼もちを妬く#やきもちをやく#to be jealous#
+2235470#諸聖人の祝日#しょせいじんのしゅくじつ#All Saints Day#
+2235480##スタッフルーム;スタッフ・ルーム#staff room#
+2235500#魔族#まぞく#demonic or magic being;inhabitant of hell (or the spirit world)#
+2235510#神族#しんぞく#divine being;inhabitant of heaven#
+2235530##ピンボール#pinball#
+2235540##アイズ#eyes#
+2235550#酵母亜鉛#こうぼあえん#zinc yeast;zinc-enriched yeast#
+2235560#鉄酵母#てつこうぼ#iron yeast;iron-enriched yeast#
+2235570#銅酵母#あかがねこうぼ#copper yeast;copper-enriched yeast#
+2235580#有胞子性乳酸菌#ゆうほうしせいにゅうさんきん#Bacillus coagulans, species of lactic acid-forming Bacillus bacteria#
+2235590#健康維持#けんこういじ#health maintenance;health preservation#
+2235600#植物酵素#しょくぶつこうそ#plant enzyme;vegetable enzyme#
+2235610#健康補助品#けんこうほじょひん#health supplement;dietary supplement#
+2235620#健康補助食品#けんこうほじょしょくひん#dietary supplement#
+2235630#善玉菌#ぜんだまきん#good germ;good bacteria#
+2235640#無味無臭#むみむしゅう#tasteless and odorless;bland#
+2235650#無味無臭無色#むみむしゅうむしょく#tasteless, odorless and colorless#
+2235660#全身写真#ぜんしんしゃしん#full-length photograph;whole body picture#
+2235670#磔;礫刑#はりつけ;はっつけ#crucifixion#
+2235680##ガーメント#garment#
+2235690#救急救命士#きゅうきゅうきゅうめいし#paramedic;emergency medical technician#
+2235700#機嫌が悪い;機嫌がわるい#きげんがわるい#in a bad mood#
+2235710#機嫌がいい;機嫌が良い;機嫌がよい#きげんがいい;きげんがよい#in a good mood#
+2235720##ガッと#vigorously;swiftly#
+2235730##ガシッ#firmly;solidly;heartily#
+2235740#神経を尖らせる;神経をとがらせる#しんけいをとがらせる#to be oversensitive;to be nervous;to be overly concerned;to worry too much#
+2235750#元ヤン;元やん#もとヤン;もとやん#reformed delinquent;former delinquent youth#
+2235760##つくねんと#absentmindedly;vacantly;blankly;by oneself;all alone#
+2235770#斯くも#かくも#so (e.g. so much, so close, so many, so few)#
+2235780##ペイパー#paper#
+2235790#背が立つ#せがたつ#to have one's feet reach the bottom (e.g. when standing in water)#
+2235800#降水確率#こうすいかくりつ#chance of precipitation;chance of rain#
+2235810#ねじれ国会;捩れ国会#ねじれこっかい#houses of the Diet being controlled by different parties;twisted parliament#
+2235820##ロングブーツ;ロング・ブーツ#long boots#
+2235830#竜灯#りゅうとう#phosphorescent lights seen at sea at night;lights that can be seen on the altar of gods, intended as an offering#
+2235840#目耳#めみみ#(one's own) eyes and ears#
+2235850##ガクンガクン#jerkingly#
+2235860#蜂屋柿#はちやがき#hachiya (variety of astringent Japanese persimmon)#
+2235870#富有柿#ふゆうがき#fuyu (variety of sweet Japanese persimmon)#
+2235880#次郎柿#じろうがき#jiro (variety of sweet Japanese persimmon)#
+2235890#あんぽ柿#あんぽがき#partially-dried Japanese persimmon#
+2235900##けろっと#completely;entirely;nonchalantly;as if nothing happened#
+2235910#先天性胆管閉鎖症#せんてんせいたんがんへいさしょう#congenital bile duct atresia#
+2235920#できる限り早い;出来る限り早い#できるかぎりはやい#as soon as possible;at the earliest time#
+2235930#超空間#ちょうくうかん#hyperspace;superspace#
+2235950##タラレバ;たられば#what if (as in What If stories)#
+2235960#旧人#きゅうじん#paleoanthropic man (e.g. Neanderthal)#
+2235970#元ヤンキー#もとヤンキー#reformed delinquent;former delinquent youth#
+2235980#お見事;お美事#おみごと#well done!;bravo#
+2235990##ジャストインタイム;ジャスト・イン・タイム#just-in-time (inventory strategy);JIT#
+2236000##ライトセーバー;ライト・セーバー#light sabre (saber) (as in the Star Wars films)#
+2236010##セントラルドグマ;セントラル・ドグマ#central dogma (of molecular biology)#
+2236020#マルピーギ管#マルピーギかん#Malpighian tubule#
+2236030#腎小体#じんしょうたい#renal corpuscle#
+2236040#マルピーギ小体#マルピーギしょうたい#Malpighian corpuscle (i.e. renal corpuscle)#
+2236050#腎単位#じんたんい#nephron#
+2236060#ボーマン嚢#ボーマンのう#Bowman's capsule#
+2236070#糸球体嚢#しきゅうたいのう#glomerular capsule#
+2236080#糸球体;糸毬体#しきゅうたい#glomerulus#
+2236090#糸球体腎炎#しきゅうたいじんえん#glomerulonephritis#
+2236100#ブライト病#ブライトびょう#Bright's disease (i.e. chronic nephritis)#
+2236110#圧#あつ#pressure;force#
+2236120#帰幽#きゆう#death#
+2236150#拍#はく#beat (music);mora (rhythmic unit)#
+2236160##イヌイット#Inuit#
+2236170##ウィグワム#wigwam (North American Indian tent)#
+2236180#山猫スト#やまねこスト#wildcat strike#
+2236190#一拍#いっぱく#one clap;one beat;one mora (taken as a unit of time)#
+2236200#脱オタク#だつオタク#ex-nerd;one who has given up geeky or nerdy hobbies;one who has given up stereotypically geeky dress, mannerisms, etc.#
+2236210#進化的に安定な戦略#しんかてきにあんていなせんりゃく#evolutionarily stable strategy;ESS#
+2236220#即席ラーメン#そくせきラーメン#instant noodles;instant ramen#
+2236230##マッツォ;マッツォー#matzo;matzoh#
+2236240#イースト菌#イーストきん#yeast cell#
+2236250##ベジマイト#Vegemite (food paste made from yeast extract)#
+2236260##マーマイト#Marmite (food paste made from yeast extract)#
+2236270##パスオーバー#Passover#
+2236280#連鎖球菌性咽頭炎#れんさきゅうきんせいいんとうえん#streptococcal throat infection;strep throat#
+2236290#過剰摂取#かじょうせっしゅ#overdose;excessive consumption#
+2236300#視力検査医#しりょくけんさい#optometrist#
+2236310#視力検定医#しりょくけんていい#optometrist#
+2236320#視力検査表#しりょくけんさひょう#eye chart;eyesight test chart#
+2236330#レントゲン撮影機#レントゲンさつえいき#X-ray machine#
+2236340#中毒者#ちゅうどくしゃ#addict;junkie;substance abuser#
+2236350#ヤメ検;やめ検#ヤメけん;やめけん#former public prosecutor who now works as a lawyer;retired public prosecutor#
+2236360#ヤメ検弁護士;やめ検弁護士#ヤメけんべんごし;やめけんべんごし#former public prosecutor who now works as a lawyer;prosecutor-turned-lawyer#
+2236370##メダリオン#medallion#
+2236380##ほんわかした;ほんわかとした#warm and snug;soft and comfortable#
+2236390#Ａ型肝炎#エーがたかんえん#hepatitis A#
+2236400#Ｂ型肝炎#ビーがたかんえん#hepatitis B#
+2236410#Ｃ型肝炎#シーがたかんえん#hepatitis C#
+2236420#Ａ型;エー型#エーがた#type A (blood, influenza, hepatitis, etc.)#
+2236430#Ｂ型#ビーがた#type B (blood, influenza, hepatitis, etc.)#
+2236440#Ｃ型#シーがた#type C (hepatitis, etc.)#
+2236450#Ｏ型#オーがた#type O (blood, etc.)#
+2236460#ＡＢ型;エービー型#エービーがた#type AB (blood, etc.)#
+2236470#目玉企画#めだまきかく#special feature (e.g. in a magazine);special program;special project#
+2236480#目玉番組#めだまばんぐみ#special-feature program#
+2236490#気に病む#きにやむ#to worry;to fret (over something);to be worried;to be anxious#
+2236500#拳万#げんまん#linking little fingers to confirm a promise#
+2236510#問診票;問診表#もんしんひょう#medical questionnaire;medical interview sheet;medical history form#
+2236520#線形計画法#せんけいけいかくほう#linear programming#
+2236530#抱合語;包合語#ほうごうご#incorporating language;polysynthetic language#
+2236540#氷河擦痕#ひょうがさっこん#glacial striae;glacial striations;glacial grooves#
+2236550#擦痕#さっこん#stria (carved out by a glacier, etc.)#
+2236560#後氷期#こうひょうき#postglacial period#
+2236570#筆柿#ふでがき;ふでかき#fudegaki (variety of sweet Japanese persimmon)#
+2236580#忠誠を誓う#ちゅうせいをちかう#to pledge allegiance;to swear an oath of allegiance;to take an oath of allegiance#
+2236590#書き掛け;書きかけ#かきかけ#unfinished#
+2236600#黙然#もくねん;もくぜん#muteness;silence#
+2236610#総合的言語#そうごうてきげんご#synthetic language#
+2236620#分析的言語#ぶんせきてきげんご#analytic language#
+2236630#伝染性単核球症#でんせんせいたんかくきゅうしょう#infectious mononucleosis;mono;glandular fever#
+2236640#連鎖不平衡#れんさふへいこう#linkage disequilibrium#
+2236650#連鎖群#れんさぐん#linkage group (genetics)#
+2236660##ハプロタイプ#haplotype (haploid genotype)#
+2236670#社会性昆虫#しゃかいせいこんちゅう#social insect#
+2236680#狩人蜂#かりゅうどばち;かりうどばち#hunter wasp (i.e. potter wasp, sand wasp, etc.)#
+2236690#水生昆虫#すいせいこんちゅう#aquatic insect#
+2236700#複相#ふくそう#diploid phase#
+2236710#倍数性#ばいすうせい#polyploidy#
+2236720#倍数体#ばいすうたい#polyploid#
+2236730#一倍体#いちばいたい#monoploid#
+2236740#三倍体#さんばいたい#triploid#
+2236750#種なし;種無し#たねなし#seedlessness;seedless fruit;lacking the material needed to do something#
+2236760#種なし西瓜;種なしスイカ;種無しスイカ;種無し西瓜#たねなしすいか;たねなしスイカ#seedless watermelon#
+2236770#基本数#きほんすう#monoploid number#
+2236780#四倍体#よんばいたい;しばいたい#tetraploid#
+2236790#半倍数性#はんばいすうせい#haplodiploidy#
+2236800#性フェロモン#せいフェロモン#sex pheromone#
+2236810#集合フェロモン#しゅうごうフェロモン#aggregation pheromone#
+2236820#真社会性#しんしゃかいせい#eusociality#
+2236830#狩りバチ;狩り蜂;狩蜂#かりバチ;かりばち;カリバチ#hunter wasp (i.e. potter wasp, sand wasp, etc.)#
+2236840#応化#おうか#applied chemistry;adaptation#
+2236850#応化#おうげ;おうけ#assumption of a suitable form (by a buddha or bodhisattva)#
+2236860#後期中等教育#こうきちゅうとうきょういく#upper secondary education (e.g. high school)#
+2236870#前期中等教育#ぜんきちゅうとうきょういく#lower secondary education (e.g. middle school)#
+2236880#警告色#けいこくしょく#aposematic coloration (colouration)#
+2236890#隠蔽色#いんぺいしょく#cryptic coloration (colouration);camouflage#
+2236900#婚姻色#こんいんしょく#nuptial coloration (colouration)#
+2236910#潜性#せんせい#recessiveness#
+2236920#顕性#けんせい#dominance#
+2236930#不顕性感染#ふけんせいかんせん#inapparent infection;subclinical infection#
+2236940##エピソーム#episome#
+2236950#性細胞#せいさいぼう#sex cell#
+2236960#体細胞#たいさいぼう#somatic cell#
+2236970#体細胞分裂#たいさいぼうぶんれつ#somatic cell division (i.e. mitosis)#
+2236980#多細胞生物#たさいぼうせいぶつ#multicellular organism#
+2236990#無糸分裂#むしぶんれつ#amitosis#
+2237000#直接分裂#ちょくせつぶんれつ#direct division (i.e. amitosis)#
+2237010#油圧ショベル#ゆあつショベル#excavator;power shovel;digger#
+2237020#娘細胞;嬢細胞#じょうさいぼう;むすめさいぼう#daughter cell#
+2237030#娘核;嬢核#じょうかく#daughter nucleus#
+2237040#母核#ぼかく#mother nucleus#
+2237050##ホメオスタシス#homeostasis#
+2237060##ホメオーシス#homeosis#
+2237070#成熟分裂#せいじゅくぶんれつ#meiosis#
+2237080#突然変異説#とつぜんへんいせつ#mutationism#
+2237090#系統発生#けいとうはっせい#phylogeny;phylogenesis#
+2237100##ポリジーン#polygene#
+2237110#多型#たけい#polymorphism#
+2237120#腋芽#えきが;わきめ#axillary bud#
+2237130#側芽#そくが#lateral bud#
+2237140#頂芽#ちょうが#terminal bud;apical bud#
+2237150#零余子蕁麻#むかごいらくさ;ムカゴイラクサ#Laportea bulbifera (species of nettle-like plant)#
+2237160#芽鱗#がりん#bud scale (scaly leaf protecting a bud)#
+2237170#鱗片葉#りんぺんよう#scale leaf#
+2237180#鱗葉#りんよう#scale leaf (forming part of a bulb)#
+2237190#肉芽腫#にくがしゅ;にくげしゅ#granuloma#
+2237200#肉芽組織#にくがそしき;にくげそしき#granulation tissue;proud flesh#
+2237210#基ずく#もとずく#to be grounded on;to be based on;to be due to;to originate from#
+2237220#日光を見ずして結構と言うなかれ#にっこうをみずしてけっこうというなかれ#see Nikko and die;don't say "wonderful" until you've seen Nikko#
+2237230#船頭多くして船山に登る;船頭多くして船山に上る#せんどうおおくしてふねやまにのぼる#too many cooks spoil the broth;too many captains will steer the ship up a mountain#
+2237240#女房と畳は新しい方がいい;女房と畳は新しい方が良い;女房と畳は新しいほうがいい;女房と畳は新しい方がよい#にょうぼうとたたみはあたらしいほうがいい;にょうぼうとたたみはあたらしいほうがよい#wives and tatami are best when they're new#
+2237250#案ずるより産むが易し;案ずるより生むが易し#あんずるよりうむがやすし#it is easier to do something than worry about it;the anxiety that comes from doing nothing is worse than any danger you might face;fear overruns the danger;an attempt is sometimes easier than expected;it is easier to bear (a child) than to worry about it#
+2237260##ぎくっと#(with a) start;to feel shocked#
+2237270##パワーショベル;パワーシャベル;パワー・ショベル;パワー・シャベル#power shovel#
+2237280#食品玩具#しょくひんがんぐ#small toy sold with food;premium#
+2237290#改過自新#かいかじしん#changing one's attitude or conduct and making a new start;turning over a new leaf#
+2237300#アウトオブ眼中#アウトオブがんちゅう#being out of consideration;effectively not existing as an option#
+2237310#頭が下がる#あたまがさがる#to admire greatly;to salute (in admiration);to take one's hat off to#
+2237320#腕に覚えがある#うでにおぼえがある#to have confidence in one's own abilities#
+2237330#いのちの電話#いのちのでんわ#telephone counselling service#
+2237340#カタカナ語;片仮名語#カタカナご;かたかなご#katakana word (esp. a loanword)#
+2237350#カタカナ語辞典#カタカナごじてん#katakana dictionary;loanword dictionary#
+2237360#絵手紙#えてがみ#letter made from a picture one has drawn#
+2237370#午後一#ごごいち#first thing in the afternoon#
+2237380#風評被害#ふうひょうひがい#damage (esp. financial) caused by harmful rumours or misinformation (rumors)#
+2237390#街金#まちきん#loan shark;Shylock#
+2237400#右上がり;右上り#みぎあがり#rising diagonally up and to the right;growing;expanding;soaring#
+2237410##カミングアウト;カミング・アウト#coming out (of the closet, etc.)#
+2237420##サイバーモール#cybermall#
+2237430##スキミング#skimming (illegally copying credit cards with a swipe device)#
+2237440##ネットサーフィン;ネット・サーフィン#net surfing#
+2237450##スローフード;スロー・フード#slow food (as opposed to fast food)#
+2237460#金融商品取引法#きんゆうしょうひんとりひきほう#Financial Instruments and Exchange Law (1948)#
+2237470#ＣＥＯ#シーイーオー#chief executive officer;CEO#
+2237480#裁判員制度#さいばんいんせいど#citizen judge system;lay judge system;quasi-jury system#
+2237490#男女共同参画社会基本法#だんじょきょうどうさんかくしゃかいきほんほう#Basic Law for a Gender-Equal Society (1999)#
+2237500#個人情報保護法#こじんじょうほうほごほう#Personal Information Protection Law (2003)#
+2237510##クローザー#closer (baseball)#
+2237520##ボランチ#defensive midfielder (soccer, football)#
+2237530#言語論的転回#げんごろんてきてんかい#linguistic turn#
+2237540#分析哲学#ぶんせきてつがく#analytical philosophy;analytic philosophy#
+2237550##プラントオパール;プラント・オパール#plant opal (opal phytolith)#
+2237560#道の駅#みちのえき#roadside station (government-designated rest area found along roads and highways)#
+2237570#メタボリック症候群#メタボリックしょうこうぐん#metabolic syndrome#
+2237580#深層水#しんそうすい#deep water (depth: 2000-4000 meters)#
+2237590#底層水#ていそうすい#bottom water (depth: 4000+ meters)#
+2237600#中層水#ちゅうそうすい#intermediate water (depth: 200-2000 meters)#
+2237610#上層水#じょうそうすい#surface water (depth: 0-200 meters)#
+2237620#ＩＰＣＣ#アイピーシーシー#Intergovernmental Panel on Climate Change;IPCC#
+2237630#気候変動に関する政府間パネル#きこうへんどうにかんするせいふかんパネル#Intergovernmental Panel on Climate Change;IPCC#
+2237640##アガリクス#Agaricus subrufescens (species of mushroom with purported medicinal properties)#
+2237650#臍帯血;さい帯血#さいたいけつ#umbilical cord blood#
+2237660#鞘味泥#さやみどろ;サヤミドロ#oedogonium (any of a genus of filamentous green algae)#
+2237670#壷黴;壺黴#つぼかび;ツボカビ#chytrid (any simple, algaelike fungi of order Chytridiales)#
+2237680#カエルツボカビ症;蛙壷黴症#カエルツボカビしょう;かえるつぼかびしょう#chytridiomycosis (fatal infectious disease of amphibians)#
+2237690#人生相談#じんせいそうだん#counselling service (counseling);life matters advice service#
+2237700#人生相談欄#じんせいそうだんらん#advice column;agony aunt column#
+2237710#ジェネリック医薬品#ジェネリックいやくひん#generic drug#
+2237720#ジェネリック品#ジェネリックひん#generic product#
+2237730#後発医薬品#こうはついやくひん#generic drug#
+2237740#シックハウス症候群#シックハウスしょうこうぐん#sick-house syndrome;sick-building syndrome#
+2237750#ＰＴＳＤ#ピーティーエスディー#post-traumatic stress disorder;PTSD#
+2237760#心的外傷後ストレス障害#しんてきがいしょうごストレスしょうがい#post-traumatic stress disorder;PTSD#
+2237770#脳死移植#のうしいしょく#organ transplant from a brain-dead donor#
+2237780##ラニーニャ#La Nina (ocean-atmosphere phenomenon similar to El Nino)#
+2237790##ビオトープ#biotope#
+2237800#性同一性障害#せいどういつせいしょうがい#gender identity disorder#
+2237810#予報円#よほうえん#forecast center position (of a typhoon, etc.)#
+2237820#ＩＣタグ#アイシータグ#IC tag (integrated circuit tag, used as an alternative to bar codes)#
+2237830#燃料電池車#ねんりょうでんちしゃ#fuel-cell car;fuel-cell vehicle#
+2237840##イモビライザー#immobiliser (electronic device that prevents an automobile engine from running without the key);immobilizer#
+2237850##メタンハイドレート#methane hydrate#
+2237860#ＭＯＸ燃料#モックスねんりょう#mixed oxide fuel;MOX fuel#
+2237870#ＥＴＣ#イーティーシー#electronic toll collection system;ETC#
+2237880#ＩＨ調理器#アイエッチちょうりき#induction cooker#
+2237890#ＳＮＳ#エスエヌエス#social networking service;SNS#
+2237900##イオンエンジン;イオン・エンジン#ion engine#
+2237910#ワインバーグサラム理論#ワインバーグサラムりろん#Weinberg-Salam theory (particle physics)#
+2237920#統一場理論#とういつばりろん#unified field theory#
+2237930#地理情報システム#ちりじょうほうシステム#geographic information system;GIS#
+2237940#青色発光ダイオード#あおいろはっこうダイオード#blue light-emitting diode;blue LED#
+2237950#高度道路交通システム#こうどどうろこうつうシステム#intelligent transportation system;ITS#
+2237960#情報システム#じょうほうシステム#information system#
+2237970#着衣泳#ちゃくいえい#swimming fully-clothed#
+2237980#鉈鎌#なたがま#billhook;fascine knife;sickle-shaped tool with a sharp inner edge, halfway between a knife and an axe#
+2237990#パリ症候群#パリしょうこうぐん#Paris syndrome (psychological problems associated with living in Paris)#
+2238000#ジモ語#ジモご#local language;local dialect#
+2238010#地元語#じもとご#local language;local dialect#
+2238020#茶陶#ちゃとう#tea bowl#
+2238030#精米機#せいまいき#rice huller;rice polishing machine;rice pearling machine;rice sweeper;rice mill#
+2238040#病気休職#びょうききゅうしょく#sick leave;sickness leave#
+2238050#持ちのいい;持ちの良い;持ちのよい#もちのいい;もちのよい#long lasting#
+2238060#切りのいい;切りの良い#きりのいい#good place (to leave off)#
+2238070#仲のいい;仲の良い;仲のよい#なかのいい;なかのよい#close (e.g. in terms of relationship);intimate#
+2238080#受けのいい;受けの良い;受けのよい#うけのいい;うけのよい#popular#
+2238090#気分のいい;気分の良い;気分のよい#きぶんのいい;きぶんのよい#pleasant feeling;good feeling#
+2238100#育ちのいい;育ちの良い;育ちのよい#そだちのいい;そだちのよい#well bred#
+2238110#通りのいい;通りの良い;通りのよい#とおりのいい;とおりのよい#well able to pass (e.g. breezes)#
+2238120#ノリの良い#ノリのいい#easy to get into (e.g. of music, etc.);easily getting into (a certain mood, etc.)#
+2238130#人当たりのいい;人当たりの良い;人当たりのよい#ひとあたりのいい;ひとあたりのよい#sociable#
+2238140#面倒見のいい;面倒見の良い;面倒見のよい#めんどうみのいい;めんどうみのよい#helpful (in terms of taking care of people)#
+2238150#羽振りのいい;羽振りの良い#はぶりのいい;はぶりのよい#powerful;influential;prosperous;popular#
+2238160#腕が悪い#うでがわるい#unskilled;less able#
+2238170#品が悪い#ひんがわるい#low class;poor quality#
+2238180#育ちが悪い#そだちがわるい#ill bred;poorly brought up#
+2238190#通りが悪い#とおりがわるい#pass poorly;run poorly#
+2238200#悪運が強い#あくうんがつよい#having the luck to escape trouble (your behaviour has landed you in)#
+2238210#役付取締役#やくつきとりしまりやく#executive director#
+2238220#底#てい#base (logarithmic, exponential, number system);radix;base (triangle, cone, cylinder, etc.);type;kind;extent;degree#
+2238230#ノリが悪い#ノリがわるい#difficult to get into;not be easily influenced into joining some mood or activity#
+2238240#あくの強い;灰汁の強い#あくのつよい#harsh tasting;strongly alkaline tasting;excessively strong-willed;fiercely individualistic;strongly idiosyncratic#
+2238250#経済史#けいざいし#economic history#
+2238260#マンネリ化#マンネリか#getting stuck in a rut;becoming stereotyped#
+2238270#従#じゅう#subordinate;secondary;junior;incidental#
+2238280#冠#かぶり;こうぶり;かうぶり;かがふり#order;rank#
+2238290#よくあるご質問;良くあるご質問;よくある御質問;良くある御質問#よくあるごしつもん#frequently asked questions;FAQ#
+2238300#嫌韓#けんかん#hatred of things Korean (by Japanese)#
+2238310#うだつの上がらない;卯建のあがらない#うだつのあがらない#lacking potential for advancement;no-hoper#
+2238320#バツの悪い;ばつの悪い#バツのわるい;ばつのわるい#awkward;uncomfortable;embarrassing#
+2238330#運の悪い#うんのわるい#unlucky#
+2238340#影の薄い#かげのうすい#inconspicuous;unobtrusive;low profile#
+2238350#縁のない;縁の無い#えんのない#unrelated;unconnected#
+2238360#実がなる#みがなる#to bear fruit;to produce a crop#
+2238370#位を与える#くらいをあたえる#to be appointed to a rank#
+2238380#経営上#けいえいじょう#administrative;managerial;operational#
+2238390##マリー#mallee (var. of eucalyptus)#
+2238400#採金#さいきん#gold mining;extraction of gold#
+2238410#採金地#さいきんち#goldfield#
+2238420#曾お祖父さん#ひいおじいさん#great-grandfather#
+2238430##テンプレ#template#
+2238440#携帯ストラップ#けいたいストラップ#straps for mobile phone#
+2238450#開口率#かいこうりつ#aperture ratio#
+2238460#縁の遠い#えんのとおい#distantly related#
+2238470#往生際の悪い#おうじょうぎわのわるい#unreasonably stubborn;not knowing when to give up#
+2238480#可能性の高い#かのうせいのたかい#very likely;very probable#
+2238490#我の強い#がのつよい#egoistic;selfish;self-willed#
+2238500#懐の深い#ふところのふかい#broad-minded#
+2238510#目の悪い#めのわるい#having poor vision;poorly sighted#
+2238520#仮説検定#かせつけんてい#hypothesis test#
+2238530#気の強い#きのつよい#strong-willed;strong of heart#
+2238540#気の荒い#きのあらい#bad-tempered;quarrelsome#
+2238550#気の弱い#きのよわい#timid;faint of heart#
+2238560#気の小さい#きのちいさい#timid;faint-hearted;wimpish#
+2238570#気の早い#きのはやい#short-tempered;quick-tempered;hasty#
+2238580#気の多い#きのおおい#fickle;having many romantic interests#
+2238590#気の大きい#きのおおきい#generous;big-hearted#
+2238600#気の短い#きのみじかい#quick-tempered;impatient#
+2238610#気の置けない#きのおけない#amiable;affable#
+2238620#気の長い#きのながい#patient#
+2238630#救いようのない;救い様のない#すくいようのない#hopeless;irredeemable#
+2238640#興味の薄い#きょうみのうすい#uninteresting#
+2238650#業の深い#ぎょうのふかい#sinful#
+2238660#金のない#かねのない#broke;skint#
+2238670#経験の浅い#けいけんのあさい#inexperienced#
+2238680#芸のない#げいのない#uninspiring;unexciting;dull;unrefined;uninteresting#
+2238690#肩身の狭い#かたみのせまい#ashamed#
+2238700#言いようのない;言い様のない#いいようのない#indescribable#
+2238710#呼び声の高い#よびごえのたかい#widely viewed as a prominent prospect (for)#
+2238720#口のうまい;口の上手い#くちのうまい#honeymouthed;glib;fair-spoken#
+2238730#口の悪い;口のわるい#くちのわるい#sarcastic;foulmouthed;having a sharp tongue;having a sharp nasty tongue#
+2238740#口の軽い;口のかるい#くちのかるい#loose-tongued;talkative#
+2238750#口の堅い;口のかたい#くちのかたい#tight-lipped;able to keep a secret#
+2238760#口数の少ない#くちかずのすくない#taciturn#
+2238770#口数の多い#くちかずのおおい#talkative#
+2238780#腰の強い#こしのつよい#firm;persevering;flexible and hard to break#
+2238790#架け橋となる#かけはしとなる#to bridge (e.g. cultural divides, technical differences, etc.);to bring together#
+2238800#腰が軽い#こしがかるい#cheerfully working;hasty#
+2238810#腰の軽い#こしのかるい#cheerfully working#
+2238820#腰の重い#こしのおもい#slow in start work#
+2238830#手操作#てそうさ#manual process;manual operation;manual procedure#
+2238840#押さえねじ#おさえねじ#locking screw;set screw#
+2238850#気候変動#きこうへんどう#climate change#
+2238860#落射照明#らくしゃしょうめい#epi-illumination;illumination that impinges on the sample from the viewing direction#
+2238870#雑貨屋#ざっかや#general store#
+2238880#ナイジェリア詐欺#ナイジェリアさぎ#Nigerian fraud;419 fraud#
+2238890#腰の低い;腰のひくい#こしのひくい#humble;modest#
+2238900#資格のない#しかくのない#unqualified#
+2238910#耳の遠い;耳のとおい#みみのとおい#hard of hearing#
+2238920#耳の早い#みみのはやい#quick-eared#
+2238930#手の早い#てのはやい#fast working;fast in forming relationships with women;quick to resort to violence#
+2238940#酒癖の悪い#さけぐせのわるい#being a bad drunk#
+2238950#情報量の多い#じょうほうりょうのおおい#informative#
+2238970#日本語でＯＫ;日本語でおｋ;日本語でオッケー#にほんごでオッケー#you're not making any sense;can I have that in Japanese?#
+2238980##スレチ#off topic (e.g. in a web forum)#
+2238990#スレ違い#スレちがい#off topic (e.g. in a web forum)#
+2239000#食の細い#しょくのほそい#sparsely eating;having a small appetite#
+2239010#寝覚めの悪い#ねざめのわるい#of uneasy conscience#
+2239020#心当たりのない#こころあたりのない#completely unknown;unexpected;having no clue about#
+2239030#取りにくい;取り難い#とりにくい#difficult (to obtain, receive permission, access, etc.);tough (to do, etc.)#
+2239040##ダイアクリティカルマーク#diacritical mark#
+2239050##ダイアクリティック#diacritic;diacritical mark#
+2239060#固有職員#こゆうしょくいん#regular staff#
+2239070#派遣職員#はけんしょくいん#temporary staff;loaned staff (e.g. from a parent or related organization)#
+2239080#腰を上げる#こしをあげる#to get up (from sitting);to finally start to do something;to get off one's arse (ass)#
+2239090#耐え得る;耐えうる#たえうる#to withstand;to be able to endure#
+2239100#神経の細い#しんけいのほそい#oversensitive#
+2239110#人気のない;人けのない#ひとけのない#deserted;empty of people#
+2239120##のっぺらぼう;のっぺらぽう;ぬっぺらぼう#smooth;flat;lacking bumps and dents;featureless;uneventful;mythical being with flat featureless face#
+2239130#足の遅い#あしのおそい#slow-footed#
+2239140#ノアの箱舟;ノアの方舟#ノアのはこぶね#Noah's ark#
+2239150#変ちくりん#へんちくりん#strange;weird;queer#
+2239160#チョン国#チョンこく#Korea#
+2239180#護教論#ごきょうろん#(Christian) apologetics#
+2239190#意味が通る#いみがとおる#to be comprehensible#
+2239200#意味が通じる#いみがつうじる#to be comprehensible#
+2239210#鼻で笑う#はなでわらう#to laugh scornfully#
+2239220#難民申請者#なんみんしんせいしゃ#asylum seekers#
+2239230#遜色のない#そんしょくのない#favourably comparing#
+2239240#難癖を付ける;難癖をつける#なんくせをつける#to blame;to find fault with#
+2239250#難癖付ける#なんくせつける#to blame;to find fault with#
+2239260#縮緬雑魚;縮緬じゃこ#ちりめんじゃこ;ちりめんざこ#dried young sardines#
+2239270#末那#まな#manas (defiled mental consciousness, which gives rise to the perception of self)#
+2239280#鉞#まさかり#broadaxe#
+2239290#混ぜこぜ#まぜこぜ#jumble (of two or several things);mix#
+2239300#宝探し;宝さがし;宝捜し#たからさがし#treasure hunting;lucky dip;game involving finding hidden prizes from a sand box, barrel of leaves, etc.#
+2239310##マルチポスト#multi-post (as frowned upon in newsgroups and web forums)#
+2239320#針葉樹林#しんようじゅりん#conifer forest;coniferous forest;needle-leaved forest#
+2239330#見本請求#みほんせいきゅう#sample request#
+2239340##イミフ#of uncertain meaning;ambiguous#
+2239350#開廊時間#かいろうじかん#opening hours of a gallery#
+2239360#歯糞;歯屎;歯くそ#はくそ#(dental) plaque#
+2239370#歯滓;歯かす#はかす#(dental) plaque#
+2239380#五等爵#ごとうしゃく#five ranks of nobility (duke, marquis, count, viscount, baron)#
+2239390#五爵#ごしゃく#five ranks of nobility (duke, marquis, count, viscount, baron)#
+2239400#爵#しゃく;さく#jue (ancient 3-legged Chinese wine pitcher, usu. made of bronze);peerage (hereditary title bestowed by the emperor)#
+2239410##パトリキ#patricians (ancient Roman nobility)#
+2239420##プレブス#plebs (ancient Roman commonalty)#
+2239430#外国人排斥#がいこくじんはいせき#xenophobia;exclusion (of foreigners)#
+2239440#刑務所暴動#けいむしょぼうどう#prison riot#
+2239450#行刑官#ぎょうけいかん#prison official#
+2239460#矯正職員#きょうせいしょくいん#correctional officer;corrections officer#
+2239470#仲の悪い#なかのわるい#on bad terms;at loggerheads#
+2239480#気がとがめる;気が咎める#きがとがめる#to feel guilty;to suffer from a guilty conscience;to feel uneasy;to have qualms about;to have scruples about;to feel regret#
+2239490#気が揉める#きがもめる#to feel anxious;to feel uneasy;to worry#
+2239500##スノープラウ;スノープロウ;スノー・プラウ#snow plow;snow plough#
+2239510#進行役#しんこうやく#facilitator;programme director;steering committee (chair)#
+2239520#袋蟻食#ふくろありくい;フクロアリクイ#numbat (Myrmecobius fasciatus);banded anteater#
+2239530#泉門#せんもん#soft spot (in the skull of an infant);fontanelle;fontanel;gates of Hades;entrance to the underworld#
+2239540#カメラ小僧#カメラこぞう#photographer, usually an amateur, who likes to take pictures of models and presenter ladies in exhibitions#
+2239550##カメコ#photographer, usually an amateur, who likes to take pictures of models and presenter ladies in exhibitions#
+2239560#数段#すうだん#several (levels, floors)#
+2239570#ターナー症候群#ターナーしょうこうぐん#Turner's syndrome#
+2239580#内府#ないふ;だいふ#Minister of the Interior (669-1868 CE);Lord Keeper of the Privy Seal (1885-1945 CE)#
+2239590#飛鳥浄御原律令#あすかきよみはらりつりょう#Asuka Kiyomihara Code (689 CE)#
+2239600#浄御原令#きよみはらりょう#Asuka Kiyomihara Code (689 CE)#
+2239610#大宝律令#たいほうりつりょう#Taiho Code (701 CE)#
+2239620#養老律令#ようろうりつりょう#Yoro Code (757 CE)#
+2239630#律宗#りっしゅう#Ritsu (school of Buddhism)#
+2239640#戒律宗#かいりつしゅう#Ritsu (school of Buddhism)#
+2239650#ピタゴラス音律#ピタゴラスおんりつ#Pythagorean temperament;Pythagorean tuning#
+2239660#中全音律#ちゅうぜんおんりつ#meantone temperament#
+2239670#純正律#じゅんせいりつ#just temperament;pure temperament#
+2239680#純正調#じゅんせいちょう#just intonation#
+2239690#調子笛#ちょうしぶえ#pitch pipe#
+2239700##ピッチパイプ;ピッチ・パイプ#pitch pipe#
+2239710#律管#りっかん#ancient Chinese pitch pipe (12 pipes corresponding to the ancient Chinese chromatic scale)#
+2239720#十二律#じゅうにりつ#ancient Chinese chromatic scale (primarily used in Japan for gagaku, etc.)#
+2239730#応鐘#おうしょう#(in China) 12th note of the ancient chromatic scale (approx. C sharp);tenth month of the lunar calendar#
+2239740#上無#かみむ#(in Japan) 12th note of the ancient chromatic scale (approx. C sharp)#
+2239750#無射#ぶえき;むえき#(in China) 11th note of the ancient chromatic scale (approx. C);ninth month of the lunar calendar#
+2239760#盤渉#ばんしき#(in Japan) 10th note of the ancient chromatic scale (approx. B)#
+2239770#南呂#なんりょ#(in China) 10th note of the ancient chromatic scale (approx. B);eighth month of the lunar calendar#
+2239780#鸞#らん#luan (mythical Chinese bird)#
+2239790#鸞鳥#らんちょう#luan (mythical Chinese bird)#
+2239800#鸞鏡#らんきょう;らんけい#mirror with a mythical Chinese bird carved into the back;(in Japan) 9th note of the ancient chromatic scale (approx. A sharp)#
+2239810#夷則#いそく#(in China) 9th note of the ancient chromatic scale (approx. A sharp);seventh lunar month#
+2239820#黄鐘#おうしき#(in Japan) 8th note of the ancient chromatic scale (approx. A)#
+2239830#林鐘#りんしょう#(in China) 8th note of the ancient chromatic scale (approx. A);sixth lunar month#
+2239840#鳧鐘#ふしょう#temple bell;(in Japan) 7th note of the ancient chromatic scale (approx. G sharp)#
+2239850#すい賓;蕤賓#すいひん#(in China) 7th note of the ancient chromatic scale (approx. G sharp);fifth lunar month#
+2239860#頭のおかしい;頭の可笑しい#あたまのおかしい#insane#
+2239870#頭の悪い#あたまのわるい#slow;weak-headed#
+2239880#旋法#せんぽう#(musical) mode#
+2239890#頭の固い;頭のかたい#あたまのかたい#obstinate;inflexible;thickheaded#
+2239900#頭の高い#あたまのたかい#haughty#
+2239910#頭の柔らかい#あたまのやわらかい#flexible (of people);open-minded#
+2239920#楽舞#がくぶ#singing and dancing;song and dance#
+2239930#頭の痛い;頭のいたい#あたまのいたい#headache inducing;vexing#
+2239940#胴の長い#どうのながい#long-bodied#
+2239950#天竺楽#てんじくがく#gagaku of Indian origin#
+2239960#能のない#のうのない#incompetent#
+2239970#林邑楽#りんゆうがく#Indian song and dance (introduced to Japan by the Chams in approx. 736 CE)#
+2239980#唐楽#とうがく#Tang-era Chinese music;style of gagaku based on Tang-era Chinese music and ancient Indian song and dance#
+2239990#左方の楽#さほうのがく#style of gagaku based on Tang-era Chinese music and ancient Indian song and dance#

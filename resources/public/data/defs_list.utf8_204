@@ -1,0 +1,981 @@
+2040000#大きめ;大き目#おおきめ#largish;biggish;a little bit larger#
+2040010#大違い#おおちがい#great difference;major mistake#
+2040020#大とろ#おおとろ#quality tuna;fat under-belly of tuna#
+2040030#大盤#おおばん#demonstration board (for Go, Shougi, etc.)#
+2040040#大盤振る舞い;大盤振舞い;椀飯振る舞い;椀飯振舞#おおばんぶるまい;おうばんぶるまい;おおばんふるまい#lavish feast;splendid banquet;corporate largess;lavish hospitality#
+2040050#大紫#おおむらさき;オオムラサキ#giant purple butterfly (species of nymphalid butterfly, Sasakia charonda);Rhododendron oomurasaki (species of purple azalea)#
+2040060##ヘビードリンカー;ヘビー・ドリンカー#alcoholic (from heavy drinker)#
+2040070#準ミリ波#じゅんミリは#near millimeter wave;submillimeter wave#
+2040080#賭博師#とばくし#gambler;gamester#
+2040090#投機師#とうきし#adventurer;speculator#
+2040100#細工師#さいくし#craftsman;artisan#
+2040110##チューチュー#squeak (sound made by a mouse);cheep;peep#
+2040120##ピーピー#peep (sound made by a small bird)#
+2040130#電食;電喰#でんしょく#electrolytic corrosion#
+2040140#烏兎匆々;烏兎匆匆#うとそうそう#days and nights passing by quickly;months and years flying by;Time flies#
+2040150#掩護射撃;援護射撃#えんごしゃげき#(providing) covering fire;supporting (backing up) someone (in a debate or argument)#
+2040160#厭離穢土#えんりえど;おんりえど#abhorrence of (living in) this impure world#
+2040170#御手許金;お手元金#おてもときん#the privy purse;the money used for private purposes by the members of the Imperial family#
+2040180#お役御免;お役ご免;お役ごめん;御役御免;御役ごめん;御役ご免#おやくごめん#dismissal;firing;retirement;being relieved from one's post;being relieved of a burden#
+2040200#家事見習;家事見習い#かじみならい#apprenticeship in the running of a household;prospective bride who undertakes an apprenticeship to learn housekeeping#
+2040210#活溌溌地;活発発地#かっぱつはっち;かっぱつぱっち#being full of vitality (energy);vigorous and in high spirits#
+2040220#寒気凛々;寒気凛凛#かんきりんりん#it (the weather) being piercing (bitterly) cold#
+2040230#寒中見舞;寒中見舞い#かんちゅうみまい#winter greeting card;inquiring after someone's health in the cold season#
+2040240#奸佞邪知;奸佞邪智#かんねいじゃち#wiles and cunning;craftiness and treachery#
+2040250#鬼哭啾々;鬼哭啾啾#きこくしゅうしゅう#spine-chilling (hair-raising) (like the wailing and weeping of a restless ghost)#
+2040260#気骨稜々;気骨稜稜#きこつりょうりょう#(a person with) strong moral fiber (backbone, determination)#
+2040270#旗鼓堂々;旗鼓堂堂#きこどうどう#with colors flying and band playing;triumphantly;in splendid array#
+2040280#貴賤上下#きせんしょうか;きせんじょうげ#high and low;(people of) all ranks and classes#
+2040290#びっくり仰天;吃驚仰天#びっくりぎょうてん#astonished;stunned;startled out of one's wits;thunderstruck;open-eyed astonishment#
+2040300#九牛一毛#きゅうぎゅういちもう;きゅうぎゅうのいちもう#a drop in the bucket (ocean);a small fraction (of);trifle#
+2040310#虚実混交;虚実混淆#きょじつこんこう#mishmash of truth and untruth;mixture of fiction and fact#
+2040320#金甌無欠#きんおうむけつ;きんのうむけつ#flawless;perfect;(a nation) having never been invaded by outside forces#
+2040330#金口木舌#きんこうぼくぜつ;きんこうもくぜつ#(public) opinion leader#
+2040340#筋骨隆々;筋骨隆隆#きんこつりゅうりゅう#muscular;strong-muscled#
+2040350#空々寂々;空空寂寂#くうくうじゃくじゃく#deserted and lonesome;quiet and alone;innocent and nonattached;All is void#
+2040360#言々句々;言言句句#げんげんくく#every single word and phrase;each and every word#
+2040370#拳々服膺;拳拳服膺#けんけんふくよう#firmly bear in mind;have something engraved on one's mind (heart)#
+2040380#現世利益#げんせりやく;げんぜりやく#benefits gained in this world through observance of the Buddhist teachings;happiness gained in this world through observance of the Buddhist teachings#
+2040390#巻土重来;捲土重来;けん土重来#けんどじゅうらい;けんどちょうらい#recouping one's strength for a renewed attack (on);making another attempt with redoubled efforts#
+2040400#好評嘖々;好評嘖嘖#こうひょうさくさく#enjoying great popularity;receiving widespread high praise;being a great success with the public#
+2040410#乞食坊主#こじきぼうず;こつじきぼうず#Buddhist monk#
+2040420#歳々年々;歳歳年年#さいさいねんねん#annually;every year;year in and year out;from year to year#
+2040430#一昨々年;一昨昨年#さきおととし;さおととし;さいととし;いっさくさくねん#two years before last (year);three years back (ago)#
+2040440#砂塵濛々;砂塵濛濛;砂塵朦々;砂塵朦朦#さじんもうもう#big clouds of dust;haze of dust#
+2040450#四季折々;四季折折#しきおりおり#from season to season;season by season;of each season;in each season#
+2040460#詩人墨客#しじんぼっかく;しじんぼっきゃく#poets and artists;persons who take delight in such refined pursuits as poetry, literature, painting, and calligraphy#
+2040470#日月星辰#じつげつせいしん;にちげつせいしん#the sun, the moon and the stars;the heavenly bodies#
+2040480#臭気芬々;臭気芬芬#しゅうきふんぷん#giving off a foul odor;the air being heavy with an offensive smell#
+2040490#身心一如;心身一如#しんしんいちにょ#body and mind as one;mind-body unity#
+2040500#人心恟々;人心恟恟#じんしんきょうきょう#the people being panic-stricken (in alarm)#
+2040510#尽未来際#じんみらいさい;じんみらいざい#to the end of time;to the crack of doom;for ever and ever#
+2040520#神武以来#じんむいらい;じんむこのかた#since the era of the Emperor Jinmu;(first ever) since the dawn of Japan's history;unprecedented#
+2040530#人倫退廃;人倫頽廃#じんりんたいはい#decline (decay, corruption) of ethical standards#
+2040540#千山万水#せんざんばんすい;せんさんばんすい#many mountains and rivers;a great distance to travel#
+2040550#戦々慄々;戦戦慄慄#せんせんりつりつ#trembling with fear;filled with trepidation#
+2040560#千慮一失#せんりょいっしつ;せんりょのいっしつ#mere slip by someone who is usually very careful;simple mistake by a wise person;point overlooked by a cautious person#
+2040570#千慮一得#せんりょいっとく;せんりょのいっとく#Even a fool may sometimes come up with a good idea#
+2040580#俗気芬々;俗気芬芬#ぞくけふんぷん#of low (vulgar) taste;lacking class#
+2040590#大死一番#だいしいちばん;たいしいちばん#exerting oneself to the utmost, prepared to die if necessary#
+2040600#太平無事;泰平無事#たいへいぶじ#peace and quiet;safe and peaceful;tranquil and uneventful#
+2040620#縦割行政;縦割り行政#たてわりぎょうせい#vertically segmented administrative system;overcompartmentalized bureaucracy;system in which interministerial rivalry diminishes overall efficiency;(bureaucratic) sectionalism;interministerial rivalry;bureaucratic fiefdoms#
+2040630#貪官汚吏#たんかんおり;どんかんおり#corrupt government official#
+2040640#知恵才覚;智恵才覚#ちえさいかく#having wisdom and resources;being clever and talented#
+2040650#知恵分別;智恵分別#ちえふんべつ#wisdom and good (common sense) judgment#
+2040660#喋々喃々;喋喋喃喃#ちょうちょうなんなん#billing and cooing;holding an intimate, long-winded conversation in whispers#
+2040670#朝々暮々;朝朝暮暮#ちょうちょうぼぼ#every morning and evening#
+2040680#人相風体#にんそうふうてい;にんそうふうたい#someone's looks and personal appearance#
+2040690#白昼堂々;白昼堂堂#はくちゅうどうどう#openly (unashamedly) in broad daylight#
+2040710#一人稽古;独り稽古#ひとりげいこ#practicing by oneself;self-instruction#
+2040720#百尺竿頭#ひゃくせきかんとう;ひゃくしゃくかんとう#the highest state of one's enlightenment;the highest level one can attain#
+2040730#病気見舞;病気見舞い#びょうきみまい#get-well card (gift, letter);visit to (inquiry after) a sick person#
+2040740#風紀退廃;風紀頽廃#ふうきたいはい#decay (decline, corruption) of public morals;moral decadence#
+2040750#無骨一徹;武骨一徹#ぶこついってつ#rustic;boorish;uncouth;adamantly sticking to being boorish#
+2040760#不届千万;不届き千万#ふとどきせんばん#very rude (insolent);extremely reprehensible;outrageous#
+2040770#不立文字#ふりゅうもんじ;ふりつもんじ#Buddhist revelation through intuitive discernment;Spiritual awakening cannot be experienced with words and letters;Spiritual enlightenment can be attained only by means of communion of mind with mind (Zen Buddhism)#
+2040780#付和随行;附和随行#ふわずいこう#participating in something by merely following the leaders#
+2040790#無為無聊#むいぶりょう;むいむりょう#boredom;ennui;tedium;wearisomeness#
+2040800#無間奈落#むげんならく;むけんならく#the Avici hell, the eighth and most painful of the eight hells in Buddhism#
+2040810#無双仕立;無双仕立て#むそうじたて#making a piece of clothing with the same cloth inside and out;making a kimono with lining of the same fabric#
+2040820#名声赫々;名声赫赫#めいせいかっかく;めいせいかくかく#of great renown;highly illustrious;at the zenith of one's fame#
+2040830#名声嘖々;名声嘖嘖#めいせいさくさく#highly renowned;on everybody's lips;enjoying a high reputation#
+2040840#妄言多謝#もうげんたしゃ;ぼうげんたしゃ#Kindly excuse my reckless remarks;Please excuse my thoughtless words. (used deferentially, in a letter, etc.)#
+2040850#雄気堂々;雄気堂堂#ゆうきどうどう#with heroic drive and boundless energy#
+2040860#嫁入道中;嫁入り道中#よめいりどうちゅう#nuptial procession#
+2040870#磊々落々;磊磊落落#らいらいらくらく#openhearted;unaffected;free and easy#
+2040880#落花紛々;落花紛紛#らっかふんぷん#blossoms falling in confusion#
+2040890#冷酷無惨;冷酷無残;冷酷無慚;冷酷無慙#れいこくむざん#cruel and heartless;merciless;implacable;cold-blooded#
+2040900#六波羅蜜#ろくはらみつ;ろっぱらみつ#the six virtues (perfections) a Buddha elect practices to attain supreme enlightenment#
+2040910#相碁井目#あいごせいもく#In every game or play, differences in skill between individuals can be substantial#
+2040920#愛人関係#あいじんかんけい#being lovers#
+2040930#哀訴嘆願;哀訴歎願#あいそたんがん#plea;entreaty;supplication#
+2040940#赤烏帽子#あかえぼし#red eboshi (headgear worn by Japanese men prior to and during the Edo period, which was ordinarily black in color);metaphor for an odd item or having a taste for such an item#
+2040950#商人気質#あきんどかたぎ#mercantile mind-set;mercenary spirit;being intent on making a profit#
+2040960#青田売買#あおたばいばい#dealing in unharvested rice crop#
+2040970#悪逆非道#あくぎゃくひどう#heinous;treacherous;atrocious;diabolic;fiendish;inhuman#
+2040980#悪行三昧#あくぎょうざんまい#committing every evil;being given to evil ways;following the path of evil#
+2040990#悪徳商法#あくとくしょうほう#unscrupulous (crooked, fraudulent) business practices;pernicious sales methods#
+2041000#悪人正機#あくにんしょうき#The evil persons are the right object of Amida's salvation;The evil persons have the unique opportunity to go to heaven#
+2041010#握髪吐哺#あくはつとほ#(a statesman making) extraordinary efforts to find and employ capable persons (persons of great wisdom)#
+2041020#悪木盗泉#あくぼくとうせん#A virtuous person does (should) not commit an act that offends his moral principles no matter how hard pressed he may be#
+2041030#悪魔調伏#あくまちょうぶく#exorcism;praying down evil spirits#
+2041040#足軽大将#あしがるたいしょう#samurai in command of a troop of foot soldiers#
+2041050#悪鬼羅刹#あっきらせつ#man-eating fiend#
+2041060#阿鼻地獄#あびじごく#the Avici hell, the eighth and most painful of the eight hells in Buddhism#
+2041070#阿付迎合;阿附迎合#あふげいごう#ingratiation;sycophancy#
+2041080#雨傘番組#あまがさばんぐみ#substitute for a scheduled live broadcast of a sporting event that was rained out#
+2041090#甘辛両刀#あまからりょうとう#taste for both wines and sweets;having a liking for both alcoholic beverages and sweet things#
+2041100#蛙鳴蝉噪#あめいせんそう#annoying noise;fruitless argument;useless controversy#
+2041110#阿諛迎合#あゆげいごう#ingratiation;sycophancy#
+2041120#阿諛便佞;阿諛弁佞#あゆべんねい#flattery;adulation;sycophancy#
+2041130#暗送秋波#あんそうしゅうは#giving an amorous sidelong look;casting an amorous glance (at);playing up to someone behind the scenes#
+2041140#安穏無事#あんのんぶじ#peace and quiet;safe and peaceful;tranquil and uneventful#
+2041150#安否不明#あんぴふめい#fate (safety) of a person (persons) being unknown#
+2041160#意見具申#いけんぐしん#offering one's opinion (to someone on something)#
+2041170#異国趣味#いこくしゅみ#taste for the exotic;infatuation with a foreign way of life;exoticism#
+2041180#意識過剰#いしきかじょう#hyperconsciousness;too great a sense (of);something being only one's imagination;letting imagination run away with one#
+2041190#意識転換#いしきてんかん#change in mentality;changing one's way of thinking;adjusting psychologically to shifting circumstances#
+2041200#意識変革#いしきへんかく#radical change in mentality;radically changing one's way of thinking;radical change in consciousness#
+2041210#意識朦朧#いしきもうろう#being in a hazy state;being only half conscious;feeling dopey#
+2041220#意志堅固#いしけんご#strong determination;strong-willed;having strong will power;firmness of purpose#
+2041230#異字同訓#いじどうくん#different kanji with the same Japanese reading (and usu. a similar meaning)#
+2041240#意趣遺恨#いしゅいこん#grudge;spite;malice;rancor#
+2041250#衣装道楽#いしょうどうらく#love of fine clothing;weakness for fine clothes;being extravagant in clothing#
+2041260#居候生活#いそうろうせいかつ#living in another person's house without paying for food and lodging;sponging on other people for accommodation#
+2041270#一行知識#いちぎょうちしき#one-line fact;one-line information;information (explanation) provided in a few scanty words#
+2041280#一芸一能#いちげいいちのう#(excelling in) one area or skill;(being skilled or gifted in) one certain area#
+2041290#一伍一什#いちごいちじゅう#full particulars;the whole story;from beginning to end#
+2041300#一語一句#いちごいっく#every single word and phrase;each and every word#
+2041310#一言隻句#いちごんせきく;いちごんせっく#every single word and phrase;each and every word#
+2041320#一字一字#いちじいちじ#letter by letter;character by character#
+2041330#一字半句#いちじはんく#a single word;(not even) a word;(not even) a syllable#
+2041340#一上一下#いちじょういちげ#up and down#
+2041350#一大決心#いちだいけっしん#momentous (crucial) decision#
+2041360#一大旋風#いちだいせんぷう#great sensation;taking something by storm;making a splash#
+2041370#一大鉄槌#いちだいてっつい#dealing a hard (heavy, crushing) blow (to)#
+2041380#一大転機#いちだいてんき#significant turning point#
+2041390#一読三嘆;一読三歎#いちどくさんたん#a reading leaves one with ceaseless sighs of admiration#
+2041400#一読呆然#いちどくぼうぜん#a (single) reading (a perusal) leaves one dumbfounded#
+2041410#一日一善#いちにちいちぜん#doing a good deed each day;doing one good turn a day#
+2041420#一人当千#いちにんとうせん;いちにんとうぜん#being a match for a thousand#
+2041430#一年有半#いちねんゆうはん#one year and a half#
+2041440#一番勝負#いちばんしょうぶ#contest decided by a single round (bout);contest decided by a single roll of dice;one-shot game (contest);make-or-break game#
+2041450#一番太鼓#いちばんだいこ#beating of a drum as a signal to announce the opening (beginning) of an event (theatrical performance, festival, etc.)#
+2041460#一番弟子#いちばんでし#the (one's) best pupil;the (one's) top disciple#
+2041470#一番風呂#いちばんぶろ#freshly drawn bath;(taking) a bath before anyone else#
+2041480#一木一草#いちぼくいっそう#a single tree or blade of grass;every stick and stone (of a place)#
+2041490#一味同心#いちみどうしん#(people) working together with one mind#
+2041500#一夜大尽#いちやだいじん#overnight millionaire#
+2041510#一回勝負#いっかいしょうぶ#contest decided by a single round (bout);contest decided by a single roll of dice;one-shot game (contest);make-or-break game#
+2041520#一挙両全#いっきょりょうぜん#killing two birds with one stone;serving two ends#
+2041530#一高一低#いっこういってい#rise and fall;frequent fluctuations (of the market price)#
+2041540#一刻一刻#いっこくいっこく#hourly;from hour to hour;moment by moment;momently;from one minute to the next;with each passing moment#
+2041550#一国一城#いっこくいちじょう#(possession of) one feudal domain and one castle;being independent (acting without compromise or assistance);establishing only one castle in each feudal domain (edict issued by the shogunate in 1615)#
+2041560#一瞬絶句#いっしゅんぜっく#breaking off short (in one's speech);rendered speechless for a moment#
+2041570#一唱三嘆;一倡三歎#いっしょうさんたん#one reading (of a poem aloud) leaves one with ceaseless sighs of admiration#
+2041580#一笑千金#いっしょうせんきん#A smile of a beautiful woman is worth a thousand pieces of gold;enchanting smile of a glamorous woman#
+2041590#一生不犯#いっしょうふぼん#(strict) observance of the Buddhist precept of lifelong celibacy#
+2041600#一世風靡#いっせいふうび#ruling the times;holding sway over the minds of the people#
+2041610#一殺多生#いっさつたしょう;いっせつたしょう#It is justifiable to kill one (harmful) person to save the lives of many#
+2041630#一旦緩急#いったんかんきゅう#(when) danger threatens;should an emergency occur#
+2041640#一致協力#いっちきょうりょく#combined (concerted) efforts;solidarity;joining forces (with)#
+2041650#一朝有事#いっちょうゆうじ#(when) the time of need arises;should an emergency occur#
+2041660#一徹短慮#いってつたんりょ#stubborn and short-tempered#
+2041670#一点一画#いってんいっかく#the dots of i's and the crosses of t's;(not neglecting) the slightest details#
+2041680#一杯一杯#いっぱいいっぱい#one cup after another;cup by cup;to the limit;to the fullest extent;absolutely the limit;the best one can do;breaking even#
+2041690#一発勝負#いっぱつしょうぶ#contest decided by a single round (bout);contest decided by a single roll of dice;one-shot game (contest);make-or-break game#
+2041700#一発必中#いっぱつひっちゅう#success on the first try (attempt)#
+2041710#一筆啓上#いっぴつけいじょう#Just a short note to tell you ...;This will just be a short note.#
+2041720#逸楽生活#いつらくせいかつ#a life given up to pleasure;pleasure-seeking lifestyle#
+2041730#田舎気質#いなかかたぎ#rusticity;provincialism#
+2041740#田舎大尽#いなかだいじん#provincial (country) millionaire#
+2041750#夷蛮戎狄#いばんじゅうてき#the barbarians beyond the borders of old China#
+2041760#威風凛々;威風凛凛#いふうりんりん#awe-inspiring;majestic;commanding;stately;with an imposing air;in a stately (dignified) manner#
+2041770#畏怖嫌厭#いふけんえん#feelings of dread and aversion#
+2041780#異聞奇譚#いぶんきたん#strange stories and curious tales#
+2041790#韋編三絶#いへんさんぜつ#repeated reading;close (careful) reading;careful perusal#
+2041800#意欲満々;意欲満満#いよくまんまん#full of zeal;highly motivated;very eager#
+2041810#異類異形#いるいいぎょう#strange-looking creatures;spirits and goblins#
+2041820#因果因縁#いんがいんねん#cause and effect;karma;retribution;an evil cause producing an evil effect#
+2041830#因果覿面#いんがてきめん#the swiftness of retributive justice#
+2041840#隠居仕事#いんきょしごと#post-retirement job;work done by a retired person where earning an income is not a primary concern#
+2041850#慇懃丁重#いんぎんていちょう#polite and courteous#
+2041860#淫祠邪教#いんしじゃきょう#evil heresies#
+2041870#因習道徳#いんしゅうどうとく#conventional morality (morals)#
+2041880#隠遁生活#いんとんせいかつ#a reclusive life;living secluded from the world;leading a sequestered life#
+2041890#隠蔽工作#いんぺいこうさく#(create) a cover-up#
+2041900#陰陽五行#いんようごぎょう;おんようごぎょう#the cosmic dual forces (yin and yang) and the five elements (metal, wood, water, fire and earth) in Chinese cosmology#
+2041910#陰陽和合#いんようわごう#the harmony of yin and yang energies#
+2041920#羽化登仙#うかとうせん#a sense of release (as if one had wings and were riding on air)#
+2041930#浮草稼業#うきぐさかぎょう#precarious trade;unstable occupation;itinerant trade#
+2041940#浮き草稼業#うきぐさかぎょう#precarious trade;unstable occupation;itinerant trade#
+2041950#雨奇晴好#うきせいこう#scenery being beautiful in both rainy and sunny weather#
+2041960#有情無情#うじょうむじょう#sentient and nonsentient beings#
+2041970#宇宙開闢#うちゅうかいびゃく#(since) the beginning of the universe;(since) the dawn of time#
+2041980#有髪俗体#うはつぞくたい#(a Buddhist monk or priest or nun) without head shaven and not wearing religious garb#
+2041990#雲雨巫山#うんうふざん#sexual liaison#
+2042000#雲煙過眼#うんえんかがん#not being obsessed with something very long (just as clouds and haze pass swiftly before one's eyes)#
+2042010#運気好転#うんきこうてん#turn (stroke) of good fortune;one's fortune turning for the better#
+2042020#雲集霧散#うんしゅうむさん#(many things) gathering like clouds and vanishing like mist;swarming and scattering#
+2042030#雲水行脚#うんすいあんぎゃ#itinerant monk being on pilgrimages to many lands#
+2042040#運動音痴#うんどうおんち#having slow reflexes;being nonathletic;person who is not athletic#
+2042050#永久欠番#えいきゅうけつばん#retired (uniform) number#
+2042060#永久不変#えいきゅうふへん#permanence;forever unchanging#
+2042070#営業路線#えいぎょうろせん#railroad (bus) lines (routes) in operation;business plan (policy)#
+2042080#永劫回帰#えいごうかいき#eternal recurrence;eternal return#
+2042090#永字八法#えいじはっぽう#the eight basic brush strokes in writing Chinese characters#
+2042100#映像文化#えいぞうぶんか#visual culture;culture of visual images;(screen) image culture#
+2042110#永代供養#えいたいくよう#services performed in perpetuity by a Buddhist temple for the repose of a departed soul#
+2042120#英雄豪傑#えいゆうごうけつ#hero;warrior of matchless valor;heroic character#
+2042130#英雄好色#えいゆうこうしょく#All great men like women;Great men enjoy sensual pleasure#
+2042140#栄養満点#えいようまんてん#highly nourishing (nutritious);earning top marks nutrition-wise#
+2042150#笑顔千両#えがおせんりょう#beautiful smile;there being a great charm about one's smile#
+2042160#益者三友#えきしゃさんゆう#There are three types of friends worth having--honest, sincere, and well-informed ones. (Confucius)#
+2042170#越後獅子#えちごじし#street performance by itinerant entertainers featuring a tumbling act in which a child performer wears a carved lion's head#
+2042180#宴会政治#えんかいせいじ#politicking by wining and dining#
+2042190#縁故採用#えんこさいよう#employment of workers through (personal) connections;getting a job through one's personal connection#
+2042200#縁故政治#えんこせいじ#crony politics;nepotistic government#
+2042210#縁故疎開#えんこそかい#evacuating to the homes of one's relatives in the countryside in wartime#
+2042220#縁故募集#えんこぼしゅう#recruiting (inviting application for) through personal connections;private (stock) offering (subscription)#
+2042230#燕雀鴻鵠#えんじゃくこうこく#How can a small bird (a sparrow, a petty person) understand the aspirations of a great bird (a phoenix);Only a hero can understand a hero#
+2042240#縁者贔屓#えんじゃびいき#nepotism#
+2042250#艶笑文学#えんしょうぶんがく#humorous erotic literature#
+2042260#厭世自殺#えんせいじさつ#killing oneself out of despair (disgust with life)#
+2042270#演説口調#えんぜつくちょう#oratorical tone#
+2042280#嫣然一笑#えんぜんいっしょう#giving a charming (bewitching) smile#
+2042290#厭戦気分#えんせんきぶん#feeling of war-weariness#
+2042300#延長線上#えんちょうせんじょう#extension of a straight line;(conclusion) following as an extension of (an argument)#
+2042310#延長保育#えんちょうほいく#extended-hours childcare (in day-care centers for parents working into the night)#
+2042320#遠謀深慮#えんぼうしんりょ#deep design and forethought;farsighted and deeply-laid plan#
+2042330#円満退職#えんまんたいしょく#amicable resignation (retirement);resigning (retiring) from one's job of one's free will#
+2042340#延命息災#えんめいそくさい#health and longevity;enjoying a long and healthy life being untouched by disaster#
+2042350#遠慮気味#えんりょぎみ#somewhat reserved (diffident);shyly;timidly;retiringly;in a retiring (reserved) manner#
+2042360#遠慮近憂#えんりょきんゆう#Failure to think of the long term leads to grief in the short term#
+2042370#奥義秘伝#おうぎひでん#secrets;mysteries;secret formula;essence;esoterica (of an art, martial arts, etc.)#
+2042380#御歌会始#おうたかいはじめ#annual New Year's poetry reading (held at the Imperial Court)#
+2042390#王手飛車#おうてびしゃ#forking the rook while checking the king (shogi)#
+2042400#懊悩煩悶#おうのうはんもん#anguish;agony#
+2042410#応変能力#おうへんのうりょく#ability to take proper steps to meet the situation;ability to adapt oneself to (the requirement of) the moment#
+2042420#大関陥落#おおぜきかんらく#demotion from oozeki ranking#
+2042430#奥山放獣#おくやまほうじゅう#relocation of wild animals to a remote location#
+2042440#御祖師様#おそしさま#the Founder of the (our) sect (used especially in the Nichiren sect of Buddhism, referring to Nichiren)#
+2042450#落人伝説#おちゅうどでんせつ#legend concerning a fugitive clan#
+2042470#汚名返上#おめいへんじょう#clear one's name;redeem oneself;clear (vindicate) one's honor (reputation)#
+2042500#穏健路線#おんけんろせん#moderate line;middle-of-the-road line (in politics)#
+2042510#温厚寡黙#おんこうかもく#gentle and reticent#
+2042520#怨敵退散#おんてきたいさん#invoking disaster upon one's mortal enemy;Confusion to the enemy!#
+2042530#隠密行動#おんみつこうどう#covert action (behavior);espionage activities#
+2042540#開巻第一#かいかんだいいち#at the very beginning of a book;The book opens with ...#
+2042550#開巻劈頭#かいかんへきとう#at the very beginning of a book;The book opens with ...#
+2042560#開眼供養#かいげんくよう#ceremony to consecrate a newly made Buddhist statue or image by inserting the eyes (thereby investing it with soul)#
+2042570#外交手腕#がいこうしゅわん#diplomatic finesse;skill(s) in diplomacy#
+2042580#会社人間#かいしゃにんげん#company (organization) man (person);corporate soldier#
+2042590#快食快便#かいしょくかいべん#good appetite and good bowel movements;enjoying one's food and having regular stools#
+2042600#快食快眠#かいしょくかいみん#good appetite and pleasant sleep;enjoying one's food and sleeping well#
+2042610#慨世憂国#がいせいゆうこく#worrying about the conditions of the country out of sheer patriotism#
+2042620#凱旋公演#がいせんこうえん#performance given after a successful tour abroad#
+2042630#街談巷語#がいだんこうご#street gossips and idle rumors;hearsay#
+2042640#海底撈月#かいていろうげつ#totally useless (fruitless) effort;wasting time on an impossible task (like trying to scoop up a reflected moon from the bottom of the sea)#
+2042650#該当事項#がいとうじこう#relevant (applicable) information (items)#
+2042660#開闢以来#かいびゃくいらい#since the creation (of the world);since the dawn of history#
+2042670#傀儡政権#かいらいせいけん#puppet government (regime)#
+2042680#怪力無双#かいりきむそう#(a person of) unrivaled physical strength#
+2042690#鍵穴趣味#かぎあなしゅみ#voyeurism#
+2042700#画一思考#かくいつしこう#uniformity of thought;uniform thinking#
+2042710#学業不振#がくぎょうふしん#poor academic performance;underachievement#
+2042720#学士入学#がくしにゅうがく#admission of university graduates to an undergraduate program#
+2042730#各自負担#かくじふたん#joint and several liability;each individual being responsible for the payment of his share of the purchase price, expense, etc.#
+2042740#学者馬鹿#がくしゃばか#scholar who knows but little of the ways of the world#
+2042750#各種各様#かくしゅかくよう#individual (different) ways of doing things;being different (varied) for each item (type)#
+2042760#各人各説#かくじんかくせつ#Everyone has his (her) own view;Different people, different opinions#
+2042770#学生気質#がくせいかたぎ#student temperament;students' way of thinking#
+2042780#拡大路線#かくだいろせん#expansion policy;road to expansion#
+2042790#格調高雅#かくちょうこうが#refined, dignified, elegant;graceful;exquisite#
+2042800#学閥意識#がくばついしき#strong feelings of loyalty to one's old school;the old school tie#
+2042810#撹乱戦術;攪乱戦術#かくらんせんじゅつ#disturbance tactics#
+2042820#撹乱戦法;攪乱戦法#かくらんせんぽう#disturbance strategy#
+2042830#学歴詐称#がくれきさしょう#false statement (misrepresentation) of one's academic career#
+2042840#学歴偏重#がくれきへんちょう#overstressing academic background#
+2042850#家系伝説#かけいでんせつ#family legend#
+2042860#花紅柳緑#かこうりゅうりょく#red blossoms and green willows;beautiful scenery of spring;natural beauty;beauty of nature#
+2042870#家財一切#かざいいっさい#complete set of household goods#
+2042880#餓死寸前#がしすんぜん#being on the verge of starvation;being about to starve#
+2042890#家常茶飯#かじょうさはん#everyday occurrence;commonplace of life;nothing out of the ordinary#
+2042900#家族主義#かぞくしゅぎ#familism;the treatment of society (an organization) as a family#
+2042910#雅俗折衷#がぞくせっちゅう#blending of the classical and colloquial styles#
+2042920#家族団らん;家族団欒#かぞくだんらん#happy family circle;sitting in a family circle and enjoying conversation;harmony in a family#
+2042930#火宅無常#かたくむじょう#This world is uncertain (cruel) like a burning house#
+2042940#画蛇添足#がだてんそく#making an unnecessary addition (to);gilding the lily#
+2042950#花鳥諷詠#かちょうふうえい#the beauties of nature as the key poetic theme;the central theme in composing poetry (haiku) must be the beauties of nature and the harmony that exist between nature and man. (The slogan of the Hototogisu School of modern Japanese haiku)#
+2042960#活気横溢#かっきおういつ#being full of vitality (energy);in exuberant spirits;effervescent;ebullient#
+2042970#割鶏牛刀#かっけいぎゅうとう#using a meat ax when a knife would suffice;taking a sledgehammer to crack a nut;using a grand-scale measure (a massive instrument) to deal with an insignificant problem#
+2042980#活字世論#かつじせろん#public opinion (sentiment) as reflected in the print media#
+2042990#活字中毒#かつじちゅうどく#addiction to the printed word;reading addict;book (print) junkie#
+2043000#合掌礼拝#がっしょうらいはい#join one's hands in prayer;pray with (the palms of) one's hands together#
+2043010#勝手気まま;勝手気儘#かってきまま#self-willed;(doing or saying things) to suit one's own convenience;oblivious to the convenience of others#
+2043020#勝手放題#かってほうだい#at one's sweet will;doing whatever one pleases;however one pleases#
+2043030#家庭円満#かていえんまん#family happiness;household harmony#
+2043040#家庭優先#かていゆうせん#giving one's family life priority over one's work#
+2043050#瓜田李下#かでんりか#Be careful not to invite the least suspicion;Leave no room for scandal#
+2043060#家内安全#かないあんぜん#safety (well-being) of one's family;peace and prosperity in the household#
+2043070#家内一同#かないいちどう#all one's family;one's whole family#
+2043080#仮名草子#かなぞうし#story book written in kana (or in kana mixed with Chinese characters) in the early Edo period (primarily for the enlightenment and entertainment of women and children)#
+2043090#仮名文学#かなぶんがく#kana literature;works written in kana in the Heian period#
+2043100#歌舞音曲#かぶおんきょく#public music and dancing;performance of song and dance entertainment#
+2043110#歌舞伎者;傾奇者;かぶき者#かぶきもの#dandy;peacock;early-17th-century equivalent of present-day yakuza;Edo-period eccentric who attracted public attention with their eye-catching clothes, peculiar hairstyle, and weird behavior#
+2043120#下方修正#かほうしゅうせい#downward adjustment;downward revision#
+2043130#仮面夫婦#かめんふうふ#couple who only go through the motions of being husband and wife#
+2043140#仮面浪人#かめんろうにん#college student who is merely marking time to get into a better college#
+2043150#臥竜鳳雛#がりょうほうすう#gifted young person who shows much promise;unrecognized genius;great person whose talent is hidden under a bushel#
+2043160#川施餓鬼#かわせがき#Buddhist services in memory of those drowned in a river;offering to suffering spirits at the river#
+2043170#簡易軽便#かんいけいべん#simple, easy, and convenient#
+2043180#閑雲野鶴#かんうんやかく#life in natural setting, free from worldly cares#
+2043190#官紀紊乱#かんきびんらん#laxity in official discipline;civil service corruption#
+2043200#関係省庁#かんけいしょうちょう#the concerned government agencies;the ministries and agencies that are relevant to the matter at hand;the relevant authorities#
+2043210#関係当局#かんけいとうきょく#the authorities concerned;the competent authorities#
+2043220#簡潔明瞭#かんけつめいりょう#clear and concise#
+2043230#頑健無比#がんけんむひ#being of very robust health#
+2043240#頑固親父#がんこおやじ#stubborn (obstinate) father;pig-headed old man#
+2043250#艱難苦労#かんなんくろう#trials and tribulations;adversities;suffering hardships and troubles#
+2043260#官能小説#かんのうしょうせつ#erotic novel;amorous novel;pornographic novel#
+2043270#玩物喪志#がんぶつそうし#forgetting one's serious objectives by becoming engrossed in trivial pursuits;being distracted by trivial objects and losing sight of one's original goal#
+2043280#官民格差#かんみんかくさ#disparity (of income, pensions, etc.) between public and private employees#
+2043290#簡明率直#かんめいそっちょく#simple, plain, and artless;clear, concise, and unaffected#
+2043300#簡明直截#かんめいちょくせつ#simple and plain;frank, direct and unambivalent;straightforward#
+2043310#顔面紅潮#がんめんこうちょう#one's face turning red;with a flush on one's face#
+2043320#顔面蒼白#がんめんそうはく#one's face turning pale (ashen);the color being drained from one's face#
+2043330#慣用表現#かんようひょうげん#idiomatic expression;idiom#
+2043340#官僚主導#かんりょうしゅどう#initiative taken by bureaucrats in the drafting of government policies and bills (rather than by politicians)#
+2043350#貫禄十分#かんろくじゅうぶん#having great (impressive, commanding) presence;having an air of importance;having enough gravity for (a position)#
+2043360#貫禄不足#かんろくぶそく#lacking enough gravity for (a position, task);being an insignificant figure for (a position)#
+2043370#偽悪趣味#ぎあくしゅみ#propensity to put oneself in as bad a light as possible;being prone to act bad#
+2043380#気韻生動#きいんせいどう#being animated (vivid) with grace (elegance, refinement)#
+2043390#奇貨可居;奇貨居くべし#きかおくべし#You must seize every golden opportunity;Strike while the iron is hot;When you find a rare good buy, seize upon it for a future sale at a much higher price#
+2043400#起居挙動#ききょきょどう#behavior;bearing;deportment;manners;demeanor#
+2043410#規矩準縄#きくじゅんじょう#rules and standards;norms;criteria#
+2043420#機嫌気褄#きげんきづま#humour;humor;temper;mood;spirits#
+2043430#機嫌上戸#きげんじょうご#merry drinker#
+2043440#貴顕紳士#きけんしんし#gentlemen of (high) eminence;notables;dignitaries#
+2043450#貴顕紳商#きけんしんしょう#merchant prince#
+2043470#気候風土#きこうふうど#climate and natural features (of a region)#
+2043480#疑獄事件#ぎごくじけん#bribery scandal (case)#
+2043490#机上空論#きじょうくうろん#impractical desktop theory (proposition);unworkable idea;an idea that isn't worth the paper it's written on#
+2043500#疑似恋愛#ぎじれんあい#pseudo-romance;pseudo (mock) love affair#
+2043510#貴賤貧富#きせんひんぷ#high and low, and rich and poor#
+2043520#偽装工作#ぎそうこうさく#diversionary tactics (maneuvering);disguise;hide by camouflage#
+2043530#偽装難民#ぎそうなんみん#fake (phony) refugee;illegal migrant disguised as a refugee#
+2043540#希代未聞#きたいみもん#unheard-of;unparalleled#
+2043550#既定路線#きていろせん#established (existing) policy (procedure(s))#
+2043560#昨日今日#きのうきょう#yesterday and today;(something that happened) only yesterday (just recently)#
+2043570#気分一新#きぶんいっしん#complete change of mood;thoroughly refreshing one's spirits#
+2043580#気分次第#きぶんしだい#according to (depending on) the mood of the moment;as one's fancy dictates#
+2043590#気分爽快#きぶんそうかい#feeling great (refreshed)#
+2043600#気分高揚#きぶんこうよう#feeling exhilarated#
+2043610#気儘勝手#きままかって#self-willed;(doing or saying things) to suit one's own convenience#
+2043620#気儘放題#きままほうだい#as selfishly (willfully) as one pleases#
+2043630#鬼面仏心#きめんぶっしん#having the face of a devil and the heart of Buddha;having a stern face but a tender heart#
+2043640#疑問氷解#ぎもんひょうかい#one's doubts being cleared away (dispelled, resolved)#
+2043650#逆転優勝#ぎゃくてんゆうしょう#upset victory;come-from-behind victory#
+2043660#救国済民#きゅうこくさいみん#saving a nation and providing relief to people#
+2043670#牛鬼蛇神#ぎゅうきだしん#wicked and perverse;weird and incoherent#
+2043690#鳩首協議#きゅうしゅきょうぎ#put heads together and confer;convene and discuss;go into a huddle (over)#
+2043700#鳩首凝議#きゅうしゅぎょうぎ#put heads together and confer;convene and discuss;go into a huddle (over)#
+2043710#鳩首謀議#きゅうしゅぼうぎ#go into a huddle (over);hold a secret conference (about);put heads together and conspire#
+2043720#鳩首密議#きゅうしゅみつぎ#going into a huddle (over);holding secret (closed-door) conference (about);laying heads together in secret consultation#
+2043730#窮鼠噛猫#きゅうそごうびょう#A cornered rat will bite the cat;One who is cornered will fight like a devil#
+2043740#急転悪化#きゅうてんあっか#suddenly turning for the worse;sudden deterioration#
+2043750#旧幕時代#きゅうばくじだい#the shogunate period;the days of the shogunate regime#
+2043760#弓馬槍剣#きゅうばそうけん#archery, horsemanship, spearsmanship, and swordsmanship;martial arts in general#
+2043770#弓馬刀槍#きゅうばとうそう#archery, horsemanship, spearsmanship, and swordsmanship;martial arts in general#
+2043780#旧弊打破#きゅうへいだは#breaking down antiquated notions;abandoning old-time ways;correcting long-standing abuses#
+2043790#強圧手段#きょうあつしゅだん#coercive (high-handed) measure;strong-arm method#
+2043800#矯角殺牛#きょうかくさつぎゅう#trying to straighten the horns of a bull, and killing it in the process;trying to correct a small defect and ruining the whole thing;The cure is worse than the disease#
+2043810#鏡花水月#きょうかすいげつ#flowers reflected on a mirror and the moon reflected on the water's surface;something that is visible but having no substance;the subtle and profound beauty of poems that cannot be described in words#
+2043820#今日昨日#きょうきのう#today and yesterday;(something that happened) only yesterday (just recently)#
+2043830#行儀見習#ぎょうぎみならい#learning good manners through apprenticeship (to an upper-class family)#
+2043840#挟撃作戦#きょうげきさくせん#pincer operation (tactic)#
+2043850#狂言強盗#きょうげんごうとう#fake (staged) robbery#
+2043860#狂言誘拐#きょうげんゆうかい#fake (staged) kidnapping#
+2043870#競合関係#きょうごうかんけい#competitive relationship;rivalry#
+2043880#恐惶謹言#きょうこうきんげん#Very truly yours (a complimentary close used in a letter written in an old epistolary style)#
+2043890#恐惶敬白#きょうこうけいはく#Very truly yours (a complimentary close used in a letter written in an old epistolary style)#
+2043900#強硬手段#きょうこうしゅだん#tough measure;firm step;strong measure#
+2043910#強行突破#きょうこうとっぱ#force (bulldoze) one's way through#
+2043920#行商稼業#ぎょうしょうかぎょう#the peddling trade#
+2043930#協心戮力#きょうしんりくりょく#combined (concerted) efforts;solidarity;joining forces (with)#
+2043940#行政手腕#ぎょうせいしゅわん#skill at administration;one's administrative skills#
+2043950#競争場裡#きょうそうじょうり#an (the) arena of competition#
+2043960#兄弟弟子#きょうだいでし#fellow pupil (apprentice)#
+2043970#共犯関係#きょうはんかんけい#complicity (in a crime);collusion#
+2043980#驕兵必敗#きょうへいひっぱい#Defeat is inevitable for an overconfident army;Being arrogant and overconfident inevitably leads to defeat (failure);Pride comes before a fall#
+2043990#享楽気分#きょうらくきぶん#enjoyable (pleasant) feeling (atmosphere)#
+2044000#協力一致#きょうりょくいっち#combined (concerted) efforts;solidarity;joining forces (with)#
+2044010#協力態勢#きょうりょくたいせい#readiness to cooperate;framework for cooperation#
+2044020#強力無比#きょうりょくむひ#being the strongest;being powerful (mighty) without equal#
+2044030#玉砕主義#ぎょくさいしゅぎ#the principle of honorable death and no surrender#
+2044040#局面一転#きょくめんいってん#sudden reversal in the tide of events;the situation taking a new turn#
+2044050#局面打開#きょくめんだかい#breakthrough in the situation;break in the deadlocked situation#
+2044060#虚実皮膜#きょじつひまく#the difference between truth and fiction in art being very subtle;Art abides in a realm that is neither truth nor fiction#
+2044070#虚心平気#きょしんへいき#with an open and calm mind;without reserve;with utmost candor;with no preconceived notions#
+2044080#挙措言動#きょそげんどう#speech and behavior;words and deeds#
+2044090#虚脱状態#きょだつじょうたい#state of lethargy;absolute bewilderment;daze;mental numbness#
+2044100#挙動不審#きょどうふしん#suspicious behavior;acting suspiciously#
+2044110#許認可権#きょにんかけん#ministerial authority to grant permits and approvals#
+2044120#虚無恬淡#きょむてんたん#rising above the trivia of life and remaining calm and selfless#
+2044130#義理一遍#ぎりいっぺん#perfunctory;going-through-the-motions-sort of (invitation, gift, etc.)#
+2044140#義理人情#ぎりにんじょう#duty and humanity;(a sense of) moral obligation and humane feelings#
+2044150#気力旺盛#きりょくおうせい#being full of energy (drive, motivation, vitality)#
+2044160#気力横溢#きりょくおういつ#being full of vitality (energy);in exuberant spirits;effervescent;ebullient#
+2044170#議論沸騰#ぎろんふっとう#discussion (argument) becoming heated;debate being in a ferment#
+2044180#槿花一日#きんかいちじつ#evanescent glory;passing prosperity#
+2044190#槿花一朝#きんかいっちょう#evanescent glory;passing prosperity#
+2044200#勤倹貯蓄#きんけんちょちく#thrift and saving#
+2044210#金言名句#きんげんめいく#golden (wise) saying;aphorism;maxim#
+2044220#近郷近在#きんごうきんざい#surrounding country;neighboring villages#
+2044230#錦上添花#きんじょうてんか#adding a crowning touch of beauty (to);giving added luster (to);crowning beauty (honor, grace) with even greater glory#
+2044240#金銭感覚#きんせんかんかく#sense for (how to use) money;money sense#
+2044250#金銭哲学#きんせんてつがく#one's philosophy of making, saving, and spending money#
+2044260#金銭問題#きんせんもんだい#money matter;question of money;money trouble#
+2044270#金波銀波#きんぱぎんぱ#sparkling waves;waves sparkling in the moonlight or with the light of the rising (setting) sun#
+2044280#禁欲生活#きんよくせいかつ#an ascetic existence;(leading) a continent life;abstinence#
+2044290#近隣公害#きんりんこうがい#(noise, smell, air, water) pollution in the neighborhood#
+2044300#空転国会#くうてんこっかい#stalled session of the Diet (Japanese Parliament)#
+2044310#愚兄賢弟#ぐけいけんてい#a foolish older brother and a smart younger#
+2044320#愚者一得#ぐしゃいっとく#Even a fool may sometimes give good counsel#
+2044330#九尺二間#くしゃくにけん#(tiny) house about nine feet wide and 12 feet deep#
+2044340#玄人気質#くろうとかたぎ#professionalism;the temperament of a professional#
+2044350#黒田売買#くろたばいばい#dealing in rice speculating on the year's harvest before seedlings are set out#
+2044360#黒物家電#くろものかでん#black goods;consumer electronics products#
+2044370#軍紀弛緩#ぐんきちかん#lack of (slackness in) military discipline;demoralization#
+2044380#軍紀漏洩#ぐんきろうえい#disclosure (leakage, betrayal) of military secrets#
+2044390#訓民正音#くんみんせいおん#Hunmin-jongum;the Hankul (Hangul) alphabet (of Korea);the Onmun (Enmun)#
+2044400#形影一如#けいえいいちにょ#being inseparable as a form and its shadow;a person's deed mirrors the good or evil of his mind;husband and wife being never apart#
+2044410#鶏群一鶴#けいぐんいっかく#a swan among ducklings;a diamond among stones;a great figure among the common run of men#
+2044420#経国済民#けいこくさいみん#governing a nation and providing relief to people#
+2044430#警察沙汰#けいさつざた#a matter for the police;with the police involved;a brush with the law#
+2044440#芸術家肌#げいじゅつかはだ#being something of an artist;having something of the artist in one#
+2044450#形勢逆転#けいせいぎゃくてん#the situation reverses itself;the table is turned;the shoe is on the other foot#
+2044460#形勢不利#けいせいふり#situation (turn of events) being unfavorable (disadvantageous)#
+2044470#形勢有利#けいせいゆうり#situation (turn of events) being favorable (advantageous)#
+2044480#敬天愛人#けいてんあいじん#"Revere heaven, love people." (favorite motto of Saigo Takamori, 1827-1877)#
+2044490#軽薄才子#けいはくさいし#shallow, glib and obsequious person#
+2044500#経歴詐称#けいれきさしょう#misrepresentation (falsification) of one's past record (personal history)#
+2044510#戯作三昧#げさくざんまい#being absorbed in writing popular novels (cheap fiction);being absorbed in writing something to amuse oneself#
+2044520#外題学問#げだいがくもん#putting on a knowing air when one only knows the title of the book (play, etc.);pretending to understand the nature of something when one only knows its name#
+2044530#血縁関係#けつえんかんけい#blood relationship;blood relations;being genetically related#
+2044540#月下推敲#げっかすいこう#polish;elaboration;repeatedly working over one's writing;being very scrupulous in the choice of diction#
+2044550#月給泥棒#げっきゅうどろぼう#freeloader;slacker;lazy worker who does not deserve his salary#
+2044560#懸念材料#けねんざいりょう#cause (grounds) for concern (anxiety);reason for uneasiness#
+2044570#原因究明#げんいんきゅうめい#investigation to determine the cause (of);tracing something back to its origin#
+2044580#狷介孤高#けんかいここう#stubborn and aloof#
+2044590#衒学趣味#げんがくしゅみ#pedantry;display of one's learning;being of a pedantic disposition#
+2044600#喧嘩沙汰#けんかざた#beginning (developing into) a quarrel (a fight, an altercation)#
+2044610#元気一杯;元気いっぱい#げんきいっぱい#brimming with health (vigor);full of vitality;full of health#
+2044620#元気旺盛#げんきおうせい#brimming with vitality;full of vigor;full of life#
+2044630#元気はつらつ;元気溌剌#げんきはつらつ#full of energy;full of liveliness;full of pep#
+2044640#権限委譲#けんげんいじょう#delegation of authority (power);devolution;empowerment#
+2044650#言行齟齬#げんこうそご#inconsistency of speech and action;failing to act up to one's words;not practicing what one preaches#
+2044660#現実認識#げんじつにんしき#accepting (acknowledging) the reality#
+2044670#現実路線#げんじつろせん#(following) a pragmatic (policy) line (approach)#
+2044680#現状打破#げんじょうだは#abandonment of the status quo;destroying the status quo;overthrowing the present situation#
+2044690#現状把握#げんじょうはあく#grasping the present situation;having an accurate grasp of the situation#
+2044700#現状否定#げんじょうひてい#refusal to accept the present situation;denial of the existing situation;negation of the status quo#
+2044710#牽制作戦#けんせいさくせん#diversionary operations#
+2044720#減点主義#げんてんしゅぎ#demerit (points-off) system#
+2044730#堅忍持久#けんにんじきゅう#dogged perseverance;untiring patience#
+2044740#堅白同異#けんぱくどうい#sophism;sophistry;quibbling#
+2044750#見聞覚知#けんもんかくち#perception through the six senses (of sight, hearing, smell, taste, touch, and consciousness)#
+2044760#原野商法#げんやしょうほう#the selling of waste land (worthless property) by unscrupulous real-estate developers#
+2044770#絢爛華麗#けんらんかれい#luxurious and gorgeous;splendid;dazzling;magnificent#
+2044780#堅牢堅固#けんろうけんご#firm and solid;stout and durable#
+2044790#恋人同士;恋人同志#こいびとどうし#pair of lovers;girlfriend and boyfriend#
+2044800#高位高官#こういこうかん#(person of) high rank and office (exalted station);persons in high positions#
+2044810#豪快奔放#ごうかいほんぽう#big-hearted and free-spirited;daring and uninhibited#
+2044820#狡猾老獪#こうかつろうかい#sly and crafty#
+2044830#紅顔可憐#こうがんかれん#youthful and endearing;rosy-cheeked and sweet#
+2044840#剛毅果断#ごうきかだん#dauntless and decisive;with fortitude and resolution#
+2044850#綱紀紊乱#こうきびんらん#laxity in official discipline;public order being in disarray#
+2044860#恒久不変#こうきゅうふへん#permanent and immutable#
+2044870#交互作用#こうごさよう#(mutual) interaction;reciprocal action;interplay#
+2044880#恍惚状態#こうこつじょうたい#state of ecstasy (rapture);trance;senile dementia#
+2044890#甲骨文字#こうこつもじ#ancient inscriptions of Chinese characters on oracle bones and carapaces#
+2044900#交際上手#こうさいじょうず#good at socializing;sociability;being a good mixer#
+2044910#交際場裡#こうさいじょうり#social circles;the arena of (fashionable) society#
+2044920#交際下手#こうさいべた#bad at socializing;bad in social situation;being a bad mixer#
+2044930#高山流水#こうざんりゅうすい#high mountains and running water;the beauty of nature;beautifully (skillfully) played music#
+2044940#更始一新#こうしいっしん#undergo a complete change;turn over a new leaf#
+2044950#好事多魔#こうじたま#Happy events are often accompanied by difficulties;Unsullied joy is rare#
+2044960#強情我慢#ごうじょうがまん#obstinate and self-assertive#
+2044970#後生可畏#こうせいかい#The young should be regarded with respect#
+2044980#攻勢防御#こうせいぼうぎょ#attack as a form of defense;attacking (active) defense#
+2044990#公正無私#こうせいむし#fair and impartial;just and unselfish#
+2045000#行動原理#こうどうげんり#behavioral principle;principle (value) governing one's conduct#
+2045010#狡兎三窟#こうとさんくつ#very shrewd in preparing a means of escape;being very good at escaping danger#
+2045020#興奮気味#こうふんぎみ#being somewhat excited (agitated)#
+2045030#興亡盛衰#こうぼうせいすい#rise and fall;prosperity and decline;vicissitudes#
+2045040#豪放粗野#ごうほうそや#bold and boorish#
+2045050#剛勇無比#ごうゆうむひ#unparalleled for valor;unmatched for bravery#
+2045060#強欲非道#ごうよくひどう#abnormally and inhumanly greedy;cruel and rapacious#
+2045070#荒涼落莫#こうりょうらくばく#scene looking desolate and forlorn#
+2045080#国威発揚#こくいはつよう#enhancing national prestige;expanding national influence#
+2045090#国際感覚#こくさいかんかく#cosmopolitan (international) way of thinking;feeling for the wider world#
+2045100#国際場裡#こくさいじょうり#the international arena#
+2045110#国際力学#こくさいりきがく#dynamics of international (foreign) relations#
+2045120#国色無双#こくしょくむそう#(a woman of) unparalleled beauty;(a woman's beauty being) matchless throughout the land#
+2045130#極楽極楽#ごくらくごくらく#It's absolute heaven;It's sheer bliss#
+2045140#ここ一番;此処一番#ここいちばん#the crucial moment;the moment of truth;do-or-die situation;crucial juncture;crucial stage#
+2045150#五穀豊穣#ごこくほうじょう#bumper (abundant) crop;huge harvest (of cereals)#
+2045160#五言絶句#ごごんぜっく#poem of four lines, each of five (Chinese) characters#
+2045170#五言律詩#ごごんりっし#poem of eight lines, each of five (Chinese) characters#
+2045180#故事成語#こじせいご#idiom derived from historical events or classical literature of China#
+2045190#五十知命#ごじゅうちめい#At age fifty, one comes to know the will of Heaven. (Confucius)#
+2045200#後生一生#ごしょういっしょう#extremely important or once in a lifetime (request);only once in one's lifetime#
+2045210#弧城落月#こじょうらくげつ#feeling apprehensive;feeling (looking) lone and helpless;being down-and-out (ruined);helplessness of those in reduced circumstances#
+2045220#牛頭馬頭#ごずめず#horse-headed and ox-headed demons in the Buddhist hell#
+2045230#御前試合#ごぜんじあい#game (contest) held in the presence of a lord (daimyo, shogun)#
+2045240#五体満足#ごたいまんぞく#with no physical defects;in perfectly good health;sound in wind and limb#
+2045250#固着観念#こちゃくかんねん#fixed idea;idee fixe;obsession;fixation#
+2045260#国家存亡#こっかそんぼう#the fate of a nation;life-or-death (situation) for a nation;national crisis#
+2045270#国家多事#こっかたじ#eventful times for the nation;the nation being in turmoil;the storm clouds gathering in the land#
+2045280#酷寒猛暑#こっかんもうしょ#bitter cold and fierce heat#
+2045290#克己精進#こっきしょうじん#self-control and close application;self-denial and diligent devotion#
+2045300#克己復礼#こっきふくれい#exercising self-restraint and conforming to the rules of etiquette and formality#
+2045310#刻苦精進#こっくしょうじん#being arduous;working diligently enduring hardships;making a strenuous effort#
+2045320#刻苦精励#こっくせいれい#being arduous;working diligently enduring hardships;making a strenuous effort#
+2045330#滑稽諧謔#こっけいかいぎゃく#smooth-talking and humorous;with jocose and comical airs#
+2045340#後手後手#ごてごて#ending up behind with everything;being always too late (never in time)#
+2045350#後手必敗#ごてひっぱい#Defeat is inevitable for one who goes second;Being slow to take action inevitably leads to defeat#
+2045360#鼓腹撃壌#こふくげきじょう#(people) sing the praises (enjoy the blessings) of peace#
+2045370#古武士然#こぶしぜん#having something of the old-time samurai about one#
+2045380#胡麻塩頭#ごましおあたま#salt and pepper hair;dark hair streaked with gray#
+2045390#固陋頑迷#ころうがんめい#obstinate;stubborn;hard-headed;being incapable of making sound judgments because of a narrow, inflexible and obstinate mentality#
+2045400#困苦窮乏#こんくきゅうぼう#hardships and privations#
+2045410#金剛堅固#こんごうけんご#firm and solid;sturdy and indestructible;unshakable;adamantine#
+2045420#金剛不壊#こんごうふえ#firm and solid;sturdy and indestructible;unshakable;adamantine#
+2045430#金剛力士#こんごうりきし#Deva king;fierce guardian god (at a temple gate)#
+2045440#混雑具合#こんざつぐあい#the state (degree) of congestion;how bad traffic jams are#
+2045450#今是昨非#こんぜさくひ#complete reversal of values or ways of thinking (over time);What appeared wrong in the past now appears right;realizing and regretting the past errors of one's ways#
+2045460#昏迷状態#こんめいじょうたい#befuddled (bewildered, confused) state;stupor#
+2045470#混迷状態#こんめいじょうたい#chaotic state;turmoil;disarray;labyrinth#
+2045480#金輪奈落#こんりんならく#utmost limits;to the finish;to the (bitter) end;to the hilt;down to the bedrock#
+2045490#才気溌剌#さいきはつらつ#resourceful and quick-witted;showing a flash of brilliance;have a keen (sparkling) intellect#
+2045500#再起不能#さいきふのう#being beyond recovery;having no hope of recovery#
+2045510#妻子眷属#さいしけんぞく#one's wife, children, and other relations;one's whole family#
+2045520#才子多病#さいしたびょう#Talented people tend to be of delicate constitution;Men of genius tend to be of delicate health;Whom the gods love die young#
+2045530#罪状糾明#ざいじょうきゅうめい#closely examining (questioning) the concrete circumstances of a crime#
+2045540#罪状明白#ざいじょうめいはく#being proven guilty of a crime;having one's guilt for a crime made clear;(the) nature of offense being (becoming) clear#
+2045550#祭政分離#さいせいぶんり#separation of church and state;separation of religious ritual and government administration#
+2045560#才知縦横#さいちじゅうおう#resourceful and quick-witted;showing a flash of brilliance;have a keen (sparkling) intellect#
+2045570#錯乱状態#さくらんじょうたい#state of (mental) confusion (agitation)#
+2045580#小夜時雨#さよしぐれ#light shower on a night in late autumn and early winter#
+2045590#山岳重畳#さんがくちょうじょう#mountains rising one above another#
+2045600#残酷非道#ざんこくひどう#inhumanity;atrocity;abominable cruelty#
+2045610#三者鼎立#さんしゃていりつ#three parties (forces) opposing one another;three-cornered contest#
+2045620#三世因果#さんぜいんが#retribution spanning the three temporal worlds (present, past, future)#
+2045630#残忍非情#ざんにんひじょう#utterly callous;atrociously brutal;cruel and inhuman#
+2045640#残忍非道#ざんにんひどう#cruel and inhuman;brutal;merciless#
+2045650#残忍冷酷#ざんにんれいこく#atrocious and cold-blooded;cruel;brutal;merciless#
+2045660#三番勝負#さんばんしょうぶ#three-game match;three-bout contest;a rubber (in a card game)#
+2045670#三本勝負#さんぼんしょうぶ#a set of three bouts;three-game match;three-bout contest#
+2045680#残念至極#ざんねんしごく#deep regret;bitter disappointment;chagrin;vexation#
+2045690#三文役者#さんもんやくしゃ#third-rate actor#
+2045700#山容水態#さんようすいたい#scenic beauty of mountains and streams;fresh and clear beauty of nature's splendor#
+2045710#私怨私欲#しえんしよく#personal grudges and selfish desires#
+2045720#自家本位#じかほんい#self-centeredness;selfishness;egoism;egotism;egocentricity#
+2045730#士気旺盛#しきおうせい#morale being very high;heightened fighting spirit#
+2045740#士気高揚#しきこうよう#raise (lift) morale;have an inspiring effect on morale#
+2045750#時機到来#じきとうらい#a good chance coming along;the time has come (for, to, when...);opportunity knocking#
+2045760#時雨模様#しぐれもよう#showery sky;(it is) looking showery#
+2045770#舳艫千里#じくろせんり#a large number of ships sailing in a long chain-like formation#
+2045780#自己演出#じこえんしゅつ#an author directing (producing) his;her own play (film);staging oneself for effect;presenting oneself in a favorable light#
+2045790#地獄絵図#じごくえず#painting of a scene in Hell;a picture of Hell#
+2045800#時刻到来#じこくとうらい#The time has come (for, to, when...);Now is the time#
+2045810#自己啓発#じこけいはつ#self-development;self-enlightenment#
+2045820#自己実現#じこじつげん#self-actualization;self-fulfillment;self-realization#
+2045830#自己陶酔#じことうすい#narcissism;self-absorption;self-intoxication#
+2045840#自己撞着#じこどうちゃく#self-contradiction;self-inconsistency#
+2045850#仕事一筋#しごとひとすじ#living only for one's work;a life with no other interest than one's work#
+2045860#自己肥大#じこひだい#self-aggrandizement;self-glorification;something becoming large by feeding upon itself#
+2045870#自己保全#じこほぜん#self-protection;self-preservation#
+2045880#自己満悦#じこまんえつ#self-congratulation#
+2045890#自己抑制#じこよくせい#self-restraint;self-control;self-repression;abstinence;self-inhibition;autogenic inhibition;autogenous suppression#
+2045900#自作自演#じさくじえん#performing a part in one's own play;playing a musical piece that one has written;doing everything by oneself (from preparation to execution);put-up job;charade;sock-puppeting (i.e. pretending to be more than one person on the Internet)#
+2045910#屍山血河#しざんけつが#heaps of bodies and streams of blood;fierce battle#
+2045920#支持基盤#しじきばん#one's support (power) base;the base of one's support in an electorate#
+2045930#四肢五体#ししごたい#the (one's) whole body#
+2045940#獅子身中#しししんちゅう#treacherous friend;snake in one's bosom;treacherous insider#
+2045950#師資相承#ししそうしょう#generation-to-generation instruction from master to disciple#
+2045960#資質英明#ししつえいめい#wise and clear-sighted;intelligent and astute by nature;blessed with talents#
+2045970#四十不惑#しじゅうふわく#At forty, one has no doubts. (Confucius)#
+2045980#至純至高#しじゅんしこう#utmost purity#
+2045990#至純至精#しじゅんしせい#utmost purity#
+2046000#史上空前#しじょうくうぜん#unprecedented in history;unheard-of;epoch-making#
+2046010#事情聴取#じじょうちょうしゅ#inquiry;enquiry;investigation;(police) interview;questioning (e.g. witness, suspect);hearing#
+2046020#自浄能力#じじょうのうりょく#self-cleansing power;being capable of purifying oneself#
+2046030#史上唯一#しじょうゆいいつ#the first in history;only once in history#
+2046040#至上要求#しじょうようきゅう#overriding necessity;absolute requirement;an absolute must#
+2046050#地所観念#じしょかんねん#the orientation of time and place;awareness of the existing situation#
+2046060#自助努力#じじょどりょく#self-help efforts;self-supporting endeavor#
+2046070#自信喪失#じしんそうしつ#loss of (self-)confidence;inferiority complex#
+2046090#資性英明#しせいえいめい#wise and clear-sighted;intelligent and astute by nature;blessed with talents#
+2046100#資性穏和#しせいおんわ#being of a gentle disposition;being of a mild character#
+2046110#時勢感覚#じせいかんかく#sense of the trend of the times;sensitivity to the changing times#
+2046115#時世感覚#じせいかんかく#sense of the the times;sensitivity to the times#
+2046120#資性端正#しせいたんせい#being of an upright character;being of a noble nature#
+2046130#時節到来#じせつとうらい#The time has come (for, to, when...);The time being ripe (for)#
+2046140#事前工作#じぜんこうさく#preparatory operations;measure taken in advance;doing the groundwork#
+2046150#思想信条#しそうしんじょう#one's thought and beliefs#
+2046160#事大根性#じだいこんじょう#slavish submission to power;sycophancy;flunkeyism;toadyism#
+2046170#舌先三分#したさきさんぶ#a glib tongue (with fair words);fluent talk designed to deceive;talk something away#
+2046180#下町情緒#したまちじょうちょ#the friendly atmosphere of the traditional commercial and working-class neighborhoods#
+2046190#下町人情#したまちにんじょう#the milk of human kindness of the people of the traditional commercial and working-class neighborhoods#
+2046200#七言絶句#しちごんぜっく#poem of four lines, each of seven (Chinese) characters#
+2046210#七言律詩#しちごんりっし#poem of eight lines, each of seven (Chinese) characters#
+2046220#七十古希#しちじゅうこき#Men seldom live to be seventy (Du Fu (c.712-c.770));Few people live to be seventy#
+2046230#自重自愛#じちょうじあい#taking care of oneself;looking after oneself#
+2046240#自重自戒#じちょうじかい#being prudent and cautious;caution oneself against#
+2046250#失敬千万#しっけいせんばん#extremely rude (impertinent, impolite)#
+2046260#嫉視反目#しっしはんもく#jealousy and enmity;being jealous of and at odds with (each other)#
+2046270#実践道徳#じっせんどうとく#practical ethics (morality)#
+2046280#実践倫理#じっせんりんり#practical ethics (morality)#
+2046290#質素倹約#しっそけんやく#(practice) simplicity and frugality;scrimping and saving#
+2046300#失地回復#しっちかいふく#the recovery of lost territory;recovering (regaining) lost ground (one' former position);fence-mending#
+2046310#櫛風沐雨#しっぷうもくう#struggling through wind and rain;undergoing hardships#
+2046320#櫛風浴雨#しっぷうよくう#struggling through wind and rain;undergoing hardships#
+2046330#失望落胆#しつぼうらくたん#being disappointed and disheartened#
+2046340#執務心得#しつむこころえ#guide to office routine;guide to the performance of official duties#
+2046350#実力伯仲#じつりょくはくちゅう#(the two persons' sides) being evenly matched in ability#
+2046360#失礼至極#しつれいしごく#extremely rude (impertinent, impolite)#
+2046370#失礼千万#しつれいせんばん#extremely rude (impertinent, impolite)#
+2046380#実用本位#じつようほんい#pragmatism;functionalism;practicality;being intended for practical purposes#
+2046390#実力次第#じつりょくしだい#according to (depending on) one's ability;if one is good (competent, talented) enough#
+2046400#実力本位#じつりょくほんい#the precedence of merit;performance orientation;ability- (merit-) based (promotion, pay scale, etc.)#
+2046410#仕手相場#してそうば#speculators' (speculative) market#
+2046420#詩的正義#してきせいぎ#poetic justice;retributive justice#
+2046430#詩的破格#してきはかく#poetic license#
+2046440#紫電一閃#しでんいっせん#flash of lightning;flash of a sword;brandishing a sword#
+2046450#自分本位#じぶんほんい#self-centeredness;selfishness;egotism;egocentricity#
+2046460#使命意識#しめいいしき#sense of (one's) mission;awareness of one's duty (calling)#
+2046470#視野狭窄#しやきょうさく#narrowing of visual field;narrow-mindedness;lack of vision#
+2046480#寂滅為楽#じゃくめついらく#Freedom from one's desires (Entry into Nirvana) is true bliss#
+2046490#社交上手#しゃこうじょうず#social ease (facility, skills);being a good mixer#
+2046500#邪正一如#じゃしょういちにょ#Wrong and right are but two faces of the same coin#
+2046510#社内不倫#しゃないふりん#adulterous love affair with someone at work#
+2046520#縦横自在#じゅうおうじざい#freely;right and left;active without any restraint;with unrestricted energy in all directions#
+2046530#縦横無礙#じゅうおうむげ#being as free as the air;active without any restraint#
+2046540#羞月閉花#しゅうげつへいか#the charms of a uniquely beautiful woman;(so beautiful that) the moon is abashed and flowers wilt#
+2046550#重厚長大#じゅうこうちょうだい#heavy, thick, long, and big (products);massive and heavy (products);heavy (manufacturing)#
+2046560#自由勝手#じゆうかって#free;unfettered;according to one's own whims;doing as one likes#
+2046570#自由気儘;自由気まま#じゆうきまま#free;unfettered;according to one's own whims;doing as one likes#
+2046580#自由裁量#じゆうさいりょう#latitude;(at one's) discretion;discretionary powers;a free hand#
+2046590#自由三昧#じゆうざんまい#free;unfettered;according to one's own whims;doing as one likes#
+2046600#周到綿密#しゅうとうめんみつ#extremely complete (thorough, careful) and detailed#
+2046610#柔軟思考#じゅうなんしこう#a flexible way of thinking#
+2046620#柔軟路線#じゅうなんろせん#(taking) a flexible approach (to)#
+2046640#秋風落莫#しゅうふうらくばく#forlorn and helpless;lonely and desolate#
+2046650#自由放題#じゆうほうだい#as freely as one pleases;at will;to one' heart's content#
+2046660#衆目一致#しゅうもくいっち#The consensus of opinion is that ...;It is widely agreed (admitted) that ...#
+2046670#重役出勤#じゅうやくしゅっきん#arriving at work late as if one were an executive;management attendance at work#
+2046680#重要案件#じゅうようあんけん#important matter (for discussion (deliberations))#
+2046690#主客転倒#しゅきゃくてんとう#reversing the order of (relative) importance (of);putting the cart before the horse;the tables being turned;mistaking the insignificant for the essential#
+2046700#主客顛倒#しゅきゃくてんとう#reversing the order of (relative) importance (of);putting the cart before the horse;the tables being turned;mistaking the insignificant for the essential#
+2046710#主義主張#しゅぎしゅちょう#one's principles and position#
+2046720#取捨分別#しゅしゃふんべつ#make a choice among many;select the good (desirable, necessary, relevant) and discard the rest;decision to adopt or reject#
+2046730#主従関係#しゅじゅうかんけい#the relation of master to servant#
+2046740#首鼠両端#しゅそりょうたん#being unable to make up one's mind;sitting on the fence#
+2046750#出世街道#しゅっせかいどう#highway to success#
+2046780#出没自在#しゅつぼつじざい#appearing and disappearing at will;elusive;phantom-like#
+2046790#首尾貫徹#しゅびかんてつ#(logical) consistency;coherence;unchanging from beginning to end#
+2046800#純愛路線#じゅんあいろせん#(going) the pure love stories route (in movie making)#
+2046810#純一無雑#じゅんいちむざつ#pure and unadulterated;pure in heart;simplehearted#
+2046820#春秋戦国#しゅんじゅうせんごく#the Spring and Autumn period and the Warring States period (Chinese history)#
+2046830#純真一途#じゅんしんいちず#pure and innocent through and through#
+2046840#純真可憐#じゅんしんかれん#pure of heart and beautiful;innocent and beautiful#
+2046850#純粋無垢#じゅんすいむく#pure and innocent;immaculate#
+2046860#準備万端#じゅんびばんたん#every preparation (arrangement);all sorts of preparations#
+2046870#叙位叙勲#じょいじょくん#conferment of Court ranks and decorations#
+2046880#状況把握#じょうきょうはあく#one's grasp of the situation;knowing how matters stand#
+2046890#上下左右#じょうげさゆう#up and down (top and bottom), left and right#
+2046900#上古以来#じょうこいらい#from (since) ancient times;from time immemorial#
+2046910#正直一徹#しょうじきいってつ#stubbornly honest#
+2046920#正直一遍#しょうじきいっぺん#honest to a fault;one's only strength being his (her) honesty;having no redeeming feature except for being honest#
+2046950#小心姑息#しょうしんこそく#timid and evasive (person);timid and makeshift (approach, measure, etc.)#
+2046960#小身微禄#しょうしんびろく#(in) a humble position with a small stipend#
+2046970#少壮血気#しょうそうけっき#young and hot-blooded (impetuous)#
+2046980#消息不明#しょうそくふめい#untraceable;long lost;one's whereabouts being unknown#
+2046990#上手下手#じょうずへた#differences in skill#
+2047000#正体不明#しょうたいふめい#unidentifiable;unidentified#
+2047010#冗談気味#じょうだんぎみ#being somewhat (half) joking;half seriously;half in jest;in a jocular vein#
+2047020#冗談半分#じょうだんはんぶん#being somewhat (half) joking;half seriously;half in jest;in a jocular vein#
+2047040#消長盛衰#しょうちょうせいすい#prosperity and decay;rise and fall;ebb and flow;vicissitudes (of fortune)#
+2047050#常套表現#じょうとうひょうげん#conventional (stock) phrase;hackneyed expression;platitude;cliche#
+2047060#商人気質#しょうにんかたぎ#mercantile mind-set;mercenary spirit;being intent on making a profit#
+2047070#商人根性#しょうにんこんじょう#mercenary spirit;commercial motives;a nose for profit;moneygrubbing disposition#
+2047080#商売往来#しょうばいおうらい#business handbook (with glossary) of Edo period#
+2047090#商売上手#しょうばいじょうず#good at business;having a good head for business;businesslike#
+2047100#商売繁盛;商売繁昌;商賣繁盛;商賣繁昌#しょうばいはんじょう#thriving (prosperous) business;rush of business#
+2047110#上方修正#じょうほうしゅうせい#upward adjustment;upward revision#
+2047120#従容自若#しょうようじじゃく#having presence of mind;imperturbable;calm and self-possessed;with serenity#
+2047130#上覧相撲#じょうらんずもう#match held in front of the Emperor#
+2047140#昭和一桁#しょうわひとけた#(member of the generation born in) the first nine years of the Showa period (from 1926 to 1934)#
+2047150#贖罪意識#しょくざいいしき#sense of atonement#
+2047160#職住一体#しょくじゅういったい#having one's workplace at home;living and working at the same location (independent farmers, home workers, storekeepers, etc.)#
+2047170#職住近接#しょくじゅうきんせつ#having one's workplace near one's home#
+2047180#食傷気味#しょくしょうぎみ#being sick and tired (of);being fed up (with);having one's fill (of)#
+2047190#職務尋問#しょくむじんもん#ex-officio questioning;police questioning (of a suspicious person);a police checkup#
+2047200#職務怠慢#しょくむたいまん#neglect (dereliction) of duty;negligence#
+2047220#徐行戦術#じょこうせんじゅつ#go-slow tactics (of Japanese railway workers)#
+2047230#諸国漫遊#しょこくまんゆう#tour round the country (Japan) (visiting from province to province)#
+2047240#処士横議#しょしおうぎ#wayward (irresponsible) criticisms of political matters by private citizens#
+2047250#諸子百家#しょしひゃっか#Hundred Schools of Thought;general term for the large number of scholars and controversialists, and their respective schools, that flourished during China's Spring and Autumn period and Warring States period#
+2047260#処世上手#しょせいじょうず#knowing how to get on in the world;knowing the secret of success in life#
+2047270#女性遍歴#じょせいへんれき#one's history of love affairs with women#
+2047280#所属不明#しょぞくふめい#of unknown affiliation#
+2047290#女中奉公#じょちゅうぼうこう#domestic service;working as a housemaid;domestic help;domestic helper#
+2047300#庶民感覚#しょみんかんかく#sensibilities (feelings, way of thinking) of the common people;popular sentiment#
+2047310#諸役御免#しょやくごめん#being excused from various levies and taxes during the age of militarist government#
+2047330#自力本願#じりきほんがん#salvation by one's own efforts;self-reliance#
+2047340#素人細工#しろうとざいく#amateurish work#
+2047350#素人判断#しろうとはんだん#layperson's judgment (opinion)#
+2047360#白田売買#しろたばいばい#dealing in rice speculating on the year's harvest while the paddies are still covered with snow#
+2047370#神韻縹渺#しんいんひょうびょう#(a work of art being) sublime;transcendent#
+2047380#心外千万#しんがいせんばん#being totally upset (by);being completely nonplused (by);being mortified (at);feeling aggrieved (at);finding (it) highly regrettable#
+2047390#真贋論争#しんがんろんそう#argument as to (about) the authenticity (of...)#
+2047400#仁義忠孝#じんぎちゅうこう#humanity, justice, loyalty, and filial piety#
+2047410#仁義道徳#じんぎどうとく#humanity and justice;benevolence and righteousness#
+2047420#真偽不明#しんぎふめい#dubious;doubtful;of unknown authenticity#
+2047430#神機妙算#しんきみょうさん#inscrutable stratagem;ingenious scheme#
+2047440#辛苦艱難#しんくかんなん#trials and tribulations;adversities;suffering hardships and troubles#
+2047460#辛酸甘苦#しんさんかんく#hardships and joys;tasting the sweets and bitters of life;(having seen much of life) being well-versed in the ways of the world#
+2047470#神算鬼謀#しんさんきぼう#inscrutable stratagem;ingenious scheme#
+2047480#人事考課#じんじこうか#merit (ability, efficiency) rating;employee performance evaluation#
+2047490#心象風景#しんしょうふうけい#imagined landscape;scenery in one's mind's eye#
+2047500#人心安定#じんしんあんてい#stabilizing the feelings of the people;inspiring confidence among the people#
+2047510#人心刷新#じんしんさっしん#radically change public sentiment;leading the thought of the people to an entirely different channel#
+2047520#心身爽快#しんしんそうかい#feeling refreshed in mind and body#
+2047530#人生朝露#じんせいちょうろ#Man's life vanishes like a dew;A person's life is as fleeting as a morning dew#
+2047540#人生模様#じんせいもよう#facets (aspects) of (human) life;the pattern of (one's) life#
+2047550#親戚眷属#しんせきけんぞく#one's family and relatives;one's kith and kin#
+2047560#親戚故旧#しんせきこきゅう#relatives and old friends#
+2047570#真相究明#しんそうきゅうめい#probe into the truth (of the matter);dig into the real facts of the case;get at the root of a matter#
+2047580#深層心理#しんそうしんり#deep psyche;unconscious mind;depth psychology#
+2047590#迅速果敢#じんそくかかん#quick and decisive;fast and daring;swift and resolute#
+2047600#進退去就#しんたいきょしゅう#one's course of action;deciding what to do with oneself, whether staying in the present position or leaving it#
+2047610#進退問題#しんたいもんだい#a question of whether or not someone should resign#
+2047620#進退両難#しんたいりょうなん#being driven to the wall;finding oneself between the devil and the deep blue sea;finding oneself between a rock and a hard place#
+2047630#慎重吟味#しんちょうぎんみ#scrutiny;careful (close) examination (investigation);careful inquiry;careful selection#
+2047640#人道蹂躙#じんどうじゅうりん#outrage against humanity#
+2047650#人馬一体#じんばいったい#unity of rider and horse#
+2047660#心配無用#しんぱいむよう#Don't worry about it;There is nothing to fear;There is no need for anxiety;Everything is under control#
+2047670#親藩大名#しんぱんだいみょう#the daimyo of a feudal domain owned by a Tokugawa family branch#
+2047680#神仏混淆#しんぶつこんこう#mixture (synthesis) of Buddhism and Shintoism#
+2047690#人物月旦#じんぶつげったん#character sketch;comments on personalities#
+2047700#神仏分離#しんぶつぶんり#separation of Buddhism and Shintoism (government policy during the beginning of the Meiji period)#
+2047710#人物本位#じんぶつほんい#chiefly on the basis of someone's personal character#
+2047720#新聞学問#しんぶんがくもん#knowledge gained (information acquired) from newspapers#
+2047730#新聞辞令#しんぶんじれい#Appointment conjecturally reported in a newspaper;announcement of an appointment which is (turns out to be) mere press speculation#
+2047740#人倫道徳#じんりんどうとく#ethics and morality#
+2047750#随喜渇仰#ずいきかっこう#worship with adoration;admire ardently#
+2047760#推進母体#すいしんぼたい#nucleus (of a project proposal, of a social movement, etc.)#
+2047770#垂涎三尺#すいぜんさんじゃく#avid desire;drooling over (something);watering at the mouth#
+2047780#垂直思考#すいちょくしこう#rigid (stereotypical) thinking that adheres to preconceived notions#
+2047790#随伴現象#ずいはんげんしょう#epiphenomenon#
+2047800#酔歩蹣跚#すいほまんさん#tipsy lurch;reeling (staggering) gait#
+2047810#数的優勢#すうてきゆうせい#superiority in number;numerical superiority#
+2047820#杜撰脱漏#ずさんだつろう#careless (slipshod) and with many omissions#
+2047830#頭脳明晰#ずのうめいせき#being clearheaded;having a keen (sharp, brilliant) mind#
+2047840#政界工作#せいかいこうさく#currying of political favor;buying political influence#
+2047850#政界再編#せいかいさいへん#political realignment;a realignment of political parties#
+2047860#政界余聞#せいかいよぶん#tidbits of political gossip#
+2047870#性格美人#せいかくびじん#woman with a wonderful personality#
+2047880#性格描写#せいかくびょうしゃ#character portrayal;characterization#
+2047890#正確無比#せいかくむひ#unmatched (unparalleled) accuracy#
+2047900#生活残業#せいかつざんぎょう#(working) overtime to make ends meet (to support one's lifestyle)#
+2047910#生活不安#せいかつふあん#worry (uncertainty, uneasiness, insecurity) about one's life (future)#
+2047920#税金泥棒#ぜいきんどろぼう#tax parasite;public servants;politicians#
+2047930#整形美人#せいけいびじん#a plastic-surgery beauty#
+2047940#政権構想#せいけんこうそう#planning a new government;plan for a new administration#
+2047950#政権亡者#せいけんもうじゃ#one who is obsessed with (getting into, holding on to) political power;one who is obsessed with the idea of taking over government#
+2047960#晴好雨奇#せいこううき#the scenery being beautiful in both sunny and rainy weather#
+2047970#政策不況#せいさくふきょう#policy-induced slump;stagnation resulting from poor economic policies#
+2047980#生死一如#せいしいちにょ#Life and death are the two faces of the same coin#
+2047990#政治家肌#せいじかはだ#being something of a politician;having something of the politician in one#
+2048000#政治感覚#せいじかんかく#sense of politics;feeling for politics#
+2048010#政治決着#せいじけっちゃく#a political settlement;settling (a dispute) politically (without resorting to force)#
+2048020#政治工作#せいじこうさく#political maneuvering;politicking;political machinations#
+2048030#政治抗争#せいじこうそう#political strife (antagonism, conflict)#
+2048040#政治姿勢#せいじしせい#political stance#
+2048050#政治主導#せいじしゅどう#initiative taken by politicians (in the formulation of a policy or bill) (rather than by bureaucrats)#
+2048060#政治風土#せいじふうど#political climate#
+2048070#正邪曲直#せいじゃきょくちょく#right and (or) wrong#
+2048080#正邪善悪#せいじゃぜんあく#right and (or) wrong#
+2048090#青春群像#せいしゅんぐんぞう#youthful crowd;crowd of young people coming into their own#
+2048100#青春時代#せいしゅんじだい#one's youth;one's youthful days (years);the flower of one's youth;the springtime of one's life#
+2048110#清浄潔白#せいじょうけっぱく#upright and clean-handed;pure in heart and with a clean conscience#
+2048120#政情不安#せいじょうふあん#the instability of a political situation;political instability#
+2048130#政治力学#せいじりきがく#political dynamics;dynamics of political forces;the balance of political power#
+2048140#聖人君子#せいじんくんし#person of lofty virtue;man of noble character;perfect person;saint#
+2048150#聖人賢者#せいじんけんじゃ#person of lofty virtue and great wisdom#
+2048160#精神作用#せいしんさよう#operation (working) of the mind#
+2048170#成人指定#せいじんしてい#rated for "adults only"#
+2048180#精神修養#せいしんしゅうよう#moral (spiritual) improvement;practice mental training;cultivate one's mind (soul)#
+2048190#精神風土#せいしんふうど#the spiritual climate#
+2048200#盛衰興亡#せいすいこうぼう#rise and fall;ups and downs;waxing and waning;prosperity and decline;vicissitudes#
+2048210#成績不振#せいせきふしん#poor (academic) performance;poor (business) results (showing)#
+2048220#成長小説#せいちょうしょうせつ#novel of formation (education);novel of character development;novel which traces the intellectual, moral, spiritual or social development of a young person;Bildungsroman#
+2048230#性的逸脱#せいてきいつだつ#sexual deviation;sexual anomaly#
+2048240#清風明月#せいふうめいげつ#refreshing breeze and the bright moon;a beautiful nocturnal scene with a full moon#
+2048250#精妙巧緻#せいみょうこうち#exquisite and elaborate#
+2048260#姓名不詳#せいめいふしょう#unidentified;name unknown#
+2048270#整理整頓#せいりせいとん#keeping things tidy and in order#
+2048280#整理淘汰#せいりとうた#reorganize an enterprise and weed out redundant workers;reorganize an industry and weed out redudant enterprises#
+2048290#勢力拡大#せいりょくかくだい#expansion of one's sphere of influence;increase in one's power (strength, influence)#
+2048300#勢力関係#せいりょくかんけい#power relations;balance of power (between)#
+2048310#勢力拮抗#せいりょくきっこう#struggle for supremacy between evenly-matched forces (parties)#
+2048320#勢力圏内#せいりょくけんない#within the sphere of influence (of)#
+2048330#勢力分野#せいりょくぶんや#the respective (relative) strength of political parties;distribution of the number of parliamentary seats held by each of the political parties#
+2048340#世界思潮#せかいしちょう#main currents (the trend) of thinking in the world#
+2048350#赤手空拳#せきしゅくうけん#barehanded;having no wealth or position to rely on (aside from one's own resourcefulness) (when embarking on something)#
+2048360#責任回避#せきにんかいひ#avoidance of responsibility;shirking (one's) responsibility#
+2048370#責任問題#せきにんもんだい#a question (an issue) of where responsibility (liability) lies;a question of who is responsible (to blame)#
+2048380#世上万般#せじょうばんぱん#all the worldly (mundane) matters;everything in this world#
+2048390#是正措置#ぜせいそち#corrective action (measure);rectification#
+2048400#世態人情#せたいにんじょう#(contemporary) customs and behavior;the picture of people's life in the contemporary world#
+2048410#舌禍事件#ぜっかじけん#scandal (trouble) caused by a slip of the tongue#
+2048420#接客業務#せっきゃくぎょうむ#customer relations;serving (helping, attending to, waiting on) customers#
+2048430#説教調子#せっきょうぢょうし#(in a) preaching tone#
+2048440#説教泥棒#せっきょうどろぼう#preaching burglar;burglar who preaches at the victim about the methods of preventing similar crimes#
+2048450#説教坊主#せっきょうぼうず#tub-thumping preacher;preacher (priest) who is good at delivering a sermon;pulpiteer (usually with contemptuous implication)#
+2048460#積極果敢#せっきょくかかん#aggressive;active and bold (daring);resolute determination#
+2048470#積極財政#せっきょくざいせい#expansionary fiscal policy#
+2048480#絶対安静#ぜったいあんせい#complete bed rest;complete rest and quiet#
+2048490#絶対服従#ぜったいふくじゅう#absolute obedience;complete submission#
+2048500#雪隠大工#せっちんだいく#lousy carpenter#
+2048510#窃盗行為#せっとうこうい#theft;act of larceny#
+2048520#説得上手#せっとくじょうず#persuasiveness;skilled in the art of persuasion#
+2048530#絶滅寸前#ぜつめつすんぜん#critical endangerment;verge of extinction#
+2048540#説話文学#せつわぶんがく#legendary literature;narrative literature#
+2048550#世道人心#せどうじんしん#(public) morals and sentiments#
+2048560#是非判断#ぜひはんだん#discrimination of right and wrong;distinguishing between right and wrong#
+2048570#是非善悪#ぜひぜんあく#rights and wrongs;the relative merits (of a case);propriety#
+2048580#善悪不二#ぜんあくふに#Good and evil are but two faces of the same coin#
+2048590#善意銀行#ぜんいぎんこう#center for collecting charitable contributions (money, goods, and-or services) and distributing them to people in need#
+2048600#戦意喪失#せんいそうしつ#lose one's fighting spirit;lose the will to fight;lose heart#
+2048610#善意通訳#ぜんいつうやく#goodwill guide;volunteer guide and interpreter for foreign residents and tourists#
+2048620#全員一致#ぜんいんいっち#unanimity#
+2048630#前衛芸術#ぜんえいげいじゅつ#avant-garde art#
+2048640#全員無事#ぜんいんぶじ#Everyone is safe (all right)#
+2048650#浅学寡聞#せんがくかぶん#shallow learning and limited information;ignorant and badly informed#
+2048660#前官礼遇#ぜんかんれいぐう#(being granted) the privileges of one's former (official) post#
+2048670#専業主夫#せんぎょうしゅふ#full-time house-husband;stay-at-home dad#
+2048680#前後関係#ぜんごかんけい#context (of a passage)#
+2048690#前虎後狼#ぜんここうろう#one calamity followed close on the heels of another;out of the frying pan into the fire;tiger in front, wolf in the back#
+2048700#先刻承知#せんこくしょうち#being already (well) aware#
+2048710#戦国大名#せんごくだいみょう#daimyo in the Warring States period#
+2048720#戦国乱世#せんごくらんせい#turbulent (troubled) times;turbulent war period#
+2048730#善後処置#ぜんごしょち#remedial measure;preventive measure;the best way to cope with (meet) the situation#
+2048740#善後措置#ぜんごそち#remedial measure;preventive measure;the best way to cope with (meet) the situation#
+2048750#善後対策#ぜんごたいさく#remedial measure;preventive measure;the best way to cope with (meet) the situation#
+2048760#前後撞着#ぜんごどうちゃく#self-contradiction;self-inconsistency#
+2048770#千古万古#せんこばんこ#remote antiquity;ancient times;the remote past#
+2048780#千古不磨#せんこふま#permanence;immortality;eternity#
+2048790#前後矛盾#ぜんごむじゅん#self-contradiction;self-inconsistency#
+2048800#善哉善哉#ぜんざいぜんざい#Well done!;Great!;Bravo!#
+2048810#前時代的#ぜんじだいてき#premodern;old-fashioned;outmoded;antiquated#
+2048820#選手生命#せんしゅせいめい#player's career;one's career in sport;one's career as an athlete#
+2048830#千種万様#せんしゅばんよう#an infinite variety;multifarious;being extremely varied and wide-ranging#
+2048840#僭上越権#せんじょうえっけん#exceeding (overstepping) one's powers (competence, authority);abuse of one's legal authority;acting ultra vires#
+2048850#扇情小説#せんじょうしょうせつ#sultry novel;suggestive story#
+2048860#専心一意#せんしんいちい#single-mindedly;wholeheartedly;with one's heart and soul#
+2048870#前人未発#ぜんじんみはつ#unprecedented;unheard-of;never propounded (discovered, invented) by anyone before#
+2048880#善戦苦闘#ぜんせんくとう#putting up a good fight against some odds#
+2048890#千態万状#せんたいばんじょう#an endless variety of forms;multifariousness#
+2048900#専断横行#せんだんおうこう#prevalence of arbitrariness;rife with arbitrary decisions (acting on one's own authority)#
+2048910#前兆現象#ぜんちょうげんしょう#precursor;premonitory phenomena;telltale signs;advance warnings#
+2048920#前程万里#ぜんていばんり#a bright (rosy) future awaiting one;having the world before one#
+2048930#宣伝工作#せんでんこうさく#propaganda work;propaganda efforts (maneuvers)#
+2048940#宣伝攻勢#せんでんこうせい#propaganda campaign (offensive);advertising (promotional) offensive#
+2048950#宣伝路線#せんでんろせん#(adopting) a publicity (an advertising) policy;a propaganda line#
+2048960#前途多望#ぜんとたぼう#promising (rosy, bright) future;offering promising prospects#
+2048970#前途有為#ぜんとゆうい#having a very promising future;offering promising prospects#
+2048980#千人千色#せんにんせんしょく#So many people, so many minds;Everyone has his own ideas and tastes;It takes all sorts to make a world;To each his (her) own#
+2048990#千年一日#せんねんいちじつ#without intermission for many years;with constancy of purpose for many years;in the same old rut for years on end#
+2049000#宣撫工作#せんぶこうさく#pacification work (activity)#
+2049010#選民意識#せんみんいしき#sense of being the chosen people#
+2049020#全面対決#ぜんめんたいけつ#all-out (frontal, total) confrontation#
+2049030#全面撤退#ぜんめんてったい#total (full-scale) withdrawal;complete pullout (pullback)#
+2049040#全面否定#ぜんめんひてい#total denial;complete denial;denying totally (flatly, outright)#
+2049050#専門馬鹿#せんもんばか#person who is ignorant outside his field#
+2049060#漸落市況#ぜんらくしきょう#sagging market#
+2049070#千里同風#せんりどうふう#a country being in a state of universal peace;the world being peaceful and uneventful#
+2049080#戦力拮抗#せんりょくきっこう#struggle for supremacy between evenly-matched armies (teams)#
+2049090#全力投球#ぜんりょくとうきゅう#using all of one's strength (to);giving (it) everything one has got;going full-out;throwing a ball as hard as one can#
+2049100#善隣外交#ぜんりんがいこう#good-neighbor diplomacy;a good-neighbor policy#
+2049110#戦列復帰#せんれつふっき#return to the battle line;come back to the game (on to the field);a comeback#
+2049120#滄海一滴#そうかいいってき#a drop in the ocean (bucket)#
+2049130#滄海桑田#そうかいそうでん#The word is a scene of constant changes (as the blue sea changing into a mulberry field). (Chinese legend)#
+2049140#早期解決#そうきかいけつ#early (prompt) settlement;swift resolution;speedy solution#
+2049150#創業守成#そうぎょうしゅせい#starting an enterprise and (or) carrying it to final success#
+2049160#造形教育#ぞうけいきょういく#education in art and design;education in drawing and manual arts#
+2049170#相互理解#そうごりかい#mutual understanding#
+2049180#壮行試合#そうこうじあい#send-off game (match)#
+2049190#荘厳華麗#そうごんかれい#majestic and splendid#
+2049200#創作意欲#そうさくいよく#will (urge) to create;creative urge;appetite for writing#
+2049210#創氏改名#そうしかいめい#the order forced on Koreans to change their names to Japanese ones#
+2049220#葬式仏教#そうしきぶっきょう#funeral Buddhism;(reliance on) Buddhism only for funerals#
+2049230#壮大華麗#そうだいかれい#grandiose and splendid#
+2049240#相談相手#そうだんあいて#adviser;someone to consult with;someone to turn to about one's concerns;confidant#
+2049250#増長天狗#ぞうちょうてんぐ#braggart;boaster;self-conceited person#
+2049260#桑田滄海#そうでんそうかい#The word is a scene of constant changes (as a mulberry field changing into a blue sea). (Chinese legend)#
+2049270#桑田碧海#そうでんへきかい#The word is a scene of constant changes (as a mulberry field changing into a blue sea). (Chinese legend)#
+2049280#掃討作戦#そうとうさくせん#mopping-up operation;search-and-destroy operation#
+2049290#相場動向#そうばどうこう#market trend;stock movements#
+2049300#相場操縦#そうばそうじゅう#market manipulation;market rigging#
+2049310#総花主義#そうばなしゅぎ#the principle of pleasing everyone;make-everybody-happy policy#
+2049320#総花政策#そうばなせいさく#all-around policy;please-everyone policy#
+2049330#総帆展帆#そうはんてんぱん#in full sail;decked out in full sail#
+2049340#訴求効果#そきゅうこうか#customer appeal;the power to appeal to customers#
+2049350#息災延命#そくさいえんめい#health and longevity;enjoying a long and healthy life being untouched by disaster#
+2049360#俗談平話#ぞくだんへいわ#conversation on worldly affairs;chat about everyday life (business)#
+2049370#俗物根性#ぞくぶつこんじょう#snobbery;snobbishness;philistinism;vulgar and ostentatious nature (disposition)#
+2049380#組織人間#そしきにんげん#organization (corporate) man (woman)#
+2049390#粗酒粗肴#そしゅそこう#cheap wines and unpalatable dishes (a modest (self-deprecating) way of offering a meal to a guest)#
+2049400#措置入院#そちにゅういん#involuntary admission (commitment) (to a mental hospital)#
+2049410#側近政治#そっきんせいじ#administration by close advisers;kitchen cabinet#
+2049420#即金取引#そっきんとりひき#cash (spot) transaction#
+2049430#即決即断#そっけつそくだん#prompt decision and prompt execution;make swift decisions and take quick actions#
+2049440#算盤勘定#そろばんかんじょう#counting on the abacus;cost-benefit (profitability) calculation#
+2049450#樽俎折衝#そんそせっしょう#diplomatic negotiations at the dinner table;diplomatic bargaining#
+2049460#尊大不遜#そんだいふそん#arrogant and presumptuous;haughty arrogance;intolerable insolence#
+2049470#損得勘定#そんとくかんじょう#profit-and-loss arithmetic;calculating profit and loss;mercenary point of view#
+2049480#存廃問題#そんぱいもんだい#question of maintenance or abolition (of an institution, organization, etc.)#
+2049500#第一義的#だいいちぎてき#basic;primary;fundamental#
+2049510#太陰崇拝#たいいんすうはい#moon worship#
+2049520#退嬰主義#たいえいしゅぎ#backward-looking philosophy (ideology);conservatism#
+2049530#退嬰政策#たいえいせいさく#conservative (regressive) policy#
+2049540#大海一滴#たいかいいってき#a drop in the ocean (bucket)#
+2049550#対外関係#たいがいかんけい#foreign (international) relations;diplomacy;external affairs#
+2049560#大廈高楼#たいかこうろう#large building and lofty tower;splendid (magnificent, palatial) structure#
+2049570#大逆非道#たいぎゃくひどう#heinous;treacherous;atrocious;diabolic;fiendish;inhuman#
+2049580#大逆無道#たいぎゃくむどう#heinous;treacherous;atrocious;diabolic;fiendish;inhuman#
+2049590#怠業戦術#たいぎょうせんじゅつ#slowdown strategy;go-slow tactics (of workers in a labor dispute)#
+2049600#大慶至極#たいけいしごく#great happiness;great joy (pleasure)#
+2049610#対決姿勢#たいけつしせい#confrontational attitude (stance, posture)#
+2049620#大権干犯#たいけんかんぱん#infringing on the power of the sovereign#
+2049630#大悟徹底#たいごてってい#attain divine enlightenment;perceive absolute truth;experience spiritual awakening#
+2049640#大衆団交#たいしゅうだんこう#mass (labor) negotiation;mass bargaining session;public negotiation#
+2049650#大衆路線#たいしゅうろせん#(adopting) a popular line;(taking) a populist line#
+2049660#帯出禁止#たいしゅつきんし#Not to be taken out;Reference Only#
+2049670#大詔渙発#たいしょうかんぱつ#promulgation of an Imperial rescript#
+2049680#対人感覚#たいじんかんかく#feelings toward other people;sensitivity to other people's feelings;feelings one gives to other people through interpersonal relationships#
+2049690#大尽振舞#だいじんぶるまい#royal treatment;entertain someone extravagantly#
+2049700#大声疾呼#たいせいしっこ#shout with a loud voice;fulminate;vociferate#
+2049710#大勢順応#たいせいじゅんのう#conformism;following the crowd;swimming with the tide;me-tooism#
+2049720#退勢挽回#たいせいばんかい#restoring the declining fortunes;recovering from the discouraging situation;reversing the downward trend#
+2049730#対戦相手#たいせんあいて#opponent;adversary;the competition;the other side;an (the) enemy#
+2049740#大胆巧妙#だいたんこうみょう#bold and clever;daring and ingenious;audacious and masterly#
+2049750#大胆至極#だいたんしごく#the height of daring;very courageous (reckless), extremely audacious#
+2049760#大胆奔放#だいたんほんぽう#bold and unrestrained;daring and unfettered#
+2049770#大道演説#だいどうえんぜつ#street (soapbox) oratory;stump oratory#
+2049780#帯刀御免#たいとうごめん#a non-samurai being granted the privilege of wearing a sword (during the Edo period)#
+2049790#態度物腰#たいどものごし#attitude and demeanor#
+2049800#台風銀座#たいふうぎんざ#the typhoon Ginza;the area (of Japan) where typhoons frequently pass#
+2049810#対等関係#たいとうかんけい#relationship of equality;(being) on an equal footing#
+2049820#耐乏予算#たいぼうよさん#austerity (belt-tightening) budget#
+2049830#大陸浪人#たいりくろうにん#prewar Japanese adventurer (political activist) in mainland China#
+2049840#対立意見#たいりついけん#conflicting (opposite, contrasting) opinion;antagonistic view#
+2049850#対立概念#たいりつがいねん#the exact opposite concept (idea);the antithesis#
+2049860#対立感情#たいりつかんじょう#feeling of antipathy (rivalry);antagonistic sentiment#
+2049870#大漁貧乏#たいりょうびんぼう#impoverishment of fishermen because of a bumper catch;decline in fishermen' s income caused by the sharply lower fish prices as a result of an overabundant catch#
+2049880#体力勝負#たいりょくしょうぶ#trial of strength;test of one's strength (stamina)#
+2049890#対話路線#たいわろせん#policy of using dialogue instead of confrontation#
+2049900#多岐多様#たきたよう#wide-ranging and diverse;multifarious#
+2049910#択一問題#たくいつもんだい#multiple-choice question#
+2049920#卓上演説#たくじょうえんぜつ#after-dinner speech;speech made at a dinner (luncheon)#
+2049930#多芸多才#たげいたさい#versatile;multi-talented#
+2049940#竹槍戦術#たけやりせんじゅつ#tactics of fighting a technologically advanced adversary with primitive weapons;sole reliance on simple determination (naive spiritualism) in fighting an overwhelming foe#
+2049950#他言無用#たごんむよう#Not a word to anyone;Mum's the word#
+2049960#多種多面#たしゅためん#wide-ranging and diverse;multifarious#
+2049970#達成可能#たっせいかのう#achievable;attainable#
+2049980#脱線行為#だっせんこうい#aberration;aberrant behavior;eccentric (erratic) behavior;indulging in an escapade#
+2049990#伊達メガネ;伊達眼鏡#だてメガネ;だてめがね#glasses for show;fashionable eyeglasses worn for appearance's sake;glasses with no lenses or 'window glass' lenses#

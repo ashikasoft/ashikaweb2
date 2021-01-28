@@ -1,0 +1,959 @@
+2330000#ホールド時間#ホールドじかん#hold time#
+2330010##ホスツ#hosts#
+2330020##ホスティングサービス;ホスティング・サービス#hosting service#
+2330030#ホストＯＳ#ホストオーエス#host Operating System#
+2330040##ホストコンピュータ;ホスト・コンピュータ#host computer#
+2330050##ホストシステム;ホスト・システム#host system#
+2330060##ホストノード;ホスト・ノード#host node#
+2330070##ホストバスアダプタ;ホスト・バス・アダプタ#host bus adapter#
+2330080##ホストマシン;ホスト・マシン#host machine#
+2330090#ホスト計算機#ホストけいさんき#host computer#
+2330100#ホスト名#ホストめい#host name#
+2330110##ホットジャバ#HotJava#
+2330120##ホットスタート;ホット・スタート#hot start#
+2330130##ホットスペア;ホット・スペア#hot spare#
+2330140##ホットスワッパブル#hot swappable#
+2330150##ホットスワップ;ホット・スワップ#hot swap;hot switch-over#
+2330160##ホットドッキング;ホット・ドッキング#hot docking#
+2330170##ホットバックアップ;ホット・バックアップ#hot backup#
+2330180##ホットプラグ;ホット・プラグ#hot plugging#
+2330190##ホットリスト#hotlist#
+2330200##ホットリセット;ホット・リセット#hot reset#
+2330210##ホットリンク#hotlink#
+2330220##ホモジニアスコンソリデーション;ホモジニアス・コンソリデーション#homogeneous consolidation#
+2330230##ホロス#Holos#
+2330240##ホワイトバランス;ホワイト・バランス#white balance#
+2330250##ホワイトページ;ホワイト・ページ#White Pages (telephone book)#
+2330260##ホワイトペーパー;ホワイト・ペーパー#white paper#
+2330270##ホワイトボックス#whitebox#
+2330290##ボーランド#Borland#
+2330300#ボールド体#ボールドたい#boldface#
+2330310##ボイスコーデック;ボイス・コーデック#voice codec#
+2330320##ボイスメール;ボイスメイル;ボイス・メール;ボイス・メイル#voice mail;voicemail#
+2330340##ボイスメッセージ;ボイス・メッセージ#voice message#
+2330350##ボイスメッセージング;ボイス・メッセージング#voice messaging#
+2330360##ボイラプレート#boilerplate#
+2330370##ボクセル#voxel#
+2330380##ボタンバー;ボタン・バー#button bar#
+2330390##ボックスモデル;ボックス・モデル#box model#
+2330400##ボップスアンドジェイ#BOPS&J#
+2330410##ボリュームセット;ボリューム・セット#volume set#
+2330420##ボリュームマネージャ;ボリューム・マネージャ#volume manager#
+2330430##ボリュームラベル;ボリューム・ラベル#beginning-of-volume label;volume (header) label;volume header#
+2330440##ボリュームレンダリング;ボリューム・レンダリング#volume rendering#
+2330450#ボリューム見出しラベル#ボリュームみだしラベル#beginning-of-volume label;volume (header) label;volume header#
+2330460#ボリューム始めラベル#ボリュームはじめラベル#beginning-of-volume label;volume (header) label;volume header#
+2330470#ボリューム指示子#ボリュームしじし#current volume pointer#
+2330480#ボリューム終わりラベル#ボリュームおわりラベル#end-of-volume label;EOV#
+2330490#ボリューム集合#ボリュームしゅうごう#volume set#
+2330500##ポータブルコンピュータ;ポータブル・コンピュータ#portable computer#
+2330510##ポータル#portal#
+2330520##ポーティング#porting#
+2330530##ポーテジェ#Portege#
+2330540##ポートリプリケータ;ポート・リプリケータ#port replicator#
+2330550##ポートレイトモード;ポートレイト・モード#portrait mode#
+2330560#ポート番号#ポートばんごう#port number#
+2330570#ポート輻輳#ポートふくそう#port congestion#
+2330580#ポーランド記法#ポーランドきほう#Polish notation#
+2330590#ポーランド表記法#ポーランドひょうきほう#prefix notation;Polish notation;parenthesis-free notation;Lukasiewicz notation#
+2330600##ポインターフィールド;ポインター・フィールド#pointer field#
+2330610#ポインタ結合#ポインタけつごう#pointer association#
+2330620#ポインタ代入#ポインタだいにゅう#pointer assignment#
+2330630#ポインタ代入文#ポインタだいにゅうぶん#pointer assignment statement#
+2330640##ポインティングデバイス;ポインティング・デバイス#pointing device#
+2330650##ポインティングデバイスインタフェース;ポインティング・デバイス・インタフェース#pointing device interface#
+2330660#ポイントＵＲＬ#ポイントユーアールエル#point URL#
+2330670##ポイント・ツウ・ポイント#point to point#
+2330680##ポイント・ツウ・マルチポイント#point to multipoint#
+2330690##ポイントオブプレザンス#point of presence;POP#
+2330700##ポイントツーポイント#point-to-point#
+2330710##ポイントツーポイントシステム;ポイントツーポイント・システム#point-to-point system#
+2330720##ポイントツーポイントプロトコル;ポイントツーポイント・プロトコル#point to point protocol;PPP#
+2330730#ポイントツーポイント接続#ポイントツーポイントせつぞく#point-to-point connection#
+2330750##ポケットモデム;ポケット・モデム#pocket modem#
+2330760#ポケット計算器#ポケットけいさんき#pocket calculator;hand-held calculator#
+2330770##ポジックス#POSIX#
+2330780#ポジティブ表示#ポジティブひょうじ#positive expression#
+2330790#ＰＯＳ#ポス;ピーオーエス#point of sale;POS#
+2330800##ポストアンブル#postamble#
+2330810##ポストグレス#Postgres#
+2330820##ポストピクセルブレンド#post-pixel blending#
+2330830#ポストフィックス表記法#ポストフィックスひょうきほう#suffix notation;postfix notation;reverse Polish notation#
+2330840##ポストペット#Postpet#
+2330850##ポップアップアイテム;ポップアップ・アイテム#pop-up item#
+2330860##ポップアップメッセージ;ポップアップ・メッセージ#pop-up message#
+2330870##ポップアップメニュー;ポップアップ・メニュー#popup menu#
+2330880#ポップアップ表示#ポップアップひょうじ#pop-up display#
+2330890##ポップスリー#POP3#
+2330900##ポップヒント;ポップ・ヒント#mouse-over explanation;pop-up explanation;what's this tip#
+2330910##ポップメイル#POPmail#
+2330920##ポリシング#policing#
+2330930#ポリトープ法#ポリトープほう#polytope method#
+2330940#ポロジ状態要素#ポロジじょうたいようそ#topology state element#
+2330950#ポワッソン分布#ポワッソンぶんぷ#Poisson distribution#
+2330960#マーカ種#マーカしゅ#marker type#
+2330970#マーカ倍率#マーカばいりつ#marker size scale factor#
+2330980#マーカ列#マーカれつ#polymarker#
+2330990#マーカ列束表#マーカれつたばひょう#polymarker bundle table#
+2331000#マークアップ言語#マークアップげんご#markup language#
+2331010#マーク規則#マークきそく#markup convention#
+2331020#マーク区間#マークくかん#marked section#
+2331030#マーク区間の有効状態#マークくかんのゆうこうじょうたい#effective status of a marked section#
+2331040#マーク区間開始#マークくかんかいし#marked section start#
+2331050#マーク区間終了#マークくかんしゅうりょう#marked section end#
+2331060#マーク区間宣言#マークくかんせんげん#marked section declaration#
+2331070#マーク最小化機構#マークさいしょうかきこう#markup minimization feature#
+2331080#マーク宣言#マークせんげん#markup declaration#
+2331090#マーク読取り#マークよみとり#mark scanning;optical mark reading#
+2331100#マーク読取り装置#マークよみとりそうち#mark reader#
+2331110#マーク認知開始文字#マークにんちかいしもじ#markup-scan-in characters#
+2331120#マーク認知終了文字#マークにんちしゅうりょうもじ#markup-scan-out characters#
+2331130#マーク認知抑止文字#マークにんちよくしもじ#markup-scan-suppress characters#
+2331140#マーク付け#マークづけ#mark up#
+2331150#マーク文字#マークもじ#markup character#
+2331160##マーケットアウェアネス;マーケット・アウェアネス#market awareness#
+2331170#マーケティング情報システム#マーケティングじょうほうシステム#Marketing Information System;MIS#
+2331180##マーセッド#Merced#
+2331190##マイエスエーピードットコム#mySAP.com#
+2331200##マイクノイズ;マイク・ノイズ#microphone noise#
+2331210##マイクロアーキテクチャ#micro-architecture#
+2331220##マイクロカーネル#microkernel#
+2331230##マイクロコード#microcode#
+2331240##マイクロコム#Microcom#
+2331260##マイクロシソーラス#microthesaurus#
+2331270##マイクロソフト#Microsoft#
+2331280##マイクロソフトプロダクトアクティベーション;マイクロソフト・プロダクト・アクティベーション#Microsoft Product Activation#
+2331290##マイクロソフトポイント;マイクロソフト・ポイント#Microsoft Points#
+2331300#マイクロソフトライセンス認証#マイクロソフトライセンスにんしょう#Microsoft Product Activation#
+2331310##マイクロチャネル;マイクロ・チャネル#Micro Channel#
+2331320##マイクロチャネルアーキテクチャ;マイクロチャネル・アーキテクチャ#microchannel architecture#
+2331330##マイクロドライ;マイクロ・ドライ#Micro Dry#
+2331340##マイクロドライブ#microdrive#
+2331350##マイクロヒートパイプ;マイクロ・ヒート・パイプ#micro heat pipe#
+2331360##マイクロフロッピーディスク;マイクロフロッピィディスク;マイクロフロッピー・ディスク#microfloppy disk#
+2331370##マイクロプログラミング#microprogramming#
+2331390##マイクロメディア#micromedia#
+2331400##マイクロン#Micron#
+2331410#マイクロ秒#マイクロびょう#microsecond#
+2331420#マイクロ命令#マイクロめいれい#microinstruction#
+2331430##マイテレビ;マイ・テレビ#My TV#
+2331440##マイデバイス;マイ・デバイス#My Device#
+2331450##マイドキュメント;マイ・ドキュメント#My Documents#
+2331460##マイナーバージョンアップ;マイナー・バージョン・アップ#minor upgrade#
+2331470#マイナーバージョン番号#マイナーバージョンばんごう#minor version number#
+2331480#マイナスのねじ回し#マイナスのねじまわし#flat-bladed screwdriver#
+2331490##マイビデオ;マイ・ビデオ#My Videos#
+2331500##マイフェス#MIFES#
+2331510#マウスの左ボタン#マウスのひだりボタン#left mouse button#
+2331520##マウスアイコン;マウス・アイコン#mouse icon#
+2331530##マウスカーソル;マウス・カーソル#mouse cursor#
+2331540##マウスクリック;マウス・クリック#mouse click#
+2331550##マウスドライバ;マウス・ドライバ#mouse (device) driver#
+2331560##マウスパッド;マウス・パッド#mouse pad#
+2331570##マウスボタン#mouse button#
+2331580##マウスポインタ;マウス・ポインタ#mouse pointer#
+2331590#マウス移動感度#マウスいどうかんど#acceleration#
+2331600##マウンテンフレーム;マウンテン・フレーム#mounting frame#
+2331610##マウンテンレール;マウンテン・レール#mounting rail#
+2331620##マウントポイント;マウント・ポイント#mount point#
+2331630#マウント処理#マウントしょり#mount(ing) process#
+2331640#マクロの展開#マクロのてんかい#macro expansion#
+2331650##マクロアセンブラ;マクロ・アセンブラ#macro assembler#
+2331660##マクロウイルス;マクロウィルス;マクロ・ウイルス;マクロ・ウィルス#macro virus#
+2331670##マクロウィンドウ;マクロ・ウィンドウ#macro window#
+2331680##マクロシソーラス#macrothesaurus#
+2331690##マクロデータ;マクロ・データ#macro data#
+2331700##マクロプロジェクト;マクロ・プロジェクト#macro project#
+2331710##マクロプロセッサ#macro-processor#
+2331720#マクロ感染型ウイルス#マクロかんせんかたウイルス#macro infection type virus#
+2331730#マクロ機能#マクロきのう#macro-function#
+2331740#マクロ言語#マクロげんご#macro language#
+2331750#マクロ呼出し#マクロよびだし#macro call#
+2331760#マクロ式#マクロしき#macro expression#
+2331770#マクロ処理プログラム#マクロしょりプログラム#macrogenerator;macroprocessor#
+2331780#マクロ処理系#マクロしょりけい#macrogenerator;macroprocessor#
+2331790#マクロ生成プログラム#マクロせいせいプログラム#macrogenerator;macroprocessor#
+2331800#マクロ生成系#マクロせいせいけい#macrogenerator;macroprocessor#
+2331810#マクロ定義#マクロていぎ#macro definition#
+2331820#マクロ本体#マクロほんたい#macro definition;macro prototype#
+2331830#マクロ命令#マクロめいれい#macro instruction#
+2331840##マザーボード#motherboard#
+2331850#マシンが読み取り可能#マシンがよみとりかのう#machine-readable#
+2331860##マシンコード;マシン・コード#machine code#
+2331870##マシンサイクル;マシン・サイクル#machine cycle#
+2331880#マシン依存型#マシンいぞんがた#machine-dependent#
+2331890#マシン独立型#マシンどくりつがた#machine-independent#
+2331900#マスクＲＯＭ#マスクロム#mask read-only-memory;MROM#
+2331910##マスクロム;マスク・ロム#mask ROM#
+2331920#マスク不可能割り込み#マスクふかのうわりこみ#Non-Maskable Interrupt;NMI#
+2331930##マスターディスク;マスター・ディスク#original disk#
+2331940##マスターハブ;マスター・ハブ#master hub#
+2331950##マスターページ;マスター・ページ#master page#
+2331960##マスターワークステーション;マスター・ワークステーション#master workstation#
+2331970##マスタドキュメント;マスタ・ドキュメント#master document#
+2331980##マスタドライブ;マスタ・ドライブ#master drive#
+2331990##マスタブートレコード;マスタ・ブート・レコード#master boot record;MBR#
+2332000##マゼラン#Magellan#
+2332010##マゼランパスポート;マゼラン・パスポート#Magellan Passport#
+2332020#マック版#マックはん#Macintosh version#
+2332030#マッチ演算子#マッチえんざんし#match(ing) operator#
+2332040##マッハバンド;マッハ・バンド#mach band#
+2332050##マッピ#MAPI#
+2332060##マップクリック;マップ・クリック#map click#
+2332070##マトリクススイッチャー;マトリクス・スイッチャー#matrix switcher#
+2332080##マトリックスサイズ;マトリックス・サイズ#matrix size#
+2332090##マネージコード;マネージ・コード#managed code#
+2332110##マルウェア#malware#
+2332120##マルコフモデル;マルコフ・モデル#Markov model#
+2332130#マルコフ解析#マルコフかいせき#Markov analysis#
+2332140#マルコフ連鎖#マルコフれんさ#Markov chain#
+2332150#マルチＴＴハブ#マルチティーティーハブ#multiple TT hub#
+2332160##マルチウィンドウ;マルチウインドー#multiwindow;multi-window#
+2332170##マルチウィンドウシステム;マルチウィンドウ・システム#multi window system#
+2332180##マルチキャストアドレス;マルチキャスト・アドレス#multicast address#
+2332190##マルチキャストバックボーン;マルチキャスト・バックボーン#multicast backbone (Mbone)#
+2332200##マルチクス#Multics#
+2332210##マルチサービス#multiservice#
+2332220##マルチシステムネットワーク#multisystem network#
+2332230##マルチシンクモニター;マルチシンク・モニター#multisync monitor#
+2332240##マルチスキャン#multiscan#
+2332250##マルチスキャンディスプレイ;マルチスキャン・ディスプレイ#multi-scan display#
+2332260##マルチスキャンモニター;マルチスキャン・モニター#multi-scan monitor#
+2332270##マルチスレッディング#multithreading#
+2332280##マルチスレッド#multithreading#
+2332290##マルチセッション#multi-session#
+2332300##マルチソケット#multi-socket (spanner set, drill set, power strip, etc.)#
+2332310##マルチタスキング#multitasking#
+2332320##マルチタスク#multitasking#
+2332330#マルチタスクＯＳ#マルチタスクオーエス#multitasking Operation System#
+2332340##マルチタスクオペレーティングシステム;マルチタスク・オペレーティング・システム#multitasking operating system#
+2332350#マルチタスク処理#マルチタスクしょり#multitasking#
+2332360##マルチディスプレイ#multi-display#
+2332370##マルチドロップ#multidrop#
+2332380#マルチバンクＤＲＡＭ#マルチバンクディーラム#multibank Dynamic Random Access Memory;MDRA#
+2332390##マルチパートメッセージ;マルチパート・メッセージ#multi-part message#
+2332400##マルチパス#multipath#
+2332410#マルチパスＩＯ#マルチパスアイオー#multipath IO#
+2332420##マルチファインダ#MultiFinder#
+2332430##マルチファンクション#multifunction#
+2332440##マルチフォント#multi-font#
+2332450##マルチブート#multi boot#
+2332460#マルチブロックメッセージ伝送#マルチブロックメッセージでんそう#multi-block message transmission#
+2332470##マルチプラットフォーム#multiplatform#
+2332480##マルチプルアクセス;マルチプル・アクセス#multiple access#
+2332490##マルチプレーヤーゲーム;マルチプレイヤーゲーム;マルチプレーヤー・ゲーム;マルチプレイヤー・ゲーム#multiplayer game#
+2332510##マルチプレキシング#multiplexing#
+2332520##マルチプレクサチャネル;マルチプレクサ・チャネル#multiplexer channel#
+2332530##マルチプロセシング#multiprocessing#
+2332550##マルチプロセッシング#multiprocessing#
+2332560##マルチプロトコル#multiprotocol#
+2332570##マルチベンダー#multivendor#
+2332580#マルチベンダー環境#マルチベンダーかんきょう#multivendor environment#
+2332590##マルチホスティング#multi-hosting#
+2332600##マルチボリュームファイル;マルチボリューム・ファイル#multivolume file#
+2332610##マルチボリュームマルチセッション#multivolume multi-session#
+2332620##マルチポイント#multipoint#
+2332630#マルチポイント接続#マルチポイントせつぞく#multipoint connection#
+2332640##マルチメディアエクステンション;マルチメディア・エクステンション#multimedia extension;MMX#
+2332650##マルチメディアタイトル;マルチメディア・タイトル#multimedia title#
+2332660##マルチメディアデータベース;マルチメディア・データベース#multimedia database;MDB#
+2332670##マルチメディアパソコン;マルチメディア・パソコン#multimedia personal computer#
+2332680#マルチメディア化#マルチメディアか#multimedization#
+2332690#マルチメディア通信#マルチメディアつうしん#multimedia communication#
+2332700##マルチモード#multimode#
+2332710##マルチモードファイバ;マルチモード・ファイバ#multimode fiber#
+2332730##マルチユーザー;マルチユーザ#multi-user;multiuser#
+2332740##マルチユーザーシステム;マルチユーザー・システム#multi-user system#
+2332750##マルチユーザシステム;マルチユーザ・システム#multiuser system#
+2332760##マルチユーザモード;マルチユーザ・モード#multiuser mode#
+2332770##マルチリンガル#multilingual#
+2332780##マルチリンクダイヤル;マルチリンク・ダイヤル#multilink dialing#
+2332790##マルチリンクフレーム;マルチリンク・フレーム#multi-link frame#
+2332800##マルチレッグ#multileg#
+2332810#マルチレンジ増幅器#マルチレンジぞうふくき#multirange amplifier#
+2332820#マルチワードＤＭＡ#マルチワードディーエムエー#multiword Direct Memory Access#
+2332830##マルテタスキング#multitasking;multi-tasking#
+2332840#マンセル表色系#マンセルひょうしょくけい#Munsell color system#
+2332850##ミキサタイル#mixer tile#
+2332860##ミクロセル#microcell#
+2332870##ミクロデータ;ミクロ・データ#micro data#
+2332880#ミシン目#ミシンめ#perforation#
+2332890##ミスク#misc#
+2332900##ミッキー#mickey#
+2332910##ミッションクリティカル;ミッション・クリティカル#mission critical#
+2332920##ミッドティア#mid tier#
+2332930##ミッドレンジ#midrange#
+2332940##ミッドレンジマシン;ミッドレンジ・マシン#mid-range machine#
+2332950##ミッドレンジモデル;ミッドレンジ・モデル#mid-range model#
+2332960##ミップマッピング#Multum In Parvo mapping;MIP mapping;MIPMAP#
+2332970##ミドルウェア#middleware#
+2332980#ミドルタワー型#ミドルタワーがた#middle-tower-style#
+2332990#ミドルタワー型ＰＣ#ミドルタワーがたピーシー#middle-tower-style PC#
+2333000#ミドルタワー型コンピュータ#ミドルタワーがたコンピュータ#middle-tower-style computer#
+2333010##ミドルレンジマシン#middle range machine#
+2333020##ミドルレンジモデル;ミドル・レンジ・モデル#middle range model#
+2333030#ミニＤＶＤ#ミニディーブイディー#mini DVD#
+2333040##ミニセットアップ#mini-Setup#
+2333050##ミニタワー;ミニ・タワー#mini tower#
+2333060#ミニタワー型#ミニタワーがた#mini-tower-style#
+2333070#ミニタワー型ＰＣ#ミニタワーがたピーシー#mini-tower-style PC#
+2333080#ミニタワー型コンピュータ#ミニタワーがたコンピュータ#mini-tower-style computer#
+2333090##ミニチュアカード;ミニチュア・カード#miniature card#
+2333110##ミラーサーバー;ミラーサーバ;ミラー・サーバー;ミラー・サーバ#mirror server#
+2333120##ミラードライブ;ミラー・ドライブ#mirrored drives#
+2333130##ミラーページ;ミラー・ページ#mirror page (WWW)#
+2333140##ミラーリング#mirroring#
+2333150##ミリネジ#metric screw threads#
+2333160#ミリ秒#ミリびょう#millisecond#
+2333170##ミルネット#MILNET#
+2333190##メートルネジ#metric screw threads#
+2333200##メーラ#mailer#
+2333210##メーラー#e-mail software;mailer#
+2333220##メールエージェント;メール・エージェント#mail agent#
+2333230##メールサーバ;メール・サーバ#mail server#
+2333240##メールスプール;メール・スプール#mail spool#
+2333250##メールソフト;メール・ソフト#email software;email program;mail program#
+2333260##メールソフトウェア;メール・ソフトウェア#mail software#
+2333270#メール爆弾#メールばくだん#mail bomb#
+2333280#メイト系#メイトけい#mate system;redundant system#
+2333290##メイルサーバ;メイル・サーバ#mail server#
+2333300##メイルボックス#mailbox#
+2333310##メインキー;メイン・キー#main key#
+2333320##メインテナンス#maintenance#
+2333330##メインディレクトリ;メイン・ディレクトリ#main directory#
+2333340##メインフレーマ#mainframer#
+2333350##メインフレームコンピュータ;メインフレーム・コンピュータ#mainframe computer#
+2333360##メインボード;メイン・ボード#main board#
+2333370##メインメニュー;メイン・メニュー#main menu#
+2333390##メインルーチン;メイン・ルーチン#main routine#
+2333400##メインループ;メイン・ループ#main loop#
+2333410##メカニカルマウス;メカニカル・マウス#mechanical mouse#
+2333420##メガデモ#megademo#
+2333430##メガフロップス#MFLOPS#
+2333440##メザニンカード;メザニン・カード#mezzanine card#
+2333450##メザニンボード;メザニン・ボード#mezzanine board#
+2333460##メジャーアップグレード;メジャー・アップグレード#major upgrade#
+2333470##メジャードゥーモ#majordomo#
+2333480##メジャーバージョンアップ;メジャー・バージョン・アップ#major upgrade (esp. software)#
+2333490#メジャーバージョン番号#メジャーバージョンばんごう#major version number#
+2333500##メスコネクタ#female connector#
+2333510##メタキャラクタ#metacharacter#
+2333520##メタサーチ#metasearch#
+2333530##メタシンタックス#metasyntax#
+2333540##メタタグ;メタ・タグ#META tag#
+2333550##メタデータ#metadata#
+2333560##メタファイル#metafile#
+2333570#メタファイル解釈系#メタファイルかいしゃくけい#metafile interpreter#
+2333580#メタファイル記述子#メタファイルきじゅつし#metafile descriptor;MD#
+2333590#メタファイル生成系#メタファイルせいせいけい#metafile generator#
+2333600#メタファイル要素#メタファイルようそ#metafile element#
+2333610##メタボール#metaball#
+2333620##メタメディア#metamedia#
+2333630##メタライズ#metalize#
+2333640##メタリックケーブル;メタリック・ケーブル#metallic cable#
+2333650##メタリックコネクション;メタリック・コネクション#metallic connection#
+2333660#メタリック回線#メタリックかいせん#metallic line;metallic circuit#
+2333670#メタ文字#メタもじ#metacharacter#
+2333680##メッシュプロット;メッシュ・プロット#mesh plot#
+2333690##メッセージエリア;メッセージ・エリア#message area#
+2333700##メッセージキュー;メッセージ・キュー#message queue#
+2333710##メッセージタイプ;メッセージ・タイプ#message type#
+2333720##メッセージハンドラ;メッセージ・ハンドラ#message handler#
+2333730##メッセージファイル;メッセージ・ファイル#message file#
+2333740##メッセージボックス;メッセージ・ボックス#message box#
+2333750##メッセージング#messaging#
+2333760##メッセージングサービス;メッセージング・サービス#messaging service#
+2333770#メッセージ安全保護ラベル#メッセージあんぜんほごラベル#message security labelling#
+2333780#メッセージ格納#メッセージかくのう#Message Store;MS#
+2333790#メッセージ格納域#メッセージかくのういき#message storage#
+2333800#メッセージ交換#メッセージこうかん#message switching#
+2333810#メッセージ識別#メッセージしきべつ#message identification#
+2333820#メッセージ順序完全性#メッセージじゅんじょかんぜんせい#message sequence integrity#
+2333830#メッセージ通信システム#メッセージつうしんシステム#Message Handling System;MHS#
+2333840#メッセージ通信処理#メッセージつうしんしょり#Message Handling;MH#
+2333850#メッセージ通信処理サービス#メッセージつうしんしょりサービス#message handling service#
+2333860#メッセージ通信処理システム#メッセージつうしんしょりシステム#Message Handling System;MHS#
+2333870#メッセージ通信処理環境#メッセージつうしんしょりかんきょう#message handling environment#
+2333880#メッセージ転送#メッセージてんそう#Message Transfer;MT#
+2333890#メッセージ転送サービス#メッセージてんそうサービス#message transfer service#
+2333900#メッセージ転送システム#メッセージてんそうシステム#Message Transfer System;MTS#
+2333910#メッセージ転送機能体#メッセージてんそうきのうたい#Message Transfer Agent;MTA#
+2333920#メッセージ発信抽象操作#メッセージはっしんちゅうしょうそうさ#message-submission abstract-operation#
+2333930#メッセージ発生源認証#メッセージはっせいげんにんしょう#message origin authentication#
+2333940#メッセージ流れ機密性#メッセージながれきみつせい#message flow confidentiality#
+2333950#メッセジ転送#メッセジてんそう#MESSAGE TRANSFER#
+2333960#メディアアクセス制御#メディアアクセスせいぎょ#Media Access Control;MAC#
+2333970##メディアイレーザ#media eraser#
+2333980##メディアクリップ;メディア・クリップ#media clip#
+2333990##メディアファイル;メディア・ファイル#media file#
+2334000##メディアファミリ;メディア・ファミリ#media family#
+2334010##メディアプロセッサ;メディア・プロセッサ#media processor#
+2334020##メディアラボ;メディア・ラボ#Media Laboratory#
+2334030#メディア消磁装置#メディアしょうじそうち#media eraser#
+2334040#メディア変換#メディアへんかん#media conversion#
+2334050##メディエイタ#mediator#
+2334060##メトロポリタンエリアネットワーク;メトロポリタン・エリア・ネットワーク#Metropolitan Area Network;MAN#
+2334070##メニューアイテム;メニュー・アイテム#menu item#
+2334080##メニューオプション;メニュー・オプション#menu option#
+2334090##メニュードリブン;メニュー・ドリブン#menu-driven#
+2334100#メニュー画面#メニューがめん#menu screen#
+2334110#メニュー項目#メニューこうもく#menu item#
+2334120#メニュー方式#メニューほうしき#menu-driven#
+2334130#メニュー方式のプログラム#メニューほうしきのプログラム#menu-driven program#
+2334140##メムメーカー#MEMMAKER#
+2334150##メモリースイッチ;メモリー・スイッチ#memory switch#
+2334160##メモリーマップ;メモリマップ;メモリー・マップ;メモリ・マップ#memory map#
+2334170#メモリー管理#メモリーかんり#memory management#
+2334180#メモリー効果#メモリーこうか#memory effect#
+2334190##メモリアドレシング;メモリ・アドレシング#memory addressing#
+2334200##メモリアドレス;メモリ・アドレス#memory address#
+2334210##メモリインターリーブ;メモリ・インターリーブ#memory interleave#
+2334220##メモリキャッシュ;メモリ・キャッシュ#memory cache#
+2334230##メモリコンフィギュレーション;メモリ・コンフィギュレーション#memory configuration#
+2334240##メモリサイクル;メモリ・サイクル#memory cycle#
+2334250##メモリサイクルタイム;メモリ・サイクル・タイム#memory cycle time#
+2334260##メモリダンプ;メモリーダンプ;メモリ・ダンプ;メモリー・ダンプ#memory dump#
+2334270##メモリチップ;メモリ・チップ#memory chip#
+2334280##メモリバンク;メモリ・バンク#memory bank#
+2334290##メモリプロテクト;メモリ・プロテクト#memory protection#
+2334300##メモリマッピング;メモリ・マッピング#memory mapping#
+2334320#メモリマップＩＯ#メモリマップアイオー#memory-mapped I#
+2334330##メモリモジュール;メモリ・モジュール#memory module#
+2334340##メモリリーク;メモリ・リーク#memory leak#
+2334350##メモリリフレッシュ;メモリ・リフレッシュ#memory refresh#
+2334360##メモリロケーション;メモリ・ロケーション#memory location#
+2334370#メモリ拡張カード#メモリかくちょうカード#memory expansion card#
+2334380#メモリ拡張ボード#メモリかくちょうボード#memory expansion board#
+2334390#メモリ割り当て#メモリわりあて#memory allocation#
+2334400#メモリ管理ユニット#メモリかんりユニット#Memory Management Unit;MMU#
+2334410#メモリ管理装置#メモリかんりそうち#Memory Management Unit;MMU#
+2334420#メモリ効果#メモリこうか#memory effect#
+2334430#メモリ構成#メモリこうせい#memory configuration#
+2334440#メモリ消去機能#メモリしょうきょきのう#clear memory function#
+2334450#メモリ常駐#メモリじょうちゅう#memory-resident#
+2334460#メモリ表示#メモリひょうじ#memory indication;storage indication#
+2334470#メモリ分割#メモリぶんかつ#memory partitioning;storage partitioning#
+2334480#メモリ保護#メモリほご#memory protection#
+2334490#メモリ容量#メモリようりょう#memory capacity#
+2334500#メモリ領域#メモリりょういき#memory space#
+2334510##メンドシーノ#Mendocino#
+2334520##メンバーコード;メンバー・コード#member code#
+2334530#メンバー関数#メンバーかんすう#member function#
+2334540##メンバセット;メンバ・セット#member set#
+2334550##メンバプロパティ;メンバ・プロパティ#member property#
+2334560#モーションＪＰＥＧ#モーションジェーペッグ#motion JPEG#
+2334570##モーションキャプチャ;モーション・キャプチャ#motion captur#
+2334580##モーションブラー;モーション・ブラー#motion blur#
+2334590#モーション広告#モーションこうこく#motion advertisement#
+2334600##モードインジケータ;モード・インジケータ#mode indicator#
+2334610#モード方式#モードほうしき#modal#
+2334620##モービルコンピューティング;モービル・コンピューティング#mobile computing#
+2334630##モーフィング#morphing#
+2334640##モーラップ#MOLAP#
+2334650##モザイクビュー;モザイク・ビュー#Mosaic View#
+2334660#モジュール化#モジュールか#modularization#
+2334670#モジュール手続#モジュールてつづき#module procedure#
+2334680#モジュール性#モジュールせい#modularity#
+2334690#モジュール副プログラム#モジュールふくプログラム#module subprogram#
+2334700#モジュラー式コンセント#モジュラーしきコンセント#(modular) telephone wall jack#
+2334720##モジュラコンパイル;モジュラ・コンパイル#modular compilation#
+2334730##モジュラジャック;モジュラージャック;モジュラ・ジャック;モジュラー・ジャック#modular jack#
+2334740##モジュラプログラミング;モジュラ・プログラミング#modular programming#
+2334750#モジュロＮ計数器#モジュロエンけいすうき#modulo-n counter#
+2334760#モジュロＮ検査#モジュロエンけんさ#modulo N check;residue check#
+2334770##モジラ#Mozilla#
+2334780##モダリティ#modality#
+2334790##モデムカード;モデム・カード#modem card#
+2334800#モデリング座標系#モデリングざひょうけい#modelling coordinates#
+2334810#モデリング変換#モデリングへんかん#modelling transformation#
+2334820##モデルサイト;モデル・サイト#model site#
+2334830#モデル化#モデルか#modelling (e.g. a system, etc.)#
+2334840#モデル群#モデルぐん#model group#
+2334850##モデレート#moderate#
+2334860##モニタのエナジーセーブ#display energy saver#
+2334870##モニタのエナジーセーブレベル#display energy saver level#
+2334880##モノクロディスプレイ;モノクロ・ディスプレイ#monochrome display#
+2334890##モノクロモニタ;モノクロ・モニタ#monochrome monitor#
+2334900##モノスペースフォント;モノ・スペース・フォント#monospace font#
+2334910#モノリシックＩＣ#モノリシックアイシー#monolithic integrated circuit#
+2334920##モノリシックドライバ;モノリシック・ドライバ#monolithic driver#
+2334980##モバイルギア;モバイル・ギア#Mobile Gear#
+2334990##モバイルコンピューティング;モバイル・コンピューティング#mobile computing#
+2335000#モバイル電話#モバイルでんわ#mobile telephone#
+2335010##モペラ#mopera#
+2335020##モンデックス#Mondex#
+2335030##ユーアイ#UI#
+2335040#ＵＭＡ#ユーエムエー#Unlicensed Mobile Access;UMA#
+2335050##ユーエムビー#UMB#
+2335060#ユーザーＩＤ#ユーザーアイディー#user IDentification (user id)#
+2335070##ユーザーアカウント;ユーザー・アカウント#user account#
+2335080##ユーザーインターフェイス;ユーザー・インターフェイス#user interface#
+2335090##ユーザーインタフェース;ユーザー・インタフェース#user interface#
+2335100##ユーザーサポート;ユーザー・サポート#user support#
+2335110##ユーザーズマニュアル;ユーザマニュアル;ユーザー・ズマニュアル;ユーザ・マニュアル;ユーザーズ・マニュアル#users' manual;users' guide#
+2335120##ユーザートラヒック;ユーザー・トラヒック#user traffic#
+2335130##ユーザーフレンドリ#user-friendly#
+2335140#ユーザー辞書#ユーザーじしょ#user dictionary#
+2335150#ユーザー情報#ユーザーじょうほう#user information#
+2335160#ユーザー側#ユーザーがわ#user-side#
+2335170#ユーザー定義#ユーザーていぎ#user defined;user specific#
+2335180#ユーザー登録#ユーザーとうろく#user registration#
+2335190#ユーザー認証#ユーザーにんしょう#user authentication#
+2335200#ユーザー名#ユーザーめい#username#
+2335210#ユーザー網インタフェース#ユーザーあみインタフェース#user network interface;UNI#
+2335220##ユーザアカウント;ユーザ・アカウント#user account#
+2335230##ユーザエージェント;ユーザ・エージェント#user agent#
+2335240##ユーザデータ;ユーザ・データ#user data#
+2335250##ユーザフォーラム;ユーザ・フォーラム#user forum#
+2335260##ユーザフレンドリ#user-friendly#
+2335280##ユーザレベル;ユーザ・レベル#user level#
+2335290#ユーザ関数#ユーザかんすう#user function#
+2335300#ユーザ側#ユーザがわ#user-side#
+2335310#ユーザ登録#ユーザとうろく#user registration#
+2335320#ユーザ部#ユーザぶ#user part#
+2335330#ユーザ要望#ユーザようぼう#user request#
+2335340##ユースウェア#useware#
+2335350##ユーズネット#Usenet#
+2335360##ユーティリティプログラム;ユーティリティ・プログラム#utility program;service program#
+2335370##ユーティリティルーチン;ユーティリティ・ルーチン#utility routine;service routine#
+2335380##ユーティリティルーチンプログラム#utility routine program;service routine program#
+2335390##ユードラ#Eudora#
+2335400##ユーピー#UP#
+2335410##ユーピーエス#UPS#
+2335420##ユーユーエンコード#uuencode#
+2335430##ユーユーシーピー#UUCP#
+2335440##ユーユーデコード#uudecode#
+2335450##ユニオンクエリ;ユニオン・クエリ#union query#
+2335460##ユニキャスト#unicast#
+2335470##ユニコード#Unicode#
+2335480##ユニコードコンソーシアム;ユニコード・コンソーシアム#Unicode Consortium#
+2335490#ユニコード技術委員会#ユニコードぎじゅついいんかい#Unicode Technical Committee;UTC#
+2335500##ユニターム#uniterm#
+2335510##ユニファイドメッセージング;ユニファイド・メッセージング#unified messaging#
+2335520##ユニフォームリソースロケータ;ユニフォーム・リソース・ロケータ#Uniform Resource Locator;URL#
+2335530##ユニプロセッサ#uni-processor#
+2335540#ヨーロッパ放送協会#ヨーロッパほうそうきょうかい#European Broadcasting Union;EBU#
+2335550##ヨンサンマルエイチエックス#430HX#
+2335560##ヨンサンマルブイエックス#430VX#
+2335570##ヨンハチロク#486#
+2335580##ラーカー#lurker#
+2335590##ラーク#lurk;Lark (cigarette brand)#
+2335600##ラーンチャ#launcher#
+2335610##ライコス#Lycos#
+2335620##ライザーカード;ライザー・カード#raiser card#
+2335630##ライセンスオーナー;ライセンス・オーナー#license owner#
+2335640##ライセンスストア;ライセンス・ストア#license store#
+2335650##ライセンスセット;ライセンス・セット#license set#
+2335660##ライセンスフリー;ライセンス・フリー#license free#
+2335670#ライセンス契約#ライセンスけいやく#license agreement#
+2335680#ライセンス文書#ライセンスぶんしょ#license document#
+2335690##ライトウェイトディレクトリアクセスプロトコル;ライトウェイト・ディレクトリ・アクセス・プロトコル#lightweight directory access protocol;LDAP#
+2335700##ライトサイジング#rightsizing#
+2335710##ライトスルー#write-through#
+2335720##ライトスルーキャッシュ;ライトスルー・キャッシュ#write-through cache#
+2335730##ライトバック#write-back#
+2335740##ライトバックキャッシュ;ライトバック・キャッシュ#write-back cache#
+2335750##ライトプロテクト;ライト・プロテクト#write protect#
+2335760##ライトペンヒット;ライトペン・ヒット;ライト・ペン・ヒット#light-pen detection;light-pen hit#
+2335770#ライトペン検出#ライトペンけんしゅつ#light-pen detection;light-pen hit#
+2335780##ライトボタン#virtual push button;light button#
+2335790##ライトワンス;ライト・ワンス#write once#
+2335810##ライノトロニック#Linotronic#
+2335820#ライブＷｅｂ#ライブウェッブ#Live web#
+2335830##ライブアイコン;ライブ・アイコン#live icon#
+2335840##ライブウェア#liveware#
+2335850##ライブドア#livedoor#
+2335860#ライブラリー関数#ライブラリーかんすう#library function#
+2335870##ライブラリケース;ライブラリ・ケース#library case#
+2335880##ライブラリディレクトリ;ライブラリ・ディレクトリ#library directory#
+2335890##ライブラリファイル;ライブラリ・ファイル#library file#
+2335900##ライブラリルーチン;ライブラリ・ルーチン#library routine#
+2335910#ライブ映像#ライブえいぞう#live video#
+2335920##ラインエディタ;ラインエディター;ライン・エディタ;ライン・エディター#line editor#
+2335930##ラインカード;ライン・カード#line card#
+2335940##ラインセグメント;ライン・セグメント#line segment#
+2335950##ラインダール#Rijndael#
+2335960##ラインプリンタ;ラインプリンター;ライン・プリンタ;ライ・ンプリンター#line printer#
+2335970##ラインモード;ライン・モード#line mode#
+2335980##ラウター#router#
+2335990##ラウンドトリップ;ラウンド・トリップ#round trip#
+2336000#ラウンドトリップ時間#ラウンドトリップじかん#round trip time#
+2336010##ラウンドロビンアルゴリズム;ラウンドロビン・アルゴリズム#round-robin algorithm#
+2336020##ラサ#Lhasa#
+2336030##ラジオシティ#radiosity#
+2336040#ラジオシティ法#ラジオシティほう#radiosity method#
+2336050##ラジオボタン#radio button#
+2336060##ラスターイメージプロセッサ;ラスター・イメージ・プロセッサ#raster image processor;RIP#
+2336070##ラスターグラフィックス;ラスタグラフィックス;ラスター・グラフィックス;ラスタ・グラフィックス#raster graphics#
+2336080##ラスタースキャン;ラスタスキャン;ラスター・スキャン;ラスタ・スキャン#raster scan#
+2336090##ラスタースキャンディスプレイ;ラスター・スキャン・ディスプレイ#raster scan display#
+2336120##ラスタフォント;ラスタ・フォント#raster font#
+2336130##ラスタプロッタ;ラスタ・プロッタ#raster plotter#
+2336140##ラスタライザ#rasterrizer#
+2336150##ラスタライズ#rasterize#
+2336160#ラスタ化#ラスタか#rasterization#
+2336170#ラスタ作図装置#ラスタさくずそうち#raster plotter#
+2336180#ラスタ図形処理#ラスタずけいしょり#raster graphics#
+2336190#ラスタ図形要素#ラスタずけいようそ#raster graphics element#
+2336200#ラスタ単位#ラスタたんい#raster unit#
+2336210#ラスタ表示装置#ラスタひょうじそうち#raster display device#
+2336220#ラスタ方式グラフィクス#ラスタほうしきグラフィクス#raster graphics#
+2336230##ラストワンマイル;ラスト・ワン・マイル#last one mile;last mile#
+2336240##ラックマウント#rack-mounted#
+2336250##ラックマウントサーバ;ラック・マウント・サーバ#rack-mount server#
+2336260##ラッド#common rudd (Scardinius erythrophthalmus);RAD#
+2336270##ラップエム#LAPM#
+2336280#ラップトップＰＣ#ラップトップピーシー#laptop PC#
+2336290##ラップトップコンピュータ;ラップトップ・コンピュータ#laptop computer#
+2336300##ラテック#LaTeX#
+2336310##ラテフ#LaTeX#
+2336320##ラバーバンディング#rubber-banding#
+2336330##ラヒックデータ#traffic data#
+2336340##ラビー#Lavie#
+2336350##ラピュータ#Ruputer#
+2336360##ラフィック#traffic (telecom)#
+2336370##ラベルセット;ラベル・セット#label set#
+2336380#ラベル識別子#ラベルしきべつし#label identifier#
+2336390#ラベル番号#ラベルばんごう#label number#
+2336400##ラボプリントサービス#photo print service#
+2336410##ラムダック#RAMDAC#
+2336420##ラムバス#Rambus#
+2336430##ランタイムエラー;ランタイム・エラー#run-time error#
+2336440##ランタイムバージョン;ランタイム・バージョン#run time version#
+2336450##ランタイムホスト;ランタイム・ホスト#runtime host#
+2336460##ランタイムライブラリ;ランタイム・ライブラリ#run-time library#
+2336470##ランタイムルーチン;ランタイム・ルーチン#run-time routine#
+2336480##ランダマイズルーチン#randomizing routine#
+2336490#ランダマイズ技法#ランダマイズぎほう#randomizing technique#
+2336500##ランダムアクセス;ランダム・アクセス#random access#
+2336510##ランダムアクセスメモリ;ランダムアクセスメモリー;ランダム・アクセス・メモリ;ランダム・アクセス・メモリー#random access memory;RAM#
+2336540##ランダムアクセスメモリキャッシュ;ランダムアクセスメモリーキャッシュ;ランダム・アクセス・メモリ・キャッシュ#random access memory cache#
+2336550##ランダムジッタ;ランダム・ジッタ#RJ;random jitter#
+2336560##ランダムスキャンディスプレイ#random scan display#
+2336570##ランダムドットステレオグラム;ランダム・ドット・ステレオグラム#random dot stereogram;RDS#
+2336580##ランダムファイル;ランダム・ファイル#random file#
+2336590##ランディングゾーン;ランディング・ゾーン#landing zone;LZ#
+2336600##ランドスケープモード;ランドスケープ・モード#landscape mode#
+2336610##ランニングフット;ランニング・フット#running foot#
+2336620##ランニングヘッド;ランニング・ヘッド#running head#
+2336630#ランプ点灯#ランプてんとう#lighting of a lamp#
+2336640##ランマネージャー;ラン・マネージャー#LAN Manager#
+2336650#ランレングス法#ランレングスほう#run length method#
+2336660##リーキーバケット;リーキー・バケット#leaky bucket#
+2336670##リーキバケット#leaky bucket#
+2336680##リージョナルコード;リージョナル・コード#Regional Code#
+2336690##リーダイヤル;リダイヤル#redial;redialing;redialling#
+2336700##リードアウト#Lead-Out#
+2336710##リードイン#Lead-In#
+2336720##リードオンリーメモリ;リードオンリー・メモリ#read-only memory;ROM#
+2336730##リードタイム;リード・タイム#lead time#
+2336740##リードミー#README#
+2336750#リード線#リードせん#lead#
+2336760##リーフォー#LIFO#
+2336770##リアパネル;リア・パネル#back panel#
+2336780##リアルオーディオ#RealAudio#
+2336790#リアルタイムＯＳ#リアルタイムオーエス#real-time Operating System#
+2336800##リアルタイムカレンダ;リアルタイム・カレンダ#real-time calendar#
+2336810##リアルタイムクロック;リアルタイム・クロック#real-time clock#
+2336820##リアルタイムブロックリスト;リアルタイム・ブロック・リスト#real-time block list#
+2336830##リアルモード;リアル・モード#real mode#
+2336840##リエントラント#reentrant#
+2336850##リカバリメディア;リカバリ・メディア#recovery media#
+2336860##リグレッションテスト;リグレッション・テスト#regression test#
+2336870##リコンパイル#recompile#
+2336880##リサンプル#resample#
+2336890##リザベーション#reservation#
+2336900##リザルトコード;リザルト・コード#result code#
+2336910##リストインデックス;リスト・インデックス#list index#
+2336920##リストサーブ#listserver#
+2336930##リストボックス#listbox#
+2336940#リスト演算子#リストえんざんし#list operator#
+2336950#リスト処理#リストしょり#list processing#
+2336960#リスト装置#リストそうち#list device#
+2336980##リセットスイッチ;リセット・スイッチ#reset switch#
+2336990##リセットボタン#reset button#
+2337000##リセットモード;リセット・モード#initial condition mode;reset mode#
+2337010#リソースＢＯＤ#リソースビーオーディー#resource Bandwidth On Demand#
+2337020##リソースエディタ;リソース・エディタ#resource editor#
+2337030##リソースファイル;リソース・ファイル#resource file#
+2337040##リソースフォーク;リソース・フォーク#resource fork#
+2337050#リソース割当#リソースわりあて#resource allocation, assignment#
+2337070##リゾルバキャッシュ;リゾルバ・キャッシュ#caching resolver#
+2337080##リターンキー;リターン・キー#RETURN key#
+2337090#リターン値#リターンち#return value#
+2337110#リダイレクトＵＲＬ#リダイレクトユーアールエル#redirect URL#
+2337130#リチウムイオン電池#リチウムイオンでんち#lithium-ion battery#
+2337140##リチウムポリマーバッテリ;リチウム・ポリマー・バッテリ#lithium polymer battery#
+2337150#リチウムポリマー電池#リチウムポリマーでんち#lithium polymer battery#
+2337160##リッスン#listen#
+2337170##リッチテキストフォーマット;リッチ・テキスト・フォーマット#rich text format;RTF#
+2337180##リッパーソフトウェア;リッパー・ソフトウェア#ripper software#
+2337190##リッピング#ripping#
+2337200##リッピングソフトウェア;リッピング・ソフトウェア#ripping software#
+2337210##リップス#LIPS#
+2337220#リップルけた上げ#リップルけたあげ#ripple carry#
+2337230##リトラクト#retract#
+2337240##リトルエンディアン#little-endian#
+2337250#リトルエンディアン式#リトルエンディアンしき#little endian#
+2337260##リドゥ#redo#
+2337270##リナックス;ライナックス;リヌックス;リヌクス;リニクス#Linux#
+2337310#リバースＰｒｏｘｙ#リバースプロキシ;リバースプロクシ;リバース・プロキシ;リバース・プロクシ#reverse proxy#
+2337340#リバース表示#リバースひょうじ#reverse video#
+2337350##リバーブ#reverberation#
+2337360##リピータハブ;リピータ・ハブ#repeater hub#
+2337370##リピートキー;リピート・キー#repeat key#
+2337380##リファレンスラスタライザ;リファレンス・ラスタライザ#reference rasterizer#
+2337390##リフレクションマッピング;リフレクション・マッピング#refraction mapping#
+2337400##リフレッシュレート;リフレッシュ・レート#refresh rate#
+2337410#リフレッシュ速度#リフレッシュそくど#refresh rate#
+2337420##リボンカートリッジ;リボン・カートリッジ#ribbon cartridge#
+2337430##リボンケーブル;リボン・ケーブル#ribbon cable#
+2337440##リミタ#limiter (e.g. in analog computing)#
+2337450##リムーバブル#removable#
+2337460##リムーバブルストレージ;リムーバブル・ストレージ#removable storage#
+2337470##リムーバブルディスク;リムーバブル・ディスク#removable disk#
+2337480##リムーバブルハードディスク;リムーバブル・ハード・ディスク#removable hard disk#
+2337490##リムーバブルハードディスクドライブ;リムーバブル・ハード・ディスク・ドライブ#removable hard drive#
+2337500##リムネット#RIMNET#
+2337510##リモートアクセス;リモート・アクセス#remote access#
+2337520##リモートアクセスサービス;リモート・アクセス・サービス#Remote Access Services;RAS#
+2337530##リモートエコー;リモート・エコー#remote echo#
+2337540##リモートコンピューティング;リモート・コンピューティング#remote computing#
+2337550##リモートジョブエントリー;リモート・ジョブ・エントリー#Remote Job Entry;RJE#
+2337560##リモートデジタルループバック;リモート・デジタル・ループバック#remote digital loopback#
+2337570##リモートプリント;リモート・プリント#remote print#
+2337580##リモートプロシージャコール;リモート・プロシージャ・コール#remote procedure call (rpc)#
+2337590##リモートホスト;リモート・ホスト#remote host#
+2337600##リモートマウント;リモート・マウント#remote mount#
+2337610##リモートメインテナンス;リモート・メインテナンス#remote maintenance#
+2337620##リモートユーザ;リモート・ユーザ#remote user#
+2337630##リモートログイン;リモート・ログイン#remote login#
+2337640#リモート印刷#リモートいんさつ#remote printing#
+2337650#リモート管理#リモートかんり#remote administration#
+2337660#リモート接続#リモートせつぞく#remote connection#
+2337670#リモート操作#リモートそうさ#remote operation#
+2337680#リモート端末#リモートたんまつ#remote terminal#
+2337690##リリースノート;リリース・ノート#release notes#
+2337700#リリース情報#リリースじょうほう#release notes;release information#
+2337710#リリース番号#リリースばんごう#release number#
+2337720#リレーショナルＤＢＭＳ#リレーショナルディービーエムエス#relational DBMS;RDBMS#
+2337730##リレーショナルデータベース;リレーショナル・データベース#relational database;RDB#
+2337740##リレーショナルデータベースシステム;リレーショナル・データベース・システム#Relational Database system#
+2337750##リロードボタン#reload button (on a browser)#
+2337760##リロケータブル#relocatable#
+2337770##リロケータブルコード;リロケータブル・コード#relocatable code#
+2337780##リロケータブルプログラム;リロケータブル・プログラム#relocatable program#
+2337790##リロケート#relocate#
+2337800##リンクグループ;リンク・グループ#link group#
+2337810##リンクステート;リンク・ステート#link state#
+2337820##リンクセット;リンク・セット#link set#
+2337830##リンクトマルチセッション#linked multi-session#
+2337840##リンクリダイレクト;リンク・リダイレクト#link redirect#
+2337850#リンク暗号化#リンクあんごうか#link-by-link encipherment#
+2337860#リンク型#リンクがた#link type#
+2337870#リンク故障#リンクこしょう#link failure#
+2337880#リンク処理定義#リンクしょりていぎ#link process definition;LPD#
+2337890#リンク状態#リンクじょうたい#link state#
+2337900#リンク数#リンクすう#link count#
+2337910#リンク制御プロトコル#リンクせいぎょプロトコル#link control protocol#
+2337920#リンク端#リンクたん#link end#
+2337930#リンク番号#リンクばんごう#link number#
+2337940#リンク付け#リンクづけ#linking#
+2337950#リンク付リスト#リンクつきリスト#linked list#
+2337960##リングカウンタ;リング・カウンタ#ring counter#
+2337970##リングターミナル;リング・ターミナル#ring terminal (connector)#
+2337980##リングネットワーク;リング・ネットワーク#ring network#
+2337990#リング型接続#リングがたせつぞく#ring-shaped connection#
+2338000#リング遅延#リングちえん#ring latency#
+2338010##リンケージエディタ;リンケージ・エディタ#linkage editor#
+2338020##ルーザ#luser#
+2338040##ルーセント#Lucent#
+2338060#ルーチング情報#ルーチングじょうほう#routing information#
+2338070##ルーティングテーブル;ルーチングテーブル;ルーティング・テーブル;ルーチング・テーブル#routing table#
+2338080##ルーティングデータ;ルーティング・データ#routing data#
+2338090##ルーティングハイアラーキ;ルーティング・ハイアラーキ#routing hierarchy#
+2338100##ルーティングパターン;ルーティング・パターン#routing pattern#
+2338110##ルーティングプロトコル;ルーティング・プロトコル#routing protocol#
+2338120##ルーティングメッセージ;ルーティング・メッセージ#routing message#
+2338130#ルーティング機能#ルーティングきのう#routing function#
+2338140#ルーティング決定#ルーティングけってい#routing decision#
+2338150#ルーティング情報#ルーティングじょうほう#routing information#
+2338160##ルートウィンドウ;ルート・ウィンドウ#root window#
+2338170##ルートサーバ;ルート・サーバ#route server#
+2338180##ルートセット;ルート・セット#route set#
+2338190##ルートディレクトリ;ルート・ディレクトリ#root directory#
+2338200##ルートメニュー;ルート・メニュー#route menu#
+2338210##ルートモジュール;ルート・モジュール#root module#
+2338220#ループバック試験#ループバックしけん#loopback test#
+2338230##ループブロック;ループ・ブロック#loop block#
+2338240#ループ構成体#ループこうせいたい#loop construct#
+2338250#ループ状#ループじょう#loop shape;loop configuration#
+2338260#ループ抵抗#ループていこう#loop resistance#
+2338270#ループ不変式#ループふへんしき#loop invariant#
+2338280#ループ変数#ループへんすう#loop variable#
+2338290##ルーラ#ruler#
+2338300#ルカーシェビッチ表記法#ルカーシェビッチひょうきほう#prefix notation;Polish notation;parenthesis-free notation;Lukasiewicz notation#
+2338310#ルック＆フィール#ルックアンドフィール#look & feel;look and feel#
+2338320##ルックアットミー#Look@Me#
+2338330##ルックアップ;ルック・アップ#look up#
+2338340##ルックアップテーブル;ルックアップ・テーブル#look-up table;LUT#
+2338350#ルックアップ機能#ルックアップきのう#lookup function#
+2338360#ルックアヘッド方式#ルックアヘッドほうしき#look-ahead (technique)#
+2338380#レーク受信機#レークじゅしんき#rake receiver#
+2338390#レーザー印字装置#レーザーいんじそうち#laser printer#
+2338400##レーザダイオード;レーザ・ダイオード#laser diode#
+2338410##レーザプリンタ;レーザ・プリンタ#laser printer;laser beam printer#
+2338420##レーザメモリ;レーザ・メモリ#laser memory#
+2338430#レーザ印字装置#レーザいんじそうち#laser printer;laser beam printer#
+2338440#レートをベースとしたフロー制御#レートをベースとしたフローせいぎょ#rate-based flow control#
+2338450##レートベース;レート・ベース#rate based#
+2338460#レートベース輻輳制御#レートベースふくそうせいぎょ#rate based congestion control#
+2338470##レイアウトセル;レイアウト・セル#layout cell#
+2338480#レイアウト表示#レイアウトひょうじ#layout display#
+2338490##レイテンシー;レイテンシ#latency#
+2338500#レイヤ２トンネリングプロトコル#レイヤにトンネリングプロトコル#layer two tunneling protocol#
+2338510##レイヤードルーチング;レイヤード・ルーチング#layered routing#
+2338530##レガシー;レガシ#legacy#
+2338540##レガシーシステム;レガシー・システム#legacy system#
+2338550##レガシーデバイス;レガシデバイス;レガシー・デバイス;レガシ・デバイス#legacy device#
+2338570#レコーディング細目#レコーディングさいもく#recording item#
+2338580#レコーディング年#レコーディングねん#year of recording#
+2338590##レコードキー;レコード・キー#record key#
+2338600##レコードライブラリ;レコード・ライブラリ#sound recordings library;record library#
+2338610#レコード間ギャップ#レコードかんギャップ#inter-record gap#
+2338620#レコード間隔#レコードかんかく#interrecord gap;IRG#
+2338630#レコード記述#レコードきじゅつ#record description#
+2338640#レコード記述項#レコードきじゅつこう#record description entry#
+2338650#レコード形式#レコードけいしき#record format#
+2338660#レコード終わりマーク#レコードおわりマーク#end-of-record mark#
+2338670#レコード長#レコードちょう#record length;record size#
+2338680#レコード内データ構造#レコードないデータこうぞう#intra-record data structure#
+2338690#レコード番号#レコードばんごう#record number#
+2338700#レコード変数#レコードへんすう#record variable#
+2338710#レコード名#レコードめい#record-name#
+2338720#レコード領域#レコードりょういき#record area#
+2338730#レジスタ退避領域#レジスタたいひりょういき#register save area#
+2338740#レジスタ長#レジスタちょう#register length#
+2338750#レジスタ変数#レジスタへんすう#register variable#
+2338760##レジストリ#registry#
+2338770##レジストリエディタ;レジストリ・エディタ#registry editor#
+2338780##レジストレーション#registration#
+2338790##レジューム#resume#
+2338800#レジューム機能#レジュームきのう#resume functions#
+2338810#レスポンスＰＤＵ#レスポンスピーディーユー#response PDU#
+2338820##レスポンスタイム;レスポンス・タイム#response time#
+2338830##レスポンスフレーム;レスポンス・フレーム#response frame#
+2338840##レスポンダ#responder#
+2338850##レセプタクル#connector receptacle#
+2338860##レターサイズ;レター・サイズ#letter size#
+2338870##レックス#REXX#
+2338880##レッドハットリナックス;レッド・ハット・リナックス#RedHat Linux#
+2338890##レッドブック;レッド・ブック#Red Book#
+2338900##レッドブリック#RedBrick#
+2338910##レディング#leading#
+2338920##リバースリンク;リバース・リンク#reverse link#
+2338940##レフェラルセンタ#referral centre#
+2338950##レプリカセット;レプリカ・セット#replica set#
+2338960##レプリカセットトポロジ#replica set topology#
+2338970##レプリケーション#replication#
+2338980##レベルセット;レベル・セット#level set#
+2338990#レベルセンス方式#レベルセンスほうしき#level sense method#
+2339000#レベル指示語#レベルしじご#level indicator#
+2339010#レベル番号#レベルばんごう#level-number#
+2339020##ローエンド;ロー・エンド#low end;low level#
+2339040##ローカルエコー;ローカル・エコー#local echo#
+2339050##ローカルオペレータ;ローカル・オペレータ#local operator#
+2339060##ローカルキャリア;ローカル・キャリア#local carrier#
+2339070##ローカルタイムゾーン;ローカル・タイム・ゾーン#local time zone#
+2339080##ローカルテレビ;ローカル・テレビ#local television#
+2339090##ローカルディスク;ローカル・ディスク#local disk#
+2339100##ローカルトーク#LocalTalk#
+2339110##ローカルバス;ローカル・バス#local bus#
+2339120##ローカルバスグラフィックス;ローカル・バス・グラフィックス#local bus graphics#
+2339130##ローカルバスビデオ;ローカル・バス・ビデオ#local bus video;local bus graphics#
+2339140##ローカルファイル;ローカル・ファイル#local file#
+2339150##ローカルプリンタ;ローカル・プリンタ#local printer#
+2339160##ローカルルータ;ローカル・ルータ#local router#
+2339170##ローカルループ;ローカル・ループ#local loop#
+2339180#ローカル競争#ローカルきょうそう#local competition (e.g. telephone)#
+2339190#ローカル事項#ローカルじこう#local matter#
+2339200#ローカル変数#ローカルへんすう#local variable#
+2339210#ローカル名称#ローカルめいしょう#local-title#
+2339220##ローデバイス;ロー・デバイス#raw device#
+2339230##ロードセットピリオド#load set period#
+2339240##ロードバランサ;ロード・バランサ#load balancer#
+2339250##ロードバランシング;ロード・バランシング#load balancing#
+2339260##ロードポイント;ロード・ポイント#load point#
+2339270##ロードモジュール;ロード・モジュール#load module#
+2339280##ローバッテリ;ロー・バッテリ#low battery#
+2339290##ローパスフィルタ;ローパス・フィルタ#low pass filter;LPF#
+2339300#ロープロファイルＰＣＩ#ロープロファイルピーシーアイ#low profile PCI#
+2339310#ローマ字化#ローマじか#romanisation;romanization;transcribing into romaji#
+2339320#ローマ字入力#ローマじにゅうりょく#Romaji input#
+2339330##ローラップ#ROLAP#
+2339340##ロールアウト;ロール・アウト#roll out#
+2339350##ロールイン;ロール・イン#roll in#
+2339360##ロールインジケータ;ロール・インジケータ#role indicator#
+2339370##ロールオーバメニュー;ロール・オーバ・メニュー#rollover menu#
+2339380##ロールバック;ロール・バック#transaction rollback;rollback#
+2339390#ロールバック起動サービスプリミティブ#ロールバックきどうサービスプリミティブ#Rollback-initiating service primitive#
+2339400#ロールバック起動指示#ロールバックきどうしじ#rollback-initiating indication#
+2339410#ロールバック起動要求#ロールバックきどうようきゅう#rollback-initiating request#
+2339420##ロールプレーイングゲーム;ロールプレイングゲーム;ロールプレーイング・ゲーム;ロールプレイング・ゲーム#role-playing game;RPG#
+2339430#ロール用紙#ロールようし#roll paper#
+2339440#ロイヤリティＯＥＭ#ロイヤリティオーイーエム#royalty OEM#
+2339450##ロガー#logger#
+2339460##ロクペケハチロク#6x86#
+2339470##ログインシェル;ログイン・シェル#login shell#
+2339480##ログインスクリプト;ログイン・スクリプト#login script#
+2339490#ログイン中#ログインちゅう#logged in#
+2339500#ログイン名#ログインめい#login name#
+2339510#ログオフＵＲＬ#ログオフユーアールエル#logoff URL#
+2339520##ログオンスクリプト;ログオン・スクリプト#logon script#
+2339530##ログオンプロンプト;ログオン・プロンプト#logon prompt#
+2339540##ログバックアップ;ログ・バックアップ#log backup#
+2339550##ロシス#LOCIS#
+2339560##ロジックボード;ロジック・ボード#logic board#
+2339570#ロジック回路#ロジックかいろ#logic circuit#
+2339580#ロジック爆弾#ロジックばくだん#logic bomb#
+2339590##ロストクラスタ;ロスト・クラスタ#lost cluster#
+2339600#ロスレス圧縮#ロスレスあっしゅく#lossless compression#
+2339610##ロゼッタネット#rosettanet#
+2339620#ロックアウト機能#ロックアウトきのう#lock-out facility#
+2339630#ロッシー圧縮#ロッシーあっしゅく#lossy compression#
+2339640#ロットＩＤ#ロットアイディー#lot ID#
+2339650##ロボットアーム#robot arm#
+2339660##ロボポスト#robopost#
+2339670##ロングファイルネーム;ロング・ファイルネーム#long file name#
+2339680##ワーキングセット;ワーキング・セット#working set#
+2339690##ワーキングディレクトリ;ワーキング・ディレクトリ#working directory#
+2339700##ワーキングドキュメント;ワーキング・ドキュメント#working document#
+2339710##ワークエリア;ワーク・エリア#work area#
+2339720##ワークグループ#workgroup#
+2339730##ワークグループネットワーク;ワークグループ・ネットワーク#workgroup network#
+2339740##ワークス#Works#
+2339750##ワークステーションウィンドウ;ワークステーション・ウィンドウ#workstation window#
+2339760##ワークステーションビューポート;ワークステーション・ビューポート#workstation viewport#
+2339770#ワークステーション依存セグメント記憶域#ワークステーションいぞんセグメントきおくいき#workstation dependent segment storage;WDSS#
+2339780#ワークステーション記述表#ワークステーションきじゅつひょう#workstation description table#
+2339790#ワークステーション型式#ワークステーションけいしき#workstation type#
+2339800#ワークステーション光源#ワークステーションこうげん#workstation light source#
+2339810#ワークステーション識別子#ワークステーションしきべつし#workstation identifier#
+2339820#ワークステーション種別#ワークステーションしゅべつ#workstation category#
+2339830#ワークステーション状態リスト#ワークステーションじょうたいリスト#workstation state list#
+2339840#ワークステーション独立セグメント記憶域#ワークステーションどくりつセグメントきおくいき#workstation independent segment storage;WISS#
+2339850#ワークステーション変換#ワークステーションへんかん#workstation transformation#
+2339860##ワークスペース#workspace#
+2339870##ワークパッド#WorkPad#
+2339880##ワークフロー#workflow#
+2339890#ワーク環境#ワークかんきょう#work environment#
+2339900#ワード境界#ワードきょうかい#word boundary#
+2339910##ワードアート#WordArt#
+2339920##ワードスター#WardStar#
+2339930##ワードパーフェクト#WordPerfect#
+2339940##ワードパッド#Wordpad#
+2339950##ワードプロセッシング;ワード・プロセッシング#word processing#
+2339960##ワードラップ;ワード・ラップ#word wrap#
+2339970#ワード数#ワードすう#word count#
+2339980#ワーニング無しに#ワーニングなしに#without warning (the user)#
+2339990#ワープロ通信#ワープロつうしん#word processor communication#

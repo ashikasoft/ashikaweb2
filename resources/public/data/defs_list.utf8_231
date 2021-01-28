@@ -1,0 +1,969 @@
+2310000#データ圧縮#データあっしゅく#data compression#
+2310010#データ暗号化規格#データあんごうかきかく#Data Encryption Standard;DES#
+2310030#データ依存ジッタ#データいぞんジッタ#DDJ;data dependent jitter#
+2310040#データ依存形障害#データいぞんがたしょうがい#data-sensitive fault#
+2310050#データ意味論#データいみろん#data semantics#
+2310060#データ回線#データかいせん#data-circuit#
+2310070#データ回線終端装置#データかいせんしゅうたんそうち#data circuit-terminating equipment;DCE#
+2310080#データ回線透過性#データかいせんとうかせい#data circuit transparency#
+2310090#データ確認#データかくにん#(data) authentication#
+2310100#データ完全性#データかんぜんせい#data integrity#
+2310110#データ管理者#データかんりしゃ#data administrator#
+2310120#データ機密保護#データきみつほご#data security#
+2310130#データ記述ファイル#データきじゅつファイル#data descriptor file;DDF#
+2310140#データ記述レコード#データきじゅつレコード#data descriptor record#
+2310150#データ記述言語#データきじゅつげんご#Data Description Language;DDL#
+2310170#データ記述項#データきじゅつこう#data description entry#
+2310180#データ記録装置#データきろくそうち#Data Recording Device#
+2310190#データ共用#データきょうよう#data sharing#
+2310200#データ局#データきょく#data station#
+2310210#データ句#データく#data clause#
+2310220#データ群#データぐん#data aggregate;data constellation#
+2310230#データ傾向#データけいこう#data trend;data tendency#
+2310240#データ型#データがた#data type#
+2310250#データ欠損#データけっそん#data unavailability;lack of data;shortage of data#
+2310260#データ交換機#データこうかんき#data switch#
+2310270#データ交換制御装置#データこうかんせいぎょそうち#DXC;Data Exchange Controller#
+2310280#データ交換装置#データこうかんそうち#data switching exchange;DSE#
+2310290#データ構造#データこうぞう#data structure#
+2310300#データ項目#データこうもく#item;data item#
+2310310#データ混在環境#データこんざいかんきょう#mixed data (type) environment#
+2310320#データ辞書#データじしょ#data dictionary#
+2310330#データ実体#データじったい#data entity;data object#
+2310340#データ実体化#データじったいか#data materialization#
+2310350#データ写像#データしゃぞう#data mapping#
+2310360#データ取得#データしゅとく#data acquisition#
+2310370#データ受信装置#データじゅしんそうち#data sink#
+2310380#データ収集#データしゅうしゅう#data collection;data acquisition#
+2310390#データ収集管理システム#データしゅうしゅうかんりシステム#data acquisition and control system#
+2310400#データ収集端末#データしゅうしゅうたんまつ#data input station;data collection station#
+2310410#データ集線装置#データしゅうせんそうち#data concentrator#
+2310420#データ処理システム#データしょりシステム#data processing system;computer system;computing system#
+2310430#データ処理システムの安全保護#データしょりシステムのあんぜんほご#data processing system security;computer system security#
+2310440#データ処理ステーション#データしょりステーション#data processing station#
+2310450#データ処理センター#データしょりセンター#Data Processing Center;DPC#
+2310460#データ処理ノード#データしょりノード#data processing node#
+2310470#データ処理機械#データしょりきかい#data processing machine#
+2310480#データ信号速度#データしんごうそくど#data signaling rate#
+2310490#データ整合性#データせいごうせい#data consistency#
+2310500#データ精度#データせいど#data accuracy#
+2310510#データ専用文字#データせんようもじ#dedicated data character#
+2310520#データ操作言語#データそうさげんご#Data Manipulation Language;DML#
+2310540#データ送信装置#データそうしんそうち#data source#
+2310550#データ属性#データぞくせい#data attribute#
+2310560#データ損失#データそんしつ#data loss#
+2310570#データ多重変換装置#データたじゅうへんかんそうち#data multiplexer#
+2310580#データ対象#データたいしょう#data object#
+2310590#データ単位#データたんい#data unit#
+2310600#データ端末装置#データたんまつそうち#data terminal equipment;DTE#
+2310610#データ段階化#データだんかいか#data staging#
+2310620#データ値#データち#data value#
+2310630#データ抽象化#データちゅうしょうか#data abstraction#
+2310640#データ通信機器#データつうしんきき#Data Communications Equipment;DCE#
+2310650#データ通信装置#データつうしんそうち#data communications equipment#
+2310660#データ定義言語#データていぎげんご#Data Definition Language;DDL#
+2310670#データ転送フェーズ#データてんそうフェーズ#data transfer phase#
+2310680#データ転送段階#データてんそうだんかい#data transfer phase#
+2310690#データ点#データてん#data point#
+2310700#データ伝送#データでんそう#data transmission#
+2310710#データ伝送回線#データでんそうかいせん#data transmission circuit#
+2310720#データ伝送路#データでんそうろ#channel;data Transmission channel#
+2310730#データ登録#データとうろく#data registration#
+2310740#データ投入#データとうにゅう#data entry#
+2310750#データ独立性#データどくりつせい#data independence#
+2310760#データ内容#データないよう#data content#
+2310770#データ内容記法#データないようきほう#data content notation#
+2310780#データ入力#データにゅうりょく#data entry#
+2310790#データ入力端末#データにゅうりょくたんまつ#data input station;data collection station#
+2310800#データ媒体#データばいたい#data medium#
+2310810#データ媒体変換#データばいたいへんかん#data transformation#
+2310820#データ媒体保護機構#データばいたいほごきこう#data medium protection device#
+2310830#データ発信元認証#データはっしんもとにんしょう#data origin authentication#
+2310840#データ表示#データひょうじ#data representation#
+2310850#データ付き出力基本要素#データつきしゅつりょくきほんようそ#with-data primitives#
+2310860#データ付き領域集合#データつきりょういきしゅうごう#fill area set with data#
+2310870#データ付き領域集合群#データつきりょういきしゅうごうぐん#set of fill area sets with data#
+2310880#データ分析#データぶんせき#data analysis#
+2310890#データ文字#データもじ#data character#
+2310900#データ変換#データへんかん#data conversion#
+2310910#データ変換器#データへんかんき#data converter#
+2310920#データ編集者#データへんしゅうしゃ#data preparer#
+2310930#データ保護#データほご#data protection#
+2310940#データ補間#データほかん#data interpolation#
+2310950#データ放送#データほうそう#data broadcasting#
+2310960#データ密度#データみつど#data density;packing density (deprecated in this sense)#
+2310970#データ名#データめい#data-name#
+2310980#データ網#データもう#data network#
+2310990#データ要素#データようそ#data element;data entity#
+2311000#データ流れ#データながれ#data flow#
+2311010#データ連鎖#データれんさ#data chaining#
+2311020##デービー#DB#
+2311030##デービーエムエス#DBMS#
+2311040##デービーツー#DB2#
+2311050##デービーデーシー#DB-DC#
+2311060##デービーマジック#dbMAGIC#
+2311070##ディーアイエックス#DIX#
+2311080##ディーイーエス#DES#
+2311090##ディーイーケー#DEK#
+2311100##ディーエーオー#DAO#
+2311110##ディーエーピー#DAP#
+2311120##ディーエスエス#DSS#
+2311130##ディーエスティエヌ#D-STN#
+2311140##ディーエスピー#DSP#
+2311150##ディーエスユー#DSU#
+2311160##ディーエックスツー#DX2#
+2311170##ディーエックスフォー#DX4#
+2311180#ＤＮＳ#ディーエヌエス#DNS;Domain Name System#
+2311200##ディーエルエル#DLL#
+2311210##ディーコム#DCOM#
+2311220##ディーシーアイ#DCI#
+2311230##ディーシーイー#DCE#
+2311240##ディーシーエヌエー#DCNA#
+2311250##ディーティーイー#DTE#
+2311260##ディーティーエム#DTM#
+2311270##ディーティーピー#DTP#
+2311280##ディーディーエー#DDE#
+2311290##ディーディーエックス#DDX#
+2311300##ディーディーエックスティーピー#DDX-TP#
+2311310##ディーディーエックスピー#DDX-P#
+2311320##ディーディーエヌ#DDN#
+2311330##ディーディーエル#DDL#
+2311340##ディーピーアイ#dpi#
+2311350#ＤＶＤ−ＲＡＭ;ＤＶＤＲＡＭ#ディーブイディーラム#DVD-RAM#
+2311360#ＤＶＤ−ＲＯＭ;ＤＶＤＲＯＭ#ディーブイディーロム#DVD-ROM#
+2311370##ディープリンク;ディープ・リンク#deep link#
+2311380##ディーベース#dBASE#
+2311390#ＤＲＡＭ#ディーラム#DRAM#
+2311400##ディオン#DION#
+2311410##ディクショナリプロパティ;ディクショナリ・プロパティ#dictionary property#
+2311420##ディザ#dither#
+2311430##ディザリング#dithering#
+2311440#ディザ法#ディザほう#dither method#
+2311450##ディシジョンツリー;ディシジョン・ツリー#decision tree#
+2311460##ディシジョンポイント;ディシジョン・ポイント#decision point#
+2311470##ディジタライズ#digitize#
+2311480#ディジタルアナログ変換器#ディジタルアナログへんかんき#digital-to-analog converter;DA converter;DAC#
+2311490##ディジタルイクイップメント;ディジタル・イクイップメント#Digital Equipment#
+2311500##ディジタルデータ;ディジタル・データ#digital data#
+2311510##ディジタルビデオディスク;ディジタル・ビデオディスク#digital video disk;DVD#
+2311520#ディジタル化#ディジタルか#digitization#
+2311530#ディジタル回線#ディジタルかいせん#digital line#
+2311540#ディジタル計数形#ディジタルけいすうがた#digital#
+2311550#ディジタル検出遅延時間#ディジタルけんしゅつちえんじかん#recognition time#
+2311560#ディジタル光ディスク#ディジタルひかりディスク#optical disk;digital optical disk#
+2311570#ディジタル署名#ディジタルしょめい#digital signature#
+2311580#ディジタル信号#ディジタルしんごう#digital signal#
+2311590#ディジタル表現#ディジタルひょうげん#digital representation#
+2311600##ディジット#digit#
+2311610##ディスエーブル#disable#
+2311620##ディスカバラーニセン#Discoverer2000#
+2311630##ディスクなし#diskless#
+2311640#ディスクの空き領域#ディスクのあきりょういき#disk space#
+2311650##ディスクアットワンス;ディスク・アット・ワンス#disk at once#
+2311660##ディスクアレイ;ディスク・アレイ#disk array#
+2311670##ディスクオペレーティングシステム;ディスク・オペレーティング・システム#disk operating system;DOS#
+2311680##ディスクカートリッジ;ディスク・カートリッジ#disk cartridge#
+2311690##ディスクキャッシュ;ディスク・キャッシュ#disk cache#
+2311700##ディスクキャッシング;ディスク・キャッシング#disk caching#
+2311710##ディスククォータ;ディスク・クォータ#disk quota#
+2311720##ディスクコントローラ;ディスク・コントローラ#disk controller#
+2311730##ディスクスペース;ディスク・スペース#disk space#
+2311740##ディスクダブラー;ディスク・ダブラー#disk doubler#
+2311750##ディスクデバイス;ディスク・デバイス#disk device#
+2311760##ディスクドライブ;ディスク・ドライブ#disk drive#
+2311770##ディスクパーティション;ディスク・パーティション#disk partition#
+2311780##ディスクパック;ディスク・パック#disk pack#
+2311790##ディスクミラーリング;ディスク・ミラーリング#disk mirroring#
+2311800#ディスク圧縮#ディスクあっしゅく#disk compression#
+2311810#ディスク駆動機構#ディスクくどうきこう#disk drive#
+2311820#ディスク装置#ディスクそうち#disk drive#
+2311830#ディスク二重化#ディスクにじゅうか#disk duplexing#
+2311840#ディスク容量#ディスクようりょう#disk capacity#
+2311850##ディスケットドライブ;ディスケット・ドライブ#diskette drive#
+2311860##ディスケットドライブランプ#diskette light#
+2311870##ディスプレイアダプター;ディスプレイアダプタ;ディスプレーアダプター;ディスプレーアダプタ;ディスプレイ・アダプター;ディスプレイ・アダプタ;ディスプレー・アアダプター;ディスプレー・アアダプタ#display adapter#
+2311880##ディスプレイカード;ディスプレイ・カード#display card#
+2311890##ディスプレイコントローラ;ディスプレイ・コントローラ#display controller#
+2311900##ディスプレイシステム;ディスプレイ・システム#display system#
+2311910##ディスプレイセッション;ディスプレイ・セッション#display session#
+2311920##ディスプレイポストスクリプト;ディスプレイ・ポストスクリプト#Display PostScript;DPS#
+2311930##ディスプレイモデル;ディスプレイ・モデル#display model#
+2311940#ディスプレイ装置#ディスプレイそうち#display unit#
+2311950##ディセーブル#disable#
+2311960##ディセンダ#descender#
+2311970##ディップスイッチ;ディップ・スイッチ#DIP switch;Dual In-line Package switch#
+2311980##ディフ#DIF#
+2311990#ディファレンシャルマンチェスタ符号化方式#ディファレンシャルマンチェスタふごうかほうしき#differential Manchester encoding#
+2312000##ディプスイッチ#dip switch#
+2312010##ディム#DIMM#
+2312020##ディメンショナリティ#dimensionality#
+2312030##ディメンショニング#dimensioning#
+2312040##ディメンションメンバ;ディメンション・メンバ#dimension member#
+2312050##ディメンションメンバプロパティ#dimension member property#
+2312060##ディメンションレベル;ディメンション・レベル#dimension level#
+2312070##ディレクティブ#directive#
+2312080##ディレクトリエントリ;ディレクトリ・エントリ#directory entry;link#
+2312090##ディレクトリサービス;ディレクトリ・サービス#directory service#
+2312100##ディレクトリシステムエージェント;ディレクトリ・システム・エージェント#Directory System Agent;DSA#
+2312110#ディレクトリシステム機能体#ディレクトリシステムきのうたい#Directory System Agent;DSA#
+2312120##ディレクトリスタック;ディレクトリ・スタック#directory stack#
+2312130##ディレクトリストア;ディレクト・リストア;ディレクトリ・ストア#directory store#
+2312140##ディレクトリツリー;ディレクトリ・ツリー#directory tree#
+2312150#ディレクトリ管理領域#ディレクトリかんりりょういき#Directory Management Domain;DMD#
+2312160#ディレクトリ構造#ディレクトリこうぞう#directory structure#
+2312170#ディレクトリ情報ベース#ディレクトリじょうほうベース#Directory Information Base;DIB#
+2312180#ディレクトリ名#ディレクトリめい#directory name#
+2312190#ディレクトリ名による受信者指定#ディレクトリめいによるじゅしんしゃしてい#designation of recipient by directory name;MTPR#
+2312200#ディレクトリ利用者エージェント#ディレクトリりようしゃエージェント#Directory User Agent;DUA#
+2312210#ディレクトリ利用者機能体#ディレクトリりようしゃきのうたい#Directory User Agent;DUA#
+2312220##ディン#DIN#
+2312230##デイジーチェーン#daisy-chain#
+2312240##デイジーホイールプリンタ;デイジーホイール・プリンタ#daisywheel printer#
+2312250#ディレクＴＶ#ディレクティービー#DirecTV#
+2312260##デクリプト#decrypt#
+2312270##デケイ#decay#
+2312280##デコンボリューション#deconvolution#
+2312290##デザイナーニセン#Designer2000#
+2312300##デザインセンター;デザイン・センター#design center#
+2312310#デザイン寸法#デザインすんぽう#design size#
+2312320##デシューツ#Deschutes#
+2312330##デシュート#Deschutes#
+2312340##デジタイザ;デジタイザー#digitizer#
+2312350#デジタルアナログ変換器#デジタルアナログへんかんき#digital-to-analog converter;DA converter;DAC#
+2312360#デジタルＩＤ#デジタルアイディー#digital ID#
+2312370#デジタルＰＢＸ#デジタルピービーエックス#digital Private Branch eXchange;DPBX#
+2312380#デジタルＲＧＢ#デジタルアージービー#digital RGB#
+2312390#デジタルＶＴＲ#デジタルブイティーアー#digital Video Tape Recorder#
+2312400##デジタルからアナログへ#digital-to-analog (D-A)#
+2312410##デジタルインク;デジタル・インク#digital ink#
+2312420##デジタルオーディオ;デジタル・オーディオ#digital audio;DA#
+2312430##デジタルオーディオラジオサービス;デジタル・オーディオ・ラジオ・サービス#digital audio radio service;DARS#
+2312450##デジタルキャッシュ;デジタル・キャッシュ#digital cash#
+2312460##デジタルコンピュータ;デジタル・コンピュータ#digital computer#
+2312470##デジタルシグナルプロセッサ;デジタル・シグナル・プロセッサ#digital signal processor;DSP#
+2312480##デジタルスチルカメラ;デジタル・スチル・カメラ#digital still camera#
+2312490##デジタルビデオ;デジタル・ビデオ#digital video#
+2312500##デジタルビデオカメラ;デジタル・ビデオ・カメラ#Digital Video camera#
+2312510##デジタルビデオディスク;デジタル・ビデオ・ディスク#Digital Video Disk#
+2312520##デジタルブック;デジタル・ブック#digital book#
+2312530##デジタルライセンス;デジタル・ライセンス#digital license#
+2312540##デジタルラジオ;デジタル・ラジオ#digital radio#
+2312550#デジタル衛星放送#デジタルえいせいほうそう#Digital Satellite Service;DSS#
+2312560#デジタル音楽#デジタルおんがく#digital music#
+2312570#デジタル音楽ファイル#デジタルおんがくファイル#digital sound file#
+2312580#デジタル化#デジタルか#digitization#
+2312590#デジタル回線#デジタルかいせん#digital line#
+2312600#デジタル交換機#デジタルこうかんき#digital switch#
+2312610#デジタル交換網#デジタルこうかんもう#digital data exchange network#
+2312620#デジタル署名#デジタルしょめい#digital signature#
+2312630#デジタル署名アルゴリズム#デジタルしょめいアルゴリズム#digital signature algorithm#
+2312640#デジタル証明#デジタルしょうめい#digital certificate;digital authentication#
+2312650#デジタル信号プロセッサ#デジタルしんごうプロセッサ#Digital Signal Processor;DSP#
+2312660##デスクアクセサリ;デスク・アクセサリ#desk accessory;DA#
+2312670#デスクトップＰＣ#デスクトップピーシー#desktop PC#
+2312680##デスクトップエクスペリエンス;デスクトップ・エクスペリエンス#desktop experience#
+2312690##デスクトップコンピュータ;デスクトップ・コンピュータ#desktop computer#
+2312700##デスクトップパターン;デスクトップ・パターン#desktop pattern#
+2312710##デスクトッププレゼンテーション;デスクトップ・プレゼンテーション#desktop presentation#
+2312720##デスクトップミュージック;デスクトップ・ミュージック#desktop music;DTM#
+2312730#デスクトップ会議#デスクトップかいぎ#desktop conferencing#
+2312740#デスクトップ環境#デスクトップかんきょう#desktop environment#
+2312750#デスクトップ型#デスクトップかた#desktop-type#
+2312760#デスクトップ型ＰＣ#デスクトップかたピーシー#desktop-type PC#
+2312770#デスクトップ型コンピュータ#デスクトップかたコンピュータ#desktop-type computer#
+2312780#デスクトップ出版#デスクトップしゅっぱん#desktop publishing#
+2312790##デスクバンド#deskband#
+2312800##デスクリプタ#descriptor#
+2312810##デスティネーションドライブ;デスティネーション・ドライブ#destination drive#
+2312820##デストラクタ#destructor#
+2312830##デスピュー#despew#
+2312840##デスプーラ#despooler#
+2312850##デタッチ#detach#
+2312860##デック#DEC#
+2312870#デッドロック回避#デッドロックかいひ#deadlock avoidance#
+2312880#デバイスＩＤ#デバイスアイディー#device ID#
+2312890##デバイススタック;デバイス・スタック#device stack#
+2312900##デバイスドライバ;デバイス・ドライバ#device driver#
+2312910##デバイスフォント;デバイス・フォント#device font#
+2312920##デバイスベイ;デバイス・ベイ#device bay#
+2312930#デバイス名#デバイスめい#device name#
+2312940##デバッギングモニタ;デバッギング・モニタ#debugging monitor#
+2312950##デバッグフラグ;デバッグ・フラグ#debug(ger) flag#
+2312960#デバッグ行#デバッグぎょう#debugging line#
+2312970#デバッグ節#デバッグせつ#debugging section#
+2312980##デビアン#Debian#
+2312990##デビットカードサービス;デビットカード・サービス#debit card service#
+2313000##デファクトスタンダード;デ・ファクト・スタンダード#de facto standard#
+2313010##デフォルトインスタンス;デフォルト・インスタンス#default instance#
+2313020##デフォルトゲートウェイ;デフォルト・ゲートウェイ#default gateway#
+2313030##デフォルトデータ;デフォルト・データ#default data#
+2313050#デフォルト設定#デフォルトせってい#default setting (setup)#
+2313060##デフラグ#Defrag#
+2313070##デフラグメント#defragment#
+2313080##デベロッパーニセン#Developer2000#
+2313090##デマルチプレクサ#demultiplexer#
+2313100##デマルチプレクス#demultiplexing#
+2313110#デモ版#デモばん;デモはん#demonstration version;demo version#
+2313130##デューティサイクルひずみジッタ#DCD;duty cycle distortion jitter#
+2313140##デュアルアタッチド#dual attached#
+2313150##デュアルインラインパッケージ;デュアル・インライン・パッケージ#dual inline package;DIP#
+2313160##デュアルスキャンディスプレー;デュアル・スキャン・ディスプレー#dual scan display#
+2313170##デュアルスタック;デュアル・スタック#dual stack#
+2313180##デュアルディスクドライブ;デュアル・ディスク・ドライブ#dual-disk drive#
+2313190##デュアルバンド;デュアル・バンド#dual band#
+2313200##デュアルブート;デュアル・ブート#dual boot#
+2313210##デュアルホーミング;デュアル・ホーミング#dual homing#
+2313220##デュアルホームド#dual homed#
+2313230#デュアルポートＲＡＭ#デュアルポートラム#dual port Random Access Memory#
+2313240##デュアルモード;デュアル・モード#dual mode#
+2313250##デュプレックス#duplex#
+2313260##デュロン#Duron#
+2313270##デラーク#delurk#
+2313280##デリゲートサーバー#delegate server#
+2313290##デルタインベントリ;デルタ・インベントリ#delta inventory#
+2313300##デルタインベントリファイル#delta inventory file#
+2313310##デルファイ#Delphi#
+2313320##トークンキュー;トークン・キュー#token queue#
+2313330##トークンバス;トークン・バス#token bus#
+2313340##トークンバスネットワーク;トークン・バス・ネットワーク#token-bus network#
+2313350##トークンパッシングプロトコル;トークン・パッシング・プロトコル#token passing protocol#
+2313360#トークンパッシング手順#トークンパッシングてじゅん#token passing protocol;token passing procedure#
+2313370##トークンリング;トークン・リング#token ring#
+2313380##トークンリングネットワーク;トークン・リング・ネットワーク#token-ring network#
+2313390#トークン化#トークンか#tokenize#
+2313400#トークン発生レート#トークンはっせいレート#token issue rate#
+2313410##トータルコスト;トータル・コスト#total cost#
+2313420##トータルシステム;トータル・システム#total system#
+2313430#トーン検出#トーンけんしゅつ#tone detection#
+2313440##トゥルータイプ#TrueType#
+2313450##トゥルータイプフォント;トゥルータイプ・フォント#True Type font#
+2313460##トウィップ#twip#
+2313470##トウェイン#TWAIN#
+2313480##トグルボタン#toggle button#
+2313490#トップダウン設計#トップダウンせっけい#top-down design#
+2313500##トップメニュー;トップ・メニュー#top for menu#
+2313510##トップレベルドメイン;トップ・レベル・ドメイン#toplevel domain#
+2313520##トナーカートリッジ;トナー・カートリッジ#toner cartridge#
+2313540##トライアルウェア#trial version of software;"trialware"#
+2313550##トライトン#Triton#
+2313560##トライポッド#Tripod#
+2313570##トラクタフィーダ;トラクタ・フィーダ#tractor feeder#
+2313580##トラクタフィード;トラクタ・フィード#tractor feed#
+2313590##トラスティ#trustee#
+2313600#トラッキング記号#トラッキングきごう#tracking symbol#
+2313610#トラックアクセス時間#トラックアクセスじかん#track access time#
+2313620##トラックアットワンス;トラック・アット・ワンス#track at once#
+2313630##トラックパッド;トラック・パッド#track pod#
+2313640##トラックピッチ;トラック・ピッチ#track pitch#
+2313650##トラックホールドユニット#track and hold unit;track and store unit#
+2313660#トラック密度#トラックみつど#track density#
+2313670##トラップハンドラ;トラップ・ハンドラ#trap handler#
+2313680#トラバーサル順序#トラバーサルじゅんじょ#traversal sequence#
+2313700##トラヒックエンジニアリング;トラヒック・エンジニアリング#traffic engineering#
+2313710##トラヒックサージ;トラヒック・サージ#traffic surge#
+2313720##トラヒックシェイピング;トラヒック・シェイピング#traffic shaping#
+2313730##トラヒックタイプ;トラヒック・タイプ#traffic type#
+2313740##トラヒックディスクリプタ;トラヒック・ディスクリプタ#traffic descriptor#
+2313750##トラヒックバースト;トラヒック・バースト#traffic burst#
+2313760##トラヒックパターン;トラヒック・パターン#traffic pattern#
+2313770##トラヒックパラメータ;トラヒック・パラメータ;トラヒック・パラ・メータ#traffic parameter#
+2313780##トラヒックフロー;トラヒック・フロー#traffic flow#
+2313790#トラヒック記述子#トラヒックきじゅつし#traffic descriptor#
+2313800#トラヒック契約#トラヒックけいやく#traffic contract#
+2313810#トラヒック全体#トラヒックぜんたい#total traffic#
+2313820#トラヒック特性#トラヒックとくせい#traffic characteristics#
+2313830##トラフィックシェーピング;トラフィック・シェーピング#traffic shaping#
+2313840##トラフィックパディング;トラフィック・パディング#traffic padding#
+2313850##トラフィックパラメータ;トラフィック・パラメータ#traffic parameter#
+2313860##トラフィックフロー;トラフィック・フロー#traffic flow#
+2313870#トラフィックフロー機密性#トラフィックフローきみつせい#traffic flow confidentiality#
+2313880##トラフィックマネジメント;トラフィック・マネジメント#traffic management#
+2313890#トラフィック解析#トラフィックかいせき#traffic analysis#
+2313900#トラフィック制御#トラフィックせいぎょ#traffic control#
+2313910#トラフィック量#トラフィックりょう#traffic load;traffic amount#
+2313920#トラフィック輻輳#トラフィックふくそう#traffic congestion#
+2313930##トラベルスター#Travelstar#
+2313940##トランキング#trunking#
+2313950##トランクタイプ;トランク・タイプ#trunk type#
+2313960#トランク予備#トランクよび#trunk conditioning#
+2313970#トランザクションＩＤ#トランザクションアイディー#transaction ID#
+2313980##トランザクションコミットメント;トランザクション・コミットメント#transaction commitment;commitment#
+2313990##トランザクションコンテキスト;トランザクション・コンテキスト#transaction context#
+2314000##トランザクションテキスト;トランザクション・テキスト#transaction text#
+2314010##トランザクションパイプライン#transacted pipeline#
+2314020##トランザクションプログラム;トランザクション・プログラム#transaction program#
+2314030##トランザクションロールバック;トランザクション・ロールバック#transaction rollback;rollback#
+2314040##トランザクションログファイル;トランザクション・ログ・ファイル#transaction log file#
+2314050#トランザクション回復#トランザクションかいふく#transaction recovery#
+2314060#トランザクション記録動作#トランザクションきろくどうさ#transaction logging#
+2314070#トランザクション識別子#トランザクションしきべつし#transaction identifier#
+2314080#トランザクション終了フェーズ#トランザクションしゅうりょうフェーズ#termination phase of a transaction#
+2314090#トランザクション処理#トランザクションしょり#transaction processing#
+2314100#トランザクション処理サービス提供者#トランザクションしょりサービスていきょうしゃ#Transaction Processing Service Provider;TPSP#
+2314110#トランザクション処理サービス利用者#トランザクションしょりサービスりようしゃ#Transaction Processing Service User;TPSU#
+2314120#トランザクション処理チャネル#トランザクションしょりチャネル#Transaction Processing channel;channel#
+2314130#トランザクション処理プロトコル機械#トランザクションしょりプロトコルきかい#Transaction Processing Protocol Machine;TPPM#
+2314140#トランザクション処理応用サービス要素#トランザクションしょりおうようサービスようそ#Transaction Processing Application Service Element;TPASE#
+2314150#トランザクション分枝#トランザクションぶんし#transaction branch#
+2314160#トランザクション分枝識別子#トランザクションぶんししきべつし#transaction branch identifier#
+2314170#トランザクション木の制約条件#トランザクションもくのせいやくじょうけん#transaction tree constraint#
+2314180##トランザクトエスキューエル#Transact-SQL#
+2314190##トランジスタトランジスタロジック#transistor-transistor logic;TTL#
+2314200##トランジスタダイオードロジック#Transistor-Diode Logic;TDL#
+2314210##トランスペアレント#transparent#
+2314220#トランスポートサービス提供者#トランスポートサービスていきょうしゃ#transport service provider;TS-provider#
+2314230#トランスポートサービス利用者#トランスポートサービスりようしゃ#transport service user#
+2314240#トランスポート層#トランスポートそう#transport layer#
+2314260##トランズアクション#transaction#
+2314270##トランペットウィンソック;トランペット・ウィンソック#Trumpet Winsock#
+2314280##トリガプロセス;トリガ・プロセス#trigger process#
+2314290#トリガ回路#トリガかいろ#trigger circuit#
+2314300##トリッピー#Tri-P#
+2314310##トリニトロン#Trinitron#
+2314320##トリミングポイント;トリミング・ポイント#trim points#
+2314330##トレースモード;トレース・モード#trace mode#
+2314340##トレードショー;トレード・ショー#trade show#
+2314350##トローラ#Motorola (company)#
+2314360##トンネリング#tunneling#
+2314370##ドーターカード;ドータカード;ドーター・カード;ドータ・カード#daughter card#
+2314380##ドーターボード;ドータボード;ドーター・ボード;ドータ・ボード#daughter board#
+2314410#ドイツ工業規格#ドイツこうぎょうきかく#Deutsche Institut fuer Normung;DIN#
+2314420##ドゥーパ#DoPa#
+2314430##ドキュメンテーションセンタ;ドキュメンテーション・センタ#information centre;documentation centre#
+2314440#ドキュメンテーション言語#ドキュメンテーションげんご#documentary language#
+2314450##ドキュメントィンドウ#document window#
+2314460##ドキュメントイメージング;ドキュメント・イメージング#document imaging#
+2314470##ドキュメントオブジェクトモデル;ドキュメント・オブジェクト・モデル#document object model;DOM#
+2314480##ドキュメントファイル;ドキュメント・ファイル#document file#
+2314490##ドキュメントプロパティ;ドキュメント・プロパティ#document properties#
+2314500##ドキュメントライブラリ;ドキュメント・ライブラリ#document library#
+2314510#ドキュメント共有#ドキュメントきょうゆう#document sharing#
+2314520#ドキュメント型#ドキュメントがた#document type#
+2314530#ドキュメント整理#ドキュメントせいり#document sorting#
+2314540#ドキュメント読取り装置#ドキュメントよみとりそうち#document reader#
+2314550##ドクターサーフ#Dr.SURF#
+2314560#ＤＯＳ／Ｖ#ドスブイ#DOS/V;Japanese-capable version of DOS#
+2314570##ドッキングステーション;ドッキング・ステーション#docking station#
+2314580##ドッチーモ#doccimo#
+2314590##ドットアドレス;ドット・アドレス#dot address#
+2314600##ドットインパクトプリンタ;ドット・インパクトプリンタ;ドット・インパクト・プリンタ#dot impact printer#
+2314610##ドットゲイン;ドット・ゲイン#dot gain#
+2314620##ドットドット#dot-dot#
+2314630##ドットピッチ;ドット・ピッチ#dot pitch;DP#
+2314640##ドットファイル;ドット・ファイル#dot file#
+2314650##ドットフォント;ドット・フォント#dot font#
+2314670##ドットマトリクス;ドット・マトリクス#dot matrix#
+2314680##ドットマトリクスプリンタ;ドット・マトリクス・プリンタ#dot matrix printer#
+2314690#ドットマトリックス文字発生器#ドットマトリックスもじはっせいき#dot matrix character generator#
+2314700#ドット印字装置#ドットいんじそうち#dot (matrix) printer;matrix printer#
+2314710#ドット字形#ドットじけい#dot-style#
+2314720##ドッド#DoD#
+2314730##ドネーション#donation#
+2314740##ドプラーシフト;ドプラー・シフト#doppler shift#
+2314750#ドプラー周波数#ドプラーしゅうはすう#doppler frequency#
+2314760##ドム#DOM#
+2314770##ドメインネーム;ドメイン・ネーム#domain name#
+2314780##ドメインネームサーバー;ドメイン・ネーム・サーバー#domain name server;DNS#
+2314790##ドメインネームシステム;ドメイン・ネーム・システム#domain name service;DNS#
+2314800#ドュアルポートＲＡＭ#ドュアルポートラム#dual-port RAM#
+2314810##ドライカッパー;ドライ・カッパー#dry copper#
+2314820##ドライバスタック;ドライバ・スタック#driver stack#
+2314830##ドライブタイプ;ドライブ・タイプ#drive type#
+2314840##ドライブバイインストール#drive-by install#
+2314850##ドライブベイ;ドライブ・ベイ#drive bay;storage bay#
+2314860##ドライブレスワークステーション#driveless workstation#
+2314870##ドライブレター;ドライブ・レター#drive letter#
+2314880#ドライブ位置#ドライブいち#drive position#
+2314890#ドライブ文字#ドライブもじ#drive letter#
+2314900#ドライブ名#ドライブめい#drive letter;drive letter designator#
+2314910#ドラッグ＆ドロップ#ドラッグアンドドロップ#drag and drop#
+2314930##ドラッグロック;ドラッグ・ロック#drag lock#
+2314940##ドラフトモード;ドラフト・モード#draft mode#
+2314950##ドラムスキャナ;ドラム・スキャナ#drum scanner#
+2314960##ドラムプリンタ;ドラム・プリンタ#drum printer#
+2314970##ドラムプロッタ;ドラム・プロッタ#drum plotter#
+2314980#ドラム印字装置#ドラムいんじそうち#drum printer#
+2314990#ドラム記憶装置#ドラムきおくそうち#drum storage#
+2315000#ドラム作図装置#ドラムさくずそうち#drum plotter#
+2315010#ドラム式プロッタ#ドラムしきプロッタ#drum plotter#
+2315020##ドリルダウン;ドリル・ダウン#drill down#
+2315030##ドルビーデジタル;ドルビー・デジタル#Dolby Digital#
+2315040##ドローイングソフトウェア;ドローイング・ソフトウェア#drawing software#
+2315050##ドローイングプログラム;ドローイング・プログラム#drawing program#
+2315060##ドローイングボード;ドローイング・ボード#drawing board#
+2315070##ドローソフト;ドロー・ソフト#draw software#
+2315080##ドローソフトウェア;ドロー・ソフトウェア#drawing software#
+2315090##ドロップアウトカラー;ドロップアウト・カラー#drop-out colour#
+2315100##ドロップイン#drop-in#
+2315110##ドロップケーブル;ドロップ・ケーブル#drop cable (for workstations)#
+2315120##ドロップダウンコンボボックス;ドロップダウン・コンボ・ボックス#drop-down combo box#
+2315130##ドロップダウンメニュー;ドロップ・ダウン・メニュー#drop down menu#
+2315140##ドロップダウンリストボックス;ドロップダウン・リストボックス#drop-down list box#
+2315150##ドロップディレクトリ;ドロップ・ディレクトリ#drop directory#
+2315160##ドロップフォルダ;ドロップ・フォルダ#drop folder#
+2315170##ドングル#dongle#
+2315180##ナイキストフィルタ;ナイキスト・フィルタ#nyquist filter#
+2315190#ナイキスト周波数#ナイキストしゅうはすう#Nyquist frequency#
+2315200##ナイネックス#Nynex (Regional Bell Operating Company - US)#
+2315210##ナスティグラム#nastygram#
+2315220#ＮＡＫ#ナック#negative acknowledgement;NAK#
+2315230##ナッシュビル#Nashville#
+2315240##ナノメートル;ナノメータ#nanometer#
+2315250#ナノ秒#ナノびょう#nanosecond;billionth of a second;ns#
+2315270##ナビゲート#navigation#
+2315280##ナプルプス#NAPLPS#
+2315290##ナムロック#NumLock#
+2315300#ナル文字列#ナルもじれつ#null string#
+2315310##ナレッジナビゲータ;ナレッジ・ナビゲータ#knowledge navigator#
+2315320##ナレッジマネージメント;ナレッジマネジメント;ナレッジ・マネージメント;ナレッジ・マネジメント#knowledge management#
+2315330##ナローバンド#narrowband#
+2315350##ニーエイチシー#2HC#
+2315360##ニーエイチディー#2HD#
+2315370##ニーディーディー#2DD#
+2315380##ニーハチロク#286#
+2315390##ニーモニック#mnemonic#
+2315400##ニアービデオオンデマンド;ニアー・ビデオ・オン・デマンド#near video on demand#
+2315410##ニコラ#NICOLA#
+2315420##ニッカド#nickel cadmium (NiCad)#
+2315430##ニッカドバッテリ;ニッカド・バッテリ#nickel-cadmium battery#
+2315440#ニッカド電池#ニッカドでんち#NiCad battery#
+2315450##ニッケルカドミウムバッテリ;ニッケル・カドミウム・バッテリ#nickel-cadmium battery#
+2315470#ニッケル水素#ニッケルすいそ#nickel metal hydride (NiMH)#
+2315480#ニッケル水素バッテリ#ニッケルすいそバッテリ#nickel metal hydride battery#
+2315490#ニッケル水素電池#ニッケルすいそでんち#Nickel-Metal Hydride battery (NiMH battery)#
+2315500#ニッチ市場#ニッチしじょう#niche market#
+2315510##ニフティサーブ;ニフティーサーブ#NIFTY-serve;Niftyserve;former online service by Nifty Corp.#
+2315530##ニムダ#NIMDA#
+2315540##ニューコアラ#NewCOARA#
+2315550##ニュージェネレーション;ニュー・ジェネレーション#new generation#
+2315560##ニュースウォッチャー#NewsWatcher#
+2315570##ニュースエージェント#NewsAgent#
+2315580##ニュースオンデマンド;ニュース・オン・デマンド#news on demand#
+2315590##ニュースフループ#newsfroup#
+2315600##ニュースリーダ#newsreader#
+2315610#ニュース記事#ニュースきじ#news article#
+2315620##ニューズレター#newsletter#
+2315630##ニューバージョン;ニュー・バージョン#new version#
+2315640##ニュービー#newbie#
+2315650##ニューブリッジ#Newbridge#
+2315660##ニューライン#newline (character)#
+2315670##ニューロコンピュータ#neuro-computer#
+2315680##ニュクリアス#nucleus#
+2315700##ヌーバス#NuBus#
+2315710##ヌルバイト;ヌル・バイト#null byte#
+2315720##ヌルパタン;ヌル・パタン#null pattern#
+2315730##ヌルフィールド;ヌル・フィールド#null field#
+2315740##ヌルポインター;ヌル・ポインター#null pointer#
+2315750##ヌルモデム;ヌル・モデム#null modem#
+2315760##ヌルリスト;ヌル・リスト#null list#
+2315770#ヌル型;ナル型#ヌルがた;ナルがた#null type#
+2315780#ヌル値#ヌルち#null value#
+2315790#ヌル文字#ヌルもじ#null character#
+2315800#ヌル文字列#ヌルもじれつ#null character string#
+2315810##ネーティブファイルフォーマット;ネーティブ・ファイル・フォーマット#native file format#
+2315820##ネームサービス;ネーム・サービス#name service#
+2315830##ネームドパイプ#named pipe#
+2315840##ネイグウェア#nagware#
+2315850##ネイティブコンパイラ;ネイティブ・コンパイラ#native compiler#
+2315860##ネイティブサポート;ネイティブ・サポート#native support#
+2315870##ネイティブフォーマット;ネイティブ・フォーマット#native format#
+2315880##ネイティブモード;ネイティブ・モード#native mode#
+2315890#ネイティブ対応#ネイティブたいおう#native support#
+2315900#ネガティブ表示#ネガティブひょうじ#negative expression#
+2315910##ネクスジェン#NexGen#
+2315920##ネクストステップ#NeXTSTEP#
+2315930##ネゲート#negate#
+2315940##ネゴシエート#negotiation#
+2315950##ネットアクセス;ネット・アクセス#net access#
+2315960##ネットウェア#NetWare#
+2315970##ネットエイト#Net8#
+2315980##ネットオーエルティピー#NetOLTP#
+2315990##ネットゴット#net.got#
+2316000##ネットサーファ#net surfer#
+2316010##ネットシチズン#net.citizen#
+2316020##ネットスケープ#Netscape#
+2316040##ネットスケープコミュニケータ;ネットスケープ・コミュニケータ#Netscape Communicator#
+2316050##ネットスケープナビゲータ;ネットスケープ・ナビゲータ#Netscape Navigator#
+2316060##ネットツーフォン#Net2Phone#
+2316070##ネットニュース;ネット・ニュース#net news;network news;Usenet#
+2316080##ネットバイオス#NetBIOS#
+2316090##ネットビーエスディー#NetBSD#
+2316100##ネットビューイ#NetBEUI#
+2316110##ネットファインド#Netfind#
+2316120##ネットフォン#NetPhone#
+2316130##ネットユーザ;ネット・ユーザ#net user;network user#
+2316140#ネットワークＯＳ#ネットワークオーエス#network operating system;NOS#
+2316150##ネットワークアーキテクチャ;ネットワーク・アーキテクチャ#network architecture#
+2316160##ネットワークアクセスポイント;ネットワーク・アクセス・ポイント#network access point;NAP#
+2316170#ネットワークアクセス点#ネットワークアクセスてん#network access point#
+2316180##ネットワークアダプタ;ネットワーク・アダプタ#network adapter#
+2316190##ネットワークアドミニストレータ;ネットワーク・アドミニストレータ#network administrator#
+2316200##ネットワークアドレス;ネットワーク・アドレス#network address#
+2316210#ネットワークアドレス付与機関#ネットワークアドレスふよきかん#network addressing authority#
+2316220#ネットワークアドレス変換#ネットワークアドレスへんかん#Network Address Translation#
+2316230#ネットワークアドレス領域#ネットワークアドレスりょういき#network addressing domain#
+2316240##ネットワークインターフェースカード;ネットワークインターフェイスカード;ネットワーク・インターフェース・カード;ネットワーク・インターフェイス・カード#network interface card;NIC#
+2316250##ネットワークインフラ;ネットワーク・インフラ#network infrastructure#
+2316260##ネットワークエレメント;ネットワーク・エレメント#network element#
+2316270##ネットワークエンジニアリング;ネットワーク・エンジニアリング#network engineering#
+2316280##ネットワークオペレーティングシステム;ネットワーク・オペレーティング・システム#network operating system#
+2316290##ネットワークケーブル;ネットワーク・ケーブル#network cabling#
+2316300##ネットワークコントローラ;ネットワーク・コントローラ#network controller#
+2316310##ネットワークコンピュータ;ネットワーク・コンピュータ#network computer;NC#
+2316320##ネットワークサーバモード;ネットワーク・サーバ・モード#network server mode#
+2316330##ネットワークサービスプロバイダ;ネットワーク・サービスプロバイダ#network service provider;NSP#
+2316340#ネットワークサービス提供者#ネットワークサービスていきょうしゃ#network service provider#
+2316350##ネットワークトポロジー;ネットワーク・トポロジー#network topology#
+2316360##ネットワークドライブ;ネットワーク・ドライブ#network drive#
+2316370##ネットワークバイトオーダー;ネットワーク・バイト・オーダー#network byte order#
+2316380##ネットワークパケット;ネットワーク・パケット#network packet#
+2316390##ネットワークファイルシステム;ネットワーク・ファイル・システム#Network File System;NFS#
+2316400##ネットワークプリンタ;ネットワーク・プリンタ#network printer#
+2316410##ネットワークプロトコル;ネットワーク・プロトコル#network protocol#
+2316420#ネットワークプロトコルアドレス指定情報#ネットワークプロトコルアドレスしていじょうほう#network protocol address information#
+2316430##ネットワークプロトコルアナライザ;ネットワーク・プロトコル・アナライザ#network protocol analyzer#
+2316440##ネットワークマネージャ;ネットワーク・マネージャ#network manager#
+2316450##ネットワークリソース;ネットワーク・リソース#network resource#
+2316460#ネットワーク改造#ネットワークかいぞう#network restructuring#
+2316470#ネットワーク監視#ネットワークかんし#network supervision#
+2316480#ネットワーク管理#ネットワークかんり#network administration#
+2316490#ネットワーク管理システム#ネットワークかんりシステム#network management system#
+2316500#ネットワーク管理者#ネットワークかんりしゃ#network administrator#
+2316510#ネットワーク機器#ネットワークきき#network device#
+2316520#ネットワーク計画#ネットワークけいかく#network planning#
+2316530#ネットワーク効率#ネットワークこうりつ#network efficiency#
+2316540#ネットワーク構成#ネットワークこうせい#network configuration;network layout#
+2316550#ネットワーク構造#ネットワークこうぞう#network structure#
+2316560#ネットワーク資源#ネットワークしげん#network resources#
+2316570#ネットワーク資産#ネットワークしさん#network resource#
+2316580#ネットワーク状況#ネットワークじょうきょう#network conditions#
+2316590#ネットワーク図#ネットワークず#network chart#
+2316600#ネットワーク接続#ネットワークせつぞく#network connection#
+2316610#ネットワーク接続形態#ネットワークせつぞくけいたい#network topology#
+2316620#ネットワーク全体#ネットワークぜんたい#entire network#
+2316630#ネットワーク層#ネットワークそう#network layer#
+2316640#ネットワーク統合#ネットワークとうごう#network integration#
+2316650#ネットワーク内#ネットワークない#intranetwork#
+2316660#ネットワーク名#ネットワークめい#network name#
+2316670##ネットワールドインターロップ#NETWORLD+INTEROP#
+2316680#ネット混雑#ネットこんざつ#Internet congestion;net congestion#
+2316690##ノーキャリア;ノー・キャリア#no carrier#
+2316700##ノーザンテレコム#Northern Telecom#
+2316710##ノースウッド#Northwood#
+2316720##ノースブリッジ;ノース・ブリッジ#North Bridge#
+2316730##ノーツポンプ#NotesPump#
+2316740#ノートＰＣ#ノートピーシー#note PC#
+2316750#ノートブック型パーソナルコンピュータ#ノートブックがたパーソナルコンピュータ#notebook personal computer#
+2316760##ノートン#Norton#
+2316770##ノートンユーティリティ;ノートン・ユーティリティ#Norton Utilities#
+2316780#ノート型#ノートがた#note-type#
+2316790#ノート型ＰＣ#ノートがたピーシー#note-type PC#
+2316800#ノート型コンピュータ#ノートがたコンピュータ#note-type computer#
+2316810#ノート型パソコン#ノートがたパソコン#notebook personal computer#
+2316820##ノードネーム#nodename#
+2316830##ノーマルモード;ノーマル・モード#normal mode#
+2316840##ノイマンアーキテクチャ;ノイマン・アーキテクチャ#Neuman architecture#
+2316850##ノウボット#Knowbot#
+2316860##ノットイコール;ノット・イコール#not equal#
+2316870#ノンアド機能#ノンアドきのう#nonadd function#
+2316880##ノンインターレース#non-interlaced#
+2316890##ノンインタレース#non-interlace#
+2316900##ノンインパクトプリンタ;ノン・インパクト・プリンタ#nonimpact printer#
+2316910#ノングレア処理#ノングレアしょり#non-glare treatment#
+2316920##ノンストップコンピュータ;ノンストップ・コンピュータ#non-stop computer#
+2316930##ノンドロップフレームタイムコード;ノンドロップ・フレーム・タイム・コード#non-drop frame time code#
+2316940##ノンブロッキング#non-blocking#
+2316950##ノンプリエンプティブなマルチタスク#nonpreemptive multitasking#
+2316960##ノンプリエンプティブマルチタスク;ノンプリエンプティブ・マルチタスク#non-preemptive multitasking#
+2316970#ノンプリント機能#ノンプリントきのう#nonprint function#
+2316980##ノンマスカブルインタラプト#nom-maskable interrupt;NMI#
+2316990##ノンリニア#nonlinear#
+2317000#ノンリニア編集#ノンリニアへんしゅう#nonlinear editing;NLE#
+2317010##ノヴェル#Novell#
+2317020##ハートビート#heartbeat;HB#
+2317030##ハートビートパケット;ハートビート・パケット#heartbeat packet#
+2317040#ハートビート信号#ハートビートしんごう#heartbeat signal#
+2317050##ハートレー#Hartley;decimal unit of information content#
+2317060#ハードウェアＴ＆Ｌ#ハードウェアティーアンドエル#hardware transform and lighting;hardware T&L#
+2317070##ハードウェアエラー;ハードウェア・エラー#hardware error#
+2317080#ハードウェアフロー制御#ハードウェアフローせいぎょ#hardware flow control#
+2317090##ハードウェアプラットフォーム;ハードウェア・プラットフォーム#hardware platform#
+2317100##ハードウェアベース;ハードウェア・ベース#hardware based#
+2317110#ハードウェア割り込み#ハードウェアわりこみ#hardware interrupt#
+2317120#ハードウェア構成#ハードウェアこうせい#hardware configuration#
+2317130##ハードエラー;ハード・エラー#hard error#
+2317140##ハードセクター;ハード・セクター#hard sector#
+2317150##ハードセクタリング#hard sectoring#
+2317160#ハードセクタ式ディスク#ハードセクタしきディスク#hard-sectored disk#
+2317170#ハードセクタ方式#ハードセクタほうしき#hard sectoring#
+2317180##ハードディスクドライブ;ハード・ディスク・ドライブ#hard disk drive;hard drive#
+2317190##ハードディスクレコーディング;ハード・ディスク・レコーディング#hard disk recording;HDR#
+2317200##ハードドライブ;ハード・ドライブ#hard drive#
+2317210##ハードハイフン;ハード・ハイフン#hard hyphen#
+2317220##ハードパッチ;ハード・パッチ#hard patch#
+2317230##ハードワイヤード#hard-wired#
+2317240#ハード行末#ハードぎょうまつ#hard line terminator#
+2317250##ハーパーメディア#hypermedia#
+2317260##ハーフハイト#half height#
+2317270##ハーフハイトのドライブ#half height drive#
+2317280##ハーフライン#halfline#
+2317290##ハーフワード#half-word#
+2317300##ハイエンドマシン;ハイエンド・マシン#high-end machine#
+2317310##ハイエンドモデル;ハイエンド・モデル#high-end model#
+2317320#ハイエンド機種#ハイエンドきしゅ#high-end machine#
+2317330##ハイコスト;ハイ・コスト#high cost#
+2317340##ハイコントラスト;ハイ・コントラスト#high contrast#
+2317350##ハイシエラフォーマット;ハイ・シエラ・フォーマット#High Sierra format;HSF#
+2317360##ハイジャッカー#hijacker#
+2317370##ハイテキスト#HiText#
+2317380##ハイテルネット#HyTelnet#
+2317390##ハイドラ#hydra#
+2317400##ハイバネーション#hibernation#
+2317410##ハイパーウェイズ#HyperWAIS#
+2317420##ハイパーエディット#HyperEdit#
+2317430##ハイパーカード#hypercard#
+2317440##ハイパーテキスト;ハイパテキスト#hypertext#
+2317450#ハイパーテキストマークアップ言語#ハイパーテキストマークアップげんご#HyperText Markup Language;HTML#
+2317460#ハイパーテキスト転送プロトコル#ハイパーテキストてんそうプロトコル#HyperText Transfer Protocol;HTTP#
+2317470##ハイパーメディア;ハイパメディア#hypermedia#
+2317480##ハイパスフィルタ;ハイパス・フィルタ#high pass filter;HPF#
+2317500##ハイパフォーマンス;ハイ・パフォーマンス#high performance#
+2317510##ハイパフォーマンスフォートラン;ハイ・パフォーマンス・フォートラン#High Performance Fortran;HPF#
+2317530#ハイパメディア応用#ハイパメディアおうよう#hypermedia application#
+2317540#ハイパメディア及び時間依存情報の構造化言語#ハイパメディアおよびじかんいぞんじょうほうのこうぞうかげんご#Hypermedia;Time-based Structuring Language;HyTime#
+2317550#ハイパメディア文書#ハイパメディアぶんしょ#hypermedia document#
+2317570#ハイパ文書#ハイパぶんしょ#hyperdocument#
+2317580#ハイブリッドＩＣ#ハイブリッドアイシー#hybrid Integrated Circuit#
+2317590##ハイブリッドディスク;ハイブリッド・ディスク#hybrid disk#
+2317600#ハイブリッド計算機#ハイブリッドけいさんき#hybrid computer#
+2317610##ハイホー#Hi-HO#
+2317620##ハイメムシス#HIMEM.SYS#
+2317630##ハイメモリエリア;ハイ・メモリ・エリア#high memory area;HMA#
+2317640##ハイレゾ#high-res;high resolution#
+2317650##ハイレゾリューション;ハイ・レゾリューション#high resolution#
+2317660##ハイレゾリューションモード;ハイ・レゾリューション・モード#high resolution mode#
+2317670#ハイレベルデータリンク制御手順#ハイレベルデータリンクせいぎょてじゅん#High-level Data Link Control;HDLC#
+2317680##ハウジングサービス;ハウジング・サービス#housing service#
+2317690##ハチマルハチロク#8086#
+2317700##ハチマルペケハチロク#80x86#
+2317710##ハッシュアルゴリズム;ハッシュ・アルゴリズム#hash algorithm#
+2317720##ハッシュテーブル;ハッシュ・テーブル#hash table#
+2317730##ハッシュトータル;ハッシュ・トータル#hash total#
+2317740#ハッシュ関数#ハッシュかんすう#hash function#
+2317750#ハッシュ合計#ハッシュごうけい#hash total#
+2317760#ハッシュ処理#ハッシュしょり#hashing#
+2317770#ハッシュ表探索#ハッシュひょうたんさく#hash table search#
+2317780#ハッシュ法#ハッシュほう#hashing#
+2317790##ハッチング#hatching#
+2317800#ハッチ定義表#ハッチていぎひょう#hatch table#
+2317810#ハッチ内部様式#ハッチないぶようしき#hatch interior style#
+2317820#ハッチ様式#ハッチようしき#hatch style#
+2317830#ハノイの塔#ハノイのとう#tower of Hanoi#
+2317840##ハビタット#Habitat#
+2317850#ハフマン符号#ハフマンふごう#Huffman code#
+2317860##ハブリング;ハブ・リング#hub ring#
+2317870##ハミングコード;ハミング・コード#Hamming code#
+2317880##ハミングコードチェック#Hamming code check#
+2317900##ハンディスキャナ;ハンディ・スキャナ#handy scanner#
+2317910##ハンディフォン#handyphone;PHS phone#
+2317920##ハンドへルドデバイス#handheld device#
+2317930##ハンドオフ#handoff#
+2317940##ハンドシェーキング#handshaking#
+2317950#ハンドシェーク指示未完了#ハンドシェークしじみかんりょう#handshake indication outstanding#
+2317960#ハンドシェーク要求未完了#ハンドシェークようきゅうみかんりょう#handshake request outstanding#
+2317970##ハンドシェイク#handshake#
+2317980##ハンドセット#handset#
+2317990##ハンドフリー#handsfree#
+2318000##ハンドヘルド;ハンド・ヘルド#hand held#
+2318010#ハンドヘルドＰＣ#ハンドヘルドピーシー#handheld Personal Computer;HPC#
+2318020##ハンドヘルドコンピュータ;ハンドヘルド・コンピュータ#hand-held computer#
+2318030##ハンドヘルドスキャナ;ハンドヘルドスキャナー;ハンドヘルド・スキャナ;ハンドヘルド・スキャナー#hand-held scanner;handheld scanner#
+2318050#ハンドヘルド計算器#ハンドヘルドけいさんき#pocket calculator;hand-held calculator#
+2318060##ハンドレットベースティー#100BASE-T#
+2318080##バーコードリーダー;バーコードリーダ;バーコード・リーダー;バーコード・リーダ#bar-code reader#
+2318090##バージ#barge;ViRGE#
+2318100#バージョン管理システム#バージョンかんりシステム#version control system#
+2318110#バージョン番号#バージョンばんごう#version number#
+2318120#バーストＳＲＡＭ#バーストエスラム#burst SRAM#
+2318130##バーストサイズ;バースト・サイズ#burst size#
+2318140##バーストデータ;バースト・データ#burst data#
+2318160##バーストトラフィック;バーストトラヒック;バースト・トラフィック;バースト・トラヒック#bursty traffic;burst traffic#
+2318170##バーストページ;バースト・ページ#burst page#
+2318180##バーストモード;バースト・モード#burst mode#
+2318190#バーストモード転送#バーストモードてんそう#burst-mode transfer;burst operation#
+2318200#バースト性#バーストせい#burstiness#
+2318210#バースト長#バーストちょう#burst length#
+2318220#バースト的#バーストてき#bursty#
+2318230#バースト転送#バーストてんそう#burst transfer#
+2318240#バースト伝送#バーストでんそう#burst transmission#
+2318250#バースト頻度#バーストひんど#burst frequency#
+2318260#バーチャルＬＡＮ#バーチャルラン#virtual Local Area Network;VLAN#
+2318270##バーチャルコーポレーション;バーチャル・コーポレーション#virtual corporation;VC#
+2318280##バーチャルコネクション;バーチャル・コネクション#virtual connection#
+2318290#バーチャルサーキット識別子#バーチャルサーキットしきべつし#virtual channel identifier;VCI#
+2318300##バーチャルパス;バーチャル・パス#virtual path#
+2318310#バーチャルパス識別子#バーチャルパスしきべつし#virtual path identifier;VPI#
+2318320##バーチャルマシン;バーチャル・マシン#virtual machine;VM#
+2318330##バーチャルメモリー;バーチャル・メモリー#virtual memory#
+2318340##バーチャルモール;バーチャル・モール#virtual mall#
+2318350##バーテックスシェーダ#vertex shader#
+2318360##バーフィック#barfic#
+2318370##バープリンタ;バー・プリンタ#bar printer#
+2318380##バーン#barn;bahn;bang;bam;wham;BAAN#
+2318390##バーンインテスト;バーンイン・テスト#burn-in test#
+2318400#バー印字装置#バーいんじそうち#bar printer#
+2318410##バイオコンピュータ#biocomputer#
+2318420##バイオス#BIOS#
+2318430##バイオレンスゲーム;バイオレンス・ゲーム#violent (computer, video) game#
+2318440##バイシーモス#Bi-CMOS#
+2318450##バイシンク#bisync;binary synchronous#
+2318460#バイチ図#バイチず#Veitch diagram#
+2318470##バイトオーダー;バイト・オーダー#byte order#
+2318480##バイトコードインタープリタ;バイトコード・インタープリタ#byte code interpreter#
+2318490#バイト値#バイトち#byte value#
+2318500##バイナリデータ;バイナリ・データ#binary data#
+2318510##バイナリフォーマット;バイナリ・フォーマット#binary format#
+2318520##バイナリモード;バイナリ・モード#binary mode#
+2318530##バイナリラージオブジェクト;バイナリ・ラージ・オブジェクト#binary large object;BLOB#
+2318540#バイナリレベル互換#バイナリレベルごかん#binary level compatibility#
+2318550#バイナリ互換#バイナリごかん#binary compatible#
+2318560##バイポータブル#Biportable#
+2318570##バイポーラトランジスタ#bipolar transistor#
+2318580##バイリニアフィルタリング;バイ・リニア・フィルタリング#bilinear filtering#
+2318590##バインドタイム;バインド・タイム#binding time#
+2318600##バインドファイル;バインド・ファイル#binding file#
+2318610##バインヘクス#BinHex#
+2318620##バインリナックス;バイン・リナックス#Vine Linux#
+2318630##バウ#BOW#
+2318640##バウンス#bounce#
+2318650##バウンストメイル#bounced mail#
+2318660#バウンダリ調整#バウンダリちょうせい#boundary alignment#
+2318670##バウンドトラップ;バウンド・トラップ#bound trap#
+2318680##バキュームカラム;バキューム・カラム#vacuum column#
+2318690#バケツリレー素子#バケツリレーそし#BBD;Bucket Bridge Device#
+2318700##バスアービトレーション;バス・アービトレーション#bus arbitration#
+2318710##バスエラー;バス・エラー#bus error#
+2318720##バスクロック;バス・クロック#bus clock#
+2318730##バスドライバ;バス・ドライバ#bus driver#
+2318740##バスネットワーク;バス・ネットワーク#bus network#
+2318750##バスマウス;バス・マウス#bus mouse#
+2318770#バスマスタＤＭＡ#バスマスタディーエムエー#bus master Direct Memory Access#
+2318780##バスマスター;バスマスタ;バス・マスター;バス・マスタ#bus master#
+2318790#バス型#バスがた#bus configuration#
+2318800#バス調停#バスちょうてい#bus arbitration#
+2318810#バス幅#バスはば#bus width#
+2318820#バス未使用信号#バスみしようしんごう#bus-quiet signal#
+2318830#バッカス記法#バッカスきほう#Backus-Naur form;BNF;Backus-Naur notation#
+2318840##バッキングストア;バッキング・ストア#backing store#
+2318850##バックアップコピー;バックアップ・コピー#backup copy#
+2318860##バックアップスナップショット;バックアップ・スナップショット#backup snapshot#
+2318870##バックアップセットカタログ;バックアップ・セット・カタログ#backup set catalog#
+2318880##バックアップディスケット;バックアップ・ディスケット#backup diskette#
+2318890##バックアップバッテリ;バックアップ・バッテリ#backup battery#
+2318900##バックアップファイル;バックアップ・ファイル#backup file;job-recovery control file#
+2318910##バックアップルート;バックアップ・ルート#backup route#
+2318920#バックアップ電源#バックアップでんげん#backup power supply#
+2318930##バックエンド#back-end#
+2318940##バックエンドプロセッサ;バックエンド・プロセッサ#back-end processor#
+2318950#バックエンド処理#バックエンドしょり#back-end processing#
+2318960##バッククォート#backquote (character)#
+2318970##バックグラウンドサウンド;バックグラウンド・サウンド#background sound#
+2318980##バックグラウンドジョブ;バックグラウンド・ジョブ#background job#
+2318990#バックグラウンド印刷#バックグラウンドいんさつ#background printing#
+2319000##バックグランド#background#
+2319010##バックスクロール#back-scroll#
+2319020##バックドア;バック・ドア#back door#
+2319030#バックドア型コンピュータウイルス#バックドアかたコンピュータウイルス#backdoor computer virus#
+2319040##バックバッファ;バック・バッファ#back buffer#
+2319050##バックプレーン#backplane#
+2319060##バックボーンネットワーク;バックボーン・ネットワーク#backbone network#
+2319070##バックライトタイムアウト;バックライト・タイムアウト#backlight time out#
+2319080#バックワード回復#バックワードかいふく#backward recovery#
+2319090##バッチジョブ;バッチ・ジョブ#batch job#
+2319100##バッチファイル;バッチ・ファイル#batch file#
+2319110##バッチプログラム;バッチ・プログラム#batch program#
+2319120#バッチ型オンライン処理プログラム#バッチけいオンラインしょりプログラム#BMP;Batch Message Processing Program#
+2319130#バッチ見出し文書#バッチみだしぶんしょ#batch-header document#
+2319150##バッテリゲージ;バッテリ・ゲージ#battery gauge#
+2319160##バッテリバックアップ;バッテリ・バックアップ#battery backup#
+2319170##バッテリパック;バッテリ・パック#battery pack#
+2319180#バッテリ駆動#バッテリくどう#battery-powered#
+2319190##バッファアンダーランエラー;バッファ・アンダー・ラン・エラー#buffer under-run error#
+2319200##バッファオーバーフロー;バッファ・オーバーフロー#buffer overflow#
+2319210#バッファオーバーフロー攻撃#バッファオーバーフローこうげき#buffer overflow attack#
+2319220##バッファプール;バッファ・プール#buffer pool#
+2319230##バッファメモリ;バッファ・メモリ#buffer memory#
+2319240##バッファリングレベル;バッファリング・レベル#buffering level#
+2319250#バッファ記憶#バッファきおく#buffer storage;buffer#
+2319260#バッファ付き#バッファづき#buffered#
+2319270#バッファ付き装置#バッファづきそうち#buffered device#
+2319280#バナー広告#バナーこうこく#ad banner#
+2319290##バニアン#Banyan#
+2319300##バビロン#Babylon#
+2319310##バピ#BAPI#
+2319320##バブルジェットプリンタ;バブルジェット・プリンタ#bubble jet printer#
+2319330##バブルソート;バブル・ソート#bubble sort#
+2319340##バブルメモリ;バブルメモリー;バブル・メモリ;バブル・メモリー#bubble memory#
+2319360#バブル記憶装置#バブルきおくそうち#bubble memory#
+2319370##バランシング#balancing#
+2319380##バリアブルビットレイト;バリアブル・ビット・レイト#variable bit rate#
+2319390##バリュエータ#valuator#
+2319400##バルーンヘルプ;バルーン・ヘルプ#balloon help#
+2319410##バルアン#balun#
+2319420#バルク品#バルクひん#bulk goods#
+2319430##バンクメモリー;バンク・メモリー#bank memory#
+2319440##バンティブ#Vantive#
+2319450##バンドパスフィルタ;バンド・パス・フィルタ#Band-Pass Filter#
+2319460##バンドプリンタ;バンド・プリンタ#band printer#
+2319470#バンド印字装置#バンドいんじそうち#band printer#
+2319480#バンド幅#バンドはば#bandwidth#
+2319490##バンプマッピング;バンプ・マッピング#bump mapping#
+2319500##バンプマップ;バンプ・マップ#bump map#
+2319510##パーサ#parser#
+2319520##パーシステンス#persistence#
+2319530#パーシャルＣＡＶ#パーシャルシーエーブイ#partial CAV#
+2319540##パーセンタイル#percentile#
+2319550#パーセント記号#パーセントきごう#percent sign#
+2319560##パーソナライズ#personalize#
+2319570##パーソナルエリアネットワーク;パーソナル・エリア・ネットワーク#Personal Area Network#
+2319590##パーソナルデジタルアシスタント;パーソナル・デジタル・アシスタント#personal digital assistant;PDA#
+2319600##パーティクル#particle#
+2319610##パーティクルシステム;パーティクル・システム#Particle System#
+2319620##パーティショニング#partitioning#
+2319630#パーティションを切る#パーティションをきる#to partition (e.g. a hard drive)#
+2319640##パーティションテーブル;パーティション・テーブル#partition table#
+2319650#パートナー関係#パートナーかんけい#partner relation#
+2319660##パーマネントバーチャルサーキット;パーマネント・バーチャル・サーキット#permanent virtual circuit;PVC#
+2319670##パームサイズ#palm-sized#
+2319680#パームサイズＰＣ#パームサイズピーシー#palm-size Personal Computer#
+2319690##パームトップ;パーム・トップ#palm top#
+2319700##パームトップコンピュータ;パームトップコンピューター;パームトップ・コンピュータ;パームトップ・コンピューター#palmtop computer#
+2319710##パームレスト;パーム・レスト#palm rest#
+2319720##パールティーケー#Perl-Tk#
+2319730##パイカ#pica#
+2319740##パイプラインエディタ#pipeline editor#
+2319750##パイプラインオブジェクト#pipeline object#
+2319760##パイプラインデザイナ#pipeline designer#
+2319770#パイプラインバーストＳＲＡＭ#パイプラインバーストエスラム#pipeline burst Static Random Access Memory;PB SRAM#
+2319780#パイプライン処理#パイプラインしょり#pipeline processing#
+2319790#パイプライン処理機構#パイプラインしょりきこう#pipeline processor;pipelining#
+2319800#パイプライン処理装置#パイプラインしょりそうち#pipeline processor#
+2319810#パイロットＩＤ#パイロットアイディー#pilot identifier#
+2319820##パイロットテスト;パイロット・テスト#pilot test#
+2319830##パイロットプログラム;パイロット・プログラム#pilot program#
+2319840##パイロットプロジェクト;パイロット・プロジェクト#pilot project#
+2319850#パイロット試験#パイロットしけん#pilot test#
+2319860##パケットアナライザ;パケット・アナライザ#packet analyzer#
+2319870##パケットスイッチング;パケット・スイッチング#packet switching#
+2319880##パケットタイプ;パケット・タイプ#packet type#
+2319890##パケットドライバ;パケット・ドライバ#packet driver#
+2319900##パケットバッファ;パケット・バッファ#packet buffer#
+2319910##パケットフィルタリング;パケット・フィルタリング#packet filtering#
+2319920#パケット形態端末#パケットけいたいたんまつ#packet mode terminal#
+2319930#パケット交換網#パケットこうかんもう#packet exchange network#
+2319940#パケット順序制御#パケットじゅんじょせいぎょ#packet sequencing#
+2319950#パケット組立て分解機能#パケットくみたてぶんかいきのう#packet assembler-disassembler;PAD#
+2319960#パケット通信#パケットつうしん#packet transfer communication#
+2319970##パシフィックテレシス;パシフィック・テレシス#Pacific Telesys#
+2319980##パスオーバーヘッド;パス・オーバーヘッド#path overhead#
+2319990#パスオーバーヘッド部#パスオーバーヘッドぶ#path overhead section#

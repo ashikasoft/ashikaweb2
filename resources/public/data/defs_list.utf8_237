@@ -1,0 +1,955 @@
+2370000#線形方程式#せんけいほうていしき#linear equation#
+2370010#線種#せんしゅ#linetype#
+2370020#線状ネットワーク#せんじょうネットワーク#linear network#
+2370030#線状網#せんじょうもう#linear network#
+2370040#線進行方向#せんしんこうほうこう#line progression#
+2370050#線図形処理#せんずけいしょり#coordinate graphics;line graphics#
+2370060#線幅倍率#せんぷくばいりつ#linewidth scale factor#
+2370070#線分文字発生器#せんぶんもじはっせいき#stroke character generator#
+2370090#選択された実行可能試験項目群#せんたくされたじっこうかのうしけんこうもくぐん#selected executable test suite#
+2370110#選択クラス#せんたくクラス#selected class#
+2370120#選択チャネル#せんたくチャネル#selector channel#
+2370140#選択フィールド保護#せんたくフィールドほご#selective field protection#
+2370150#選択解除#せんたくかいじょ#deselection#
+2370160#選択機能#せんたくきのう#function preselection capability#
+2370170#選択型#せんたくがた#choice type#
+2370180#選択抄録#せんたくしょうろく#selective abstract;slanted abstract#
+2370190#選択情報量#せんたくじょうほうりょう#decision content#
+2370200#選択信号#せんたくしんごう#selection signal#
+2370210#選択値入力装置#せんたくちにゅうりょくそうち#choice device#
+2370220#選択的#せんたくてき#selective;optional;alternative#
+2370230#選択領域#せんたくりょういき#selected area#
+2370240#遷移確率#せんいかくりつ#transition probability (e.g. in a Markov chain)#
+2370250#遷移関数#せんいかんすう#transfer function#
+2370260#遷移図#せんいず#transition diagram#
+2370270#前景画像#ぜんけいがぞう#foreground image;dynamic image#
+2370280#前向き推論#まえむきすいろん#forward reasoning#
+2370290#前進回復#ぜんしんかいふく#forward recovery#
+2370300#前置パス名#まえおきパスめい#path prefix#
+2370310#前置プロセッサ#ぜんちプロセッサ#front end processor#
+2370320#前置表記法#ぜんちひょうきほう#prefix notation;Polish notation;parenthesis-free notation;Lukasiewicz notation#
+2370330#前方境界面#ぜんぽうきょうかいめん#front plane#
+2370340#前方参照#ぜんぽうさんしょう#forward reference#
+2370350#前方推論#ぜんぽうすいろん#forward reasoning (AI)#
+2370360#前方端#ぜんぽうたん#leading edge#
+2370370#全けた上げ#ぜんけたあげ#complete carry#
+2370380#全域アドレス管理#ぜんいきアドレスかんり#universal address administration;global address administration#
+2370390#全加算器#ぜんかさんき#full adder#
+2370400#全稼働時間#ぜんかどうじかん#busy period#
+2370410#全桁上げ#ぜんけたあげ#complete carry#
+2370420#全減算器#ぜんげんさんき#full subtracter#
+2370430#全国書誌#ぜんこくしょし#national bibliography#
+2370440#全社規模#ぜんしゃきぼ#corporate-wide#
+2370450#全集合#ぜんしゅうごう#universal set#
+2370460#全消去機能#ぜんしょうきょきのう#clear all function#
+2370470#全体語#ぜんたいご#collective term#
+2370490#全体配列#ぜんたいはいれつ#whole array#
+2370500#通信方式#つうしんほうしき#transmission method;communication system#
+2370510#全二重伝送#ぜんにじゅうでんそう#duplex transmission#
+2370520#全文検索#ぜんぶんけんさく#full-text search#
+2370530#全米科学財団#ぜんべいかがくざいだん#National Science Foundation (USA);NSF#
+2370540#全米情報インフラストラクチャ#ぜんべいじょうほうインフラストラクチャ#National Information Infrastructure;NII#
+2370550#疎結合#そけつごう#loosely-coupled#
+2370560#疎結合システム#そけつごうシステム#loosely coupled system#
+2370570#疎結合マルチプロセッサ#そけつごうマルチプロセッサ#Loosely-Coupled MultiProcessor#
+2370580#組み合わせ回路;組合せ回路#くみあわせかいろ#combinational circuit#
+2370590#組み込みコマンド#くみこみコマンド#built-in command#
+2370600#組み込みプロセッサ#くみこみプロセッサ#embedded processor#
+2370620#組合せ条件#くみあわせじょうけん#combined condition#
+2370630#組始端#くみしたん#first character position of line#
+2370640#組終端#くみしゅうたん#last character position of line#
+2370650#組上り濃度#くみあがりのうど#typographic color#
+2370660#組立て#くみたて#reassembling#
+2370670#遡及書誌#そきゅうしょし#retrospective bibliography#
+2370680#双安定#そうあんてい#bistable#
+2370690#双安定トリガー回路#そうあんていトリガーかいろ#bistable trigger circuit#
+2370700#双安定トリガ回路#そうあんていトリガかいろ#bistable trigger circuit;flip-flop#
+2370710#双安定回路#そうあんていかいろ#bistable (trigger) circuit;flip-flop#
+2370720#双対演算#そうついえんざん#dual operation#
+2370730#双方向ＣＡＴＶ#そうほうこうシーエーティービー;そうほうこうシーエーティーブイ#bi-directional CATV#
+2370740#双方向印刷#そうほうこういんさつ#bidirectional printing#
+2370750#双方向性#そうほうこうせい#bidirectionality#
+2370760#双方向通信#そうほうこうつうしん#bidirectional communication#
+2370770#層管理#そうかんり#layer-management#
+2370800#想定小数点#そうていしょうすうてん#assumed decimal point#
+2370820#挿入点#そうにゅうてん#insertion point#
+2370830#操作インタフェース#そうさインタフェース#operation-interface#
+2370840#操作コード#そうさコード#operation code#
+2370850#操作コードトラップ#そうさコードトラップ#operation code trap#
+2370860#操作パネル#そうさパネル#control panel#
+2370870#操作除外集合#そうさじょがいしゅうごう#exclusion set#
+2370880#操作進行状況#そうさしんこうじょうきょう#operation progress#
+2370890#操作対象集合#そうさたいしょうしゅうごう#inclusion set#
+2370900#操作卓#そうさたく#(operator) console#
+2370910#操作棒#そうさぼう#joy stick#
+2370920#相互運用性#そうごうんようせい#interoperability#
+2370930#相互互換性#そうごごかんせい#interchangeability;interoperability#
+2370940#相互参照表示#そうごさんしょうひょうじ#cross-referencing indication#
+2370950#相互情報量#そうごじょうほうりょう#transinformation (content);transferred information;transmitted information;mutual information#
+2370960#相互接続#そうごせつぞく#cross connection;interconnection;internetworking#
+2370970#相互接続性#そうごせつぞくせい#interconnection;interoperability#
+2370980#相互接続性試験#そうごせつぞくせいじけん#interconnection test;interoperability test#
+2370990#相互接続地点#そうごせつぞくちてん#cross connection point#
+2371000#相互相関#そうごそうかん#cross-correlation#
+2371010#相互動作管理#そうごどうさかんり#interaction management#
+2371020#相互動作性#そうごどうさせい#interoperability#
+2371030#相互動作性試験#そうごどうさせいしけん#interoperability test, study#
+2371040#相互排除#そうごはいじょ#mutual exclusion#
+2371060#相手固定接続#あいてこていせつぞく#permanent virtual connection;PVC#
+2371070#相手先固定接続#あいてさきこていせつぞく#Permanent Virtual Circuit;PVC#
+2371080#相手先選択接続#あいてさきせんたくせつぞく#Switched Virtual Circuit;SVC#
+2371090#相手選択接続#あいてせんたくせつぞく#switched virtual connection;SVC#
+2371100#相手選択接続機能#あいてせんたくせつぞくきのう#virtual call facility#
+2371110#相性問題#あいせいもんだい#compatibility issue#
+2371120#相対アドレス#そうたいアドレス#relative address#
+2371130#相対エントロピー#そうたいエントロピー#relative entropy#
+2371140#相対キー#そうたいキー#relative key#
+2371150#相対パス名#そうたいパスめい#relative pathname#
+2371160#相対ファイル#そうたいファイル#relative file#
+2371170#相対レコード番号#そうたいレコードばんごう#relative record number#
+2371180#相対形式プログラム#そうたいけいしきプログラム#relocatable program#
+2371190#相対座標#そうたいざひょう#relative coordinate#
+2371200#相対座標指令#そうたいざひょうしれい#relative command;relative instruction#
+2371210#相対座標命令#そうたいざひょうめいれい#relative command;relative instruction#
+2371220#相対世代番号#そうたいせだいばんごう#relative generation number#
+2371230#相対的なパス名#そうたいてきなパスめい#relative path name#
+2371240#相対変位#そうたいへんい#relative offset#
+2371250#相対編成#そうたいへんせい#relative organization#
+2371260#相変化型光ディスク#そうへんかがたひかりディスク#phase change optical disk#
+2371270#相補演算#そうほえんざん#complementary operation#
+2371280#相補型金属酸化膜半導体#そうほがたきんぞくさんかまくはんどうたい#complementary metal-oxide semiconductor;CMOS#
+2371290#窓表示域変換#まどひょうじいきへんかん#window;viewport transformation;viewing transformation#
+2371300#総セル数#そうセルすう#total cell count#
+2371310#総括票#そうかつひょう#batch-header document#
+2371320#総合サービスディジタル網#そうごうサービスディジタルもう#Integrated Services Digital Network;ISDN#
+2371330#総合ディスク制御機構#そうごうディスクせいぎょきこう#IDC;Integrated Disk Controller#
+2371340#総合図書館#そうごうとしょかん#general library#
+2371350#総所有コスト#そうしょゆうコスト#Total Cost of Ownership#
+2371360#総称アドレス#そうしょうアドレス#generic address#
+2371370#総称識別子#そうしょうしきべつし#generic identifier#
+2371380#総廃棄セル数#そうはいきセルすう#total number of discarded cells#
+2371390#草の根ＢＢＳ#くさのねビービーエス#grassroots bulletin board#
+2371400#草の根ネット#くさのねネット#grassroots network#
+2371410#装置のランプ#そうちのランプ#busy indicator;busy lamp#
+2371420#装置クラス#そうちクラス#device class#
+2371430#装置ドライバ#そうちドライバ#device driver#
+2371440#装置依存の公開文#そうちいぞんのこうかいぶん#device-dependent version of public text#
+2371450#装置空間#そうちくうかん#device space#
+2371460#装置座標#そうちざひょう#device coordinate;DC#
+2371470#装置座標系#そうちざひょうけい#device coordinates;DC#
+2371480#装置障害#そうちしょうがい#equipment fault#
+2371490#装置状態バイト#そうちじょうたいバイト#DSB;Device Status Byte#
+2371500#装置制御文字#そうちせいぎょもじ#device control character#
+2371510#装置独立#そうちどくりつ#device-independent#
+2371520#装置独立性#そうちどくりつせい#device independence#
+2371530#装置名#そうちめい#device name#
+2371540#走行の流れ#そうこうのながれ#job stream;run stream;input stream#
+2371550#走査器#そうさき#scanner#
+2371560#走査周波数#そうさしゅうはすう#scanning frequency#
+2371570#走査状態リスト#そうさじょうたいリスト#traversal state list#
+2371580#送りレジスタ#おくりレジスタ#shift register#
+2371590#送り孔#おくりこう#feed hole#
+2371600#送り込み#おくりこみ#feed#
+2371610#送り側ドライブ#おくりがわドライブ#source drive#
+2371620#送り点#おくりてん#escapement point#
+2371630#送受信装置#そうじゅしんそうち#transceiver#
+2371640#送信ウィンドウ#そうしんウィンドウ#transmit window#
+2371650#送信レート#そうしんレート#transmission rate#
+2371660#送信器#そうしんき#transmitter#
+2371670#送信者#そうしんしゃ#sender#
+2371680#送信側#そうしんがわ#sending entity;sender#
+2371690#送信側ＳＰＭ#そうしんがわエスピーエム#sending SPM#
+2371700#送信側ＳＳ利用者#そうしんがわエスエスりようしゃ#sending SS user#
+2371710#送信側ＴＳ利用者#そうしんがわティーエスりようしゃ#sending TS user#
+2371720#送信側エンティティ#そうしんがわエンティティ#sending entity;sender#
+2371730#送信側トランスポートエンティティ#そうしんがわトランスポートエンティティ#sending transport entity#
+2371740#送信要求#そうしんようきゅう#Request-To-Send;RTS#
+2371750#増設メモリ#ぞうせつメモリ#additional memory#
+2371760#増分ベクトル#ぞうぶんベクトル#incremental vector#
+2371770#増分割り当て#ぞうぶんわりあて#secondary space allocation#
+2371780#増分座標#ぞうぶんざひょう#incremental coordinate#
+2371790#増分量#ぞうぶんりょう#increment size#
+2371800#即接続#そくせつぞく#immediate connection;direct connection#
+2371810#即値アドレス#そくちアドレス#immediate address#
+2371820#即値データ#そくちデータ#immediate data#
+2371830#即値命令#そくちめいれい#immediate instruction#
+2371840#束指標#たばしひょう#bundle index#
+2371850#束表#たばひょう#bundle table#
+2371860#束表項目#たばひょうこうもく#bundle table entry#
+2371870#測定方法#そくていほうほう#measurement method#
+2371880#速達郵便サービス#そくたつゆうびんサービス#express mail service;PD PR#
+2371890#速度変換#そくどへんかん#rate adaptation#
+2371910#属種関係#ぞくしゅかんけい#generic relation#
+2371920#属性データ#ぞくせいデータ#attribute data#
+2371930#属性化領域#ぞくせいかりょういき#qualified area#
+2371940#属性型#ぞくせいがた#attribute-type#
+2371950#属性型ＪＰドメイン名#ぞくせいがたジェーピードメインめい#organizational type JP domain names#
+2371960#属性指定#ぞくせいしてい#attribute specification#
+2371970#属性指定並び#ぞくせいしていならび#attribute specification list#
+2371980#属性値アサーション#ぞくせいちアサーション#attribute-value-assertion#
+2371990#属性値選択節#ぞくせいちせんたくせつ#attribute-value-assertion#
+2372000#属性値表現#ぞくせいちひょうげん#attribute value literal#
+2372010#属性定義#ぞくせいていぎ#attribute definition#
+2372020#属性定義並び#ぞくせいていぎならび#attribute definition list#
+2372030#属性定義並び宣言#ぞくせいていぎならびせんげん#attribute definition list declaration#
+2372040#属性表#ぞくせいひょう#attribute list#
+2372050#属性並び#ぞくせいならび#attribute (specification) list#
+2372060#属性並び宣言#ぞくせいならびせんげん#attribute (definition) list declaration#
+2372070#属性要素#ぞくせいようそ#attribute elements#
+2372080#損傷ログ記録#そんしょうログきろく#log-damage record#
+2372090#他受信者名表示#ほかじゅしんしゃめいひょうじ#disclosure of other recipients#
+2372100#多オクテット#たオクテット#multi-byte;multi-octet#
+2372110#多バイト文字#たバイトもじ#multibyte character#
+2372120#多機能#たきのう#multifunction, multipurpose#
+2372130#多義語#たぎご#polyseme#
+2372140#多元接続#たげんせつぞく#multiple-access (e.g. TDMA, CDMA)#
+2372150#多元接続方式#たげんせつぞくほうしき#multiple access methods (FDMA, TDMA, CDMA)#
+2372160#多元分類体系#たげんぶんるいたいけい#multidimensional classification system#
+2372170#多言語サポート#たげんごサポート#multilingual support#
+2372180#多言語シソーラス#たげんごシソーラス#multilingual thesaurus#
+2372190#多言語対応#たげんごたいおう#multilingual support#
+2372200#多項回帰#たこうかいき#polynomial regression#
+2372210#多次元配列#たじげんはいれつ#multidimensional array#
+2372220#多重タスキング#たじゅうタスキング#multitasking;multi-tasking#
+2372230#多重タスク処理#たじゅうタスクしょり#multitasking#
+2372240#多重チャネル#たじゅうチャネル#multiplexer channel#
+2372250#多重ネットワーク#たじゅうネットワーク#multisystem network#
+2372260#多重プログラミング#たじゅうプログラミング#multiprogramming#
+2372270#多重プロセッサ#たじゅうプロセッサ#multiprocessor#
+2372280#多重プロセッシング#たじゅうプロセッシング#multiprocessing#
+2372290#多重化装置#たじゅうかそうち#multiplexer;multiplexing equipment#
+2372310#多重仮想アドレス空間#たじゅうかそうアドレスくうかん#multiple virtual address space#
+2372320#多重仮想記憶方式#たじゅうかそうきおくほうしき#multiple virtual storage#
+2372330#多重階層#たじゅうかいそう#poly-hierarchy#
+2372340#多重索引順編成法#たじゅうさくいんじゅんへんせいほう#MISAM;Multikey Indexed Sequential Access Method#
+2372350#多重処理#たじゅうしょり#multiplexing;multiprocessing#
+2372360#多重適合決定表#たじゅうてきごうけっていひょう#multiple-hit decision table#
+2372370#多重伝送装置#たじゅうでんそうそうち#FDM;Frequency Division Multiplexer#
+2372380#多数決ゲート#たすうけつゲート#majority gate;majority element#
+2372390#多数決演算#たすうけつえんざん#majority operation#
+2372400#多数決素子#たすうけつそし#majority gate;majority element#
+2372410#多態性#たたいせい#polymorphism#
+2372420#多値属性#たちぞくせい#multi-valued attribute#
+2372430#多倍精度#たばいせいど#multiple-precision#
+2372440#多品種中少量生産システム#たひんしゅちゅうしょうりょうせいさんシステム#Flexible Manufacturing System;FMS#
+2372450#多符号核具象構文#たふごうかくぐしょうこうぶん#multicode core concrete syntax#
+2372460#多符号基本具象構文#たふごうきほんぐしょうこうぶん#multicode basic concrete syntax#
+2372470#多符号具象構文#たふごうぐしょうこうぶん#multicode concrete syntax#
+2372480#多変数関数#たへんすうかんすう#multivariable function#
+2372490#多方向展開#たほうこうてんかい#multicasting#
+2372500#妥当性確認試験#だとうせいかくにんしけん#validation (test)#
+2372510#打けん検証;打鍵検証#だけんけんしょう#keystroke verification#
+2372520#打診発生源認証#だしんはっせいげんにんしょう#probe origin authentication#
+2372530#打切り#うちきり#truncation (e.g. of a string)#
+2372540#打切り誤差#うちきりごさ#truncation error#
+2372550#対応プロトコル#たいおうプロトコル#protocol supported#
+2372570#対応付け索引方式#たいおうつけさくいんほうしき#coordinate indexing#
+2372580#対角行列#たいかくぎょうれつ#diagonal matrix#
+2372590#対向循環#たいこうじゅんかん#counter-rotating#
+2372600#対抗商品#たいこうしょうひん#competing product#
+2372610#対称リスト#たいしょうリスト#symmetrical list#
+2372620#対称型マルチプロセッサ#たいしょうがたマルチプロセッサ#symmetric multiprocessor;SMP#
+2372630#対称型マルチプロセッシング#たいしょうがたマルチプロセッシング#symmetric multiprocessing;SMP#
+2372640#対称行列#たいしょうぎょうれつ#symmetric matrix#
+2372650#対象機種#たいしょうきしゅ#target machine#
+2372660#対象受信者#たいしょうじゅしんしゃ#immediate recipient#
+2372670#対象体クラス#たいしょうたいクラス#object class#
+2372680#対象体クラス記述部#たいしょうたいクラスきじゅつぶ#object class description#
+2372690#対象体記述部#たいしょうたいきじゅつぶ#object description#
+2372700#対象体種別#たいしょうたいしゅべつ#object type#
+2372710#対象体容量#たいしょうたいようりょう#object capacity#
+2372720#対数の指数#たいすうのしすう#characteristic of a logarithm#
+2372730#対数をとる#たいすうをとる#take the logarithim of#
+2372740#対数的#たいすうてき#logarithmic#
+2372750#対話型#たいわがた#interactive#
+2372770#対話型プログラム#たいわかたプログラム#interactive program#
+2372780#対話形#たいわがた#conversational mode;interactive mode#
+2372790#対話処理#たいわしょり#interactive processing#
+2372800#対話的#たいわてき#interactive#
+2372810#対話方式#たいわほうしき#interactive mode#
+2372820#耐タンパー性#たいタンパーせい#tamper resistant#
+2372830#帯域圧縮#たいいきあっしゅく#band compression#
+2372840#帯域確保#たいいきかくほ#bandwidth guarantee#
+2372850#帯域制限#たいいきせいげん#bandlimited#
+2372860#帯域制限信号#たいいきせいげんしんごう#bandlimited signal#
+2372870#帯域制御#たいいきせいぎょ#bandwidth control#
+2372880#帯域通過フィルタ#たいいきつうかフィルタ#band pass filter;BPF#
+2372890#帯域幅利用#たいいきはばりよう#bandwidth usage#
+2372900#帯域予約#たいいきよやく#bandwidth reservation;bandwidth contract#
+2372910#帯状連結三角形#おびじょうれんけつさんかくけい#triangle strip#
+2372920#待ち行列#まちぎょうれつ#queue;pushup list#
+2372940#待ち行列に入れる#まちぎょうれつにいれる#to enqueue#
+2372950#待ち行列方式#まちぎょうれつほうしき#queue-driven#
+2372960#待ち行列名#まちぎょうれつめい#queue name#
+2372970#待ち行列理論#まちぎょうれつりろん#queueing theory#
+2372980#待ち状態#まちじょうたい#waiting state#
+2372990#袋文字#ふくろもじ#open face#
+2373000#退行テスト#たいこうテスト#regression test#
+2373010#退避グループＩＤ#たいひグループアイディー#saved set-group-ID#
+2373020#退避利用者ＩＤ#たいひりようしゃアイディー#saved set-user-ID#
+2373030#代行受信者#だいこうじゅしんしゃ#alternate recipient#
+2373040#代行受信者許可#だいこうじゅしんしゃきょか#alternate recipient allowed#
+2373050#代行受信者登録#だいこうじゅしんしゃとうろく#alternate recipient assignment#
+2373060#代行送信#だいこうそうしん#delayed delivery#
+2373070#代数演算子#だいすうえんざんし#algebraic operator#
+2373080#代数理論#だいすうりろん#algebraic theory#
+2373100#代替クラス;代替えクラス#だいたいクラス;だいがえクラス#alternative class#
+2373110#代替トラック#だいたいトラック#alternate track;alternative track#
+2373130#代替パス;代替えパス#だいたいパス;だいがえパス#alternate path;alternative path#
+2373140#代入演算子#だいにゅうえんざんし#assignment operator;substitution operator#
+2373150#代入文#だいにゅうぶん#assignment statement#
+2373160#代理サーバー#だいりサーバー#proxy server#
+2373170#代理受信者#だいりじゅしんしゃ#substitute recipient#
+2373180#大かっこ#だいかっこ#(square) brackets#
+2373190#大きさ引継ぎ配列#おおきさひきつぎはいれつ#assumed-size array#
+2373200#大域モデリング変換#だいいきモデリングへんかん#global modelling transformation#
+2373210#大域的#たいいきてき#global#
+2373220#大域名#たいいきめい#global name#
+2373230#大域要素#だいいきようそ#global entity#
+2373240#大改訂#だいかいてい#major revision#
+2373250#大記憶#だいきおく#mass storage#
+2373260#大記憶ファイル#だいきおくファイル#mass storage file#
+2373270#大記憶管理システム#だいきおくかんりシステム#mass storage control system;MSCS#
+2373280#大小順序#だいしょうじゅんじょ#collating sequence#
+2373290#大文字小文字を区別#おおもじこもじをくべつ#case-sensitivity;to distinguish on case#
+2373300#大文字名前開始文字#おおもじなまえかいしもじ#upper-case name start characters#
+2373310#大文字名前文字#おおもじなまえもじ#upper-case name characters#
+2373320#大容量#だいようりょう#high capacity#
+2373330#大容量データストレージ#だいようりょうデータストレージ#high capacity data storage#
+2373340#大容量記憶システム#だいようりょうきおくシステム#MSS;Mass Storage System#
+2373350#大容量記憶装置#だいようりょうきおくそうち#mass storage#
+2373390#第４世代言語#だいよんせだいげんご#fourth generation language (4GL)#
+2373400#第５世代コンピュータ#だいごせだいコンピュータ#Fifth Generation Computer System;FGCS#
+2373410#第５世代コンピューター#だいごせだいコンピューター#the fifth generation computer#
+2373420#第一レベルドメイン#だいいちレベルドメイン#top-level domain#
+2373430#第一種電気通信事業者#だいいっしゅでんきつうしんじぎょうしゃ#type I carriers#
+2373440#第二種電気通信事業者#だいにしゅでんきつうしんじぎょうしゃ#type II carriers#
+2373450#卓上型コンピュータ#たくじょうがたコンピュータ#desktop computer#
+2373460#卓上計算器#たくじょうけいさんき#desk-top calculator#
+2373470#卓上出版#たくじょうしゅっぱん#desktop publishing;DTP#
+2373480#達成のレベル#たっせいのレベル#level of performance#
+2373490#単安定トリガ回路#たんあんていトリガかいろ#monostable trigger circuit#
+2373500#単安定回路#たんあんていかいろ#monostable (trigger) circuit#
+2373510#単位倍率#たんいばいりつ#unit scaling#
+2373520#単位料金区域#たんいりょうきんくいき#message area;MA#
+2373530#単位列#たんいれつ#unit string#
+2373540#単一型集合型#たんいつがたしゅうごうがた#set-of type#
+2373550#単一型順序列型#たんいつがたじゅんじょれつがた#sequence-of type#
+2373560#単一言語シソーラス#たんいつげんごシソーラス#monolingual thesaurus#
+2373570#単一接続コンセントレータ#たんいつせつぞくコンセントレータ#single attachment concentrator#
+2373580#単一接続局#たんいつせつぞくきょく#single attachment station#
+2373590#単一値属性#たんいつちぞくせい#single-valued attribute#
+2373600#単一表記法#たんいつひょうきほう#pure notation#
+2373610#単一命令操作#たんいつめいれいそうさ#single step operation;step-by-step operation#
+2373620#単語カウント#たんごカウント#word count#
+2373630#単行出版物#たんこうしゅっぱんぶつ#monographic publication#
+2373640#単項演算#たんこうえんざん#monadic operation;unary operation#
+2373650#単項演算子#たんこうえんざんし#monadic operator;unary operator#
+2373660#単紙#たんし#cut sheet (paper)#
+2373670#単純コマンド#たんじゅんコマンド#simple command#
+2373680#単純マトリックス方式#たんじゅんマトリックスほうしき#passive matrix LCD#
+2373690#単純階層#たんじゅんかいそう#mono-hierarchy#
+2373700#単純緩衝法#たんじゅんかんしょうほう#simple buffering#
+2373710#単純型#たんじゅんがた#simple type#
+2373720#単純実行文#たんじゅんじっこうぶん#action statement#
+2373730#単純条件#たんじゅんじょうけん#simple condition#
+2373740#単純連結処理定義#たんじゅんれんけつしょりていぎ#simple link (process definition)#
+2373750#単精度浮動小数点数#たんせいどふどうしょうすうてんすう#single precision floating point number#
+2373760#単線式回線#たんせんしきかいせん#single-wire line#
+2373770#単層埋込み試験#たんそううめこみしけん#embedded testing#
+2373780#単体試験#たんたいしけん#unit test#
+2373790#単調増加#たんちょうぞうか#monotonic increase#
+2373800#単適合決定表#たんてきごうけっていひょう#single-hit decision table#
+2373810#単票#たんぴょう#cut form#
+2373820#単方向#たんほうこう#simplex#
+2373830#単方向通信#たんほうこうつうしん#simplex (comms)#
+2373840#単方向伝送#たんほうこうでんそう#simplex transmission#
+2373850#単密度#たんみつど#single density#
+2373860#探索かぎ#たんさくかぎ#search key#
+2373870#探索サイクル#たんさくサイクル#search cycle#
+2373890#短縮アドレス呼出し#たんしゅくアドレスよびだし#abbreviated address calling#
+2373900#短縮ダイヤル#たんしゅくダイヤル#speed dialing#
+2373910#短縮参照区切り子機能#たんしゅくさんしょうくぎりしきのう#short reference delimiter role#
+2373920#短縮参照使用宣言#たんしゅくさんしょうしようせんげん#short reference use declaration#
+2373930#短縮参照集合#たんしゅくさんしょうしゅうごう#short reference set#
+2373940#短縮参照対応表宣言#たんしゅくさんしょうたいおうひょうせんげん#short reference mapping declaration#
+2373950#短縮参照列#たんしゅくさんしょうれつ#short reference (string)#
+2373960#端点#たんてん#anchor;endpoint node;peripheral node#
+2373970#端末ＯＲアドレス#たんまつオーアドレス#terminal OR address#
+2373980#端末エミュレーション#たんまつエミュレーション#terminal emulation#
+2373990#端末エミュレータ#たんまつエミュレータ#terminal emulator#
+2374000#端末サーバー#たんまつサーバー#terminal server#
+2374010#端末画面#たんまつがめん#terminal screen#
+2374020#端末識別子#たんまつしきべつし#terminal identifier#
+2374030#端末種別#たんまつしゅべつ#terminal type#
+2374040#端末入力#たんまつにゅうりょく#terminal input#
+2374050#団体著者#だんたいちょしゃ#corporate author#
+2374060#断片化#だんぺんか#fragmentation#
+2374070#断面プロット#だんめんプロット#slice plot#
+2374080#段シフト#だんシフト#case shift#
+2374090#段階的詳細化#だんかいてきしょうさいか#stepwise refinement#
+2374100#段組み#だんぐみ#column setting#
+2374110#段落の見出し#だんらくのみだし#paragraph header#
+2374120#段落名#だんらくめい#paragraph-name#
+2374130#値域を定める#ちいきをさだめる#to range#
+2374140#値参照名#あたいさんしょうめい#value reference name#
+2374150#知識ベース#ちしきベース#knowledge base#
+2374160#知識参照#ちしきさんしょう#knowledge reference#
+2374170#知識情報#ちしきじょうほう#knowledge information#
+2374180#知識情報処理#ちしきじょうほうしょり#intelligent information processing#
+2374190#知識情報処理システム#ちしきじょうほうしょりシステム#knowledge information processing system#
+2374200#知識木#ちしきぎ#knowledge tree#
+2374210#知的財産権#ちてきざいさんけん#intellectual property right#
+2374220#知的端末#ちてきたんまつ#intelligent terminal#
+2374230#地域コード#ちいきコード#local code;area code#
+2374240#地域ベルオペレーティング会社#ちいきベルオペレーティングがいしゃ#Regional Bell Operating Company (USA);RBOC#
+2374250#地域ベル電話会社#ちいきベルでんわがいしゃ#regional Bell operating company;RBOC#
+2374260#地域競争#ちいききょうそう#local competition (between telephone service providers)#
+2374270#地域型ＪＰドメイン名#ちいきかたジェーピードメインめい#geographical type JP domain names#
+2374280#地域電話サービス#ちいきでんわサービス#local telephone service#
+2374290#地域電話会社#ちいきでんわがいしゃ#local telephone company#
+2374300#地域郵便属性#ちいきゆうびんぞくせい#local postal attributes#
+2374310#地球局#ちきゅうきょく#earth station (for a satellite)#
+2374320#地上波#ちじょうは#airborne signal#
+2374330#地図作成;地図作製#ちずさくせい#cartography;mapping#
+2374340#地図帳#ちずちょう#atlas#
+2374350#地点遠隔地#ちてんえんかくち#remote location#
+2374360#地理的#ちりてき#geographic#
+2374370#置き換え#おきかえ#replacement#
+2374380#置換リスト#ちかんリスト#substitution list#
+2374390#置換可能引数データ#ちかんかのうひきすうデータ#replaceable parameter data#
+2374400#置換可能文字データ#ちかんかのうもじデータ#replaceable character data#
+2374410#置換文#ちかんぶん#replacement text#
+2374420#置換文字#ちかんもじ#replacement character#
+2374430#置数消去機能#ちすうしょうきょきのう#clear entry function#
+2374440#致命的エラー#ちめいてきエラー#fatal error#
+2374450#致命的誤り#ちめいてきあやまり#fatal error#
+2374470#遅延センシティブ#ちえんセンシティブ#delay sensitive#
+2374480#遅延モード#ちえんモード#deferral mode#
+2374490#遅延回路#ちえんかいろ#delay circuit#
+2374500#遅延広がり#ちえんひろがり#delay spread#
+2374510#遅延更新#ちえんこうしん#deferred update#
+2374520#遅延処理#ちえんしょり#deference#
+2374530#遅延線#ちえんせん#delay line#
+2374540#遅延素子#ちえんそし#delay element#
+2374550#遅延配信#ちえんはいしん#deferred delivery#
+2374560#遅延配信取消し#ちえんはいしんとりけし#deferred delivery cancellation#
+2374570#遅延変動#ちえんへんどう#delay variation#
+2374580#遅延変動センシティブ#ちえんへんどうセンシティブ#delay variation sensitive#
+2374590#遅延揺らぎ#ちえんゆらぎ#delay variation#
+2374600#遅延歪み#ちえんひずみ#delay distortion#
+2374610#逐一命令操作#ちくいちめいれいそうさ#single step operation;step-by-step operation#
+2374620#逐次印字装置#ちくじいんじそうち#character printer;serial printer#
+2374630#逐次刊行物#ちくじかんこうぶつ#serial publication#
+2374640#逐次刊行物の受入れ#ちくじかんこうぶつのうけいれ#accessioning of serials#
+2374650#逐次実行#ちくじじっこう#sequential execution#
+2374660#着加入者#ちゃっかにゅうしゃ#called party;called subscriber#
+2374670#着呼#ちゃっこ#incoming call#
+2374680#着呼受付信号#ちゃっこうけつけしんごう#call-accepted signal#
+2374690#着呼受付不可信号#ちゃっこうけつけふかしんごう#call-not-accepted signal#
+2374700#着呼側ＮＳ利用者#ちゃっこがわエンエスりようしゃ#called NS user#
+2374710#着呼側Ｎアドレス#ちゃっこがわエンアドレス#called-(N)-address#
+2374720#着呼側ＳＳ利用者#ちゃっこがわエスエスりようしゃ#called SS user#
+2374730#着呼側ＴＳ利用者#ちゃっこがわティーエスりようしゃ#called TS user#
+2374740#着信者#ちゃくしんしゃ#recipient (of a transmission)#
+2374750#着信転送機能#ちゃくしんてんそうきのう#call forwarding#
+2374760#着脱可能#ちゃくだつかのう#demountable#
+2374770#中かっこ#ちゅうかっこ#(curly) braces#
+2374780#中央そろえ#ちゅうおうそろえ#centred#
+2374790#中央演算処理装置#ちゅうおうえんざんしょりそうち#central processing unit;CPU#
+2374810#中央揃え#ちゅうおうぞろえ#centering#
+2374820#中核文書#ちゅうかくぶんしょ#hub document#
+2374830#中括弧#ちゅうかっこ#braces#
+2374840#中間コード#ちゅうかんコード#intermediate code#
+2374850#中間システム#ちゅうかんシステム#intermediate system;IS#
+2374860#中間ノード#ちゅうかんノード#intermediate node#
+2374870#中間バイト#ちゅうかんバイト#intermediate byte#
+2374880#中間言語#ちゅうかんげんご#intermediate language;interlanguage#
+2374890#中間言語レベル#ちゅうかんげんごレベル#intermediate language level#
+2374900#中間節点#ちゅうかんせってん#intermediate node#
+2374910#中間装置#ちゅうかんそうち#intermediate equipment#
+2374920#中間速度#ちゅうかんそくど#middle speed (vs. low or high speed)#
+2374930#中間配線盤#ちゅうかんはいせんばん#IDF;Intermediate Division Frame#
+2374940#中間文字#ちゅうかんもじ#intermediate character#
+2374950#中軌道#ちゅうきどう#ICO;Intermediate Circular Orbit#
+2374960#中空内部様式#ちゅうくうないぶようしき#hollow interior style#
+2374970#中継器#ちゅうけいき#repeater;relay#
+2374980#中継交換機#ちゅうけいこうかんき#toll switch;TS;trunk exchange#
+2374990#中継線交換機#ちゅうけいせんこうかんき#toll switch;TS;trunk exchange#
+2375000#中継装置#ちゅうけいそうち#relay#
+2375010#中心極限定理#ちゅうしんきょくげんていり#central limit theorem#
+2375020#中心波長#ちゅうしんはちょう#centre wavelength#
+2375030#中断点#ちゅうだんてん#breakpoint#
+2375040#中置表記法#ちゅうちひょうきほう#infix notation#
+2375050#抽出モード#ちゅうしゅつモード#sample mode#
+2375060#抽出規準#ちゅうしゅつきじゅん#selection criteria#
+2375070#抽出条件#ちゅうしゅつじょうけん#extraction condition#
+2375080#抽象アソシエーション#ちゅうしょうアソシエーション#abstract-association#
+2375090#抽象データ型#ちゅうしょうデータがた#abstract data type#
+2375120#抽象構文#ちゅうしょうこうぶん#abstract syntax#
+2375130#抽象構文名#ちゅうしょうこうぶんめい#abstract syntax name#
+2375140#抽象的Ｎサービスプリミティブ#ちゅうしょうてきエンサービスプリミティブ#abstract (N)-service-primitive;(N)-ASP#
+2375150#抽象的試験項目#ちゅうしょうてきしけんこうもく#abstract test case#
+2375170#抽象的試験方法論#ちゅうしょうてきしけんほうほうろん#abstract testing methodology#
+2375180#注記テキスト#ちゅうきテキスト#annotation text relative#
+2375190#注記行#ちゅうきぎょう#comment line#
+2375200#注記項#ちゅうきこう#comment-entry#
+2375210#注記様式#ちゅうきようしき#annotation style#
+2375220#注釈宣言#ちゅうしゃくせんげん#comment declaration#
+2375230#著作権図書館#ちょさくけんとしょかん#copyright library#
+2375240#著作権登録図書館#ちょさくけんとうろくとしょかん#copyright library#
+2375250#著作集#ちょさくしゅう#collection#
+2375260#挑戦的#ちょうせんてき#challenging;defiant;provocative;aggressive#
+2375270#調査期間#ちょうさきかん#study period#
+2375280#調整水準#ちょうせいすいじゅん#coordination level#
+2375290#調歩式伝送#ちょうほしきでんそう#start-stop transmission#
+2375300#調歩同期#ちょうほどうき#start-stop synchronization#
+2375310#調歩同期アダプタ#ちょうほどうきアダプタ#Asynchronous Adapter#
+2375320#調歩同期式#ちょうほどうきしき#start-stop system#
+2375330#超過情報速度#ちょうかじょうほうそくど#excess information rate#
+2375340#超過送信#ちょうかそうしん#jabber#
+2375350#超過送信制御#ちょうかそうしんせいぎょ#jabber control#
+2375360#超高速#ちょうこうそく#ultra high speed#
+2375370#超高速並列インターフェース#ちょうこうそくへいれつインターフェース#HIPPI;High Performance Parallel Interface#
+2375380#超小型#ちょうこがた#ultra-small#
+2375390#超大容量#ちょうだいようりょう#ultra high capacity#
+2375400#超低電圧版モバイル#ちょうていでんあつばんモバイル#ultra low voltage mobile (processor)#
+2375410#長いファイル名#ながいファイルめい#long file name#
+2375420#長さオクテット#ながさオクテット#length indicator octets#
+2375430#長さ指示子#ながさしじし#length indicator;LI#
+2375440#長距離キャリア#ちょうきょりキャリア#long distance carrier#
+2375450#長距離会社#ちょうきょりがいしゃ#long distance company#
+2375460#長距離電話事業#ちょうきょりでんわじぎょう#long distance telephone company#
+2375470#長弧#ちょうこ#long arc#
+2375480#長精度浮動小数点数#ちょうせいどふどうしょうすうてんすう#long precision floating point number#
+2375490#頂点シェーダ#ちょうてんシェーダ#vertex shader#
+2375500#頂点データ#ちょうてんデータ#vertex data#
+2375510#頂点色#ちょうてんしょく#vertex colour#
+2375520#頂点法線#ちょうてんほうせん#vertex normal#
+2375530#直結形トランジスタ論理回路#ちょっけつけいトランジスタろんりかいろ#Direct-coupled Transistor Logic;DCTL#
+2375540#直交系列#ちょっこうけいれつ#orthogonal sequences#
+2375550#直交周波数多重#ちょっこうしゅうはすうたじゅう#OFDM;orthogonal frequency division multiplexing#
+2375560#直交周波数多重変調#ちょっこうしゅうはすうたじゅうへんちょう#orthogonal frequency division multiplexing#
+2375570#直接アクセス#ちょくせつアクセス#direct access;random access#
+2375580#直接アクセス記憶装置#ちょくせつアクセスきおくそうち#Direct Access Storage Device;DASD#
+2375590#直接アドレス#ちょくせつアドレス#direct address#
+2375600#直接アドレスファイル#ちょくせつアドレスファイル#direct address file#
+2375610#直接メモリアクセス#ちょくせつメモリアクセス#Direct Memory Access;DMA#
+2375620#直接記憶アクセス#ちょくせつきおくアクセス#direct memory access;DMA#
+2375630#直接呼出し機能#ちょくせつよびだしきのう#direct call facility#
+2375640#直接色指定#ちょくせついろしてい#direct colour (specification)#
+2375650#直接入力#ちょくせつにゅうりょく#direct input#
+2375660#直接発信#ちょくせつはっしん#direct submission#
+2375670#直接百分率機能#ちょくせつひゃくぶんりつきのう#direct percentage function#
+2375680#直接編成ファイル#ちょくせつへんせいファイル#direct file#
+2375690#直接利用者#ちょくせつりようしゃ#direct user#
+2375700#直前指定要素#ちょくぜんしていようそ#previous specified element#
+2375710#直定数#ちょくていすう#literal#
+2375720#直並列変換器#ちょくへいれつへんかんき#staticizer;serial-parallel converter#
+2375730#直列データ回線#ちょくれつデータかいせん#tandem data circuit#
+2375740#直列加算#ちょくれつかさん#serial addition#
+2375750#直列加算器#ちょくれつかさんき#serial adder#
+2375760#直列伝送#ちょくれつでんそう#serial transmission#
+2375770#追加レコード#ついかレコード#additional record#
+2375780#追加機能#ついかきのう#additional function#
+2375790#追加記号#ついかきごう#addition sign#
+2375800#追記型光ディスク#ついきがたひかりディスク#direct read after write optical disk#
+2375810#追従保持要素#ついじゅうほじようそ#track and hold unit;track and store unit#
+2375820#追跡プログラム#ついせきプログラム#trace program#
+2375830#追跡記号#ついせききごう#tracking symbol#
+2375840#追補#ついほ#addenda;addendum#
+2375850#通貨記号#つうかきごう#currency sign;currency symbol#
+2375860#通貨編集用文字#つうかへんしゅうようもじ#currency symbol#
+2375870#通過判定#つうかはんてい#pass (verdict)#
+2375880#通常ファイル#つうじょうファイル#regular file#
+2375890#通常モード#つうじょうモード#normal mode#
+2375900#通常表示#つうじょうひょうじ#lowlight#
+2375910#通常郵便#つうじょうゆうびん#ordinary mail;PD PR#
+2375920#通信アクセス方式#つうしんアクセスほうしき#Telecommunication Access Method#
+2375930#通信カラオケ#つうしんカラオケ#Karaoke on demand#
+2375940#通信キャリア#つうしんキャリア#communication carrier#
+2375950#通信システム#つうしんシステム#communication system#
+2375960#通信ソフト#つうしんソフト#communication software#
+2375970#通信ソフトウェア#つうしんソフトウェア#communications software#
+2375980#通信チャネル#つうしんチャネル#communication channel#
+2375990#通信プロトコル#つうしんプロトコル#transmission protocol;communication protocol#
+2376000#通信ポート#つうしんポート#communication port#
+2376010#通信回線#つうしんかいせん#communication line#
+2376020#通信管理システム#つうしんかんりシステム#message control system;MCS#
+2376030#通信機器#つうしんきき#telecommunication equipment#
+2376040#通信規格#つうしんきかく#telecommunications standard#
+2376050#通信規約#つうしんきやく#protocol#
+2376060#通信記述項#つうしんきじゅつこう#communication description entry#
+2376070#通信記述名#つうしんきじゅつめい#cd-name#
+2376080#通信行#つうしんぎょう#message segment#
+2376090#通信事業者#つうしんじぎょうしゃ#telecommunications carrier;PTT#
+2376100#通信手順#つうしんてじゅん#transmission protocol#
+2376110#通信条件#つうしんじょうけん#communications protocol#
+2376120#通信制御機構#つうしんせいぎょきこう#communication control unit#
+2376130#通信制御処理装置#つうしんせいぎょしょりそうち#CCP;Communication Control Processor#
+2376140#通信制御装置#つうしんせいぎょそうち#communication control unit#
+2376150#通信設備#つうしんせつび#transmission equipment#
+2376160#通信節#つうしんせつ#communication section#
+2376170#通信相手#つうしんあいて#communications partner;entity at the end of a communication#
+2376180#通信端末#つうしんたんまつ#communication terminal#
+2376190#通信品位法#つうしんひんいほう#Communications Decency Act;CDA#
+2376200#通信品質#つうしんひんしつ#communication quality#
+2376210#通信負荷#つうしんふか#communication load#
+2376220#通信文個数#つうしんぶんこすう#message count#
+2376230#通信理論#つうしんりろん#communication theory#
+2376240#通信料金#つうしんりょうきん#communication fees, charges#
+2376250#通信量#つうしんりょう#traffic#
+2376260#通信路#つうしんろ#channel;data transmission channel#
+2376270#通信路容量#つうしんろようりょう#channel capacity#
+2376280#通知型#つうちがた#notification type#
+2376290#通知付き局留め#つうちつききょくどめ#counter collection with advice;PD PR#
+2376300#通報受端#つうほうじゅたん#message sink#
+2376310#通話接続#つうわせつぞく#call completion#
+2376320#通話料金制#つうわりょうきんせい#message-rated#
+2376330#低い優先順位#ひくいゆうせんじゅんい#low priority (e.g. cell)#
+2376340#低コスト#ていコスト#low cost#
+2376350#低ビットレート#ていビットレート#low bit rate#
+2376360#低プライオリティ#ていプライオリティ#low priority#
+2376370#低レベル#ていレベル#low level#
+2376380#低域通過フィルタ#ていいきつうかフィルタ#low pass filter;LPF#
+2376390#低解像度#ていかいぞうど#low resolution#
+2376400#低級言語#ていきゅうげんご#low-level language#
+2376410#低周波発振器#ていしゅうははっしんき#Low Frequency Oscillator;LFO#
+2376420#低消費電力#ていしょうひでんりょく#low power consumption#
+2376430#低消費電力状態#ていしょうひでんりょくじょうたい#reduced power state#
+2376440#低水準言語#ていすいじゅんげんご#low-level language#
+2376450#低速通信#ていそくつうしん#low speed communication#
+2376460#低損失#ていそんしつ#low loss#
+2376470#低遅延#ていちえん#low delay#
+2376480#低電圧版Ｘｅｏｎ#ていでんあつばんジーオン#low voltage xeon#
+2376490#低電圧版モバイル#ていでんあつばんモバイル#low voltage mobile (pentium)#
+2376500#低電力#ていでんりょく#low power (electrical)#
+2376510#低密度ディスケット#ていみつどディスケット#low-density diskette#
+2376520#低容量#ていようりょう#low capacity#
+2376530#停止シグナル#ていしシグナル#quit signal#
+2376540#定期業務#ていきぎょうむ#fixed task;scheduled task#
+2376550#定期的に#ていきてきに#at fixed intervals#
+2376560#定期保守#ていきほしゅ#scheduled maintenance#
+2376570#定期保全#ていきほぜん#scheduled maintenance#
+2376580#定義可能#ていぎかのう#definable#
+2376590#定義済み#ていぎずみ#built-in;predefined#
+2376600#定義済み関数#ていぎずみかんすう#predefined function#
+2376610#定義済み変数#ていぎすみへんすう#built-in variable;predefined variable#
+2376620#定義文字実体集合#ていぎもじじったいしゅうごう#definitional character entity set#
+2376630#定形郵便ＯＲアドレス#ていけいゆうびんオーアーアドレス#formatted postal OR address#
+2376640#定常情報源#ていじょうじょうほうげん#stationary message source;stationary information source#
+2376650#定常性#ていじょうせい#being stationary (said of a process)#
+2376660#定数機能#ていすうきのう#constant function#
+2376670#定数式#ていすうしき#constant expression#
+2376680#定数表現#ていすうひょうげん#literal constant#
+2376690#定電圧定周波数電源装置#ていでんあつていしゅうはすうでんげんそうち#CVCF;Constant Voltage Frequency Power Supply#
+2376700#提案クラス#ていあんクラス#proposed class#
+2376720#提供者責任分散型トランザクション#ていきょうしゃせきにんぶんさんがたトランザクション#provider-supported distributed transaction#
+2376740#適応デルタ変調#てきおうデルタへんちょう#Adaptive Delta Modulation#
+2376750#適応制御系#てきおうせいぎょけい#adaptive control system#
+2376760#適応変換符号化#てきおうへんかんふごうか#Adaptive Transform Coding;ATC#
+2376770#適格である#てきかくである#eligible#
+2376780#適合ＳＧＭＬ応用#てきごうエスジーエムエルおうよう#conforming SGML application#
+2376790#適合ＳＧＭＬ文書#てきごうエスジーエムエルぶんしょ#conforming SGML document#
+2376800#適合する実装#てきごうするじっそう#conforming implementation#
+2376810#適合検査#てきごうけんさ#conformance#
+2376820#適合検査試験#てきごうけんさしけん#conformance test#
+2376830#適合性ログ#てきごうせいログ#conformance log#
+2376840#適合性解決試験#てきごうせいかいけつしけん#conformance resolution tests#
+2376850#適合性試験#てきごうせいしけん#conformance testing#
+2376860#適合性評価過程#てきごうせいひょうかかてい#conformance assessment process#
+2376870#適合性文書#てきごうせいぶんしょ#conformance document#
+2376880#適正表示状態#てきせいひょうじじょうたい#visually correct#
+2376900#適用業務ソフトウェア#てきようぎょうむソフトウェア#application software#
+2376920#適用業務ソフトウェアプログラム#てきようぎょうむソフトウェアプログラム#application software program#
+2376930#適用業務プログラム#てきようぎょうむプログラム#application software#
+2376940#適用業務責任分散型トランザクション#てきようぎょうむせきにんぶんさんがたトランザクション#application-supported distributed transaction#
+2376950#適用業務問題#てきようぎょうむもんだい#application problem#
+2376960#適用範囲#てきようはんい#range of use;range of application;range of applications;scope (of a document)#
+2376970#適用分野#てきようぶんや#field of application#
+2376980#展開結果#てんかいけっか#result of an expansion (filename, e.g.)#
+2376990#添え字#そえじ#subscript#
+2377000#添え字付き変数#そえじづきへんすう#subscripted variable#
+2377010#添加部分要素#てんかぶぶんようそ#included subelement#
+2377020#添加要素#てんかようそ#inclusions#
+2377040#添字三つ組#そえじみつぐみ#subscript triplet#
+2377050#添字指定#そえじしてい#subscripting#
+2377060#添字付きデータ名#そえじつきデータめい#subscripted data-name#
+2377080#転送システム#てんそうシステム#transfer system#
+2377090#転送ルート#てんそうルート#transmission route#
+2377100#転送レート#てんそうレート#transmission rate;transfer rate#
+2377110#転送構文#てんそうこうぶん#transfer syntax#
+2377120#転送構文名#てんそうこうぶんめい#transfer syntax name#
+2377140#転送時間#てんそうじかん#transfer time;transmission time#
+2377150#転送処理#てんそうしょり#transmittal#
+2377160#転送穿孔翻訳機#てんそうせんこうほんやくき#transfer interpreter#
+2377170#転置#てんち#transposition#
+2377190#点オクテット#てんオクテット#cell octet#
+2377200#点列入力装置#てんれつにゅうりょくそうち#stroke device#
+2377210#伝送スピード#でんそうスピード#transmission speed#
+2377220#伝送パス#でんそうパス#transmission path#
+2377230#伝送経路遅延#でんそうけいろちえん#transmission path delay;one-way propagation time#
+2377240#伝送故障#でんそうこしょう#transmission fault#
+2377250#伝送制御プロトコル#でんそうせいぎょプロトコル#Transmission Control Protocol;TCP#
+2377260#伝送制御文字#でんそうせいぎょもじ#transmission control character#
+2377280#伝送損失#でんそうそんしつ#transmission loss#
+2377290#伝送遅延#でんそうちえん#transmission delay#
+2377300#伝送遅延変動#でんそうちえんへんどう#transmission delay variation#
+2377310#伝送品質#でんそうひんしつ#transmission quality#
+2377320#伝送路長#でんそうろちょう#link length#
+2377330#伝達コスト#てんたつコスト#transmission cost#
+2377340#伝達情報量#でんたつじょうほうりょう#transinformation (content);transferred information;transmitted information;mutual information#
+2377350#伝播側#でんぱんそく#propagation law#
+2377360#伝播遅延#でんぱちえん#propagation delay#
+2377370#伝搬遅延#でんぱんちえん#propagation delay#
+2377380#伝票発行処理#でんぴょうはっこうしょり#billing#
+2377410#電界効果トランジスター;電界効果トランジスタ#でんかいこうかトランジスター;でんかいこうかトランジスタ#Field Effect Transistor;FET#
+2377420#電気回路ブレーカー#でんきかいろブレーカー#(electric) circuit breaker#
+2377430#電源コード#でんげんコード#power cord#
+2377440#電源スイッチ#でんげんスイッチ#power switch#
+2377450#電源ユニット#でんげんユニット#power supply unit;PSU;power module#
+2377460#電源ランプ#でんげんランプ#power light#
+2377470#電源回路#でんげんかいろ#power supply#
+2377480#電源管理#でんげんかんり#power management#
+2377490#電源切断状態#でんげんせつだんじょうたい#power disconnected (state)#
+2377500#電源投入#でんげんとうにゅう#power-up#
+2377510#電源投入シーケンス#でんげんとうにゅうシーケンス#power-on sequence#
+2377520#電源投入時パスワード#でんげんとうにゅうじパスワード#power-on password#
+2377530#電子ビジネス#でんしビジネス#e business#
+2377540#電子ファイリング#でんしファイリング#electronic filing#
+2377550#電子ファイリングシステム#でんしファイリングシステム#electronic filing system#
+2377560#電子フロンティア財団#でんしフロンティアざいだん#Electronic Frontier Foundation;EFF#
+2377570#電子マネー#でんしマネー#electronic money#
+2377580#電子メールシステム#でんしメールシステム#electronic mail system#
+2377590#電子メールボックス#でんしメールボックス#electronic mailbox#
+2377600#電子会議#でんしかいぎ#electronic conference#
+2377610#電子雑誌#でんしざっし#electronic magazine#
+2377620#電子紙幣#でんししへい#electronic money#
+2377630#電子資金移動#でんししきんいどう#electronic funds transfer;EFT#
+2377640#電子式#でんししき#electronic (adj);electronically#
+2377650#電子手帳#でんしてちょう#electronic organizer#
+2377660#電子振替決済#でんしふりかえけっさい#electronic funds transfer;EFT#
+2377670#電子新聞#でんししんぶん#electronic newspaper#
+2377680#電子図書館#でんしとしょかん#electronic library#
+2377690#電子的#でんしてき#electronic (adj)#
+2377700#電子的資金移動#でんしてきしきんいどう#electronic funds transfer#
+2377710#電磁界#でんじかい#electromagnetic field#
+2377720#電磁波互換性#でんじはごかんせい#electromagnetic compatibility#
+2377730#電磁妨害#でんじぼうがい#electromagnetic interference;EMI#
+2377740#電信電話会社#でんしんでんわがいしゃ#common carrier#
+2377750#電池式計算器#でんちしきけいさんき#battery-powered calculator#
+2377760#電流一致選択#でんりゅういっちせんたく#coincident-current selection#
+2377770#電力制限#でんりょくせいげん#power limitation;power restriction#
+2377780#電力切れ#でんりょくぎれ#power (supply) cutoff#
+2377790#電力束密度#でんりょくそくみつど#power flux density#
+2377800#電話ワイヤ#でんわワイヤ#telephone wire#
+2377810#電話応答機能#でんわおうとうきのう#Answering Machine#
+2377820#電話機器#でんわきき#telephone equipment#
+2377840#登録機;登録器#とうろくき#register (e.g. cash)#
+2377850#登録済みアクセス#とうろくずみアクセス#registered access#
+2377860#登録識別子#とうろくしきべつし#registration-identifier#
+2377870#登録集原文#とうろくしゅうげんぶん#library text#
+2377880#登録集名#とうろくしゅうめい#library-name#
+2377890#登録所有者識別子#とうろくしょゆうしゃしきべつし#registered owner identifier#
+2377900#凍結レファレンス#とうけつレファレンス#frozen reference#
+2377910#投影ビューポート#とうえいビューポート#projection viewport#
+2377920#投影基準点#とうえいきじゅんてん#projection reference point;PRP#
+2377930#投影線#とうえいせん#projector#
+2377940#投影方法#とうえいほうほう#projection type#
+2377950#投資利益率#とうしりえきりつ#return of investment#
+2377970#等化#とうか#equalization#
+2377980#等化器#とうかき#equalizer (audio too)#
+2377990#等価演算#とうかえんざん#equivalence operation;IF-AND-ONLY-IF operation;IFF#
+2378000#等価語#とうかご#equivalent term#
+2378010#等価参照列#とうかさんしょうれつ#equivalent reference string#
+2378020#等価素子#とうかそし#IF-AND-ONLY-IF gate;IF-AND-ONLY-IF element#
+2378030#等角速度#とうかくそくど#Constant Angular Velocity#
+2378040#等高線グラフ#とうこうせんグラフ#contour graph#
+2378050#等高線図#とうこうせんず#contour map#
+2378060#等時#とうじ#isochronous#
+2378070#等時性通信#とうじせいつうしん#isochronous communication#
+2378080#等時性伝送#とうじせいでんそう#isochronous transmission#
+2378090#等方写像#とうほうしゃぞう#isotropic mapping#
+2378100#統一スタンダード#とういつスタンダード#unified standard#
+2378110#統一化#とういつか#unification#
+2378120#統括名#とうかつめい#generic name#
+2378130#統計処理#とうけいしょり#statistical processing#
+2378140#統計情報#とうけいじょうほう#statistical information;statistics#
+2378150#統計多重処理#とうけいたじゅうしょり#statistical multiplexing#
+2378160#統合ソフトウェア#とうごうソフトウェア#integrated software#
+2378170#統合デジタル通信網#とうごうデジタルつうしんもう#Integrated Services Digital Network;ISDN#
+2378180#統合プログラム#とうごうプログラム#integrated program#
+2378190#統合開発環境#とうごうかいはつかんきょう#Integrated Development Environment#
+2378200#統合開放形ハイパメディア#とうごうかいほうがたハイパメディア#Integrated open hypermedia;IOH#
+2378210#統合漢字#とうごうかんじ#unified Chinese character#
+2378220#統合試験#とうごうしけん#integration test#
+2378230#到達性#とうたつせい#reachability#
+2378240#到着プロセス#とうちゃくプロセス#arrival process#
+2378250#透過なデータ#とうかなデータ#transparent (data)#
+2378260#透過原稿ユニット#とうかげんこうユニット#transparency unit#
+2378270#透過的#とうかてき#transparent#
+2378280#透過的データ#とうかてきデータ#transparent (data)#
+2378290#透視投影#とうしとうえい#perspective projection#
+2378300#透視変換#とうしへんかん#perspective transformation#
+2378310#頭そろえ#あたまそろえ#start-aligned#
+2378320#頭切れ#とうきれ#clipping off the beginning of a speech transmission#
+2378330#頭文字語#かしらもじご#acronym#
+2378340#頭末そろえ#とうまつそろえ#justified#
+2378350#動画コーデック#どうがコーデック#video codec#
+2378360#動画像#どうがぞう#foreground image;dynamic image#
+2378370#動作フィールド#どうさフィールド#active field#
+2378380#動作ページ#どうさページ#active page#
+2378390#動作モード#どうさモード#operating mode#
+2378400#動作位置#どうさいち#active position#
+2378410#動作可能時間#どうさかのうじかん#operable time;uptime#
+2378420#動作環境#どうさかんきょう#operating environment#
+2378430#動作記述部#どうさきじゅつぶ#action stub#
+2378440#動作行#どうさぎょう#active line#
+2378450#動作指定#どうさしてい#action entry#
+2378460#動作時間#どうさじかん#operating time#
+2378470#動作状況#どうさじょうきょう#run state (of a process)#
+2378480#動作状態#どうさじょうたい#active#
+2378490#動作不能時間#どうさふのうじかん#inoperable time#
+2378500#動作有効期間#どうさゆうこうきかん#regime#
+2378510#動作率#どうさりつ#availability ratio#
+2378520#動作領域#どうさりょういき#active area#
+2378530#動軸回転表示#どうじくかいてんひょうじ#tumbling#
+2378540#動的な帯域割当#どうてきなたいいきわりあて#dynamic bandwidth allocation#
+2378550#動的アドレス変換#どうてきアドレスへんかん#Dynamic Address Translation;DAT#
+2378560#動的アドレス変換機構#どうてきアドレスへんかんきこう#DAT;Dynamic Address Translation#
+2378570#動的ルーチング#どうてきルーチング#dynamic routing#
+2378580#動的ルーティング#どうてきルーティング#dynamic routing#
+2378590#動的解析#どうてきかいせき#dynamic response analysis#
+2378600#動的割振り#どうてきわりふり#dynamic (resource) allocation#
+2378610#動的緩衝法#どうてきかんしょうほう#dynamic buffering#
+2378620#動的記憶装置#どうてききおくそうち#dynamic storage#
+2378630#動的呼出し#どうてきよびだし#dynamic access#
+2378640#動的再配置#どうてきさいはいち#dynamic relocation#
+2378650#動的資源割り振り#どうてきしげんわりふり#dynamic resource allocation#
+2378660#動的資源割振り#どうてきしげんわりふり#dynamic resource allocation#
+2378670#動的装置再構成#どうてきそうちさいこうせい#DDR;Dynamic Device Reconfiguration#
+2378680#動的適合性#どうてきてきごうせい#dynamic conformance#
+2378690#動的適合性要件#どうてきてきごうせいようけん#dynamic conformance requirements#
+2378700#同位エンティティ#どういエンティティ#peer-entities#
+2378710#同位エンティティに割り当てられるウィンドウ上限#どういエンティティにわりあてられるウィンドウじょうげん#upper window edge allocated to the peer entity#
+2378720#同位エンティティ認証#どういエンティティにんしょう#peer-entity authentication#
+2378730#同位列#どういれつ#array#
+2378740#同一環境#どういちかんきょう#unified environment;same environment#
+2378750#同一分布#どういつぶんぷ#uniform distribution#
+2378760#同音異義性#どうおんいぎせい#homophony#
+2378770#同格関係#どうかくかんけい#coordinate relation#
+2378780#同期が取れる#どうきがとれる#to be synchronized#
+2378790#同期を取る#どうきをとる#to synchronize#
+2378800#同期データリンク制御#どうきデータリンクせいぎょ#Synchronous Data Link Control;SDLC#
+2378810#同期デジタルハイアラキー#どうきデジタルハイアラキー#Synchronous Digital Hierarchy;SDH#
+2378820#同期ビットストリーム#どうきビットストリーム#synchronous bit stream#
+2378830#同期化#どうきか#synchronization#
+2378840#同期的#どうきてき#synchronous#
+2378850#同期転送モード#どうきてんそうモード#Synchronous Transfer Mode;STM#
+2378860#同期点識別子#どうきてんしきべつし#syncpoint identifier#
+2378870#同期伝送#どうきでんそう#synchronous transmission#
+2378880#同義性#どうぎせい#synonymy;synonymity#
+2378890#同義名#どうぎめい#synonymous name;synonym#
+2378910#同形異義性#どうけいいぎせい#homography#
+2378920#同形同音異義性#どうけいどうおんいぎせい#homonymy;homonymity#
+2378930#同時間#どうじかん#same time (of day)#
+2378940#同種計算機ネットワーク#どうしゅけいさんきネットワーク#homogeneous computer network#
+2378950#同相電圧#どうそうでんあつ#common mode voltage#
+2378960#同相分除去#どうそうぶんじょきょ#common mode rejection#
+2378970#同報#どうほう#broadcast;multi-destination delivery#
+2378980#同報サービス#どうほうサービス#multiple addressing service#
+2378990#同報通信#どうほうつうしん#broadcast communication#
+2379000#同報伝送#どうほうでんそう#broadcast transmission#
+2379010#同曜日#どうようび#same day (of the week)#
+2379020#導通試験#どうつうしけん#continuity test#
+2379030#導入済み#どうにゅうすみ#already installed;already in place#
+2379040#道路交通情報通信システム#どうろこうつうじょうほうつうしんシステム#VICS;Vehicle Information and Communication Systems#
+2379050#匿名ＦＴＰ#とくめいエフティーピー#anonymous FTP#
+2379060#特異データ#とくいデータ#unique data;non-typical data#
+2379070#特権グループ#とっけんグループ#privileged groups#
+2379080#特権ユーザ#とっけんユーザ#privileged user;super user#
+2379090#特権属性証明#とっけんぞくせいしょうめい#Privilege-Attribute-Certificate#
+2379100#特権命令#とっけんめいれい#privileged instruction#
+2379110#特殊アクセス#とくしゅアクセス#specialized access#
+2379120#特殊レジスタ#とくしゅレジスタ#special register#
+2379130#特殊配達#とくしゅはいたつ#special delivery;PD PR#
+2379140#特殊文字#とくしゅもじ#special character#
+2379150#特殊文字語#とくしゅもじご#special-character word#
+2379160#特殊名#とくしゅめい#special-names#
+2379170#特殊名記述項#とくしゅめいきじゅつこう#special names entry#
+2379180#特注ソフトウェア#とくちゅうソフトウェア#custom software#
+2379190#特定の処理#とくていのしょり#specific task#
+2379200#特定マシン向け#とくていマシンむけ#machine-specific#
+2379210#特定割付け構造#とくていわりつけこうぞう#specific layout structure#
+2379220#特定記号#とくていきごう#identifier#
+2379230#特定業務向き言語#とくていぎょうむむきげんご#application-oriented language#
+2379240#特定子#とくていし#designator#
+2379250#特定数字#とくていすうじ#significant digit#
+2379260#特定文字データ実体#とくていもじデータじったい#specific character data entity#
+2379270#特定用途向けＩＣ#とくていようとむけアイシー#Application Specific Integrated Circuit#
+2379280#特定用途向け集積回路#とくていようとむけしゅうせきかいろ#Application-Specific Integrated Circuit;ASIC#
+2379290#特定論理構造#とくていろんりこうぞう#specific logical structure#
+2379300#独断的#どくだんてき#dogmatic;arbitrary#
+2379310#独立な#どくりつな#indepedent#
+2379320#独立コンパイル#どくりつコンパイル#independent compilation;separate compilation#
+2379330#独立データ記述項#どくりつデータきじゅつこう#77-level-description-entry#
+2379340#独立ユティリティプログラム#どくりつユティリティプログラム#independent utility program#
+2379350#独立系ソフトウェアベンダ#どくりつけいソフトウェアベンダ#independent software vendor#
+2379360#独立系ソフトウェアメーカー#どくりつけいソフトウェアメーカー#ISV;Independent Software Vender#
+2379370#独立項目#どくりつこうもく#noncontiguous item#
+2379380#読み込み#よみこみ#read in#
+2379390#読み込み許可#よみこみきょか#read permission#
+2379400#読み取り専用#よみとりせんよう#read only#
+2379410#読み取り専用メモリ#よみとりせんようメモリ#read-only memory;ROM#
+2379420#読み取り専用モード#よみとりせんようモード#read only mode#
+2379430#読み出し専用メモリ#よみだしせんようメモリ#read-only memory;ROM#
+2379440#読み出し端末#よみだしたんまつ#readout terminal#
+2379450#読み出し保護#よみだしほご#read protection#
+2379460#読取りサイクル時間#よみとりサイクルじかん#read cycle time#
+2379470#読取りヘッド#よみとりヘッド#read head#
+2379480#読取り書込みサイクル時間#よみとりかきこみサイクルじかん#read-write cycle time#
+2379490#読取り書込みスロット#よみとりかきこみスロット#read-write slot;read-write opening#
+2379500#読取り書込みヘッド#よみとりかきこみヘッド#read-write head#
+2379510#読取り書込み開口部#よみとりかきこみかいこうぶ#read-write slot;read-write opening#
+2379520#読取り書込み記憶装置#よみとりかきこみきおくそうち#RAM#
+2379530#読取り専用ファイルシステム#よみとりせんようファイルシステム#read-only file system#
+2379540#読取り専用記憶装置#よみとりせんようきおくそうち#read-only memory;ROM#
+2379550#読取り通路#よみとりつうろ#read path#
+2379560#読取り部#よみとりぶ#read station#
+2379580#内字#ないじ#internal character#
+2379590#内蔵オーディオ回路#ないぞうオーディオかいろ#integrated audio circuit#
+2379600#内蔵テンキーパッド#ないぞうテンキーパッド#embedded numeric keypad#
+2379610#内蔵モデム#ないぞうモデム#integral modem#
+2379620#内蔵型アレイプロセッサー#ないぞうがたアレイプロセッサー#IAP;Integrated Array Processor#
+2379630#内蔵装置#ないぞうそうち#built-in device#
+2379640#内部キャッシュ#ないぶキャッシュ#internal cache#
+2379650#内部クロック#ないぶクロック#internal clock#
+2379660#内部クロック同期#ないぶクロックどうき#internal clocking (clock synchronization)#
+2379670#内部コマンド#ないぶコマンド#internal command#
+2379680#内部データ#ないぶデータ#internal data#
+2379690#内部データ項目#ないぶデータこうもく#internal data item#
+2379700#内部バッファ#ないぶバッファ#internal buffer#
+2379710#内部ファイル#ないぶファイル#internal file#
+2379720#内部ファイルサービス#ないぶファイルサービス#internal file service#
+2379730#内部ファイル結合子#ないぶファイルけつごうし#internal file connector#
+2379740#内部メモリ#ないぶメモリ#internal storage;internal memory#
+2379750#内部ラベル#ないぶラベル#internal label#
+2379760#内部割り込み#ないぶわりこみ#internal interrupt#
+2379770#内部記憶#ないぶきおく#internal storage;internal memory#
+2379780#内部記憶装置#ないぶきおくそうち#internal storage device#
+2379790#内部参照#ないぶさんしょう#internal reference#
+2379800#内部手続#ないぶてつづき#internal procedure#
+2379810#内部処理#ないぶしょり#internal processing#
+2379820#内部詳細#ないぶしょうさい#internals#
+2379830#内部状態#ないぶじょうたい#internal state#
+2379840#内部副プログラム#ないぶふくプログラム#internal subprogram#
+2379850#内部変数#ないぶへんすう#local variable#
+2379860#内部様式#ないぶようしき#interior style#
+2379880#内容アドレス記憶装置#ないようアドレスきおくそうち#associative storage;content addressable storage#
+2379900#内容モデル#ないようモデル#content model#
+2379930#内容完全性#ないようかんぜんせい#content integrity#
+2379940#内容機密性#ないようきみつせい#content confidentiality#
+2379950#内容規則#ないようきそく#content convention#
+2379960#内容検索#ないようけんさく#content retrieval#
+2379970#内容呼び出しメモリ;内容呼出メモリ#ないようよびだしメモリ#Content Addressed Memory;CAM#
+2379990#内容種別#ないようしゅべつ#content type#

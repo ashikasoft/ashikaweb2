@@ -1,0 +1,977 @@
+2170000##ウンウンセプチウム#Ununseptium (Uus)#
+2170010##ウンウンヘキシウム#ununhexium (Uuh)#
+2170020##ウンウンペンチウム#ununpentium (Uup)#
+2170030##ウンウンクアジウム#ununquadium (Uuq)#
+2170040##ウンウントリウム#ununtrium (Uut)#
+2170050#遷移元素#せんいげんそ#transition element;transition metal#
+2170060#人工元素#じんこうげんそ#synthetic element;artificial element (i.e. technetium)#
+2170070##ウンウンビウム#ununbium (Uub)#
+2170080##レントゲニウム#Roentgenium (Rg)#
+2170090##ダームスタチウム#darmstadtium (Ds)#
+2170100##マイトネリウム#meitnerium (Mt)#
+2170110##ハッシウム#hassium (Hs)#
+2170120##ボーリウム#bohrium (Bh)#
+2170130##シーボーギウム#seaborgium (Sg)#
+2170140##ドブニウム#dubnium (Db)#
+2170150##ラザホージウム#rutherfordium (Rf)#
+2170160#水銀剤#すいぎんざい#mercurials (drugs containing mercury)#
+2170170#水銀整流器#すいぎんせいりゅうき#mercury arc valve;mercury vapor rectifier#
+2170180#酸化水銀#さんかすいぎん#mercurous oxide (Hg2O);mercuric oxide (HgO)#
+2170190#辰砂;辰沙#しんしゃ;しんさ#cinnabar;cinnabarite;cinnabar lacquer;cinnabar lacquerware#
+2170200#自然水銀#しぜんすいぎん#native mercury (natural mercury found associated with cinnabar)#
+2170210#メチル水銀#メチルすいぎん#methylmercury;methyl mercury#
+2170220#雷酸水銀#らいさんすいぎん#mercury fulminate#
+2170230#雷汞;雷こう#らいこう#mercury fulminate#
+2170240#硫化水銀#りゅうかすいぎん#mercury sulfide (esp. mercuric sulfide, HgS, but also mercurous sulfide, Hg2S) (sulphide)#
+2170250#白金イリジウム#はっきんイリジウム#platiniridium (alloy of platinum and iridium)#
+2170260#白金黒#はっきんこく#platinum black (black powdered platinum, often used as a catalyst)#
+2170270#白金族元素#はっきんぞくげんそ#platinum group metals;platinum group elements#
+2170280#タングステン電球#タングステンでんきゅう#tungsten lamp;tungsten bulb#
+2170290#酸化バリウム#さんかバリウム#barium oxide (BaO)#
+2170300#水酸化バリウム#すいさんかバリウム#barium hydroxide;baryta#
+2170310#硫酸バリウム#りゅうさんバリウム#barium sulfate (BaSO4) (sulphate)#
+2170320#セシウム原子時計#セシウムげんしどけい#cesium atomic clock#
+2170330#原子時計#げんしどけい#atomic clock#
+2170350#セシウム１３７;セシウム百三十七#セシウムひゃくさんじゅうしち#cesium 137 (Cs-137);caesium 137#
+2170370#原子核分裂#げんしかくぶんれつ#nuclear fission#
+2170380#ストロンチウム９０;ストロンチウム九〇#ストロンチウムきゅうじゅう#strontium 90 (Sr-90)#
+2170390##ハスカップ#blue honeysuckle (Lonicera caerulea var. emphyllocalyx);haskap#
+2170400#時間のたつ#じかんのたつ#passage of time;perceived time;relative time#
+2170410##バタール#batard (type of French bread)#
+2170420#壁にかける;壁に掛ける#かべにかける#to hang (something) on the wall#
+2170430#操作部#そうさぶ#controlling element;actuator;operating portion#
+2170450#制御部#せいぎょぶ#controller#
+2170460#処理部#しょりぶ#processor;handler#
+2170470#解析部#かいせきぶ#analyzer#
+2170480#記憶部#きおくぶ#storage unit;memory unit#
+2170490#送信部#そうしんぶ#transmitter#
+2170500#暗黒物質#あんこくぶっしつ#dark matter#
+2170510##ダークエネルギー;ダーク・エネルギー#dark energy#
+2170520##ビッグクランチ;ビッグ・クランチ#big crunch (theoretical reversal of the big bang resulting in the demise of the universe)#
+2170530#錫石#すずいし#cassiterite#
+2170540#酸化錫#さんかすず#stannous oxide (SnO);stannic oxide (SnO2)#
+2170550##カドミウムイエロー;カドミウム・イエロー#cadmium yellow#
+2170560#硫化カドミウム#りゅうかカドミウム#cadmium sulfide (CdS) (sulphide)#
+2170570#モリブデン鉛鉱#モリブデンえんこう#wulfenite (PbMoO4)#
+2170580##ジルコニア#zirconia#
+2170590#臭素紙#しゅうそし#bromide paper#
+2170600#ブロマイド紙#ブロマイドし#bromide paper#
+2170610#砒素剤#ひそざい#arsenicals (drugs containing arsenic)#
+2170620#ガリウム砒素;ガリウムヒ素#ガリウムひそ;ガリウムヒそ#gallium arsenide (GaAs)#
+2170630#砒化ガリウム#ひかガリウム#gallium arsenide (GaAs)#
+2170640#酸化ヒ素;酸化砒素#さんかヒそ;さんかひそ#arsenic trioxide;white arsenic (As2O3);arsenic pentoxide (As2O5)#
+2170650#無水亜砒酸;無水亜ヒ酸#むすいあひさん;むすいあヒさん#arsenic trioxide;white arsenic (As2O3)#
+2170660#酸化亜鉛#さんかあえん#zinc oxide (ZnO)#
+2170670#硫化亜鉛#りゅうかあえん#zinc sulfide (ZnS) (sulphide)#
+2170680#硫酸亜鉛#りゅうさんあえん#zinc sulfate (ZnSO4) (sulphate)#
+2170690#ニッケル銅#ニッケルどう#cupronickel (alloy of approximately 80% copper and 20% nickel)#
+2170700##キュプロニッケル#cupronickel#
+2170710#二酸化マンガン#にさんかマンガン#manganese dioxide (MnO2)#
+2170720##クロムイエロー;クロム・イエロー#chrome yellow#
+2170730##クロムグリーン;クロム・グリーン#chrome green (pigment made of chromium oxide, Cr2O3)#
+2170740#死んで花実が咲くものか#しんではなみがさくものか#once you're dead, that's it#
+2170750#死んで花実がなるものか#しんではなみがなるものか#once you're dead, that's it#
+2170760#時空世界#じくうせかい#space-time continuum#
+2170770#腱板#けんばん#rotator cuff#
+2170780#腱板損傷#けんばんそんしょう#rotator cuff tear#
+2170790#集団自殺#しゅうだんじさつ#group suicide;mass suicide;arranged suicide of two or more people#
+2170800#集合自殺#しゅうごうじさつ#group suicide;mass suicide;arranged suicide of two or more people#
+2170810#孤立感#こりつかん#isolation;sense of isolation;feeling of being isolated#
+2170820#閉塞感#へいそくかん#locked up feeling;cooped up feeling;feeling of entrapment;(feeling of hopelessness);being in a bind#
+2170830#自傷癖#じしょうくせ#(practice of) self-injury;(habit of) self-harm#
+2170840#自傷#じしょう#self-mutilation;self-injury#
+2170850#中間値#ちゅうかんち#intermediate value;median#
+2170860#事故にあう;事故に遭う#じこにあう#to have an accident;to meet with an accident#
+2170870#何処にも#どこにも#nowhere (with neg. verb);not anywhere;everywhere;anywhere;anyplace#
+2170880#何処へも#どこへも#nowhere;not anywhere (with neg. verb)#
+2170890#熱力学の法則#ねつりきがくのほうそく#law(s) of thermodyamics#
+2170900#熱力学の第一法則;熱力学の第１法則#ねつりきがくのだいいちほうそく#first law of thermodynamics#
+2170910#熱力学の第二法則;熱力学の第２法則#ねつりきがくのだいにほうそく#second law of thermodynamics#
+2170920#熱力学の第三法則;熱力学の第３法則#ねつりきがくのだいさんほうそく#third law of thermodynamics#
+2170930#熱力学の第０法則;熱力学の第零法則#ねつりきがくのだいゼロほうそく#zeroth law of thermodynamics#
+2170940#長元坊#ちょうげんぼう;チョウゲンボウ#common kestrel (Falco tinnunculus)#
+2170950#吹き出し#ふきだし#blowoff;blowing;venting;speech balloons (in a comic strip);speech bubble;blowing (of a seasonal or climatic wind)#
+2170960#回旋腱板#かいせんけんばん#rotator cuff#
+2170970#辞書を引く#じしょをひく#to consult a dictionary#
+2170980#吹き出し口;吹出口;吹出し口#ふきだしぐち#nozzle;jet#
+2170990##パノプティコン#panopticon#
+2171000#中央値#ちゅうおうち#median#
+2171010##メディアン;メジアン#median#
+2171020#実施中#じっしちゅう#being carried out;being put into practice#
+2171030#中間値の定理#ちゅうかんちのていり#intermediate value theorem#
+2171040#平均値の定理#へいきんちのていり#mean value theorem#
+2171050#たこ焼き鍋;蛸焼き鍋#たこやきなべ#tako-yaki pan (cast iron with semi-spherical molds)#
+2171060#菜切り包丁#なきりぼうちょう#nakiri bocho, var. of Japanese knife used for cutting vegetables#
+2171070#油切り;油きり#あぶらきり#oil deflector;shallow tray with rack for draining food after deep frying#
+2171080#揚げ物鍋#あげものなべ#agemono nabe, thick pot for deep frying#
+2171090#猫額#びょうがく;ねこびたい#(as small as a) cat's forehead#
+2171100#たこ焼き器;蛸焼き器#たこやきき#tako-yaki pan (cast iron with semi-spherical molds)#
+2171110#紙飛行機#かみひこうき#paper airplane (aeroplane)#
+2171120#天かす;天カス;天滓#てんかす;てんカス#tenkasu;crunchy bits of deep-fried dough produced as a byproduct of cooking tempura#
+2171130#御種人参#おたねにんじん;オタネニンジン#Asian ginseng (Panax ginseng)#
+2171140#高麗人参#こうらいにんじん#Asian ginseng (Panax ginseng)#
+2171150#アメリカ人参#アメリカにんじん#American ginseng (Panax quinquefolius)#
+2171160#三七人参#さんしちにんじん#notoginseng (Panax pseudoginseng)#
+2171170#栃葉人参#とちばにんじん;トチバニンジン#Japanese ginseng (Panax japonicus)#
+2171180#竹節人参#ちくせつにんじん#Japanese ginseng (Panax japonicus)#
+2171190##ジンセン#Asian ginseng (Panax ginseng)#
+2171200#胡蘿蔔#こらふ#carrot#
+2171210#発行機関#はっこうきかん#issuing authority#
+2171220#証明権限者#しょうめいけんげんしゃ#certifying authority#
+2171230#山縞馬;山斑馬#やましまうま;ヤマシマウマ#mountain zebra (Equus zebra)#
+2171240#筋肉細胞#きんにくさいぼう#muscle cell;muscle cells#
+2171250#グレービー縞馬;グレービー斑馬#グレービーしまうま;グレービーシマウマ#Grevy's zebra (Equus grevyi)#
+2171260##クアッガ;クワッガ;クアッハ#quagga (extinct South African zebra) (Equus quagga quagga)#
+2171270#筋肉組織#きんにくそしき#muscle tissue#
+2171280#涸沼糸蜻蛉#ひぬまいととんぼ;ヒヌマイトトンボ#Mortonagrion hirosei (species of damselfly)#
+2171290#魚影#ぎょえい#outline of a solitary fish (as seen through the water when fishing, etc.)#
+2171300#捏ね上げる;こね上げる#こねあげる#to knead thoroughly;to work up;to concoct;to make up#
+2171310#二クロム酸カリウム#にクロムさんカリウム#potassium dichromate (K2Cr2O7)#
+2171320#重クロム酸カリウム#じゅうクロムさんカリウム#potassium dichromate (K2Cr2O7)#
+2171330#六価クロム#ろっかクロム#hexavalent chromium#
+2171340#クロム酸混液#クロムさんこんえき#potassium dichromate-sulfuric acid solution#
+2171350#クロム酸鉛#クロムさんなまり#lead chromate (PbCrO4)#
+2171360#クロム鞣#クロムなめし#tanning using chromium compounds (i.e. potassium dichromate, etc.)#
+2171370#クロムバナジウム鋼#クロムバナジウムこう#chrome-vanadium steel#
+2171380#クロムモリブデン鋼#クロムモリブデンこう#chromium molybdenum steel;chrome molybdenum steel#
+2171390#酸化クロム#さんかクロム#chromium oxide (esp. Cr2O3 and CrO3)#
+2171400#三酸化クロム#さんさんかクロム#chromic anhydride (CrO3)#
+2171410##フィトクロム#phytochrome#
+2171420##カルシウムシアナミド;カルシウム・シアナミド#calcium cyanamide (CaCN2)#
+2171430#失効日#しっこうび#expiry date;date of expiry#
+2171440#酢酸カルシウム#さくさんカルシウム#calcium acetate (C4H6O4Ca)#
+2171450#酸化カルシウム#さんかカルシウム#calcium oxide (CaO)#
+2171460#水酸化カルシウム#すいさんかカルシウム#calcium hydroxide (Ca(OH)2)#
+2171470#炭化カルシウム#たんかカルシウム#calcium carbide (CaC2)#
+2171480#炭酸カルシウム#たんさんカルシウム#calcium carbonate (CaCO3)#
+2171490#フッ化カルシウム;弗化カルシウム#フッかカルシウム;ふっかカルシウム#calcium fluoride (CaF2)#
+2171500#硫酸カルシウム#りゅうさんカルシウム#calcium sulfate (CaSO4) (sulphate)#
+2171510#リン酸カルシウム;燐酸カルシウム#リンさんカルシウム;りんさんカルシウム#calcium phosphate (Ca3(PO4)2)#
+2171520#カリウムアルゴン法#カリウムアルゴンほう#potassium-argon dating#
+2171530#臭化カリウム#しゅうかカリウム#potassium bromide (KBr)#
+2171540#水酸化カリウム#すいさんかカリウム#potassium hydroxide (KOH)#
+2171550#炭酸カリウム#たんさんカリウム#potassium carbonate (K2CO3)#
+2171560#フェリシアン化カリウム#フェリシアンかカリウム#potassium ferricyanide (C6FeK3N6)#
+2171570#フェロシアン化カリウム#フェロシアンかカリウム#potassium ferrocyanide#
+2171580#ヘキサシアノ鉄酸カリウム#ヘキサシアノてつさんカリウム#potassium ferrocyanide;potassium ferricyanide#
+2171590#ヨウ化カリウム;沃化カリウム#ヨウかカリウム;ようかカリウム#potassium iodide;KI#
+2171600#三酸化硫黄#さんさんかいおう#sulfur trioxide (SO3)#
+2171620#ケイ素鋼;珪素鋼#ケイそこう;けいそこう#silicon steel#
+2171630#ケイ素樹脂;珪素樹脂#ケイそじゅし;けいそじゅし#silicone resin#
+2171640#四塩化ケイ素;四塩化珪素#しえんかケイそ;しえんかけいそ#silicon tetrachloride (SiCl4)#
+2171650##カーボランダム#carborundum (hard silicon carbide solid, used as an abrasive)#
+2171660#炭化ケイ素;炭化珪素#たんかケイそ;たんかけいそ#silicon carbide (SiC)#
+2171670#窒化ケイ素;窒化珪素#ちっかケイそ;ちっかけいそ#silicon nitride (Si3N4)#
+2171690#酸化アルミニウム#さんかアルミニウム#aluminum oxide (Al2O3);aluminium oxide;alumina#
+2171700#硫酸アルミニウム#りゅうさんアルミニウム#aluminum sulfate (Al2(SO4)3);aluminium sulphate#
+2171710##マグネシア;マグネシヤ#magnesia#
+2171720#酸化マグネシウム#さんかマグネシウム#magnesium oxide (MgO);magnesia#
+2171730#炭酸マグネシウム#たんさんマグネシウム#magnesium carbonate (MgCO3)#
+2171740#硫酸マグネシウム#りゅうさんマグネシウム#magnesium sulfate (MgSO4) (sulphate)#
+2171750##ナトリウムアマルガム#sodium amalgam#
+2171760#水ガラス#みずガラス#water glass (sodium or potassium silicate solution);soluble glass#
+2171770#ケイ酸ナトリウム;珪酸ナトリウム#ケイさんナトリウム;けいさんナトリウム#sodium silicate (Na2SiO3)#
+2171780#炭酸水素ナトリウム#たんさんすいそナトリウム#sodium bicarbonate (NaHCO3)#
+2171790#重クロム酸ナトリウム#じゅうクロムさんナトリウム#sodium dichromate (Na2Cr2O7)#
+2171800#硝酸ナトリウム#しょうさんナトリウム#sodium nitrate (NaNO3)#
+2171810#炭酸ナトリウム#たんさんナトリウム#sodium carbonate (Na2CO3)#
+2171820##クロロフルオロカーボン#chlorofluorocarbon;CFC#
+2171830##フルオロカーボン#fluorocarbon#
+2171840##フレオン#Freon#
+2171850#自白剤#じはくざい#truth serum;truth drug#
+2171860##フルニトラゼパム#flunitrazepam (hypnotic drug formerly marketed as Rohypnol);roofies (flunitrazepam used as a date-rape drug)#
+2171870##ケタミン#ketamine#
+2171880#抱水クロラール#ほうすいクロラール#chloral hydrate#
+2171890##クロラール#chloral (CCl3CHO);trichloroethanal#
+2171900#早成#そうせい#early completion;maturing early;precocious#
+2171910#去る者は日々に疎し#さるものはひびにうとし#Out of sight, out of mind#
+2171920##サワードウ#sourdough#
+2171930#名称を付ける#めいしょうをつける#to give a name (to something)#
+2171940#投稿文#とうこうぶん#written contribution;submission (to a newspaper, online forum, etc.)#
+2171950#触手責め#しょくしゅぜめ#tentacle rape#
+2171960#ミツグ君#ミツグくん#man who is easily compelled into giving a woman gifts;man only used to receive gifts from#
+2171970#メッシー君#メッシーくん#man used by a woman to pay for her meals#
+2171980#アッシー君;アシ君#アッシーくん;アシくん#man who drives a woman around for free;man used by a woman for his car#
+2171990##ボンデージ#(sexual) bondage#
+2172000#ＢＤＳＭ#ビーディーエスエム#bondage, discipline & sadomasochism;BDSM#
+2172010##ディシプリン#discipline#
+2172020##パラフィリア#paraphilia#
+2172030#性的倒錯#せいてきとうさく#paraphilia;sexual deviancy#
+2172040##ミーム#meme#
+2172050#金属音#きんぞくおん#metallic sound;metallic clank#
+2172060#形だけ#かたちだけ#merely for form's sake#
+2172070#帙#ちつ#protective covering for books, often in the form of a folding case with clasps;counter for book covers;book cover or dust jacket#
+2172080#慈悲殺#じひさつ#mercy killing (euthanasia performed to end someone's suffering, but without consent)#
+2172090##カルーセル#carousel#
+2172100#示性値#しせいち#characteristic value;physical or chemical properties;figure of merit#
+2172110#精神波#せいしんは#psychic waves#
+2172120##オージェーティー#on-the-job training;OJT#
+2172130##ベースジャンプ;ベースジャンピング;ベース・ジャンプ;ベース・ジャンピング#BASE jumping#
+2172140##ユニテリアン#Unitarian#
+2172150#法人所得税#ほうじんしょとくぜい#corporate income tax#
+2172160#個人所得税#こじんしょとくぜい#personal income tax#
+2172170#どら猫#どらねこ#stray cat#
+2172180##バンジージャンプ#bungee-jumping (from bungee jump)#
+2172190#上半身裸#じょうはんしんはだか#(top) half naked;naked above the waist#
+2172200#大船に乗る#おおぶねにのる#to gain a reliable foundation and be in a safe condition;to board a large ship#
+2172210#盲人が盲人を導く#もうじんがもうじんをみちびく#the blind leading the blind#
+2172220#鳳梨#ほうり#pineapple#
+2172230##めっさ#extremely;very#
+2172240#厚謝#こうしゃ#deep gratitude#
+2172250#非ステロイド性抗炎症薬#ひステロイドせいこうえんしょうやく#nonsteroidal anti-inflammatory drug;NSAID#
+2172260##ゲフィルテフィッシュ#gefilte fish#
+2172270#国交省#こっこうしょう#Ministry of Land, Infrastructure, Transport and Tourism#
+2172280#一般競争入札#いっぱんきょうそうにゅうさつ#open tendering;open competitive bidding#
+2172290#農水#のうすい#agriculture and fisheries#
+2172300#受発注#じゅはっちゅう#receiving orders (for goods, etc.)#
+2172310#治山ダム#ちさんダム#erosion-control dam;soil saving dam#
+2172320#青葱;青ねぎ#あおねぎ#green spring onion#
+2172330#白葱#しろねぎ#white spring onion;white scallion#
+2172340##ごっくん#gulp;semen-swallowing#
+2172350#亙古#こうこ#from long ago up until the present day#
+2172360##ツパイ#tree shrew (order Scandentia, esp. family Tupaiidae);common tree shrew (Tupaia glis)#
+2172370#栗鼠擬#りすもどき;リスモドキ#tree shrew#
+2172380#椿桃;油桃;光桃#つばいもも;づばいもも;ずばいもも;つばきもも;あぶらもも;ひかりもも;ズバイモモ;ツバイモモ#nectarine#
+2172390##コモンツパイ;コモン・ツパイ#common tree shrew (Tupaia glis)#
+2172410#死にゆく者#しにゆくもの#dying person;the dying#
+2172420##モンブラン#Mont Blanc (chestnut and cream dessert)#
+2172430#対立遺伝子#たいりついでんし#allele;allelomorph#
+2172440#減数分裂#げんすうぶんれつ#meiosis#
+2172450#還元分裂#かんげんぶんれつ#meiosis#
+2172460#有糸分裂#ゆうしぶんれつ#mitosis#
+2172470#細胞質分裂#さいぼうしつぶんれつ#cytokinesis#
+2172480#卵母細胞#らんぼさいぼう#oocyte#
+2172490#精母細胞#せいぼさいぼう#spermatocyte#
+2172500#靄然;藹然#あいぜん#hovering like mist or clouds;gentle;calm#
+2172510#晏然#あんぜん#calm;tranquil#
+2172520#晏如#あんじょ#calm;tranquil#
+2172530#怡然#いぜん#delightful;enjoyable#
+2172540#婉然#えんぜん#graceful;beautiful#
+2172550#汪然#おうぜん#vigorously flowing (e.g. tears)#
+2172560#旺然#おうぜん#prosperous#
+2172570#快然#かいぜん#happy;elated;good mood;pleasant feelings;cured (of an illness);recovered (from an illness)#
+2172580##ゲノムプロジェクト;ゲノム・プロジェクト#genome project#
+2172590#塊然#かいぜん#isolated;immobile#
+2172600#人ゲノム#ひとゲノム;ヒトゲノム#human genome#
+2172610#駭然#がいぜん#astonished;very surprised#
+2172620#赫然#かくぜん#violent and angry;shining;glittering;sparkling#
+2172630#渙然#かんぜん#untied;undone#
+2172640#莞然#かんぜん#sweetly smiling#
+2172650#莞爾#かんじ#smiling#
+2172660#歓然#かんぜん#delighted;overjoyed#
+2172670#頑然#がんぜん#resolute#
+2172680#喟然#きぜん#sighing#
+2172690#巍然#ぎぜん#towering (as mountains do);of outstanding greatness (as a person)#
+2172700#屹然#きつぜん#towering;lofty;standing out without the influence of others;in splendid isolation#
+2172710#恟然#きょうぜん#terrified;panicked;horrified#
+2172720#恟恟;恟々#きょうきょう#terrified;horrified;panicked#
+2172730#跫然#きょうぜん#as the sound of footsteps#
+2172740#凝然#ぎょうぜん#frozen in place#
+2172750#遽然#きょぜん#sudden;abrupt#
+2172760#いって来る;行って来る;行ってくる#いってくる#I'm off;see you later;to go (and then come back)#
+2172770#スペイン鯛#スペインだい;スペインダイ#red sea bream (Pagellus bogaraveo)#
+2172780#茅渟鯛#ちぬだい;チヌダイ#black porgy (Acanthopagrus schlegeli)#
+2172790#茅渟#ちぬ;チヌ#black porgy (Acanthopagrus schlegeli)#
+2172800#血鯛#ちだい;チダイ#crimson sea bream (Evynnis japonica)#
+2172810#平鯛#へだい;ヘダイ#silver sea bream (Sparus sarba)#
+2172820#笛鯛#ふえだい;フエダイ#star snapper (species of fish, Lutjanus stellatus)#
+2172830#横条笛鯛#よこすじふえだい;ヨコスジフエダイ#spotstripe snapper (species of fish, Lutjanus ophuysenii)#
+2172840#大佐賀;大逆#おおさが;オオサガ#Sebastes iracundus (species of rockfish)#
+2172850#荒神目抜#こうじんめぬけ;コウジンメヌケ#Sebastes iracundus (species of rockfish)#
+2172860#目抜#めぬけ;メヌケ#any large, red, deep-water scorpionfish with big eyes;Matsubara's red rockfish (Sebastes matsubarae)#
+2172870#芝桜#しばざくら;シバザクラ#moss phlox (Phlox subulata);moss pink#
+2172880#赤魚#あかうお;アカウオ#Pacific ocean perch (Sebastes alutus);comb goby (Ctenotrypauchen microcephalus);Matsubara's red rockfish (Sebastes matsubarae);Japanese dace (Tribolodon hakonensis);any edible red saltwater fish#
+2172890#真鯊#まはぜ;マハゼ#yellowfin goby (Acanthogobius flavimanus)#
+2172900#川むつ;川鯥#かわむつ;カワムツ#dark chub (Nipponocypris temminckii)#
+2172910#赤むつ;赤鯥#あかむつ;アカムツ#blackthroat seaperch (Doederleinia berycoides);rosy seabass;male dark chub (Zacco temmincki) in mating season#
+2172920#非売知;比売知#ひめじ;ヒメジ#Bensasi goatfish (Upeneus japonicus)#
+2172930#赤目魚;眼奈太#めなだ;メナダ#redlip mullet (Chelon haematocheilus)#
+2172940##マレット#mullet (hairstyle);mallet (croquet, etc.)#
+2172950#日本栗鼠#にほんりす;ニホンリス#Japanese squirrel (Sciurus lis)#
+2172960#畑栗鼠#はたりす;ハタリス#ground squirrel (esp. the Daurian ground squirrel, Spermophilus dauricus)#
+2172970#地栗鼠#じりす;ジリス#ground squirrel (esp. a ground squirrel of North America or Africa)#
+2172980##チャブ#chub (Leuciscus cephalus)#
+2172990#異常性#いじょうせい#abnormality#
+2173000#ＧＯＰ#ゴップ#Grand Old Party (Republican Party of the United States);GOP#
+2173010##プレーンテキスト;プレーン・テキスト#plain text#
+2173020##ワディ;ワジ#wadi;river bed (usu. dry);arroyo#
+2173030#総議員#そうぎいん#all members of the Diet;members of both houses#
+2173040#墨場#ぼくじょう#meeting place for calligraphers and painters#
+2173050#自己中心的#じこちゅうしんてき#egoistic;self-centered;selfish#
+2173060#それ以外のものは#それいがいのものは#aside from this;aside from these#
+2173070##ネオダーウィニズム#neo-Darwinism#
+2173080#バージェス動物群#バージェスどうぶつぐん#Burgess fauna (animal fossils found in the Burgess Shale)#
+2173090#免疫応答遺伝子#めんえきおうとういでんし#immune response gene;IR gene#
+2173100#ホメオティック遺伝子#ホメオティックいでんし#homeotic gene#
+2173110##ホメオボックス#homeobox#
+2173120#重複遺伝子#じゅうふくいでんし#duplicated gene#
+2173130#調節遺伝子#ちょうせついでんし#regulator gene;regulatory gene#
+2173140#致死遺伝子#ちしいでんし#lethal gene#
+2173150#致死因子#ちしいんし#lethal factor;lethal gene#
+2173160#制御遺伝子#せいぎょいでんし#control gene;regulator gene;regulatory gene#
+2173170##プラズマジーン#plasmagene#
+2173180#核外遺伝子#かくがいいでんし#plasmagene#
+2173190#白色体#はくしょくたい#leucoplast#
+2173200##プラスチド#plastid#
+2173210#補助単位#ほじょたんい#prefixed unit of measurement (i.e. millimeter, kilogram, etc.);supplementary SI unit (radian and steradian)#
+2173220#組立単位;組み立て単位;組立て単位#くみたてたんい#derived unit (i.e. metre per second, cubic metre, etc.)#
+2173230#誘導単位#ゆうどうたんい#derived unit (i.e. metre per second, cubic metre, etc.)#
+2173240##アルファとオメガ#alpha and omega#
+2173250#木登り魚;木登魚#きのぼりうお;キノボリウオ#climbing perch (esp. of genus Anabas)#
+2173260##グーラミー;グーラミ#gourami#
+2173270#朝鮮鮒#ちょうせんぶな;チョウセンブナ#roundtail paradisefish (Macropodus ocellatus)#
+2173280#台湾金魚#たいわんきんぎょ;タイワンキンギョ#paradise fish (Macropodus opercularis)#
+2173290#闘魚#とうぎょ#fighting fish#
+2173300#欣欣然;欣々然#きんきんぜん#quite joyous;quite cheerful;quite happy#
+2173310#空然#くうぜん#vacant and unthinking;something that should be there is not#
+2173320#瞿然#くぜん#looking on with surprise;surprised and changing one's expression#
+2173330#醺然#くんぜん#appearing drunk and cheerful#
+2173340#炯然;烱然#けいぜん#shining;radiant;bright#
+2173350#煢然;惸然#けいぜん#alone;helpless#
+2173360#闃然#げきぜん#quiet and still;without sign of life#
+2173370#孑然#けつぜん#isolated;alone;helpless#
+2173380#喧然#けんぜん#noisy;boisterous;lively#
+2173390#現然#げんぜん#clearly visible#
+2173400#公公然;公々然#こうこうぜん#very much out in the open (as in a information)#
+2173420#心を奪う#こころをうばう#to be thoroughly attracted by;to be completely fascinated by#
+2173430#恍然#こうぜん#fascinated and distracted by something#
+2173440#皓然;皎然#こうぜん#shining brightly;shining whitely#
+2173450#溘然#こうぜん#sudden and unexpected (as in a person's death)#
+2173460#曠然#こうぜん#wide open (as in land);vast#
+2173470#鏗然#こうぜん#emitting a shrill sound (musical instrument, metal, stone)#
+2173480#豪然#ごうぜん#full of strength;haughty;pompous#
+2173490#蜂群崩壊症候群#ほうぐんほうかいしょうこうぐん#Colony Collapse Disorder;Vanishing Bee Syndrome#
+2173500#頭に浮かぶ#あたまにうかぶ#to come to mind;to pop into one's head#
+2173510#胸に浮かぶ#むねにうかぶ#to come to mind;to pop into one's head#
+2173520#然らば#さらば#be that so;in that case;however (with neg);though that may be the case (with neg);farewell#
+2173530#然#さ#so;like that;in that way#
+2173540#然有り#さあり#it is so;it is as such#
+2173550#然だに#さだに#were it to at least be as such#
+2173560#然ならず#さならず#it is not as such;it does not seem as such;it should not be as such#
+2173570#然なり#さなり#it is so;it is as such#
+2173580#然かし#さかし#indeed, it is so;I concur, it is so#
+2173590#然こそ#さこそ#surely;certainly;no doubt#
+2173600#然こそ言え#さこそいえ#be that as it may#
+2173610#然然;然々#ささ#such and such#
+2173620#それ来た#それきた#there it is;there it comes;got it;of course;it figures;I knew it;expression one says when what is expected comes#
+2173630##なれど#but;however#
+2173640##なれども#but;however#
+2173650#檜扇;桧扇#ひおうぎ#formal folding fan made of hinoki cypress;blackberry lily (Belamcanda Chinensis);leopard lily;leopard flower#
+2173660#紅団扇;紅うちわ#べにうちわ#Anthurium lily;flamingo lily;Anthurium#
+2173670#Ε;ε#イプシロン;エプシロン#epsilon#
+2173680#Ζ;ζ#ゼータ#zeta#
+2173690#Η;η#イータ;エータ#eta#
+2173700#Θ;θ#シータ;テータ#theta#
+2173710#テータ関数;Θ関数#テータかんすう#theta function#
+2173720#Ι;ι#イオタ#iota#
+2173730#Κ;κ#カッパ;カッパー#kappa#
+2173740#Μ;μ#ミュー#mu#
+2173750#Ν;ν#ニュー#nu#
+2173760#Ο;ο#オミクロン#omicron#
+2173770#Ξ;ξ#クサイ;クシー;グザイ#xi#
+2173780#Π;π#パイ#pi#
+2173790#Ρ;ρ#ロー#rho#
+2173800#Τ;τ#タウ#tau#
+2173810#Υ;υ#ウプシロン;ユプシロン;オイプシロン#upsilon#
+2173820#Φ;φ;ϕ#ファイ;フィー#phi;diameter (units assumed, esp. mm)#
+2173830#Χ;χ#カイ;キー#chi#
+2173840#Ψ;ψ#プサイ;プシー#psi#
+2173850#溝五位#みぞごい#Japanese night heron (Gorsachius goisagi)#
+2173860#画僧#がそう#artist-monk#
+2173870#説話集#せつわしゅう#collection of stories (esp. myths, legends, etc.)#
+2173880#今は昔#いまはむかし#once upon a time;a long time ago#
+2173890#注文方法#ちゅうもんほうほう#method of ordering;procedures for ordering#
+2173900##トリプルアクセル;トリプル・アクセル#triple axel (figure skating)#
+2173910##ぞろり#all together in a line;all together in a lump;dressed sloppily;overdressed for the occasion#
+2173920#締まりがない;締まりが無い;締りが無い;しまりが無い#しまりがない#not at all tense;relaxed;calm#
+2173930##きりっと#having a crisp appearance;stiffly;tensely;smartly (e.g. dressed);neatly#
+2173940##きりり#stiff and slackless;tense without any looseness;cling tightly;pulled or stretched as far as possible;creaking of a door or oar#
+2173950#何処ぞ#どこぞ#somewhere (very vague);someplace (very vague)#
+2173960#猶あらじ#なおあらじ#must not be concluded like this;shall not finish like this#
+2173970#迂拙#うせつ#poor and careless way of living;self deprecating first person pronoun#
+2173980#迂叟#うそう#self deprecating first person pronoun used by the elderly#
+2173990#燕窩#えんか;イェンウオ#swift's nest (used to make bird's nest soup)#
+2174010#穴燕#あなつばめ;アナツバメ#swiftlet#
+2174020#ヨーロッパ雨燕#ヨーロッパあまつばめ;ヨーロッパアマツバメ#common (Eurasian) swift (Apus apus)#
+2174030#姫海燕#ひめうみつばめ;ヒメウミツバメ#European storm petrel (Hydrobates pelagicus)#
+2174040#水薙鳥;水凪鳥#みずなぎどり;ミズナギドリ#petrel (esp. petrels of family Procellariidae)#
+2174050#潜海燕#もぐりうみつばめ;モグリウミツバメ#diving petrel (esp. the common diving petrel, Pelecanoides urinatrix)#
+2174060#大フルマ鴎#おおフルマかもめ;オオフルマカモメ#giant petrel (esp. the southern giant petrel, Macronectes giganteus)#
+2174070#斑フルマ鴎#まだらフルマかもめ;マダラフルマカモメ#Cape pigeon;Cape petrel;pintado petrel (Daption capense)#
+2174080#煤色信天翁#すすいろあほうどり;ススイロアホウドリ#sooty albatross (Phoebetria fusca)#
+2174090#煤色;すす色#すすいろ#color of soot (colour)#
+2174100#小信天翁#こあほうどり;コアホウドリ#Laysan albatross (Diomedea immutabilis)#
+2174110#渡信天翁#わたりあほうどり;ワタリアホウドリ#wandering albatross (Diomedea exulans)#
+2174120#黒足信天翁#くろあしあほうどり;クロアシアホウドリ#black-footed albatross (Diomedea nigripes)#
+2174130#姫雨燕#ひめあまつばめ;ヒメアマツバメ#house swift (Apus nipalensis)#
+2174140#針尾雨燕#はりおあまつばめ;ハリオアマツバメ#white-throated needletail (species of swift, Hirundapus caudacutus)#
+2174150#大水薙鳥;大水凪鳥#おおみずなぎどり;オオミズナギドリ#streaked shearwater (species of seabird, Calonectris leucomelas)#
+2174160#ツバメの巣;燕の巣#ツバメのす;つばめのす#swallow's nest;swift's nest (used to make bird's nest soup)#
+2174170#ピジン語#ピジンご#pidgin#
+2174180#クレオール語#クレオールご#creole (pidgin that has become a mother tongue)#
+2174190##ピジン#pidgin#
+2174200#アフリカ腰白雨燕#アフリカこしじろあまつばめ;アフリカコシジロアマツバメ#white-rumped swift (Apus caffer)#
+2174210#腰白#こしじろ#short-sleeved kimono with a plain white backside#
+2174220##アニリングス#anilingus;analingus#
+2174230##ディープスロート#deep throat (i.e. a concealed informant);deep throat (i.e. deeply penetrative fellatio)#
+2174240#診断検査#しんだんけんさ#diagnostic examination;diagnostic assay#
+2174250#若しや#もしや#perhaps;possibly;by some chance;by some possibility#
+2174260#国際警察#こくさいけいさつ#international police#
+2174270#在るが儘;有るが儘#あるがまま#in truth;as it is;as you are;in practice#
+2174280#迂生#うせい#self-deprecating first person pronoun used in letters#
+2174300#虹彩異色症#こうさいいしょくしょう#heterochromia iridis;eyes differing in colour (color)#
+2174310##オッドアイ#eyes mismatched in colour (color)#
+2174320#初編;初篇#しょへん#volume one;first volume#
+2174330#計器盤#けいきばん#dashboard;instrument panel#
+2174340#幌;母衣#ほろ#canopy (esp. the cloth or canvas used for it);awning;top (of a convertible);hood;helmet cape;cloth covering one's back to protect against arrows during battle#
+2174350#増し締め#ましじめ#retorquing;to retorque#
+2174360##サビ;さび#hook (high point of a song);(at a sushi shop) wasabi#
+2174370#汝自らを知れ#なんじみずからをしれ#Know thyself#
+2174380#難ずる#なんずる#to criticize;to point out faults;to speak ill of#
+2174390#難じる#なんじる#to criticize;to point out faults;to speak ill of#
+2174400#汝自身を知れ#なんじじしんをしれ#Know thyself#
+2174410#汝#い;しゃ#you#
+2174420#汝#いまし#you#
+2174430#其;汝#し#that;you;oneself;themself#
+2174450#己;汝#な#I;you#
+2174460#汝#なむち;なれ;まし#you#
+2174490#汝#みまし#you#
+2174500#爾;儞#おれ#you#
+2174510#然;爾#しか#like that;as such;yeah;uh-huh#
+2174520#己達せんと欲して人を達せしむ#おのれたっせんとほっしてひとをたっせしむ#If you wish to succeed, first help others to succeed (from Analects of Confucius)#
+2174530#己と#おのれと#all by itself;naturally;spontaneous;all by oneself#
+2174540#己に克ち礼に復る#おのれにかちれいにかえる#act with restraint and conform to the ways of etiquette#
+2174550#正孔#せいこう#(electron) hole;positive hole#
+2174560#若く;如く;及く#しく#to match;to equal;to catch up with;to overtake#
+2174570#如くは無し#しくはなし#peerless;without equal#
+2174580#己を虚しゅうする#おのれをむなしゅうする#to cast aside one's prejudices#
+2174590#己を枉ぐ#おのれをまぐ#to cast aside one's beliefs and doctrines#
+2174600#饕餮文#とうてつもん#tao-tie engraving;figure of a creature of Chinese mythology engraved on bronze ware during the Yin-Chou dynasty#
+2174610#餅餤;餅腅#べいだん;へいだん;へいたん#Heian-period pastry made of duck or goose eggs mixed with vegetables boiled and wrapped in mochi which is then cut into squares#
+2174620#飾り車;餝り車#かざりぐるま#carriage beautifully decorated with gold, silver, gems, etc., for use by Heian era nobles at festivals and like activities#
+2174630#技癢;伎癢#ぎよう#itching to show off one's abilities#
+2174640#痒疹;癢疹#ようしん#rash that accompanies a severe itch;prurigo#
+2174650#謹飭;謹勅#きんちょく#deep modesty;deep discretion#
+2174660#国際警察協会#こくさいけいさつきょうかい#International Police Association;IPA#
+2174670#日本国際警察協会#にほんこくさいけいさつきょうかい#International Police Association Japan;IPA Japan#
+2174680#銀宝#ぎんぽ;ギンポ#tidepool gunnel (Pholis nebulosa)#
+2174690#熊羆#ゆうひ#bear;valiant person#
+2174700#鬼頭;纛#おにがしら;とう#decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp#
+2174710#牙纛#がとう#flagstaff decorated with ivory carried by the emperor or a general#
+2174720#纔#ひたた#just a tiny bit#
+2174730#冠纓#かんえい#string of a crown (to prevent it from falling off)#
+2174740#纐纈#こうけち;こうけつ#style of tie-dying used during the Nara era#
+2174750#己の欲せざる所は人に施す勿れ;己の欲せざる所は人に施すなかれ#おのれのほっせざるところはひとにほどこすなかれ#don't do unto others what you would not have done unto you#
+2174760#己所不欲勿施於人#おのれのほっせざるところひとにほどこすことなかれ#don't do unto others what you would not have done unto you#
+2174770#繽紛#ひんぷん#jumbled;in disarray;scattered randomly about (small items)#
+2174780#散形花序;繖形花序#さんけいかじょ#umbellate inflorescence;umbel (i.e. flower with a large number of flowers growing radially from a common center)#
+2174790#繧繝;暈繝#うんげん;うげん#method of dying in which a color repeatedly goes from dense to diffuse, diffuse to dense - imported from western China and used in Buddhist pictures, temple ornaments, etc., during the Nara and Heian periods#
+2174800#累囚;縲囚;纍囚#るいしゅう#prisoner#
+2174810#大頭#おおがしら#leader of a (large) group;large decorative black flagpole tassel made from tail hair (of a yak, horse, ox, etc.) or dyed hemp;leader of a (large) group;puffbird (any bird of family Bucconidae);first makushita rikishi listed on the banzuke#
+2174820#縲絏;縲紲#るいせつ#black rope used to bind criminals;being bound in prison#
+2174830#縵面#なめ#smooth unlettered back surface of an old "zeni" coin#
+2174840#羈縻#きび#tying down;fastening;binding;jimi system;ancient Chinese self-rule administrative system#
+2174850#五色鳥#ごしきどり;ゴシキドリ#barbet (any bird of family Capitonidae)#
+2174860#綢繆#ちゅうびゅう#coiled about;entangled;entwined;familiar;harmonious#
+2174870#縉紳;搢紳#しんしん#person of rank;person of status;ranked official#
+2174880#緡縄#さしなわ#slender rope that goes through the hole in a coin#
+2174890#縹渺;縹緲;瞟眇#ひょうびょう#boundlessly wide or vast;dim and indistinct#
+2174900#集輯;緝輯#しゅうしゅう#gathered together and compiled#
+2174910#綰ねる#たがねる;たかねる#to gather and bundle together#
+2174920#綰ねる#わがねる#to bend into a loop (wire, hair, etc.)#
+2174930#綟;綟子#もじ#hemp yarn or linen thread woven into a coarse cloth used for mosquito nets, summer clothes, etc.#
+2174940#綿蛮;緜蛮#めんばん#chirping of a small bird#
+2174950#幌蚊帳;母衣蚊帳;母衣蚊屋#ほろがや#tent-shaped mosquito net (often used to protect infants)#
+2174960#腔線;腔綫#こうせん#gun rifling#
+2174970#花綵列島#かさいれっとう#island arc (like the Aleutian Islands)#
+2174980#綏撫#すいぶ;ずいぶ#lulled into peacefulness;comforted and consoled#
+2174990#立てこもり;立て篭り;立て籠り;楯籠り#たてこもり#shutting oneself in (one's room, etc.);barricading oneself in (a fort, etc.) while being besieged#
+2175000#汝の敵を愛せよ#なんじのてきをあいせよ#(as commanded by Jesus) love your enemies#
+2175010#汝の隣人を愛せよ#なんじのりんじんをあいせよ#(as commanded by Jesus) love your neighbour (neighbor)#
+2175020#饕餮#とうてつ#tao-tie (mythological Chinese creature engraved on bronzeware during the Shang & Zhou dynasties);(used as a metaphor for a) brutal person;coveting of wealth (property, etc.)#
+2175040#痛痒を感じない#つうようをかんじない#to neither itch nor feel pain;to not be affected by something;to not feel the effects of something#
+2175050#三水#さんずい#kanji "water" radical (radical 85)#
+2175060#卦算冠#けいさんかんむり#kanji "kettle lid" radical (radical 8)#
+2175070#人屋根#ひとやね#kanji "person" radical at top#
+2175080#下らん#くだらん#foolish;idiotic#
+2175090#下らぬ#くだらぬ#foolish;idiotic#
+2175100#人頭#ひとがしら#skull;cranium;kanji "person" radical at top#
+2175110##いりやね;いりがしら#kanji "enter" radical at top (radical 11)#
+2175130#八頭#はちがしら#kanji "eight" radical at top#
+2175140#冏構え#けいがまえ#kanji radical 13 ("upside-down box")#
+2175150#冂構え#まきがまえ#kanji radical 13 ("upside-down box")#
+2175160#同構え#どうがまえ#kanji radical 13 ("upside-down box")#
+2175170#ワ冠#ワかんむり#kanji radical "wa" or "covering" at top (radical 14)#
+2175180#平冠#ひらかんむり#kanji "wa" radical at top (radical 14)#
+2175190#冖冠#べきかんむり#kanji "wa" radical at top (radical 14)#
+2175200#二水#にすい#kanji "ice" radical#
+2175210#管鑰;管籥#かんやく#key;flute constructed of bamboo#
+2175220#竹笛#たけぶえ#flute constructed of bamboo#
+2175230#笹竹;篠竹#ささたけ#small bamboo#
+2175240#篠竹#しのだけ#bamboo grass;bamboo#
+2175250#篠竹#すずたけ;スズタケ#Sasamorpha borealis (species of bamboo grass unique to Japan)#
+2175260#樹下#じゅか;じゅげ#beneath the trees#
+2175270#水篶;三篶#みすず#Sasamorpha borealis (species of bamboo grass unique to Japan)#
+2175280#篠笹#しのざさ#bamboo grass;bamboo#
+2175290#擠陥#せいかん#tempting into crime#
+2175300#金鑞#きんろう#alloy of gold, silver, copper, zinc, cadmium, etc., used to fuse items of gold#
+2175310#真鍮鑞#しんちゅうろう#type of alloy of copper and zinc (brass) with zinc at about 33-67% used to solder metals like copper and iron#
+2175320#竄する#ざんする#to exile;to banish;to revise the wording of a phrase#
+2175330#逃竄#とうざん#act of fleeing into hiding#
+2175340#遯竄;遁竄#とんざん#fleeing into hiding#
+2175350#竄匿#ざんとく#diving under cover and hiding#
+2175360#鼕々;鼕鼕;とう鞳;鞺鞳#とうとう#sound of bells or drums reverberating;sound of water or waves resounding#
+2175370#黔首#けんしゅ#the people;the masses;the public;the great unwashed#
+2175380#てき儻;倜儻#てきとう#exceedingly wiser than the common man#
+2175390#謫所#たくしょ#exile for crime#
+2175400#一夜干し;一夜干#いちやぼし#fish salted and dried overnight#
+2175410#沖漬け;沖漬#おきづけ#fish sliced open and soaked in a mixture of vinegar, sake, and salt#
+2175420#程に#ほどに#because;the reason being;while;during;to the extent that;more and more#
+2175430#呉りゃる#くりゃる#to receive from another#
+2175440#衛士#えじ;えいし#soldiers of the ritsuryo system that guarded gates of the imperial palace, the court, etc.;term used in error to refer to young men that were made to do forced labour in the ritsuryo system;guards originally stationed at the grand shrine at Ise and shrine at Atsuta, Nagoya to protect the officials there#
+2175450#兄弟牆に鬩ぐ#けいていかきにせめぐ#sibling rivalry;quarrel among friends#
+2175470#鬩ぎ合い;せめぎ合い#せめぎあい#conflict;fighting each other#
+2175480#チャーター便#チャーターびん#charter flight#
+2175490#鬩ぐ#せめぐ#to be mutually bitter;to argue together;to quarrel;to resent and bemoan#
+2175500##ストロフルス#strophulus;red gum (skin condition primarily affecting children)#
+2175510#繞く#しまく#to enclose;to surround#
+2175520#風巻く#しまく#to gust;to blow violently#
+2175530#繞#にょう#kanji radical that runs from the left to the bottom part of the kanji;kanji enclosure-type radical#
+2175540#立刀#りっとう#kanji "sword" radical at right (radical 18)#
+2175550#包み構え;包構え#つつみがまえ#kanji "wrapping" radical (radical 20)#
+2175560#匚構え#はこがまえ#kanji "box-on-side" radical (radical 22)#
+2175570#匸構え#かくしがまえ#kanji "hiding-box" radical (radical 23)#
+2175580#節旁#ふしづくり#kanji "seal" radical at right#
+2175590#曲げ卩;曲げ割符#まげわりふ#kanji "crooked seal" radical at right (variant of radical 26)#
+2175600#雁垂れ;厂#がんだれ#kanji "cliff" radical (radical 27)#
+2175610#口偏#くちへん#kanji "mouth" radical at left (radical 30)#
+2175620#国構え;囗#くにがまえ#kanji "box" or "country" radical (radical 31);radical consisting of an enclosing box#
+2175630#土偏#つちへん#kanji "earth" radical at left (radical 32)#
+2175640#夊繞#すいにょう#kanji "suinyou" radical (radical 35)#
+2175650#冬頭#ふゆがしら#kanji "winter" radical at top (radical 34)#
+2175660##なつあし#kanji radical 35 when at the bottom (as in the character for summer)#
+2175670#女偏#おんなへん#kanji "woman" radical at left (radical 38)#
+2175680#子偏#こへん#kanji "child" radical at left#
+2175690##すんづくり#kanji sun ("inch") radical at right (radical 41)#
+2175700#尢#だいのまげあし#kanji "crooked-leg" dai radical (radical 43)#
+2175710#尸冠#しかばねかんむり#kanji "corpse" radical#
+2175720#山偏#やまへん#kanji "mountain" radical at left#
+2175730#山冠#やまかんむり#kanji "mountain" radical at top#
+2175740#巛#まがりかわ;まがりがわ#kanji "curving river" radical (variant of radical 47)#
+2175750#牛舌魚;牛の舌#うしのした#cow's tongue;sole (any flatfish of suborder Soleoidei, esp. the tonguefishes of family Cynoglossidae or true soles of family Soleidae)#
+2175760#巾偏#はばへん;きんべん#kanji "cloth" radical at left#
+2175770#糸頭#いとがしら#top component of the kanji "thread" radical#
+2175780#延繞#えんにょう#kanji "stretch" radical (radical 54)#
+2175790#廴繞#いんにょう#kanji "stretch" radical (radical 54)#
+2175800#二十脚#にじゅうあし#kanji "twenty legs" radical (radical 55)#
+2175810#黒牛の舌;黒牛舌魚#くろうしのした;クロウシノシタ#black cow-tongue (species of tonguefish, Paraplagusia japonica)#
+2175820#式構え#しきがまえ#kanji "ceremony" radical (radical 56)#
+2175830#弓偏#ゆみへん#kanji "bow" radical at left#
+2175840#彑頭;けい頭#けいがしら#kanji "pig's head" radical#
+2175850#彡旁#さんづくり#kanji "three" or "hair ornament" radical at right#
+2175860#行人偏;彳#ぎょうにんべん#kanji "going man" radical (radical 60)#
+2175870##ターボット#turbot#
+2175880#銭#ぜに#round coin with a (square) hole in the center;coin made of non-precious materials;money#
+2175890##ハリバット#halibut#
+2175900#薬物動態#やくぶつどうたい#pharmacokinetics#
+2175910#秋楡#あきにれ;アキニレ#Chinese elm (Ulmus parvifolia)#
+2175920#山楡#やまにれ;ヤマニレ#Chinese elm (Ulmus parvifolia)#
+2175930#脂漏性皮膚炎#しろうせいひふえん#seborrheic dermatitis;seborrheic eczema#
+2175940#誘拐者#ゆうかいしゃ#abductor#
+2175950#教唆罪#きょうさざい#criminal instigation#
+2175960#教唆犯#きょうさはん#criminal instigator#
+2175970#共同正犯#きょうどうせいはん#crime committed together by two or more people (in which each is known as a co-principal)#
+2175980#共謀共同正犯#きょうぼうきょうどうせいはん#criminal conspiracy (participation in the planning a crime, but not its execution)#
+2175990#単独正犯#たんどくせいはん#acting alone in committing a crime#
+2176000#内乱罪#ないらんざい#criminal insurrection#
+2176010#集団犯#しゅうだんはん#crime whose goal requires a large number of people acting together (i.e. insurrection)#
+2176020#見てもらう;見て貰う;診てもらう;診て貰う#みてもらう#to see (a doctor, etc.);to consult (someone)#
+2176030#罪体#ざいたい#corpus delicti (concrete evidence of a crime, e.g. a bullet-riddled body)#
+2176040#構成要件#こうせいようけん#actus reus (constituent external element of a crime, as opposed to mental state)#
+2176050#わいせつ罪;猥褻罪#わいせつざい#criminal indecency#
+2176060#公然わいせつ罪;公然猥褻罪#こうぜんわいせつざい#(crime of) public indecency#
+2176070#強制わいせつ罪;強制猥褻罪#きょうせいわいせつざい#(crime of) indecent assault#
+2176080#罪数#ざいすう#number of crimes#
+2176090#強盗罪#ごうとうざい#(crime of) robbery#
+2176100#結合犯#けつごうはん#single crime consisting of multiple independent crimes (i.e. robbery, which consists of theft and threats or use of violence)#
+2176110#集合犯#しゅうごうはん#single crime that naturally consists of a number of incidences and is charged as only one count (i.e. habitual gambling);crime whose goal requires a large number of people acting together (i.e. insurrection)#
+2176120#多肢選択法#たしせんたくほう#multiple-choice#
+2176130#初子#はつね#first day of the rat of the New Year;first day of the rat of the month (esp. of the 11th month)#
+2176140#子の日#ねのひ;ねのび#day of the rat (esp. the first day of the rat in the New Year);collecting herbs and pulling out young pine trees by the roots;pine shoot pulled out in such a manner#
+2176150#子の日の遊び#ねのひのあそび#collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the rat of the New Year)#
+2176160#小松引き#こまつひき#collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the rat of the New Year)#
+2176170#子忌み;子忌#ねいみ#collecting herbs and pulling out young pine trees by the roots (annual event held on the first day of the rat of the New Year)#
+2176180#子の日の松#ねのひのまつ#pine shoot pulled out during "ne-no-hi-no-asobi"#
+2176190#地獄道#じごくどう#nakara (hell) realm#
+2176200#阿修羅道#あしゅらどう#Asura realm#
+2176210#人間道#にんげんどう#humaneness;human realm#
+2176220#十界#じっかい#ten spiritual realms#
+2176230#仏界#ぶっかい#Pure Land;spiritual realm of Buddhahood#
+2176240#声聞#しょうもん#sravaka (disciple of Buddha);adherent of Hinayana Buddhism#
+2176250#裏かく#うらかく#to pierce something all the way through (with a lance, arrow, etc.)#
+2176260#兼業主婦#けんぎょうしゅふ#part-time mom;working mother#
+2176270#揉み込む;揉みこむ#もみこむ#to rub into;to train for;to prepare for#
+2176280#此れは#これは#as for this;hey there (expression of surprise when one encounters something unexpected);see here;I say#
+2176290#錦上に花を敷く#きんじょうにはなをしく#to crown beauty with even greater beauty#
+2176300#過ちて改めざる是を過ちと謂う;過ちて改めざる是を過ちという;過ちて改めざるこれを過ちという#あやまちてあらためざるこれをあやまちという#to err and not change one's ways, this is what it is to err (from Analects of Confucius)#
+2176310#危な危な#あぶなあぶな#timidly#
+2176320#過ちを文る#あやまちをかざる#to not try to fix an error but rather make it look good on the surface only#
+2176330#過ちを観て斯に仁を知る#あやまちをみてここにじんをしる#to observe the reasons and types of faults a person makes is to come to know whether they are virtuous or not#
+2176340#威ありて猛からず;威有りて猛からず;威有て猛からず#いありてたけからず#dignified without being overbearing;being dignified, and moreover warm, as such one is gentle#
+2176350#怒りを遷す#いかりをうつす#to be so angry that one lashes out at unrelated things;to have an outburst of anger#
+2176360#此れを以て#これをもって#with this I (formal);by this I (formal)#
+2176370#これを要するに;此れを要するに#これをようするに#to sum things up;in short;in other words#
+2176380#此れと言って#これといって#not worth mentioning (with neg)#
+2176390#人界#にんがい#spiritual realm of humanity#
+2176400#人界#じんかい#world of man#
+2176410#例の#れいの#the usual;as it always is;said;that (previously-mentioned person or object);aforementioned;you-know-(who, what, etc.);in the usual way#
+2176420#例によって例の如し#れいによってれいのごとし#as always;the same as it always is#
+2176430#今茲#こんじ#this year;the current year#
+2176440#此処に於て#ここにおいて#now;at this time;as such;for this reason;hence#
+2176450#今はこれまで;今は是迄;今は此れ迄;今は是まで#いまはこれまで#unavoidable;this is it;this is the end;left with no choice;it's all over now#
+2176460#頑是#がんぜ#distinction between right and wrong#
+2176470#季夏#きか#end of summer;sixth month of the lunar calendar#
+2176480#孟秋#もうしゅう#beginning of autumn;seventh month of the lunar calendar#
+2176490#因りて;依りて;仍りて#よりて#as such;for that reason;therefore;consequently#
+2176500#歹偏#がつへん#kanji "bare bone" radical at left#
+2176510#一タ偏#いちたへん#kanji "bare bone" radical at left#
+2176520#季秋#きしゅう#end of autumn;ninth month of the lunar calendar#
+2176530#孟冬#もうとう#beginning of winter;tenth month of the lunar calendar#
+2176540#季冬#きとう#end of winter;twelfth month of the lunar calendar#
+2176550#上冬#じょうとう#tenth month of the lunar calendar#
+2176560#杪春#びょうしゅん#end of spring#
+2176570#杪秋#びょうしゅう#end of autumn (fall)#
+2176580#杪冬#びょうとう#end of winter#
+2176590#子月#ねづき#eleventh month of the lunar calendar#
+2176600#懶惰;嬾惰#らんだ;らいだ#lazy;idle;indolence;laziness;sloth;idleness#
+2176610#羝羊#ていよう#ram (sheep);used to liken one to someone who lives their life by instinct#
+2176620#毛衣;裘#けごろも#fur coat (to protect against the cold);clothes made with the down of birds#
+2176630#千金の裘は一狐の腋に非ず#せんきんのきゅうはいっこのえきにあらず#an expensive fur coat will not be made with a single fox alone;to rule a country requires many great men#
+2176640#好逑#こうきゅう#good spouse#
+2176650#笈;負#おい#wooden box carried on one's back to store items for a pilgrimage#
+2176670#岌岌;岌々#きゅうきゅう#tall (as a mountain, etc.);exceedingly dangerous#
+2176680#九竅#きゅうきょう#general term for the nine holes in the body of humans and other mammals#
+2176690#磽确;墝埆#こうかく;ぎょうかく#stony, fallow land#
+2176700##アルクトゥルス;アルクトゥールス#Arcturus (star in the constellation Bootes);Alpha Bootis#
+2176710##アルタイル#Altair (star in the constellation Aquila);Alpha Aquilae#
+2176720##アルデバラン#Aldebaran (star in the constellation Taurus);Alpha Tauri#
+2176730#ヘルツシュプルングラッセル図#ヘルツシュプルングラッセルず#Hertzsprung-Russel diagram;HR diagram#
+2176740#ＨＲ図#エッチアールず#Hertzsprung-Russel diagram;HR diagram#
+2176750#外合#がいごう#superior conjunction#
+2176760#下合#かごう#inferior conjunction#
+2176770#上合#じょうごう#superior conjunction#
+2176780##カリスト#Callisto (nymph in Greek mythology);Callisto (moon of Jupiter)#
+2176790#二十八宿#にじゅうはっしゅく#twenty-eight mansions of Chinese astronomy (constellations dividing the ecliptic into 28 positions)#
+2176800#蒼竜;蒼龍#そうりょう;そうりゅう#blue dragon;Azure Dragon (god said to rule over the eastern heavens);seven mansions (Chinese constellations) of the eastern heavens;large horse with a bluish-leaden coat;shape of an old pine tree#
+2176810#営業分野#えいぎょうぶんや#business field#
+2176820#青龍;青竜#せいりょう;しょうりょう;せいりゅう#blue dragon (an auspicious creature in Chinese mythology);Azure Dragon (god said to rule over the eastern heavens)#
+2176830#四神#しじん#four gods said to rule over the four directions;(in China) four gods said to rule over the four seasons#
+2176840#四獣#しじゅう#four beasts (tiger, leopard, black bear, and brown bear);four gods said to rule over the four directions#
+2176850#朱雀#すざく;すじゃく;しゅじゃく#Vermilion Bird (god said to rule over the southern heavens);seven mansions (Chinese constellations) of the southern heavens#
+2176860#白虎#びゃっこ;はっこ#White Tiger (god said to rule over the western heavens);seven mansions (Chinese constellations) of the western heavens#
+2176870#玄武#げんぶ;げんむ#Black Tortoise (god said to rule over the northern heavens);seven mansions (Chinese constellations) of the northern heavens#
+2176880#祝融#しゅくゆう#ancient Chinese god of fire (or spring);(disastrous) fire#
+2176890#玄冥#げんめい#ancient Chinese god of the north (or rain, water, etc.)#
+2176900#穆穆;穆々#ぼくぼく#peaceful and lovely;humble and dignified#
+2176910#清穆#せいぼく#gentle and pure (used in letters to celebrate the health and happiness of the addressee)#
+2176920#金環日食#きんかんにっしょく#annular solar eclipse#
+2176930#ＮＨＫ受信料#エヌエイチケーじゅしんりょう;エヌエッチケーじゅしんりょう#NHK fees#
+2176940#ＮＨＫ#エヌエイチケー;エヌエッチケー#Japan Broadcasting Corporation;Nihon Housou Kyoukai;NHK#
+2176950#摂社#せっしゃ#auxiliary shrine (dedicated to a deity close-related to that of a main shrine)#
+2176960#枝宮#えだみや#subordinate shrine#
+2176970#本宮#ほんぐう;もとみや#main shrine#
+2176980#別宮#べつぐう#associated shrine (i.e. auxiliary shrine, subordinate shrine, etc.)#
+2176990#奥社#おくしゃ#rear shrine (located behind the main shrine, but dedicated to the same deity)#
+2177000#奥宮#おくみや#rear shrine (located behind the main shrine, but dedicated to the same deity)#
+2177010#新宮#しんぐう#newly constructed shrine#
+2177020#今宮#いまみや#newly born imperial prince;newly constructed (branch) shrine#
+2177030#分霊#ぶんれい#division of a shrine's tutelary deity, in order to share it with another shrine;spirit divided in such a manner#
+2177040#鎮祭#ちんさい#religious ceremony (to appease the gods)#
+2177050#勧請#かんじょう#praying for the coming of a deity;ceremonial transfer of a divided tutelary deity to a new location#
+2177060#大宮#おおみや#imperial palace;shrine;Grand Empress Dowager;Empress Dowager;woman of imperial lineage who has borne a child;elderly woman of imperial lineage#
+2177070#太皇太后#たいこうたいごう#Grand Empress Dowager#
+2177080#三后#さんこう#Grand Empress Dowager, the Empress Dowager and the Empress Consort#
+2177090#三皇后#さんこうごう#Grand Empress Dowager, the Empress Dowager and the Empress Consort#
+2177100#三宮#さんぐう#Grand Empress Dowager, the Empress Dowager and the Empress Consort#
+2177110#諸神#もろがみ;しょしん#(a multitude of) gods#
+2177120#許りか#ばかりか#not only#
+2177130#麦隴#ばくろう#field of grain (not rice)#
+2177140#壟畝;隴畝#ろうほ#ridges of and paths between fields;countryside;civilian#
+2177150#敏い;聆い#とい#nimble;keen;sharp#
+2177160#燎原#りょうげん#agricultural burning;setting a field ablaze#
+2177170#嚠喨;瀏亮#りゅうりょう#clear and resounding (as a voice or musical instrument)#
+2177180#喨喨;喨々#りょうりょう#bright, clear and reverberate#
+2177190#閭門#りょもん#gate of a village#
+2177200#臚列#ろれつ#lined up in a row#
+2177210#膂力#りょりょく#physical strength;the strength of one's muscles#
+2177220#宝さかって入る時はさかって出る#たからさかっているときはさかってでる#ill-gotten gains fade as fast as they were obtained#
+2177230#宝の山に入りながら手を空しくして帰る#たからのやまにいりながらてをむなしくしてかえる#though sitting on a pile of riches, one comes back empty handed;to have a good opportunity only to let it slip from your grasp#
+2177240#宝は湧き物#たからはわきもの#from riches spring riches;those who seek riches find riches#
+2177250#漫符#まんぷ#signs, symbols and characters used in manga to represent actions, emotions, etc.#
+2177260#歯膜炎#しまくえん#periodontitis#
+2177270#縞秧鶏#しまくいな#Swinhoe's yellow rail (Porzana exquisita)#
+2177290#魄#はく#Yin energy;spirit#
+2177300#魂#こん#Yang energy;spirit#
+2177310#渓壑;谿壑#けいがく#ravine;chasm;ravenous desire;insatiable desire#
+2177320#渓澗;谿澗#けいかん#mountain stream;valley#
+2177330#渓水;谿水#けいすい#mountain stream;the water of a mountain stream#
+2177340#渓泉;谿泉#けいせん#a spring that gushes forth from a valley#
+2177350#降鑒#こうかん#the gods watching over humans from the heavens#
+2177360#清鑑;清鑒#せいかん#excellent judgement#
+2177370#鏗鏗;鏗々#こうこう#the ringing out of bells or chimes#
+2177380#鏗鏘#こうそう#the resoudning sound of bells, musical instruments, stones being struck, etc.#
+2177390#臧否#ぞうひ#the good and bad#
+2177400#深淵に臨むが如し#しんえんにのぞむがごとし#like looking out on an abyss;like standing on the edge of an abyss#
+2177410#望むらくは#のぞむらくは#I pray that;I wish that#
+2177420#恐らくは#おそらくは#I fear that it's likely that;with all due respect#
+2177430#惜しむらくは#おしむらくは#I regret that;It's unfortunate but;It's too bad that#
+2177440#恨むらくは;憾むらくは#うらむらくは#I regret that;I feel terrible but;I'm sorry but#
+2177450#乞い願わくは;希わくは;冀わくは;庶幾わくは#こいねがわくは#I pray in earnest that;I beg that;I yearn that#
+2177470##ペルソナ#persona#
+2177480##ペルソナノングラータ#persona non grata#
+2177490#人格神#じんかくしん#personal god (i.e. a god who has human form, emotions, etc.)#
+2177500#人格神論#じんかくしんろん#theism (as refers to the existence of a personal Christian god)#
+2177510##オプスデイ;オプス・デイ#Opus Dei (Roman Catholic organization)#
+2177520##アニュスデイ;アニュス・デイ#Agnus Dei#
+2177530#大鹿;麋#おおじか;オオジカ#large deer;moose;elk;red deer#
+2177540##エルク#elk#
+2177550#大母音推移#だいぼいんすいい#the Great Vowel Shift#
+2177560#母音交替#ぼいんこうたい#ablaut;vowel gradation;vowel shift#
+2177570#母音三角形#ぼいんさんかっけい;ぼいんさんかくけい#vowel triangle#
+2177580#原始星#げんしせい#protostar#
+2177590#サロス周期#サロスしゅうき#Saros cycle#
+2177600##シデロスタット#siderostat#
+2177610##ヘリオスタット#heliostat#
+2177620#みなみじゅうじ座;南十字座#みなみじゅうじざ#Crux (constellation)#
+2177630##ぱるる#Postal Savings system#
+2177640#南十字#みなみじゅうじ#Southern Cross (asterism formed with the brightest four stars of the constellation Crux)#
+2177650#十字座#じゅうじざ#Crux (constellation)#
+2177660#世界時#せかいじ#Universal Time;UT#
+2177670#グリニッジ時;グリニジ時#グリニッジじ;グリニジじ#Greenwich Time#
+2177680#本初子午線#ほんしょしごせん#prime meridian#
+2177690#グリニッジ平均時#グリニッジへいきんじ#Greenwich Mean Time;GMT#
+2177700##セクスタント;セキスタント#sextant#
+2177710#連なり#つらなり#series (of something);range (e.g. of mountains)#
+2177720#棚へ上げる#たなへあげる#to be blind to one's shortcomings;to play innocent#
+2177730#救命胴衣#きゅうめいどうい#life-jacket;life-vest#
+2177740#願わくば;希わくば#ねがわくば#I pray;I wish#
+2177750#背幅#せはば#breadth of the back#
+2177760##フリント#flint#
+2177770#胃宿#えきえぼし#Chinese "stomach" constellation (one of the 28 mansions)#
+2177780#角宿#すぼし#Chinese "horn" constellation (one of the 28 mansions)#
+2177790#危#き#danger;Chinese "rooftop" constellation (one of the 28 mansions)#
+2177800#危宿#うみやめぼし#Chinese "rooftop" constellation (one of the 28 mansions)#
+2177810#鬼宿#きしゅく#Chinese "ghost" constellation (one of the 28 mansions);"day of the ghost"#
+2177814#魂緒の星#たまおのほし#Chinese "ghost" constellation (one of the 28 mansions);"day of the ghost"#
+2177818#魂讃め星#たまほめぼし#Chinese "ghost" constellation (one of the 28 mansions);"day of the ghost"#
+2177820#鬼宿日#きしゅくにち#"day of the ghost" (an extremely auspicious day on the lunar calendar for everything but weddings)#
+2177830#十二直#じゅうにちょく#twelve words used to mark the old calendar as indicators of lucky and unlucky activites#
+2177840#暦の中段#こよみのちゅうだん#twelve words used to mark the old calendar as indicators of lucky and unlucky activites#
+2177850#六輝#ろっき#Japanese calendar's six labels, indicating how auspicious each day is#
+2177860#宿曜経#すくようきょう;しゅくようきょう;すくようぎょう#Xiuyaojing (Indian astrological text written by Amoghavajra)#
+2177870#宿曜#すくよう;しゅくよう#form of astrology based on the Xiuyaojing#
+2177880#雑節#ざっせつ#standard days signifying the changing of the seasons (i.e. setsubun, higan, etc.)#
+2177890#首が飛ぶ#くびがとぶ#to be sacked;to be dismissed#
+2177900#社日#しゃにち;しゃじつ#"tsuchinoe" day that falls closest to the vernal or autumnal equinox (a day of religious significance for harvests)#
+2177910#選日#せんじつ#selecting an auspicious date by looking at the astrological information on the calendar;date selected in such a manner#
+2177920#暦本#れきほん#books related to the calendar;the calendar;the almanac#
+2177930#朔望#さくぼう#first and fifteenth days of the lunar month (corresponding to new moon and full moon)#
+2177940#朔望月#さくぼうげつ#synodic month#
+2177950#朔望潮#さくぼうちょう#spring tide#
+2177960#暦注#れきちゅう#various information recorded in the almanac (as regards astronomy, astrology, etc.)#
+2177970#箕#き#Chinese "winnowing basket" constellation (one of the 28 mansions)#
+2177980#箕宿;箕星#みぼし#Chinese "winnowing basket" constellation (one of the 28 mansions)#
+2177990#行程表#こうていひょう#road map#
+2178000#蘆薈#ろかい#aloe#
+2178010#角釘;角くぎ#かくくぎ#square nail;square peg#
+2178020#准教授;準教授#じゅんきょうじゅ#associate professor#
+2178030#留学希望者#りゅうがくきぼうしゃ#person interested in studying abroad;person wanting to study abroad#
+2178040#鋩子#ぼうし#the edge at the very tip of a sword#
+2178050#鋩#へさき#the tip of a spear;the edge at the very tip of a sword#
+2178060#鋒鋩#ほうぼう#the tip of an edged instrument;sharp words;vicious character#
+2178070#東瀛#とうえい#the pacific side of Japan;eastern sea;of or about Japan#
+2178080#蒼氓#そうぼう#the people;the public;citizens#
+2178090#流氓#りゅうぼう#refugee#
+2178100##サロス#saros (period of approximately 18 years and 11 days between repetition of eclipses)#
+2178110#カルデア人#カルデアじん#Chaldean (person)#
+2178120#青人草#あおひとくさ#the people;the public;citizenry#
+2178130#抜本#ばっぽん#eradication;drastic#
+2178140#立心偏#りっしんべん#kanji "heart" radical at left (radical 61)#
+2178150#戈構え#ほこがまえ#kanji "spear" radical at right#
+2178160#戈旁#ほこづくり#kanji "spear" radical at right#
+2178170#戸冠#とかんむり#kanji "door" radical#
+2178180#戸垂れ#とだれ#kanji "door" radical#
+2178190#手偏#てへん#kanji "hand" radical at left (radical 64)#
+2178200#支繞#しにょう;えだにょう#kanji "branch" radical as enclosure#
+2178210#攴繞;攵繞#ぼくにょう#kanji "strike" radical at right (radical 66)#
+2178220#攴#とまた#kanji "strike" radical at right (radical 66)#
+2178230#文繞#ぶんにょう#kanji "literature" radical (radical 67)#
+2178240#攵#のぶん#kanji "strike" radical at right (radical 66)#
+2178250#斧旁#おのづくり#kanji "axe" radical at right#
+2178260#方偏#かたへん;ほうへん#kanji "direction" radical at left (radical 70)#
+2178270#日偏#ひへん;にちへん#kanji "day" radical at left (radical 72)#
+2178280#月偏#つきへん#kanji "moon" radical at left (usually classified as radical 130)#
+2178290#肉月#にくづき#kanji "meat" radical at left (looks like "moon" radical, radical 74)#
+2178300#木偏#きへん#kanji "tree" radical at left (radical 75)#
+2178310#止偏#とめへん#kanji "stop" radical at left#
+2178320#殳旁#ほこづくり#kanji radical 79 at right#
+2178330#ル又;殳#るまた#kanji radical 79 at right#
+2178340#火偏#ひへん#kanji "fire" radical at left (radical 86)#
+2178350#列火#れっか#kanji "fire" radical at bottom (radical 86)#
+2178360#連火#れんが#kanji "fire" radical at bottom#
+2178370#爪冠#つめかんむり#kanji "claw" radical at top#
+2178380#爪繞#そうにょう#kanji "claw" radical at left#
+2178390#爿偏#しょうへん#kanji radical 90 at left#
+2178400#片偏#かたへん#kanji "side" radical (radical 91) at left#
+2178410#牛偏#うしへん#kanji "cow" radical at left (radical 93)#
+2178420#人間の盾#にんげんのたて#human shield#
+2178430#路線図#ろせんず#route map (buses and trains, etc.)#
+2178440#受信音#じゅしんおん#ringtone (of mobile phones, portable phones, cellphones, etc.)#
+2178450#書痴#しょち#book nut;bibliomaniac;bookworm#
+2178460#言う方#いうかた#way of saying#
+2178470#小衣蛾#こいが;コイガ#common clothes moth (Tineola biselliella)#
+2178480#大和紙魚#やまとしみ;ヤマトシミ#Oriental silverfish (Ctenolepisma villosa)#
+2178490#斑紙魚#まだらしみ;マダラシミ#firebrat (species of bristletail, Thermobia domestica)#
+2178500#西洋紙魚#せいようしみ;セイヨウシミ#silverfish (Lepisma saccharina)#
+2178510#衣魚虫#しみむし#true bristletail (any insect of order Thysanura, esp. of family Lepismatidae)#
+2178520#雲母虫#きららむし#true bristletail (any insect of order Thysanura, esp. of family Lepismatidae)#
+2178530#広頭小蛾#ひろずこが;ヒロズコガ#tineid (any moth of family Tineidae)#
+2178540#天社蛾;鯱蛾#しゃちほこが;シャチホコガ#lobster moth (Stauropus fagi persimilis)#
+2178560#目が舞う;目が眩う#めがまう#to feel dizzy#
+2178570#胸が躍る;胸がおどる#むねがおどる#to be excited;to be elated#
+2178580#心が弾む#こころがはずむ#to be excited;to be elated#
+2178590##バードウィーク;バード・ウィーク#Bird Week (starting on May 10th of each year)#
+2178600#百科辞書#ひゃっかじしょ#encyclopedia (encyclopaedia)#
+2178610#浜防風#はまぼうふう;ハマボウフウ#Glehnia littoralis (species of umbellifer used in Chinese medicine)#
+2178620#八百屋防風#やおやぼうふう#Glehnia littoralis (species of umbellifer used in Chinese medicine)#
+2178630#伊勢防風#いせぼうふう#Glehnia littoralis (species of umbellifer used in Chinese medicine)#
+2178640#牡丹防風#ぼたんぼうふう;ボタンボウフウ#Peucedanum japonicum (species of umbellifer with edible leaves)#
+2178650#アメリカ防風#アメリカぼうふう;アメリカボウフウ#parsnip (plant) (Pastnica sativa)#
+2178660##パースニップ#parsnip#
+2178680#出すことは舌を出すも嫌い;出す事は舌を出すも嫌い#だすことはしたをだすもきらい#being exceptionally stingy#
+2178690#法廷侮辱罪#ほうていぶじょくざい#(crime of) contempt of court#
+2178700#侮辱罪#ぶじょくざい#(crime of) defamation (i.e. slander, libel)#
+2178710#官選弁護人#かんせんべんごにん#court-appointed attorney#
+2178720#参考文献一覧#さんこうぶんけんいちらん#bibliography#
+2178730#九州弁#きゅうしゅうべん#Kyushu dialect#
+2178740#東北弁#とうほくべん#Tohoku dialect#
+2178750#博多弁#はかたべん#Hakata dialect#
+2178760#食品群#しょくひんぐん#food group#
+2178770#抜本#ぬきほん#excerpt;selection#
+2178780#下水#したみず#water flowing underneath;one's true feelings;kanji "water" radical at bottom (radical 85)#
+2178790#輩#はい#group;gang;bunch#
+2178800#食品標準成分表#しょくひんひょうじゅんせいぶんひょう#standard tables of food composition#
+2178810#日本食品標準成分表#にほんしょくひんひょうじゅんせいぶんひょう#standard tables of food composition in Japan#
+2178820#食品成分表#しょくひんせいぶんひょう#standard tables of food composition in Japan#
+2178830#一杯飲み屋;一杯飲屋;一杯呑屋#いっぱいのみや#cheap drinking spot (pub, tavern, etc.)#
+2178840#ずうずう弁#ずうずうべん#thick Tohoku accent (wherein some "j" sounds become "z" sounds)#
+2178850#南極地方#なんきょくちほう#Antarctic region;south polar region#
+2178860##ぎゅう#squeezing something tightly;sound made by someone (or something) being squeezed;criticizing someone severely;sound made by someone being criticized;hug#
+2178870##きゅん#choked up (with emotion);heart-wringing;momentary tightening of one's chest caused by powerful feelings (e.g. parting with a loved one)#
+2178880##ごくり;ごっくり#gulpingly#
+2178890##ごくごく#gulping repetitively#
+2178900#未成熟#みせいじゅく#immaturity;infancy#
+2178910#フラグが立つ#フラグがたつ#to have a flag set (indicates the setting of a variable that determines, for example, how a game will end)#
+2178920#沖縄口#うちなあぐち;ウチナーグチ#words and phrases only used in Okinawa;Okinawa dialect#
+2178930##ばってん#but;however;although#
+2178940##ウルシオール#urushiol#
+2178950#生漆#きうるし#unrefined sap of the lacquer tree#
+2178960#解釈改憲#かいしゃくかいけん#effecting de facto constitutional changes through creative interpretation of the existing constitution;reinterpretation of the constitution#
+2178970#選ばれし者;撰ばれし者;択ばれし者#えらばれしもの#the chosen one;the chosen ones;the select few#
+2178980#語素#ごそ#word root (the smallest portion of a larger word that holds meaning)#
+2179000##ゴーン#dong (of a bell or gong)#
+2179010#瘧が落ちる#おこりがおちる#to wake from a fever-induced delirium#
+2179020##バイオエタノール#bioethanol#
+2179030#混ずる#こんずる#to be mixed in with;to blend with#
+2179040#混じる#こんじる#to be mixed in with;to blend with#
+2179050#儚くなる#はかなくなる#to die;to pass away#
+2179060#好奇心旺盛#こうきしんおうせい#brimming with curiosity#
+2179070#目を見る#めをみる#to experience#
+2179080#日の目を見る#ひのめをみる#to come into the light of day;to come to light;to become recognized;to surface#
+2179090##しばしば;シバシバ;しぱしぱ;シパシパ#(blinking) repeatedly#
+2179100#しばしば目#しばしばめ#blinking away tears;blinking tear filled eyes#
+2179110#激安#げきやす#dirt cheap;bargain priced#
+2179120#ため息をつく;溜息をつく;溜息を吐く;ため息を吐く;溜め息を吐く;溜め息をつく#ためいきをつく#to sigh;to breathe a sigh#
+2179130#亜界#あかい#subkingdom#
+2179140#綱#こう#class#
+2179150#下綱#かこう#infraclass#
+2179160#上目#じょうもく#superorder#
+2179170#予算編成#よさんへんせい#budget compilation (by the Cabinet)#
+2179180#上科#じょうか#superfamily#
+2179190#連勝式#れんしょうしき#quinella;quiniela#
+2179200#亜連#あれん#(taxonomical) subtribe#
+2179210#属#ぞく#genus;generic#
+2179220##トラジカル;トゥラジカル#tragical#
+2179230#何事も#なにごとも#anything;whatever;nothing (with neg. verb)#
+2179240#亀毛兎角#きもうとかく#fur on turtles and horns on rabbits (used as a metaphor for things that do not exist)#
+2179250#兎角亀毛#とかくきもう#horns on rabbits and fur on turtles (used as a metaphor for things that do not exist)#
+2179260#一寸やそっと#ちょっとやそっと#(followed by a word in negative form) (not) merely;(not) simply#
+2179270#真にもって#まことにもって#in all sincerity;truthfully;honestly#
+2179280#動もすると#ややもすると#being apt to;being liable to;being inclined to#
+2179290##ともすると#apt to (do);liable to;prone to#
+2179300#弾#だん#counter for parts (of a story, etc.)#
+2179310#呼び合う#よびあう#to call each other;to call out to one another#
+2179320#籠の鳥;篭の鳥;かごの鳥#かごのとり#caged bird;person whose freedom has been restricted (esp. a prostitute, mistress, concubine, etc.)#
+2179330#籠で水を汲む#かごでみずをくむ#like trying to scoop water with a basket (i.e. impossible, a waste of time & energy)#
+2179340#閨事#ねやごと#sexual intercourse;lovemaking#
+2179350#穀雨#こくう#"grain rain" solar term (approx. April 20)#
+2179360#小満#しょうまん#"grain full" solar term (approx. May 21)#
+2179370#芒種#ぼうしゅ#"grain in ear" solar term (approx. June 6, when awns begin to grow on grains)#
+2179380#小暑#しょうしょ#"minor heat" solar term (approx. July 7)#
+2179390#処暑#しょしょ#"limit of heat" solar term (approx. Aug. 23, when the weather is said to start cooling down)#
+2179400#寒露#かんろ#late-autumn or early-winter dew;"cold dew" solar term (approx. Oct. 8)#
+2179410#霜降#そうこう#"frost descent" solar term (approx. Oct. 23)#
+2179420#小雪#しょうせつ#"minor snow" solar term (approx. Nov. 22)#
+2179430#持ちも提げもならない#もちもさげもならない#no way at all to deal with#
+2179440#音変化;音變化#おんぺんか#change in sound;shift in sound#
+2179450#補説#ほせつ#supplementary explanation;supplementary information#
+2179460#物がある#ものがある#sentence-ending expression of strong judgement#
+2179470#物に似ず#ものににず#incomparable#
+2179480#物の序で;物のついで#もののついで#take the opportunity to (do something else)#
+2179490#事の序で;事のついで#ことのついで#take the opportunity to (do something else)#
+2179500#音写;音寫#おんしゃ#transliteration#
+2179510#横になる#よこになる#to lie down (and rest)#
+2179520#天に向かって唾を吐く#てんにむかってつばきをはく#to spit into the wind;in trying to cause harm to another, one invites disaster upon onelself#
+2179530#持ちも提げもならぬ#もちもさげもならぬ#having no way to deal with something#
+2179540#外果皮#がいかひ#exocarp#
+2179550#内果皮#ないかひ#endocarp#
+2179560#中果皮#ちゅうかひ#mesocarp;pith#
+2179570#裂開果#れっかいか#dehiscent fruit (fruit that opens when ripe, i.e. pea pod)#
+2179580#閉果#へいか#indehiscent fruit (fruit that doesn't open when ripe, i.e. apricot)#
+2179590#真果#しんか#true fruit (i.e. one that forms from the ovary only)#
+2179600#液果#えきか#moist, fleshy fruit (e.g. tomato, grape);berry#
+2179610#裂果#れっか#dehiscent fruit (fruit that opens when ripe, i.e. peas)#
+2179630##パラセタモール#paracetamol#
+2179650#切符をとる;切符を取る#きっぷをとる#to buy an advance sales ticket (for a reserved seat)#
+2179660#童部#わらわべ#child;children;child servant;temple page;my (young or child-like) wife;young slacker (who has not yet attained adulthood)#
+2179670#隠り世;隠世;幽世#かくりよ#afterlife;realm of the dead#
+2179680##アンチセミティズム#anti-Semitism#
+2179690##うんともすんとも#(followed by a negative verb form) not uttering a single word;not giving even the slightest response#
+2179700#軒忍;軒荵#のきしのぶ;ノキシノブ#Lepisorus thunbergiana (species of fern)#
+2179710#笄#こうがい#hairpin#
+2179720#髻#もとどり;たぶさ;たきふさ#place where hair is gathered together atop the head;hair tied (or pinned) together in this position#
+2179730#忍髷;忍ぶ髷#しのぶわげ#women's hairstyle (first appearing during the mid-18th century)#
+2179740#すり衣;摺り衣#すりごろも;すりぎぬ#plain white clothing patterned using dyes#
+2179750#摺り込み染め;摺り込み染;摺込染#すりこみぞめ#coloring fabric by placing a paper stencil over it and brushing on the dye;fabric colored in such a manner#
+2179760#摺り染め;摺り染;摺染#すりぞめ#method of patterning fabric by pounding on leaves (or flowers, etc.) placed on it, or by rubbing in dye made from these materials;coloring fabric by placing a paper stencil over it and brushing on the dye;fabric colored in such a manner#
+2179770#信夫摺;信夫摺り;忍摺;忍摺り#しのぶずり#clothing patterned using the fern Davallia mariesii#
+2179780#藪萱草#やぶかんぞう;ヤブカンゾウ#Hemerocallis fulva var. kwanso (variety of daylily)#
+2179790#忘れ草;萱草#わすれぐさ#Hemerocallis fulva var. kwanso (variety of daylily);tobacco#
+2179800##すんごい#terrible;dreadful;terrific;amazing;great;wonderful;to a great extent#
+2179810##がたっと#with a clunk;with a clank;the sound of a sudden decrease (in profits, vigor, etc.)#
+2179830#膂宍;背宍#そしし;そじし#meat, flesh, or muscles along the spine#
+2179840#褥傷;蓐傷#じょくしょう#bedsore#
+2179850#茵;褥;蓐#しとね;じょく#cushion;pillow;mattress#
+2179860#褥草;蓐草#じょくそう#straw or hay (layed out in barns for livestock)#
+2179870#病蓐;病褥#びょうじょく#sickbed#
+2179880#紫闥#したつ#gate of the imperial palace;imperial court;imperial palace#
+2179890#闃寂#げきせき;げきじゃく#silent and still;desolate#
+2179900#何もない;何も無い#なにもない#nothing;empty#
+2179910#フゼア調#フゼアちょう#Fougere fragrance (family of scents including coumarin, oak moss, lavender, and geranium oil, used in perfumes)#
+2179920#シプレ調#シプレちょう#Chypre fragrance (family of scents including sage, lavender, and oak moss, used in perfumes)#
+2179930#忍;荵#しのぶ#Davallia mariesii (species of fern);Lepisorus thunbergiana (species of fern);color of clothing layers under one's overcoat (light green on blue);ancient women's hairstyle;clothing patterned using the fern Davallia mariesii#
+2179940#かさねの色目;襲の色目#かさねのいろめ#combination of colors created by layering of garments (colours)#
+2179950#襲#かさね#layers of clothing worn under one's overcoat;combination of colors created by layering of garments (colours)#
+2179960#丸襟#まるえり#round collar (of Western clothing)#
+2179970#下前#したまえ#part of the fabric that is tucked closest to the skin when wearing a garment that is wrapped in front of one (such as a kimono)#
+2179980#伊達締め;伊達締#だてじめ#small, thin fabric belt worn over the kimono and under the obi in order to protect the fabric#

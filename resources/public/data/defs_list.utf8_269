@@ -1,0 +1,943 @@
+2690010#冷蔵保存#れいぞうほぞん#chilled storage;refrigerated storage#
+2690020#系統分類学#けいとうぶんるいがく#systematics;phylogenetic systematics;systematic taxonomy;systematic biology#
+2690030#祖先形質共有#そせんけいしつきょうゆう#symplesiomorphy;ancestral trait shared by two or more taxa#
+2690040#祖先形質#そせんけいしつ#plesiomorphy;ancestral character#
+2690050#胚発生#はいはっせい#embryogenesis;embryogeny;embryonic development#
+2690060#形態形成#けいたいけいせい#morphogenesis#
+2690070#遺伝的変異#いでんてきへんい#genetic variation#
+2690080#初句#しょく#first five syllables (of a tanka);first line (of a poem)#
+2690090#生息環境#せいそくかんきょう#habitat#
+2690100#性選択#せいせんたく#sexual selection#
+2690110#群選択#ぐんせんたく#group selection (in evolutionary biology)#
+2690120#集団選択#しゅうだんせんたく#group selection (in evolutionary biology)#
+2690130#遺伝子頻度#いでんしひんど#gene frequency#
+2690140#進化速度#しんかそくど#evolutionary rate;rate of evolution#
+2690150#化石種#かせきしゅ#fossil species#
+2690160#生きている化石#いきているかせき#living fossil#
+2690170#塩基置換#えんきちかん#base substitution#
+2690190#六線星形#ろくせんほしがた#hexagram#
+2690200#化石記録#かせききろく#fossil record#
+2690210#アミノ酸配列#アミノさんはいれつ#amino acid sequence#
+2690220#生殖能力#せいしょくのうりょく#reproductive capability;fertility;fecundity;biotic potential#
+2690230#ノンコーディングＲＮＡ#ノンコーディングアールエヌエー#non-coding RNA#
+2690240#非コードＲＮＡ#ひコードアールエヌエー#non-coding RNA#
+2690250#一次構造#いちじこうぞう#primary structure (e.g. of a protein)#
+2690260#開始コドン#かいしコドン#start codon;initiation codon#
+2690270#終止コドン#しゅうしコドン#stop codon;termination codon#
+2690280#核ゲノム#かくゲノム#nuclear genome#
+2690290#フレームシフト突然変異#フレームシフトとつぜんへんい#frameshift mutation#
+2690300#ＤＮＡ修復#ディーエヌエーしゅうふく#DNA repair#
+2690310#ＤＮＡ修復酵素#ディーエヌエーしゅうふくこうそ#DNA repair enzyme#
+2690320##シットコム#sitcom#
+2690330#冷凍装置#れいとうそうち#refrigerator;refrigerating equipment;freezer#
+2690340#仮想世界#かそうせかい#virtual world#
+2690350#高精細度#こうせいさいど#high definition#
+2690380#地球化#ちきゅうか#terraforming#
+2690390#赤道傾斜角#せきどうけいしゃかく#axial tilt;obliquity#
+2690400#換字式暗号#かえじしきあんごう#substitution cipher#
+2690410#転置式暗号#てんちしきあんごう#transposition cipher#
+2690420##スキュタレー#scytale (tool for performing a transposition cipher)#
+2690430#高精細#こうせいさい#high-definition;high-resolution#
+2690440#生物学的多様性#せいぶつがくてきたようせい#biological diversity;biodiversity#
+2690450#万能ナイフ#ばんのうナイフ#all-purpose knife (e.g. Swiss Army knife);utility knife#
+2690460#近交系#きんこうけい#inbred line;inbred strain#
+2690470#漏れ伝わる#もれつたわる#to be transmitted;to be conveyed;to be leaked;to be passed along#
+2690480#弱勢#じゃくせい#inferiority;weakness#
+2690490#種間雑種#しゅかんざっしゅ#interspecific hybrid#
+2690500#幼若ホルモン#ようじゃくホルモン#juvenile hormone#
+2690510#幼若化反応#ようじゃくかはんのう#blastogenesis#
+2690520#代謝物質#たいしゃぶっしつ#metabolite#
+2690530#晦朔#かいさく#last and first days of the month#
+2690540#反回神経麻痺;反回神経まひ#はんかいしんけいまひ#recurrent nerve paralysis#
+2690550#災い転じて福となす;禍転じて福となす;災い転じて福と為す;禍転じて福と為す#わざわいてんじてふくとなす#to turn misfortune into fortune (esp. through one's own efforts);to turn the potential disaster to one's advantage#
+2690560#減封#げんぽう#forced reduction of a daimyo's land by the Edo Shogunate;curtailment of a daimyo's domain#
+2690570##フルスクラッチ;フル・スクラッチ#making from scratch (esp. in model-making and information systems);full scratch building#
+2690580#紛うことなき;紛う事無き;紛うこと無き;紛う事なき#まごうことなき;まがうことなき#undoubted;unmistakable;definite#
+2690590#紛う方なく;紛うかたなく;紛う方無く;紛うかた無く#まがうかたなく#undoubtedly;unmistakably;definitely#
+2690600#安全神話#あんぜんしんわ#safety myth;myth that something is completely safe (e.g. nuclear plant);safety dogma#
+2690610#災いを転じて福となす;禍を転じて福となす;禍を転じて福と為す;災いを転じて福と為す#わざわいをてんじてふくとなす#to turn misfortune into fortune (esp. through one's own efforts);to turn the potential disaster to one's advantage#
+2690620#通性嫌気性菌#つうせいけんきせいきん#facultative bacteria;facultative anaerobic bacteria;facultative anaerobe#
+2690630#事の起こり#ことのおこり#how it came about;how it originated;how it happened;the origins of the imbroglio#
+2690640#傘張り;傘貼り;傘はり#かさはり#making paper umbrellas;overlaying an umbrella framework;paper umbrella maker#
+2690650#戻し交配#もどしこうはい#backcrossing (crossing a hybrid with one of its parents);backcross#
+2690660#連続戻し交配#れんぞくもどしこうはい#linebreeding;continuous back crossing#
+2690670#戻し交雑#もどしこうざつ#backcrossing#
+2690680#穀物メジャー#こくもつメジャー#major multinational grain companies#
+2690690#自然条件#しぜんじょうけん#natural condition#
+2690700#耐病性#たいびょうせい#disease resistance;disease tolerance#
+2690710#耐用#たいよう#durability#
+2690720#連体格#れんたいかく#genitive case;adnominal case#
+2690730#サ変動詞#サへんどうし#nominal verb;verbal noun#
+2690740#緑の革命#みどりのかくめい#green revolution#
+2690750#農業革命#のうぎょうかくめい#agricultural revolution;agrarian revolution#
+2690760#高収量品種#こうしゅうりょうひんしゅ#high-yield variety (crop, etc)#
+2690770#矮性#わいせい#dwarfism;dwarf;stunted;diminutive#
+2690780#短稈#たんかん#short-stalked (i.e. plants);dwarf#
+2690790#食糧危機#しょくりょうきき#food crisis;food-supply crisis#
+2690800#消費支出#しょうひししゅつ#consumer spending;consumption expenditure#
+2690810#ホモ接合型#ホモせつごうがた#homozygote;homojunction;homozygous#
+2690820#ヘテロ接合型#ヘテロせつごうがた#heterozygote;heterozygous#
+2690830#円環面#えんかんめん#anchor ring;torus#
+2690840#位相同型#いそうどうけい#homeomorphism;topological equivalence#
+2690850##ホモトピー#homotopy#
+2690860#連続写像#れんぞくしゃそう#continuous transformation;continuous mapping#
+2690870#一様連続#いちようれんぞく#uniform continuity#
+2690880#リプシッツ連続#リプシッツれんぞく#Lipschitz continuity#
+2690890#ロピタルの定理#ロピタルのていり#l'Hôpital's rule#
+2690900#アフリカ単一起源説#アフリカたんいつきげんせつ#Out-of-Africa theory (positing a recent African origin for modern humans)#
+2690910#放射年代測定#ほうしゃねんだいそくてい#radiometric dating#
+2690920#自然放射線#しぜんほうしゃせん#background radiation#
+2690930#放射壊変#ほうしゃかいへん#radioactive decay#
+2690940#核分裂反応#かくぶんれつはんのう#nuclear fission;fission reaction#
+2690950#自発核分裂#じはつかくぶんれつ#spontaneous fission#
+2690960#二重電子捕獲#にじゅうでんしほかく#double electron capture#
+2690970#核異性体転移#かくいせたいてんい#isomeric transition#
+2690980#分子系統学#ぶんしけいとうがく#molecular phylogenetics;molecular phylogeny#
+2690990##サブジャンル#sub-genre;subgenre#
+2691000#中立進化説#ちゅうりつしんかせつ#neutral theory of molecular evolution#
+2691010#最尤法#さいゆうほう#maximum-likelihood estimation;maximum likelihood method#
+2691020#ミトコンドリアＤＮＡハプログループ#ミトコンドリアディーエヌエーハプログループ#mitochondrial DNA haplogroup#
+2691030#ジャラワ族#ジャラワぞく#Jarawa people (Andaman islands)#
+2691040#続縄文時代#ぞくじょうもんじだい#post-Jomon period (3rd to 7th century BC, mainly Hokkaido);epi-Jomon period#
+2691050#抗力#こうりょく#drag;fluid resistance#
+2691060#誘導抗力#ゆうどうこうりょく#induced drag#
+2691070#ナフトール染料;ナフトル染料#ナフトールせんりょう;ナフトルせんりょう#naphthol dye;azoic dye;ice color#
+2691080##ゲームプランナー;ゲーム・プランナー#game designer#
+2691090#ブーリアン型#ブーリアンがた#Boolean datatype#
+2691100##カタロニア;カタルーニャ#Catalonia;Cataluña#
+2691120#背景放射#はいけいほうしゃ#background radiation#
+2691130#マイクロ波背景放射#マイクロははいけいほうしゃ#microwave background (radiation)#
+2691140#藍鞣;藍韋#あいなめし#indigo-dyed leather#
+2691150#宇宙マイクロ波背景放射#うちゅうマイクロははいけいほうしゃ#cosmic microwave background radiation#
+2691160#完全放射体#かんぜんほうしゃたい#black body;blackbody;Planckian radiator;full radiator;perfect radiator#
+2691170#化楽天#けらくてん#heaven of enjoying emanations;one of the six heavens of the desire realm#
+2691180#他化自在天#たけじざいてん#heaven of controlling others' emanations#
+2691190#夜摩天#やまてん#heaven without fighting;one of the six heavens of the desire realm#
+2691200#とう利天;忉利天#とういりてん#heaven of the thirty-three;one of the six heavens of the desire realm#
+2691210#四王天#しおうてん#heaven of the Four Great Kings;one of the six heavens of the desire realm#
+2691220#ひきわり納豆;碾き割り納豆#ひきわりなっとう#natto made from ground soybeans#
+2691230#貯湯槽#ちょとうそう#hot water tank#
+2691240#糞ゲー#くそゲー;クソゲー#shit video game;embarrassingly bad video game#
+2691250##キャラゲー#computer game using characters from manga, anime, etc.#
+2691260#集会参加#しゅうかいさんか#attending a meeting;participating in a meeting#
+2691270#訴えかける#うったえかける#to make an appeal;to urge#
+2691280#碾き割り;碾き割;碾割り#ひきわり#grinding;cracking (e.g. wheat, barley);ground barley;cracked barley#
+2691290#利尿薬#りにょうやく#diuretic#
+2691300#唄方#うたかた#singer in a nagauta performance#
+2691310#哀絶#あいぜつ#extremely sad (event, occurrence);great pity#
+2691320#アイソトニック飲料#アイソトニックいんりょう#isotonic drink#
+2691330#藍染め付け;藍染付け#あいそめつけ#indigo-colored ceramics;indigo-patterned cloth#
+2691340#藍染屋;藍染め屋#あいぞめや#indigo dyer#
+2691360#柳蓼#やなぎだて;ヤナギタデ#water pepper (Persicaria hydropiper)#
+2691370#藍蓼#あいたで;アイタデ#dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)#
+2691380#藍茸#あいたけ;アイタケ#green-cracking russula (Russula virescens);quilted green russula;green brittlegill#
+2691390#相店#あいだな#renting a house in the same block of houses as somebody else;person who rents a house in the same block of houses as oneself#
+2691400#相借家#あいじゃくや#renting a house in the same block of houses as somebody else;person who rents a house in the same block of houses as oneself#
+2691410#間に立つ#あいだにたつ#to mediate;to intervene#
+2691420#藍玉#あいだま#ball of dried, ground, fermented dyer's knotweed leaves#
+2691430#玉藍#たまあい#ball of dried, ground, fermented dyer's knotweed leaves#
+2691440##あいだる#to behave like a spoilt child#
+2691460#愛重#あいちょう#loving and taking care of something#
+2691470#愛寵#あいちょう#favor;favour#
+2691490#愛聴盤#あいちょうばん#one's favorite music disc, LP album, etc.#
+2691500#阿逸多#あいった#Maitreya (bodhisattva);Ajita (one of the sixteen arhats)#
+2691510#相勤める#あいつとめる#to work (for);to be employed (at);to serve (in)#
+2691520#相作り#あいづくり#dish of white and red-fleshed fish arranged next to each other#
+2691530#相隣る#あいとなる#to adjoin each other;to be beside one another#
+2691540#相調う#あいととのう#to be prepared;to be in order;to be put in order;to be arranged#
+2691550#相共に#あいともに#together#
+2691560#相年#あいどし#the same age#
+2691570#相成る可くは#あいなるべくは#if it is possible#
+2691580#相似る#あいにる#to resemble each other;to resemble one another#
+2691590#アイヌ民族#アイヌみんぞく#Ainu people;the Ainu#
+2691600#藍鼠#あいねずみ#indigo-tinged grey;indigo-tinged gray#
+2691610#愛念#あいねん#affection;strong feeling of love#
+2691620#あいの風#あいのかぜ#wind that blows from north to north-east during spring and summer along the coast of the Sea of Japan#
+2691630##あい#yes;wind that blows from north to north-east during spring and summer along the coast of the sea of Japan#
+2691640#間の楔;合の楔;合いの楔#あいのくさび#wedge (for securing objects together);tie;bond#
+2691650#間の子船#あいのこぶね#semi-Western, semi-Japanese wooden sailing boat, popular during the latter half of the Meiji period and the Taisho period#
+2691660#米の飯#こめのめし#cooked rice;something one never grows tired of#
+2691670#合の子弁当;合いの子弁当#あいのこべんとう#children's lunch box of cooked rice and a Western-style side dish (popular late Meiji and Taisho periods)#
+2691710#間の間;相の間#あいのま#room connecting the two main rooms of a building;intermediate room#
+2691720#三度入り#さんどいり#medium-sized earthenware sake cup#
+2691730#相食む#あいはむ#to compete with each other#
+2691740#相挟み#あいばさみ#multiple people holding the same item with their chopsticks;passing something from chopstick to chopstick#
+2691750#臨終正念#りんじゅうしょうねん#holding the proper state of mindfulness at the moment of death#
+2691760#悪くなる#わるくなる#to get worse;to deteriorate;to go from bad to worse;to become worse#
+2691770#リサージュ図形#リサージュづけい#Lissajous figure;Lissajous diagram#
+2691780#リサージュ曲線#リサージュきょくせん#Lissajous curve#
+2691790##キャラクターゲーム;キャラクター・ゲーム#computer game using characters from manga, anime, etc.#
+2691800#成り掛ける#なりかける#to be on the verge;to be on the brink;to get close#
+2691810#成り掛かる;成り掛る#なりかかる#to be on the verge;to be on the brink;to get close#
+2691830#入門機#にゅうもんき#entry-level machine#
+2691840#碾き割り麦;碾き割麦;碾割り麦#ひきわりむぎ#ground barley;cracked barley#
+2691850#楕円幾何学#だえんきかがく#elliptic geometry;Riemannian geometry#
+2691860#藍花#あいばな#scum formed near the end of the indigo fermentation process;asiatic dayflower (Commelina communis)#
+2691870#合判;合い判;相判#あいはん;ごうはん;あいばん#official seal;verification seal;affixing a seal to an official document;making a joint signature or seal#
+2691880#相番#あいばん#being on duty with a colleague;partner;colleague#
+2691890#相等#そうとう#equality;being equal#
+2691900#間日#まび;あいび#day off (between working days);50th, 53rd, 55th or 59th day of the sexagenary cycle;non-fever day (when running an intermittent fever, e.g. malaria)#
+2691910#合い火;合火#あいび#cooking over the fire of an unclean home or a home in mourning;food prepared over the fire of an unclean home or a home in mourning#
+2691920#敵味方#てきみかた#friend and foe;enemies and allies;both sides#
+2691930#相引き;相引;合い引き;合引き#あいびき#bench used by kabuki actors during performance;for enemies and allies to pull back their troops at the same time;responding to enemy arrow fire with arrow fire#
+2691940#合い符;合符#あいふ#baggage claim tag (at hotels, stations, etc.)#
+2691960#曖昧アクセント#あいまいアクセント#Aimai accent, used in parts of Kanto#
+2691970#曖昧宿#あいまいやど#brothel fronting as a tea house, inn, restaurant, etc.#
+2691980#曖昧屋#あいまいや#brothel fronting as a tea house, inn, restaurant, etc.#
+2691990#曖昧茶屋#あいまいぢゃや#brothel fronting as a tea house, inn, restaurant, etc.#
+2692000#藍みどろ;藍水泥#あいみどろ#Oscillatoria (cyanobacteria)#
+2692010#藍海松茶#あいみるちゃ#brown tinged with olive green and indigo#
+2692020#学級会#がっきゅうかい#class meeting;classroom assembly#
+2692030#生徒会長#せいとかいちょう#head of the student council;president of the student council#
+2692050#半自治#はんじち#semi-autonomy#
+2692060#特別活動#とくべつかつどう#extra-curricular activities;special activities#
+2692070#教科外活動#きょうかがいかつどう#extra-curricular activities#
+2692080#外部リンク#がいぶリンク#external link#
+2692090#内部リンク#ないぶリンク#internal link#
+2692100#リンク集#リンクしゅう#link collection#
+2692110#東京式アクセント#とうきょうしきアクセント#Tokyo-style accent, widely used in Japan#
+2692120#京阪式アクセント#けいはんしきアクセント#Keihan-style accent;Kyoto-Osaka accent#
+2692130#垂井式アクセント#たるいしきアクセント#Tarui accent, used in the Kinki region and parts of Hokuriku#
+2692140#讃岐式アクセント#さぬきしきアクセント#Sanuki accent, used in northern Shikoku#
+2692150#超豪華#ちょうごうか#ultra-luxurious;lavish#
+2692160#枝る#えだる;エダる#to work without sleep or rest#
+2692170#秋入学#あきにゅうがく#starting the new school year from autumn (instead of spring);autumnal admission;fall matriculation#
+2692180#第三者委員会#だいさんしゃいいんかい#independent committee;third-party panel#
+2692190#森ガール#もりガール#fashion style for young women invoking a soft, forest-like feeling#
+2692200#脱法ハーブ#だっぽうハーブ#law-evading hallucinatory herb (e.g. synthetic marijuana, "fake pot")#
+2692210##ネームロンダリング#person who repeatedly changes their name through adult adoptions or sham marriages#
+2692220#砂時計経済#すなどけいけいざい#hourglass economy;economy having large upper and lower classes and a small middle class#
+2692230##トンコリ#Ainu plucked string instrument#
+2692240#月一#つきいち#(at a rate of) once a month;10 percent monthly interest#
+2692250#異所形成#いしょけいせい#heterotopia;heterotopy#
+2692260#肋間動脈#ろっかんどうみゃく#intercostal artery#
+2692270#肋軟骨炎#ろくなんこつえん#costochondritis#
+2692280#肋軟骨#ろくなんこつ#costal cartilage#
+2692290#リンパ肉芽腫#リンパにくがしゅ#lymphogranuloma#
+2692300#肉垂#にくすい#wattle (of a bird's neck)#
+2692310#肉叢;臠#ししむら#piece of meat;lump of meat;the body;the flesh#
+2692320#う鍋;鰻鍋#うなべ;うなぎなべ#eel stew#
+2692330#設い#しつらい#equipment;installation;facilities;arrangements#
+2692340#ホルモン剤#ホルモンざい#hormone drug;hormone pill;hormone preparation;hormonal agent#
+2692350#栄養成分#えいようせいぶん#nutrient composition;nutritional composition;nutritional information#
+2692360#天然由来#てんねんゆらい#naturally-derived#
+2692370#研究調査#けんきゅうちょうさ#research investigation;research survey#
+2692380#麹酸;コウジ酸#こうじさん;コウジさん#kojic acid#
+2692390#有機合成化学#ゆうきごうせいかがく#synthetic organic chemistry;organic synthetic chemistry#
+2692400#合成戦略#ごうせいせんりゃく#synthesis strategy#
+2692410#架橋化合物#かきょうかごうぶつ#bridged compound#
+2692420#相物;間物;合物#あいもの#fresh or dried fish preserved in salt#
+2692430##キュバン#cubane#
+2692440#結合角#けつごうかく#bond angle#
+2692450#ファンデルワールス力#ファンデルワールスりょく#Van der Waals force#
+2692460#実在気体#じつざいきたい#real gas#
+2692470#熱力学温度#ねつりきがくおんど#thermodynamic temperature#
+2692480##ブルバレン#bullvalene#
+2692490##シクロアルケン#cycloalkene#
+2692500#芳香族性#ほうこうぞくせい#aromaticity;aromatic property#
+2692510#メビウス芳香族性#メビウスほうこうぞくせい#Möbius aromaticity#
+2692530#麻紐;麻ひも#あさひも#hemp cord;hemp twine#
+2692540#浮造#うづくり#tool for scrubbing wood to give it texture, traditionally made of dried grass bound together by hemp cord;scrubbing wood to give it texture#
+2692550#老梅#ろうばい#old plum tree#
+2692560#西進#せいしん#proceeding west#
+2692570#盆梅#ぼんばい#plum bonsai#
+2692580##マカニ;マカーニ#Indian butter sauce;makhani#
+2692600#加薬御飯#かやくごはん#boiled rice mixed with vegetables and meat or fish#
+2692610##ミックスフライ;ミックス・フライ#plate of assorted fried food#
+2692620#和定食#わていしょく#Japanese-style set menu#
+2692630#中傷合戦#ちゅうしょうかっせん#mud-slinging (e.g. in a political campaign);mud-slinging match;smear campaign;mud wrestle#
+2692640##ぐしぐし#grumbling;complaining;muttering;crumpling (e.g. paper)#
+2692650#関連記事#かんれんきじ#related article;related story#
+2692660#関連産業#かんれんさんぎょう#affiliated industry;allied industry;ancillary industry;associated industry;correlative industry;linked industry;related businesses;related industries;support industries#
+2692670#外資系企業#がいしけいきぎょう#foreign-owned enterprise;company with capital participation by a foreign company;foreign-affiliated firm;alien corporation;foreign company#
+2692680#肉処#にくどころ#restaurant specializing in meat#
+2692690#鉄槌を下す;鉄ついを下す;鉄鎚を下す#てっついをくだす#to crack down on (e.g. crime, corruption);to deal a crushing blow to;to bring down the hammer on#
+2692700#お寺さん;御寺さん#おてらさん#monk#
+2692710#人より#ひとより#more than most people;more than other people;compared with other people;more than others#
+2692730#ガラ携#ガラけい;ガラケー;ガラケイ#traditional Japanese-style cell phone (in contrast to smart phones);"Galapagos" cell phone (Japanese brand)#
+2692740#ガラパゴス化#ガラパゴスか#Galapagosization;widespread design of Japanese products (e.g. cell phones) specifically for the domestic market, which are therefore unsuccessful overseas and also vulnerable to competition from imports#
+2692750#ガラパゴス現象#ガラパゴスげんしょう#Galapagos phenomenon;Galapagos syndrome;tendency of Japanese products (e.g. cell phones) to be designed specifically for the domestic market, which are therefore unsuccessful overseas and also vulnerable to competition from imports#
+2692760##セルフコピー;セルフ・コピー#self-service copying (of documents)#
+2692770#単一機械#たんいつきかい#simple machine#
+2692780##クッションワード;クッション・ワード#word to soften awkward topics (esp. refusal in business conversation, e.g. "I am afraid that ...")#
+2692790#会話力#かいわりょく#conversational ability;speaking ability#
+2692800#舞錐#まいぎり#pump drill;bowdrill;bow drill#
+2692820#三度豆#さんどまめ#common bean;pea (Fukushima, Niigata pref.)#
+2692840##ミニバスチーム#junior basketball team#
+2692860##エイサア;エイサー#eisa (Okinawan folk dance that marks the end of the Bon festival)#
+2692870#茹で#ゆで#boiling#
+2692890#地代家賃#ちだいやちん#expenses for rent of space, land, etc.#
+2692900#貸倒金;貸し倒れ金;貸倒れ金#かしだおれきん#uncollectable accounts;bad debt#
+2692910#指を鳴らす#ゆびをならす#to snap one's fingers;to pop one's fingers;to crack one's knuckles#
+2692930#黒歴史#くろれきし#dark history;dark past;something one wants to forget or pretend never happened#
+2692940#前受金#まえうけきん#advance received;sales deposits#
+2692950#妊娠糖尿病#にんしんとうにょうびょう#gestational diabetes;gestational diabetes mellitus;pregnancy diabetes#
+2692960#催奇性#さいきせい#teratogenicity#
+2692980##マヌカ#manuka (Leptospermum scoparium);tea tree#
+2692990##ユニーク・マヌカ・ファクター;ユニークマヌカファクター#unique manuka factor (measure of antibacterial property of honey), UMF#
+2693000#山食#やましょく#English bread;roundtop bread;high tin loaf#
+2693010#仮想サーバー;仮想サーバ#かそうサーバー;かそうサーバ#virtual server#
+2693020#トラウマ級#トラウマきゅう#trauma inducing;traumatizing;extremely scary (of movies, etc.)#
+2693030#一話完結型#いちわかんけつがた#self-contained (of a story)#
+2693040#準強姦#じゅんごうかん#incapacitated rape;sexual assault against somebody who is intoxicated, asleep or otherwise unable to consent or resist#
+2693050#準強姦罪#じゅんごうかんざい#(crime of) incapacitated rape;crime of sexual assault against somebody who is intoxicated, asleep or otherwise unable to consent or resist#
+2693060#集団強姦#しゅうだんごうかん#gang rape#
+2693070##サイバーセックス#cybersex;Internet sex#
+2693080##エスプモーソ#Spanish sparkling wine#
+2693090#クッション言葉#クッションことば#word to soften awkward topics (esp. refusal in business conversation, e.g. "I am afraid that ...")#
+2693100##ミニバス#minibus#
+2693110##ミニマックス#minimax#
+2693120##ラグい#laggy (in an online game)#
+2693130#作陶#さくとう#porcelain making;ceramics making;pottery making#
+2693140#含水率#がんすいりつ#moisture content;water content#
+2693150#土壌水#どじょうすい#soil moisture#
+2693160#土中水#どちゅうすい#soil moisture#
+2693170#土湿#どしつ#soil moisture#
+2693180#雌刈萱#めがるかや;メガルカヤ#Themeda triandra var. japonica (variety of kangaroo grass)#
+2693190#雄刈萱#おがるかや;オガルカヤ#Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass)#
+2693210##トラバ#trackback#
+2693220#小腹が空く;小腹がすく#こばらがすく#to be a bit hungry;to be a bit peckish#
+2693230#補#ほ#assistant ...;probationary ...#
+2693240##マヌカ・ハニー;マヌカハニー#manuka honey#
+2693250#塩麹#しおこうじ#traditional Japanese condiment made by fermenting kouji mold with salt and water#
+2693260#耳がダンボ#みみがダンボ#pricking up one's ears and listening;listening attentively#
+2693270#耳をダンボにする#みみをダンボにする#to prick up one's ears and listen;to listen attentively#
+2693280#名誉白人#めいよはくじん#honorary white (non-white person, including the Japanese, that were given certain privileges during the apartheid regime of South Africa);honorary whites#
+2693290##セクロス#sex (as a sport)#
+2693300##セックル#sex#
+2693310#合器蔓;合子草;御器蔓#ごきづる;ゴキヅル#Actinostemma lobatum (plant of the family Cucurbitaceae)#
+2693320#ネット苛め;ネット虐め#ネットいじめ#cyberbullying;online harassment#
+2693330#裏サイト#うらサイト#underground website (often critical or containing unofficial information)#
+2693340#闇サイト#やみサイト#illegal website (i.e. websites featuring child pornography, selling drugs, etc.);website encouraging illegal activities;suicide-encouraging website#
+2693350#学校裏サイト#がっこううらサイト#underground website or online message board for a school where students typically exchange information on tests, commit cyberbullying, etc.#
+2693360##はわく#to sweep (with a broom);to clean up#
+2693370#渡りの時期#わたりのじき#bird migration period#
+2693380#誤食#ごしょく#accidental ingestion#
+2693390#強制起訴#きょうせいきそ#mandatory indictment;indictment by a lay prosecution committee#
+2693400##パワースペクトル;パワースペクトラム;パワー・スペクトル;パワー・スペクトラム#power spectrum#
+2693420#自然観察#しぜんかんさつ#nature observation#
+2693430#ガンカモ科;雁鴨科#ガンカモか;がんかもか#Anatidae;family of birds including ducks, geese and swans#
+2693440#葦原;ヨシ原;アシ原#あしはら;あしわら;よしわら;ヨシわら;アシはら;アシわら#reed bed#
+2693450#海水面#かいすいめん#sea level#
+2693460#沿岸流#えんがんりゅう#coastal current;littoral current;alongshore current#
+2693470#孵化場;ふ化場#ふかじょう#hatchery#
+2693480#湖口#ここう#lake inlet#
+2693490##こそっと#stealthily;secretly#
+2693500#美容液#びようえき#essence;liquid foundation;beauty lotion;serum#
+2693510#野鳥観察#やちょうかんさつ#birdwatching;birding#
+2693520#土壌動物#どじょうどうぶつ#soil animal;soil life;soil biota;edaphon#
+2693530#丘葦鴨#おかよしがも;オカヨシガモ#gadwall (Anas strepera)#
+2693540#小赤啄木鳥#こあかげら;コアカゲラ#lesser spotted woodpecker (Dendrocopos minor)#
+2693550#樹洞#じゅどう#tree hollow;hollow in a tree#
+2693560#夏羽#なつばね#summer plumage;nuptial plumage#
+2693570#電子捕獲#でんしほかく#electron capture#
+2693580##ハンドリングノイズ;ハンドリング・ノイズ#handling noise (microphone)#
+2693590#予算化#よさんか#budgeting#
+2693600#売却代金#ばいきゃくだいきん#proceeds from sale;receipts#
+2693610#檜扇菖蒲#ひおうぎあやめ;ヒオウギアヤメ#Arctic iris (Iris setosa)#
+2693620#厚岸草#あっけしそう;アッケシソウ#common glasswort (Salicornia europaea)#
+2693630#海緑#うみみどり;ウミミドリ#pink sea milkwort (Glaux maritima var. obtusifolia)#
+2693640##ヤラメスゲ#Lyngbye's sedge (Carex lyngbyei)#
+2693650#蝦夷蔓金梅#えぞつるきんばい;エゾツルキンバイ#Pacific silverweed (Potentilla egedii var. grandis);Eged's silverweed#
+2693660#塩場菜#しばな;シバナ#Triglochin maritima var. asiatica (variety of seaside arrowgrass)#
+2693680#小甘藻#こあまも;コアマモ#dwarf eelgrass (Nanozostera japonica);Japanese eelgrass#
+2693690#数珠藻#じゅずも;ジュズモ#Chaetomorpha algae;Chaeto;nostoc#
+2693700#全卵#ぜんらん#whole egg;egg white and egg yolk#
+2693710#左義長;三毬杖#さぎちょう#burning of New Year's gate decorations (usu. on the 15th day of the new year)#
+2693720#シバナ科#シバナか#Juncaginaceae;arrow-grass family#
+2693730#糞ゲーム#くそゲーム;クソゲーム#shit video game;embarrassingly bad video game#
+2693740#健全化#けんぜんか#restoration;return to health#
+2693750#無指向性#むしこうせい#omni-directional (microphone, etc);nondirectional#
+2693760#栽培品種#さいばいひんしゅ#cultivar;agrotype#
+2693770#川柳#かわやぎ#riverside willow#
+2693780#振袖柳#ふりそでやなぎ;フリソデヤナギ#Salix leucopithecia (species of willow)#
+2693790#絹柳#きぬやなぎ;キヌヤナギ#Salix kinuyanagi (species of willow)#
+2693800#行李柳#こりやなぎ;コリヤナギ#Salix koriyanagi (species of willow)#
+2693810#西洋絹柳#せいようきぬやなぎ;セイヨウキヌヤナギ#osier (Salix viminalis)#
+2693820#化粧柳#けしょうやなぎ;ケショウヤナギ#Salix arbutifolia (species of willow)#
+2693830#大葉柳#おおばやなぎ;オオバヤナギ#Salix urbaniana (species of willow)#
+2693840#念珠藻#ねんじゅも;ネンジュモ#nostoc#
+2693850##さあて#well;now;then#
+2693860#非公式サイト#ひこうしきサイト#unofficial website#
+2693870#公式サイト#こうしきサイト#official website#
+2693880#蔓金梅#つるきんばい;ツルキンバイ#Potentilla yokusaiana (species of cinquefoil)#
+2693890#タデ科;蓼科#タデか;たでか#Polygonaceae;knotweed or smartweed family of plants#
+2693900#台湾駒繋#たいわんこまつなぎ;タイワンコマツナギ#true indigo (Indigofera tinctoria)#
+2693910#蓼藍#たであい;タデアイ#dyer's knotweed (Persicaria tinctoria, used to produce indigo dye)#
+2693920#目尻を下げる#めじりをさげる#to look happy;to look pleased;to make eyes at (someone);to ogle#
+2693930#相好を崩す;相好をくずす#そうごうをくずす#to smile broadly;to grin widely#
+2693940#海松色;水松色#みるいろ#dark yellowish green (similar to olive green)#
+2693950#海松茶;水松茶#みるちゃ#brown tinged with olive green#
+2693960#揺藻#ゆれも;ユレモ#Oscillatoria (cyanobacteria)#
+2693970#あへん法;阿片法#あへんほう#Opium Law (1954)#
+2693980#大麻取締法#たいまとりしまりほう#Cannabis Control Law (1948)#
+2693990#覚せい剤取締法;覚醒剤取締法#かくせいざいとりしまりほう#Stimulants Control Law (1951)#
+2694000#薬物四法#やくぶつよんぽう#the four drug-control laws of Japan#
+2694010#脱法ドラッグ#だっぽうドラッグ#law-evading drug (e.g. amyl nitrates, MiPT)#
+2694020#違法ドラッグ#いほうドラッグ#law-evading drug (e.g. amyl nitrates, MiPT)#
+2694030#仙台萩;千代萩;先代萩#せんだいはぎ;センダイハギ#Russian false yellow lupine (Thermopsis lupinoides)#
+2694040#四魔#しま#the four kinds of demons that make trouble for sentient beings#
+2694050#煩悩魔#ぼんのうま#demon of ill desires that injures one's body and mind#
+2694060#死魔#しま#demon of death#
+2694070#陰魔#おんま#demon of aggregates (who causes many kinds of suffering)#
+2694080#蝦夷透百合#えぞすかしゆり;エゾスカシユリ#Siberian lily (Lilium pensylvanicum)#
+2694090##マーラ#Patagonian mara (Dolichotis patagonum)#
+2694100#波旬#はじゅん#killer demon;demon who strives to destroy all goodness#
+2694110#蝦夷黄菅#えぞきすげ;エゾキスゲ#lemon day-lily (Hemerocallis lilioasphodelus, formerly Hemerocallis flava);lemon lily;yellow day-lily#
+2694120#三千大千世界#さんぜんだいせんせかい#the whole universe (of a billion worlds) that Buddha enlightened#
+2694130#色界#しきかい#form realm#
+2694140#無色界#むしきかい#formless realm#
+2694150#香壇#こうだん#incense altar#
+2694160#第六天#だいろくてん#sixth heaven (of the desire realm)#
+2694190#催奇形性#さいきけいせい#teratogenicity#
+2694210#追捕#ついぶ;ついふ;ついふく;ついほ#chasing down and capturing (a criminal, etc.)#
+2694220#磁器コンデンサー#じきコンデンサー#ceramic condenser;ceramic capacitor#
+2694230#脚車#きゃくしゃ#caster#
+2694240#基礎化粧品#きそけしょうひん#basic skin-care products#
+2694250#脚輪#きゃくりん#caster#
+2694260#メーキャップ化粧品#メーキャップけしょうひん#makeup products;cosmetics#
+2694270#魚フライ#さかなフライ#fried fish#
+2694280##リップグロス;リップ・グロス#lip gloss#
+2694290#漁業水域#ぎょぎょうすいいき#fishing zone;fishery waters#
+2694300##チークカラー;チーク・カラー#cheek rouge;blusher;blush#
+2694310#５秒ルール#ごびょうルール#five-second rule#
+2694320#化粧水#けしょうみず#water offered to wrestlers just prior to a bout;fresh water used when making up one's face#
+2694330#洗顔料#せんがんりょう#facial cleanser#
+2694340#相等性#そうとうせい#equality#
+2694350#転んでもただでは起きない;転んでも只では起きない#ころんでもただではおきない#All's grist that comes to his mill;turn everything to good account;turn anything to profit#
+2694360#転んでもただでは起きぬ;転んでも只では起きぬ#ころんでもただではおきぬ#All's grist that comes to his mill;turn everything to good account;turn anything to profit#
+2694370#転んでもただは起きない;転んでも只は起きない#ころんでもただはおきない#All's grist that comes to his mill;turn everything to good account;turn anything to profit#
+2694380#姫薄羽白蝶#ひめうすばしろちょう;ヒメウスバシロチョウ#Parnassius stubbendorfii (species of swallowtail)#
+2694390#蝦夷白蝶#えぞしろちょう;エゾシロチョウ#black-veined white (species of butterfly, Aporia crataegi)#
+2694400#牙虫#がむし;ガムシ#water scavenger beetles (Hydrophilidae family)#
+2694410#沈水植物#ちんすいしょくぶつ#submerged plant;submerged vegetation#
+2694420#テン年代#テンねんだい#the 2010's#
+2694430##ピコピコ;ぴこぴこ#blip blop (i.e. video game sounds)#
+2694440##ポリさん#policeman;police#
+2694460#一日か二日#いちにちかふつか#(in) a day or two#
+2694470#大入り満員;大入満員#おおいりまんいん#full to capacity;full to bursting;house full;sellout#
+2694480#賑やかす#にぎやかす#to make lively;to make exciting#
+2694490#一人親家庭#ひとりおやかてい#single-parent family;one-parent family;single-parent household#
+2694500#一人親#ひとりおや#single parent;one parent#
+2694520#二人羽織#ににんばおり#"Helping Hands" comedy performance;performance in which one person wears a haori on their shoulders, while another person behind them puts their arms through the sleeves of the haori and feeds the person in front#
+2694530#最悪の事態#さいあくのじたい#worst;worst-case (scenario)#
+2694540#土壌水分#どじょうすいぶん#soil moisture;soil water#
+2694550#他家;他屋#たや#home in which a woman stays during her period (or while giving birth);period;menstruation;menses#
+2694560#他家受精#たかじゅせい#cross-fertilization#
+2694570#他家受粉#たかじゅふん#cross-pollination#
+2694580#別火#べっか;べつび#cooking over a second fire to prevent contamination from one's everyday fire for performing Shinto rites;cooking over a second fire to prevent contamination from mourning people, menstruating women, etc.#
+2694590#ポリ酸#ポリさん#polyacid#
+2694600#日野菜;ひの菜;緋の菜#ひのな;ヒノナ#hinona (Japanese variety of long-rooted pickling turnip, Brassica rapa var. akana)#
+2694610#不落#ふらく#impregnable#
+2694620#自噴#じふん#gushing forth (e.g. oil well);natural emergence (e.g. spring water)#
+2694630#賀寿#がじゅ#longevity celebration;old age anniversary#
+2694640#和食処#わしょくどころ#Japanese style restaurant;Japanese style dining hall#
+2694650#発汗計#はっかんけい#diaphoremeter;sweat sensor;sweating rate meter#
+2694660#トダ族#トダぞく#Toda people#
+2694680#冷凍焼け#れいとうやけ#freezer burn;freezerburn#
+2694700##デンドライト#dendrite#
+2694710#忍石#しのぶいし#dendrite#
+2694720#大気光学現象#たいきこうがくげんしょう#atmospheric optical phenomenon#
+2694730#環天頂アーク#かんてんちょうアーク#circumzenithal arc;cicumzenith arc#
+2694740#大気光#たいきこう#airglow;nightglow#
+2694750##グリーンフラッシュ;グリーン・フラッシュ#green flash (optical phenomenon occurring shortly after sunset or before sunrise)#
+2694760#緑閃光#りょくせんこう#green flash (optical phenomenon occurring shortly after sunset or before sunrise)#
+2694770#山頂光#さんちょうこう#alpenglow;alpine glow#
+2694790#大気差#たいきさ#atmospheric refraction;astronomical refraction#
+2694800#反射虹#はんしゃこう#reflection rainbow#
+2694810#過剰虹#かじょうにじ#supernumerary rainbow#
+2694820#月虹#げっこう#moonbow;lunar rainbow;whitish rainbow cast by moonlight;lunar bow;space rainbow#
+2694830#外接ハロ#がいせつハロ#circumscribed halo#
+2694840#幻日環#げんじつかん#parhelic circle#
+2694850#映日#えいじつ#subsun#
+2694860#映幻日#えいげんじつ#subparhelion#
+2694870#向日#こうじつ#anthelion (optical phenomenon)#
+2694880##カーンアーク#Kern arc (optical phenomenon)#
+2694890#グッと来る;ぐっと来る#グッとくる;ぐっとくる#to touch emotionally;to feel something;to strike home#
+2694900#対日照#たいにちしょう;たいじつしょう;たいにっしょう#counterglow;counter glow#
+2694910#氷映#ひょうえい#iceblink#
+2694920#超高層雷放電#ちょうこうそうかみなりほうでん#upper-atmospheric lightning;upper-atmospheric discharge#
+2694930#高高度放電発光;高々度放電発光#こうこうどほうでんはっこう#transient luminous event#
+2694940#中間圏発光現象#ちゅうかんけんはっこうげんしょう#transient luminous event#
+2694950##レッドスプライト;レッド・スプライト#red sprite (mesospherical electrical discharge);sprite#
+2694960#薄膜干渉#はくまくかんしょう#thin-film interference#
+2694970#金属光沢#きんぞくこうたく#metallic lustre;metallic luster#
+2694980#甲虫類#こうちゅうるい#beetles;coleopterans;coleoptera#
+2694990#夜光雲#やこううん#noctilucent clouds#
+2695000#極中間圏雲#きょくちゅうかんけんうん#polar mesospheric clouds#
+2695010#極成層圏雲#きょくせいそうけんうん#polar stratospheric cloud#
+2695020#大気循環#たいきじゅんかん#atmospheric circulation#
+2695030#鉄泉#てっせん#chalybeate spring;ferruginous spring;iron spring;hot spring with high iron content#
+2695040#昼間障害標識#ちゅうかんしょうがいひょうしき#obstruction markings (red or yellow and white markings on structures taller than 60 meters in accordance with Japanese aviation law)#
+2695050#航空法#こうくうほう#Civil Aeronautics Law;Aviation Law#
+2695060#航空障害灯#こうくうしょうがいとう#aircraft warning lights;airplane warning lights;obstacle light;obstruction light#
+2695070#中層建築物#ちゅうそうけんちくぶつ#medium-rise building#
+2695080#携帯型ゲーム#けいたいがたゲーム#handheld game console;portable game console;game software for a handheld game console#
+2695090#携帯型ゲーム機#けいたいがたゲームき#handheld game console;portable game console#
+2695100#ボタン型電池#ボタンがたでんち#watch battery;button cell#
+2695110#ミカン科;蜜柑科#ミカンか;みかんが#Rutaceae;citrus family of plants#
+2695120#好転反応#こうてんはんのう#healing crisis;cleansing reaction;reaction during the elimination of toxins after antibiotic, etc. treatment#
+2695130#南京玉すだれ;南京玉簾#ナンキンたますだれ#street performance in which the performer transforms a specially-made bamboo screen into various shapes while chanting an accompanying poem#
+2695140#出囃子#でばやし#on-stage performance by musicians in a kabuki play;shamisen accompaniment when a performer (esp. a rakugo story teller) appears on stage#
+2695150#落研;落ち研#おちけん;らっけん#rakugo research society;rakugo research club#
+2695160#樹枝状結晶#じゅしじょうけっしょう#dendrite crystal;dendrite#
+2695170#自噴井#じふんせい#artesian well;artesian aquifer#
+2695180#古美術店#こびじゅつてん#antique store;antique shop#
+2695190#頭蓋内損傷#ずがいないそんしょう#intracranial injury#
+2695200#頭蓋内#ずがいない#intracranial;endocranial#
+2695210#多数回#たすうかい#many times;multi-;multiple dose#
+2695220##ルポルタージュ・ライター;ルポルタージュライター#reportage writer;documentary writer#
+2695230#落語研究会#らくごけんきゅうかい#rakugo research society;rakugo research club#
+2695240#ガムシ科#ガムシか#Hydrophilidae;insect family comprising water scavenger beetles#
+2695250#右傾化#うけいか#conservative swing;drift to the right;rightward trend#
+2695260#人権無視#じんけんむし#disregard for human rights#
+2695270#新聞報道#しんぶんほうどう#newspaper report;press reporting#
+2695280#国内製#こくないせい#domestic;of domestic manufacture#
+2695290#捜査課#そうさか#criminal investigation department;CID;criminal investigation section#
+2695300#背景説明#はいけいせつめい#background briefing;backgrounder#
+2695310#商売仲間#しょうばいなかま#business partner;business associate;fellow trader#
+2695320#余年#よねん#one's remaining years#
+2695330#女性関係#じょせいかんけい#relations with women#
+2695340#ひねくれ者;捻くれ者#ひねくれもの#contrary person;sourpuss;dog-in-the-manger#
+2695350##だくだく#gushing out (e.g. sweat or blood);flowing profusely;thump-thump;bang-bang;pit-a-pat;pitapat;pitter-patter;sound of hoofbeats#
+2695360#火灯;瓦灯;火頭;瓦燈#かとう;がとう#pottery lantern (curved conical shape)#
+2695370#動物種#どうぶつしゅ#animal species#
+2695380#赤道付近#せきどうふきん#low latitudes;equatorial region#
+2695390#理科年表#りかねんぴょう#chronological scientific tables#
+2695400#温暖湿潤気候#おんだんしつじゅんきこう#temperate humid climate#
+2695410#半乾燥#はんかんそう#semi-arid;semiarid;semidry#
+2695420#開湯#かいとう#opening of a hot spring or bath house#
+2695430##プロリーグ;プロ・リーグ#professional league (sport)#
+2695440#生まれ出る#うまれでる#to come into being;to be born#
+2695450#有生#うしょう;ゆうせい#living thing;animate#
+2695460#和食膳#わしょくぜん#tray of traditional Japanese food#
+2695470#道楽娘#どうらくむすめ#prodigal daughter;daughter of loose morals#
+2695480#道楽#みちがく#form of gagaku performed while marching#
+2695500#芒硝泉#ぼうしょうせん#hot spring rich in sodium sulfate;sodium sulfate spring#
+2695510#湯量#ゆりょう#quantity of hot spring water#
+2695520#女関係#おんなかんけい#relations with women#
+2695530#麹漬け;糀漬;麹漬;糀漬け#こうじづけ#fish, meat, vegetables, etc. pickled in mould (mold) and salt;food pickled in malted rice#
+2695540#お代;御代#おだい#charge (e.g. admission, menu item);cost;price#
+2695550##へしこ#fish pickled in rice-bran paste (esp. mackerel)#
+2695560##ソフビ#sofvi;toy figure made from soft vinyl (monster,hero, etc.);soft vinyl mascot figure#
+2695570#呑師;飲み師;呑み師;飲師#のみし#heavy drinker;boozer;tippler#
+2695590#難関大学#なんかんだいがく#hard-to-get-into university;elite university;highly-selective university#
+2695600#難関大#なんかんだい#hard-to-get-into university;elite university;highly-selective university#
+2695630#これから先;此から先#これからさき#from now on;in the future;hereafter;ahead of us;down the road#
+2695640#抜き勾配#ぬきこうばい#draft angle#
+2695650##ソフトビニール;ソフト・ビニール#soft vinyl;vinyl chloride monomer, used for moulded shapes such as toys#
+2695660#キツネ属#キツネぞく#Vulpes;genus comprising the true foxes#
+2695670#リカオン属#リカオンぞく#Lycaon;genus containing the African wild dog#
+2695680##リカオン#African wild dog (Lycaon pictus)#
+2695690#ドール属#ドールぞく#Cuon (genus containing the dhole)#
+2695700#タヌキ属#タヌキぞく#Nyctereutes;genus containing the raccoon dog#
+2695710#コミミイヌ属#コミミイヌぞく#Atelocynus;genus containing the short-eared dog#
+2695720##コミミイヌ#short-eared dog (Atelocynus microtis)#
+2695730#ヤブイヌ属#ヤブイヌぞく#Speothos;genus containing the bush dog#
+2695740#藪犬#やぶいぬ;ヤブイヌ#bush dog (Speothos venaticus)#
+2695750#タテガミオオカミ属#タテガミオオカミぞく#Chrysocyon;genus containing the maned wolf#
+2695760#フォークランドオオカミ属#フォークランドオオカミぞく#Dusicyon;genus containing the Falkland Islands wolf#
+2695770#クルペオギツネ属#クルペオギツネぞく#Pseudalopex;genus containing the South American foxes#
+2695780#カニクイキツネ属#カニクイキツネぞく#Cerdocyon;genus containing the crab-eating fox#
+2695790#ホッキョクギツネ属#ホッキョクギツネぞく#Alopex;genus containing the Arctic fox#
+2695800#オオミミギツネ属#オオミミギツネぞく#Otocyon;genus containing the bat-eared fox#
+2695810#ハイイロギツネ属#ハイイロギツネぞく#Urocyon;genus of foxes#
+2695820#鬣狼#たてがみおおかみ;タテガミオオカミ#maned wolf (Chrysocyon brachyurus)#
+2695830#抜きしろ#ぬきしろ#draft (in casting);draught;amount of taper for molded or cast parts#
+2695840#フォークランド狼#フォークランドおおかみ;フォークランドオオカミ#Falkland Islands wolf (Dusicyon australis);warrah;Falkland Islands dog;Falkland Islands fox;Antarctic wolf#
+2695850#蟹食犬#かにくいいぬ;カニクイイヌ#crab-eating fox (Cerdocyon thous);forest fox;wood fox;common fox#
+2695860##スウィフトギツネ;スイフトギツネ#swift fox (Vulpes velox)#
+2695870##コサックギツネ#corsac fox (Vulpes corsac)#
+2695880#ケープ狐#ケープぎつね;ケープギツネ#Cape fox (Vulpes chama);cama fox;silver-backed fox#
+2695890##オグロスナギツネ#pale fox (Vulpes pallida);African sand fox;pallid fox#
+2695900##ベンガルギツネ#Bengal fox (Vulpes bengalensis);Indian fox#
+2695910##チベットスナギツネ#Tibetan sand fox (Vulpes ferrilata);Tibetan fox#
+2695920##ブランフォードギツネ#Blanford's fox (Vulpes cana)#
+2695930##オジロスナギツネ#Rüppell's fox (Vulpes rueppellii);Rueppell's fox;sand fox#
+2695940#大耳狐#おおみみぎつね;オオミミギツネ#bat-eared fox (Otocyon megalotis)#
+2695950#灰色狐#はいいろぎつね;ハイイロギツネ#gray fox (Urocyon cinereoargenteus)#
+2695960##シマハイイロギツネ#island fox (Urocyon littoralis);coast fox;short-tailed fox;island gray fox;Channel Islands fox;Channel Islands gray fox;California Channel Island fox;insular gray fox#
+2695970#マングース科#マングースか#Herpestidae;mongoose family#
+2695980#ジャコウネコ科;麝香猫科#ジャコウネコか;じゃこうねこか#Viverridae;family of viverrids (e.g. civets)#
+2695990#ハイエナ科#ハイエナか#Hyaenidae;family comprising the hyenas#
+2696000#マダガスカルマングース科#マダガスカルマングースか#Eupleridae;family of 10 carnivoran species endemic to Madagascar#
+2696010#キノボリジャコウネコ科#キノボリジャコウネコか#Nandiniidae;family containing the African palm civet#
+2696020#ニムラウス科#ニムラウスか#Nimravidae;extinct family comprising the false saber-toothed cats#
+2696030#レッサーパンダ科#レッサーパンダか#Ailuridae;family containing the red panda#
+2696040#アライグマ科#アライグマか#Procyonidae;family comprising the raccoons#
+2696050#スカンク科#スカンクか#Mephitidae;skunk family#
+2696060#クマ科#クマか#Ursidae;family comprising the bears#
+2696070#アシカ科#アシカか#Otariidae;family of eared seals#
+2696080#セイウチ科#セイウチか#Odobenidae;family containing the walrus#
+2696090##ボルネオヤマネコ#bay cat (Catopuma badia);Bornean cat;Bornean bay cat;Bornean marbled cat#
+2696100##アジアゴールデンキャット;アジア・ゴールデン・キャット#Asian golden cat (Catopuma temminckii);Asiatic golden cat;Temminck's golden cat#
+2696110##ジャングルキャット;ジャングル・キャット#jungle cat (Felis chaus)#
+2696120#砂猫#すなねこ;スナネコ#sand cat (Felis margarita);sand dune cat#
+2696130#黒足猫#くろあしねこ;クロアシネコ#black-footed cat (Felis nigripes)#
+2696140##ハイイロネコ#Chinese mountain cat (Felis bieti);Chinese desert cat#
+2696150##パンパスキャット;パンパス・キャット#pampas cat (Leopardus pajeros)#
+2696160##ジョフロイネコ#Geoffroy's cat (Leopardus geoffroyi)#
+2696170##コドコド#kodkod (Leopardus guigna);guiña#
+2696180##アンデスネコ#Andean mountain cat (Leopardus jacobitus)#
+2696190##マヌルネコ#Pallas's cat (Otocolobus manul);manul#
+2696200##アフリカゴールデンキャット;アフリカ・ゴールデン・キャット#African golden cat (Profelis aurata)#
+2696210#マレー山猫#マレーやまねこ;マレーヤマネコ#flat-headed cat (Prionailurus planiceps)#
+2696220##サビイロネコ#rusty-spotted cat (Prionailurus rubiginosus)#
+2696240##ジャガランディ#jaguarundi (Puma yagouaroundi)#
+2696250##マーブルキャット;マーブル・キャット#marbled cat (Pardofelis marmorata)#
+2696260##スミロドン#Smilodon (member of a genus of saber-toothed cats)#
+2696270##ゼブロイド#zebroid;zebra hybrid#
+2696280##ヒトキメラ;ヒト・キメラ#human chimera#
+2696290#粘滑#ねんかつ#mucilaginous;demulcent#
+2696300#長寿番組#ちょうじゅばんぐみ#long-lived program (on TV, radio, etc.);long runner#
+2696310##ポッサム#possum#
+2696320#袋狐#ふくろぎつね;フクロギツネ#common brushtail possum (Trichosurus vulpecula)#
+2696330##ミミナガバンディクート#bilby (Macrotis lagotis);dalgyte#
+2696340##ブタアシバンディクート#pig-footed bandicoot (Chaeropus ecaudatus)#
+2696350#奥の深い#おくのふかい#deep;profound;complicated;advanced;impenetrable#
+2696360##コロコロ#colocolo (Leopardus colocolo);pampas cat#
+2696370##キネコ;キネレコ#kinescope;telerecording#
+2696380##ミニバー#minibar#
+2696390#植物種#しょくぶつしゅ#plant species#
+2696400#硬葉樹林#こうようじゅりん#sclerophyll forest;sclerophyllous forest;hardwood forest#
+2696410#硬葉樹#こうようじゅ#sclerophyllous tree#
+2696420#透け透け#すけすけ;スケスケ#see-through;sheer#
+2696430#潜降#せんこう#diving#
+2696440#白色瞳孔#はくしょくどうこう#leukocoria;leukokoria;amaurotic cat's eye#
+2696450#コウモリ目#コウモリもく#Chiroptera;order comprising the bats#
+2696460#ハリネズミ科#ハリネズミか#Erinaceidae;hedgehog family#
+2696470##ジムヌラ#moonrat (Echinosorex gymnura)#
+2696480##アムールハリネズミ#Amur hedgehog (Erinaceus amurensis)#
+2696490##ナミハリネズミ#European hedgehog (Erinaceus europaeus);common hedgehog#
+2696500##ヨーロッパハリネズミ#European hedgehog (Erinaceus europaeus);common hedgehog#
+2696510##オオミミハリネズミ#long-eared hedgehog (Hemiechinus auritus)#
+2696520##ダウリアハリネズミ#Daurian hedgehog (Mesechinus dauuricus)#
+2696530##モリハリネズミ#Hugh's hedgehog (Mesechinus hughi);central Chinese hedgehog#
+2696540##エチオピアハリネズミ#desert hedgehog (Paraechinus aethiopicus)#
+2696550##ブラントハリネズミ#Brandt's hedgehog (Paraechinus hypomelas)#
+2696560##インドハリネズミ#Indian hedgehog (Paraechinus micropus)#
+2696570##ミンダナオジムヌラ#Mindanao gymnure (Podogymnura truei);Mindanao moonrat#
+2696580##チビオジムヌラ#short-tailed gymnure (Hylomys suillus)#
+2696590##ヒトイロハリネズミ#southern white-breasted hedgehog (Erinaceus concolor);easten European hedgehog;white-bellied hedgehog;white-chested hedgehog#
+2696600##アルジェリアハリネズミ#North African hedgehog (Atelerix algirus);Algerian hedgehog#
+2696610##ヨツユビハリネズミ#four-toed hedgehog (Atelerix albiventris);African pygmy hedgehog;middle-African hedgehog#
+2696620#ハリネズミ属#ハリネズミぞく#Erinaceus;genus of hedgehogs#
+2696630#オオミミハリネズミ属#オオミミハリネズミぞく#Hemiechinus;genus of hedgehogs#
+2696640#インドハリネズミ属#インドハリネズミぞく#Paraechinus (genus of hedgehogs)#
+2696650#ハリネズミ目#ハリネズミもく#Erinaceomorpha;order comprising the hedgehogs and the moonrats#
+2696660#哺乳綱#ほにゅうこう#Mammalia#
+2696670#原獣亜綱#げんじゅうあこう#Prototheria#
+2696680#獣形類#じゅうけいるい#Theromorpha#
+2696690#脊椎動物亜門#せきついどうぶつあもん#Vertebrata#
+2696700#脊索動物門#せきさくどうぶつもん#Chordata;phylum of deuterostome animals#
+2696710#上綱#じょうこう;じょうごう#superclass;top-ranking priest in the Office of Monastic Affairs#
+2696720#四肢動物#ししどうぶつ#tetrapod;quadruped#
+2696730#四肢動物上綱#ししどうぶつじょうこう#Tetrapoda#
+2696740#異獣亜綱;異獣亜網#いじゅうあこう#Allotheria (subclass of Mesozoic mammals)#
+2696750#三錐歯目#さんすいしもく#Triconodonta;Eutriconodonta;order of early mammals#
+2696760#全獣類#ぜんじゅうるい#holotherians;members of a problematic clade containing Kuehneotherium and all living therians#
+2696770#獣亜綱#じゅうあこう#Theria (mammalian subclass)#
+2696780#後獣下綱#こうじゅうかこう#Metatheria (mammalian infraclass)#
+2696790#真獣下綱#しんじゅうかこう#Eutheria (mammalian infraclass)#
+2696800#正獣下綱#せいじゅうかこう#Eutheria (mammalian infraclass)#
+2696810#爬虫綱#はちゅうこう#Reptilia#
+2696820#竜弓類#りゅうきゅうるい#Sauropsida (branch of amniotes that includes reptiles, birds and non-avian dinosaurs)#
+2696830#双弓亜綱#そうきゅうあこう#Diapsida (class of amniotes)#
+2696840#単弓綱#たんきゅうこう#Synapsida (class of amniotes)#
+2696850#盤竜目#ばんりゅうもく#Pelycosauria (order of primitive synapsids, now considered to be paraphyletic)#
+2696860#真盤竜亜目#しんはんりゅうあもく#Eupelycosauria (suborder of pelycosaurs)#
+2696870#カセアサウルス亜目#カセアサウルスあもく#Caseasauria;Pelycosauria suborder of early synapsids#
+2696880#カセア亜目#カセアあもく#Caseasauria;suborder of early pelycosaurs#
+2696890#獣弓目#じゅうきゅうもく#Therapsida (order of advanced synapsids)#
+2696900#異歯類#いしるい#anomodonts#
+2696910#異歯亜目#いしあもく#Anomodontia (suborder of therapsids)#
+2696920#獣歯類#じゅうしるい#Theriodontia;theriodonts#
+2696930#キノドン亜目#キノドンあもく#Cynodontia;suborder of therapsids#
+2696940#哺乳形類#ほにゅうけいるい#Mammaliaformes#
+2696950#モルガヌコドン目#モルガヌコドンもく#Morganucodonta;extinct order of early mammals or mammal-like creatures#
+2696960#梁歯目#りょうしもく#Docodonta#
+2696970#多丘歯目#たきゅうしもく#Multituberculata (extinct order of rodent-like mammals)#
+2696980#アフリカ獣上目#アフリカじゅうじょうもく#Afrotheria;superorder of mammals of African origin#
+2696990#異節上目#いせつじょうもく#Xenarthra (superorder comprising anteaters, tree sloths, and armadillos)#
+2697000#北方真獣類#ほっぽうしんじゅうるい#Boreoeutheria (clade of placental mammals);Boreotheria;boreoeutherians#
+2697010#曲鼻猿亜目#きょくびえんあもく#Strepsirrhini (primate suborder)#
+2697020#直鼻猿亜目#ちょくびえんあもく#Haplorhini (primate suborder)#
+2697030#キツネザル下目#キツネザルかもく#Lemuriformes;infraorder containing the lemurs (and sometimes the lorises and galagos)#
+2697040#ロリス下目#ロリスかもく#Lorisiformes;infraorder containing lorises and galagos#
+2697050#アイアイ下目#アイアイかもく#Chiromyiformes;infraorder containing the aye-aye#
+2697060#キツネザル科#キツネザルか#Lemuridae;family comprising the lemurs#
+2697070#冠狐猿#かんむりきつねざる;カンムリキツネザル#crowned lemur (Eulemur coronatus)#
+2697080#茶色狐猿#ちゃいろきつねざる;チャイロキツネザル#common brown lemur (Eulemur fulvus);brown lemur#
+2697090#黒狐猿#くろきつねざる;クロキツネザル#black lemur (Eulemur macaco)#
+2697100##マングースキツネザル;マングース・キツネザル#mongoose lemur (Eulemur mongoz)#
+2697110#赤腹狐猿#あかはらきつねざる;アカハラキツネザル#red-bellied lemur (Eulemur rubriventer)#
+2697120##アカビタイキツネザル#red-fronted lemur (Eulemur rufifrons);red-fronted brown lemur;southern red-fronted brown lemur#
+2697130##サンフォードキツネザル#Sanford's brown lemur (Eulemur sanfordi);Sanford's lemur#
+2697140#白黒襟巻狐猿#しろくろえりまききつねざる;シロクロエリマキキツネザル#black-and-white ruffed lemur (Varecia variegata)#
+2697150#赤襟巻狐猿#あかえりまききつねざる;アカエリマキキツネザル#red ruffed lemur (Varecia rubra)#
+2697160#キツネザル属#キツネザルぞく#Eulemur;genus of true lemurs#
+2697170#ワオキツネザル属#ワオキツネザルぞく#Lemur;genus containing the ring-tailed lemur#
+2697180#エリマキキツネザル属#エリマキキツネザルぞく#Varecia;genus comprising the ruffed lemurs#
+2697190#ジェントルキツネザル属#ジェントルキツネザルぞく#Hapalemur;genus comprising the gentle lemurs#
+2697200#ヒロバナジェントルキツネザル属#ヒロバナジェントルキツネザルぞく#Prolemur;genus containing the greater bamboo lemur#
+2697210##ヒロバナジェントルキツネザル#greater bamboo lemur (Prolemur simus);broad-nosed bamboo lemur;broad-nosed gentle lemur#
+2697220##アラオトラジェントルキツネザル#Lac Alaotra bamboo lemur (Hapalemur alaotrensis);Lac Alaotra gentle lemur;Alaotran bamboo lemur;Alaotran gentle lemur#
+2697230##キンイロジェントルキツネザル#golden bamboo lemur (Hapalemur aureus)#
+2697240##ハイイロジェントルキツネザル#eastern lesser bamboo lemur (Hapalemur griseus);gray bamboo lemur;gray gentle lemur#
+2697250##ニシジェントルキツネザル#western lesser bamboo lemur (Hapalemur occidentalis);northern bamboo lemur;western gentle lemur#
+2697260##ミナミジェントルキツネザル#southern lesser bamboo lemur (Hapalemur meridionalis);southern bamboo lemur;rusty-gray bamboo lemur;southern gentle lemur#
+2697270#真猿亜目#しんえんあもく#Simiiformes (infraorder comprising the simians, i.e. higher primates)#
+2697280#下目#かもく#infraorder#
+2697290#メガネザル下目#メガネザルかもく#Tarsiiformes;infraorder containing the tarsiers#
+2697300#メガネザル科#メガネザルか#Tarsiidae (tarsier family)#
+2697310#メガネザル属#メガネザルぞく#Tarsius;genus of tarsiers#
+2697320#北部地域#ほくぶちいき#northern region;the north#
+2697330#貧困層#ひんこんそう#underclasses;poorest segment of the population;the poor#
+2697340#移民団#いみんだん#colonists;emigrants#
+2697350#中国系#ちゅうごくけい#Chinese (lineage, ancestry, ethnicity, etc.);Sino-#
+2697360#小目#しょうもく#parvorder#
+2697370##タクソン#taxon#
+2697380#出発地#しゅっぱつち#departure place;place of departure#
+2697390#ヨーロッパ諸国#ヨーロッパしょこく#European countries;European nations#
+2697400#生物の分類#せいぶつのぶんるい#biological classification#
+2697410#生物分類#せいぶつぶんるい#biological classification#
+2697420#棘皮動物門#きょくひどうぶつもん#Echinodermata (phylum of marine invertebrates)#
+2697430#猛抗議#もうこうぎ#vehement objection;bitter opposition#
+2697440#有名ブランド#ゆうめいブランド#big-name brand;brand-name goods#
+2697450#一時休業#いちじきゅうぎょう#temporary suspension (of business);brief shutdown#
+2697460#一時休止#いちじきゅうし#adjournment;pause;moratorium;temporary suspension#
+2697470#三尊#さんぞん;さんそん#image of the three honorable ones (honourable);Buddha, sutras and priesthood;head and shoulders (stock price, etc. chart pattern);the three people one must esteem: master, father, teacher#
+2697480#三尊天井#さんぞんてんじょう#head and shoulders (chartist pattern)#
+2697490#讃談;讃歎;讚談;讚歎#さんだん#praising Buddha;sermon;praise (second of the five gates of mindfulness);style of Buddhistic song of praise, usually praising Buddha, the Bodhisattva, the Buddhistic teachings, etc.;rumor;rumour;hearsay#
+2697500#君父#くんぷ#master and father#
+2697510#君父の讐は倶に天を戴かず#くんぷのあだはともにてんをいただかず#not wanting to live in the same world as one's father's or lord's enemies;being prepared to sacrifice one's life to avenge one's father or lord#
+2697520#腹直筋#ふくちょくきん;ふくちょっきん#rectus abdominis muscle;abdominal rectus muscle#
+2697530#君#ぎみ#suffix appended to somebody else's family members#
+2697540#君#きんじ#you#
+2697550#α分類学;アルファ分類学#アルファぶんるいがく#alpha taxonomy#
+2697560#民間分類#みんかんぶんるい#folk taxonomy#
+2697570##フォークソノミー#folksonomy#
+2697590#一斤染め;一斤染#いっこんぞめ;いっきんぞめ#light pink;pale pink#
+2697600#江戸紫#えどむらさき#bluish-violet;royal purple#
+2697610#黄丹#おうだん;おうに#orange color traditionally worn by the crown prince#
+2697620#貝紫色#かいむらさきいろ#Tyrian purple;royal purple#
+2697630#京紫#きょうむらさき#somewhat reddish purple#
+2697640#紫苑色#しおんいろ#light purple (similar to that of the flowers of the Tartarian aster)#
+2697650#拳闘家痴呆#けんとうかちほう#dementia pugilistica;boxer's dementia;punch-drunk syndrome#
+2697660#拳闘家#けんとうか#boxer#
+2697670#拳闘術#けんとうじゅつ#boxing#
+2697680#老人斑#ろうじんはん#senile plaque;neuritic plaque;senile druse#
+2697690#動物標本#どうぶつひょうほん#zoological specimen#
+2697700#コロンブス交換#コロンブスこうかん#Columbian exchange;widespread exchange of animals, plants, culture, disease, and ideas between the Old and New Worlds#
+2697710#尖頭器#せんとうき#projectile point;point#
+2697720##トキイロコンドル#king vulture (Sarcoramphus papa)#
+2697730#貝殻状断口#かいがらじょうだんこう#conchoidal fracture#
+2697740#有色鉱物#ゆうしょくこうぶつ#mafic mineral;colored mineral;coloured mineral;dark mineral#
+2697750#無色鉱物#むしょくこうぶつ#felsic mineral;colorless mineral;colourless mineral#
+2697760#硫化鉄#りゅうかてつ#iron sulfide;iron sulphide#
+2697770##ピッチストーン#pitchstone#
+2697780#松脂岩#しょうしがん#pitchstone#
+2697790#石英粗面岩#せきえいそめんがん#liparite#
+2697800#珪質砂岩#けいしつさがん#siliceous sandstone#
+2697810#珪質#けいしつ#silicic;siliceous#
+2697820#珪長岩#けいちょうがん#felsite;felstone#
+2697830#断口#だんこう#fracture#
+2697840#苦鉄質#くてつしつ#mafic#
+2697850#珪長質#けいちょうしつ#felsic#
+2697860##ガールズバー;ガールズ・バー#small shot bar with an all-female staff#
+2697870#接待行為#せったいこうい#licensed entertainment of customers#
+2697880#風適法#ふうてきほう#Law Controlling Business Affecting Public Morals;Adult Entertainment Law;Amusement Businesses Law;Entertainment Businesses Law#
+2697920#てんこ盛り;天こ盛り;天こ盛#てんこもり#heap;pile;stack;spoonful;bowlful#
+2697930##サバニ;さばに#plank-built fishing boat (Okinawa)#
+2697940#日本石亀#にほんいしがめ;ニホンイシガメ#Japanese pond turtle (Mauremys japonica)#
+2697950#鳥綱#ちょうこう#Aves;class of vertebrates comprising the birds#
+2697960#両生綱#りょうせいこう#Amphibia;class comprising the extant and extinct amphibians#
+2697970#魚綱#ぎょこう#Pisces (obsolete class of vertebrates comprising the fishes)#
+2697980#昆虫綱#こんちゅうこう#Insecta (class comprising the insects)#
+2697990#硬骨魚綱#こうこつぎょこう#Osteichthyes;class comprising the bony fishes (and sometimes their descendants, i.e. tetrapods)#
+2698030#猫#ねこま#cat#
+2698040##セムラ#semla (Scandinavian Lenten pastry)#
+2698090#磨面#まめん#polished surface;facet#
+2698100#大量絶滅#たいりょうぜつめつ#extinction event;mass extinction#
+2698110#造山帯#ぞうざんたい#orogenic belt;orogenic zone#
+2698120#古期#こき#old;ancient#
+2698130#古期造山帯#こきぞうざんたい#old orogenic belt;mountain belts formed in the Palaeozoic era#
+2698140#交通手段#こうつうしゅだん#means of transportation;transportation system;way of getting around#
+2698150#ろくろ回し;轆轤回し#ろくろまわし#shaping ceramics on a pottery wheel;spinning a pottery wheel;gesticulating with your hands as if you were shaping ceramics on a pottery wheel#
+2698160#役作り#やくづくり#study (for a role);preparation for a part (in a play, etc.)#
+2698170#厨子甕#ずしがめ#decorated pottery container for storing the bones of one's ancestors (Okinawa)#
+2698180#真砂和え#まさごあえ#dish dressed with fish roe#
+2698190#ぶっ切れる;打っ切れる#ぶっきれる#to suddenly break with a snap;to suddenly get cut off;to snap;to become furious#
+2698200#ぶっ切る;打っ切る#ぶっきる#to violently cut something apart;to hack down;to chop;to cut off#
+2698210#打っ#ぶっ#strongly (used to emphasize the following verb);violently;quickly;suddenly#
+2698220##レジャーシート;レジャー・シート#picnic sheet;picnic plaid#
+2698230#石積み#いしづみ#masonry;stonework#
+2698250#車上狙い#しゃじょうねらい#theft from a vehicle;stealing valuable from unattended car#
+2698260#ヌママングース属#ヌママングースぞく#Atilax;genus containing the marsh mongoose#
+2698270##ヌママングース#marsh mongoose (Atilax paludinosus);water mongoose#
+2698280#フサオマングース属#フサオマングースぞく#Bdeogale;genus of mongooses#
+2698290#クシマンセ属#クシマンセぞく#Crossarchus;genus of mongooses comprising the kusimanses#
+2698300#キイロマングース属#キイロマングースぞく#Cynictis;genus containing the yellow mongoose#
+2698310#プウサルグマングース属#プウサルグマングースぞく#Dologale;genus containing Pousargues's mongoose#
+2698320#コビトマングース属#コビトマングースぞく#Helogale;genus of dwarf mongooses#
+2698330#エジプトマングース属#エジプトマングースぞく#Herpestes;genus of mongooses#
+2698340#シロオマングース属#シロオマングースぞく#Ichneumia;genus containing the white-tailed mongoose#
+2698350#リベリアマングース属#リベリアマングースぞく#Liberiictis;genus containing the Liberian mongoose#
+2698360#ガンビアマングース属#ガンビアマングースぞく#Mungos;genus of mongooses#
+2698370#セラスマングース属#セラスマングースぞく#Paracynictis;genus containing Selous' mongoose#
+2698380#メラーマングース属#メラーマングースぞく#Rhynchogale;genus containing Meller's mongoose#
+2698390#スリカータ属#スリカータぞく#Suricata;genus containing the meerkat#
+2698400##フサオマングース#bushy-tailed mongoose (Bdeogale crassicauda)#
+2698410##ジャクソンマングース;ジャクソン・マングース#Jackson's mongoose (Bdeogale jacksoni)#
+2698420##クロアシマングース#black-footed mongoose (Bdeogale nigripes)#
+2698430##アレキサンダークシマンセ;アレキサンダー・クシマンセ#Alexander's kusimanse (Crossarchus alexandri)#
+2698440##アンゴラクシマンセ;アンゴラ・クシマンセ#Angolan kusimanse (Crossarchus ansorgei);Ansorge's kusimanse#
+2698450##クシマンセ#common kusimanse (Crossarchus obscurus);long-nosed kusimanse#
+2698460##ベニンクシマンセ#flat-headed kusimanse (Crossarchus platycephalus)#
+2698470#絵チャ#えちゃ#paint chat;Internet chat room where users can draw pictures#
+2698480##キイロマングース#yellow mongoose (Cynictis penicillata);red meerkat#
+2698490##プウサルグマングース;プウサルグ・マングース#Pousargues's mongoose (Dologale dybowskii);African tropical savannah mongoose#
+2698500##ヒガシコビトマングース#Ethiopian dwarf mongoose (Helogale hirtula);desert dwarf mongoose;Somali dwarf mongoose#
+2698510##コビトマングース#common dwarf mongoose (Helogale parvula);dwarf mongoose#
+2698520##チビオマングース#short-tailed mongoose (Herpestes brachyurus)#
+2698530#灰色マングース#はいいろマングース;ハイイロマングース#Indian gray mongoose (Herpestes edwardsii);common grey mongoose#
+2698540##インドトビイロマングース#Indian brown mongoose (Herpestes fuscus)#
+2698550##エジプトマングース;エジプト・マングース#Egyptian mongoose (Herpestes ichneumon);ichneumon#
+2698560##ジャワマングース;ジャワ・マングース#small Asian mongoose (Herpestes javanicus)#
+2698570##ハナナガマングース#long-nosed mongoose (Herpestes naso)#
+2698580##クビワマングース#collared mongoose (Herpestes semitorquatus)#
+2698590#赤マングース#あかマングース;アカマングース#ruddy mongoose (Herpestes smithii)#
+2698600##カニクイマングース#crab-eating mongoose (Herpestes urva)#
+2698610##クロスジマングース#stripe-necked mongoose (Herpestes vitticollis)#
+2698620##シロオマングース#white-tailed mongoose (Ichneumia albicauda)#
+2698630##リベリアマングース;リベリア・マングース#Liberian mongoose (Liberiictis kuhni)#
+2698640##ガンビアマングース;ガンビア・マングース#Gambian mongoose (Mungos gambianus)#
+2698650#縞マングース#しまマングース;シママングース#banded mongoose (Mungos mungo)#
+2698660##セラスマングース;セラス・マングース#Selous' mongoose (Paracynictis selousi)#
+2698670##メラーマングース;メラー・マングース#Meller's mongoose (Rhynchogale melleri)#
+2698680#遊漁船#ゆうぎょせん#sport fishing boat;sport fisher#
+2698690#地域政党#ちいきせいとう#local political party#
+2698700#懲戒請求#ちょうかいせいきゅう#formal demand for disciplinary measures against a lawyer#
+2698710#弁護士法#べんごしほう#Attorneys-at-Law Act;Lawyer Act#
+2698720#発信力#はっしんりょく#communicativity;ability to convey one's opinion, message, etc.;power to make oneself understood#
+2698730#最終調整#さいしゅうちょうせい#final adjustment;final coordination#
+2698740#地対空誘導弾#ちたいくうゆうどうだん#surface-to-air missile;SAM#
+2698750#地対空ミサイル#ちたいくうミサイル#surface-to-air missile;SAM#
+2698760#大気圏外#たいきけんがい#outside the earth's atmosphere;outer space;exoatmosphere;exo-atmosphere#
+2698770#地上配備#ちじょうはいび#land-based (missiles, etc.)#
+2698780#生活物資#せいかつぶっし#living necessities;everyday commodities;daily commodities;everyday goods;subsistence goods#
+2698790#金属屑;金属くず#きんぞくくず#scrap metal#
+2698800#空間線量率#くうかんせんりょうりつ#air dose rate (esp. radioactivity)#
+2698810#公共土木事業#こうきょうどぼくじぎょう#public works#
+2698820#受け入れ先#うけいれさき#recipient;receiving side;place or person that receives something#
+2698830#ごみ処理施設#ごみしょりしせつ#garbage disposal plant;refuse disposal facility;waste treatment plant#
+2698840#申し入れ書#もうしいれしょ#letter (often open);letter containing a proposal#
+2698850#焼却灰#しょうきゃくばい#incinerated ash;burned ash;ash#
+2698860##キーテク#key technology#
+2698870##キーツール;キー・ツール#important tool#
+2698880##フラッシュゲーム;フラッシュ・ゲーム#Flash game (i.e. browser game made with Adobe Flash)#
+2698890#空間線量#くうかんせんりょう#air dose (esp. radioactivity)#
+2698900#辞書編集者#じしょへんしゅうしゃ#lexicographer;lexicographist#
+2698920#鉄ちゃん#てっちゃん#trainspotter;railway enthusiast;railfan#
+2698940#キャンバス地#キャンバスじ#canvas#
+2698960#前頭前皮質#ぜんとうぜんひしつ#prefrontal cortex#
+2698970#一次運動野#いちじうんどうや#primary motor cortex;primary motor area#
+2698980#ベッツ細胞#ベッツさいぼう#Betz cell;primary motor cortex neuron#
+2698990#背側皮質視覚路#はいそくひしつしかくろ#dorsal stream;parietal stream#
+2699000#外側溝#がいそくこう#lateral sulcus (brain structure);Sylvian fissure;lateral fissure#
+2699010#横側頭回#おうそくとうかい#transverse temporal gyri;ridges on the cerebral cortex;Heschl's gyri;Heschl's convolutions#
+2699020#脳回#のうかい#gyrus;ridge on the cerebral cortex#
+2699030#脳溝#のうこう#sulcus;groove in the surface of the brain#
+2699040#大脳縦裂#だいのうじゅうれつ#great longitudinal fissure;longitudinal cerebral fissure;longitudinal fissure;interhemispheric fissure;fissura longitudinalis cerebri;groove that separates the two hemispheres of the brain#
+2699050#大脳鎌#だいのうかま#falx cerebri;cerebral falx#
+2699060#脊髄硬膜#せきずいこうまく#spinal dura mater#
+2699070#脳硬膜#のうこうまく#cranial dura mater;cerebral dura mater;dura mater encephali#
+2699080#第四脳室#だいよんのうしつ#fourth ventricle;brain structure#
+2699090#下位脳幹#かいのうかん#lower brainstem#
+2699100#島皮質#とうひしつ#insular cortex;insula#
+2699110#角回#かくかい#angular gyrus;angular convolution#
+2699120#側頭頭頂接合部#そくとうとうちょうせつごうぶ#temporoparietal junction;TPJ#
+2699130#自己像幻視#じこぞうげんし#autoscopy#
+2699140#上前頭回#じょうぜんとうかい#superior frontal gyrus#
+2699150#中前頭回#ちゅうぜんとうかい#middle frontal gyrus#
+2699160#弁蓋部#べんがいぶ#pars opercularis;orbital part of inferior frontal gyrus#
+2699170#下前頭回#かぜんとうかい#inferior frontal gyrus#
+2699180#三角部#さんかくぶ#pars triangularis;triangular area;triangular part of inferior frontal gyrus#
+2699190##ボクシンググローブ;ボクシング・グローブ#boxing glove#
+2699200#追いコン;追コン#おいコン#farewell party;send-off party#
+2699210#神経科学者#しんけいかがくしゃ#neuroscientist#
+2699220#神経学者#しんけいがくしゃ#neurologist#
+2699230#たがが外れる;タガが外れる;箍が外れる#たががはずれる;タガがはずれる#to become unrestrained and go to excess;to lose all restraint;to lose one's tension and become relaxed;to let go;to become disorderly;to be scattered;to lose one's self-control#
+2699240##バイオメカニクス#biomechanics#
+2699250#時間生物学#じかんせいぶつがく#chronobiology#
+2699260#保全生態学#ほぜんせいたいがく#conservation ecology#
+2699280#生物海洋学#せいぶつかいようがく#marine biology;biological oceanography#
+2699290#数理生物学#すうりせいぶつがく#mathematical biology;theoretical biology;biomathematics#
+2699300#寄生虫学#きせいちゅうがく#parasitology;helminthology#
+2699310#量子生物学#りょうしせいぶつがく#quantum biology#
+2699320#システム生物学#システムせいぶつがく#systems biology#
+2699330#毒性学#どくせいがく#toxicology#
+2699340##レベルオフ#level-off#
+2699350#研磨面#けんまめん#polished surface;ground surface#
+2699360#読みが甘い;読みがあまい;ヨミが甘い#よみがあまい;ヨミがあまい#overly optimistic;misjudged;underestimated#
+2699370#比内鶏;比内鳥#ひないどり#breed of chicken native to Akita Prefecture#
+2699380#比内地鳥;比内地鶏#ひないじどり#cross between Hinai-dori and Rhode Island Red chickens#
+2699390#平飼い#ひらがい#free range farming (poultry, etc.);floor feeding#
+2699400#バタリー飼育#バタリーしいく#battery rearing;battery raising;battery farming#
+2699410##バタリー#battery (in poultry farming)#
+2699420#ケージ飼育#ケージしいく#cage feeding#
+2699430#立体飼育#りったいしいく#cage feeding;battery feeding#
+2699440#地上飼育#ちじょうしいく#floor feeding#
+2699450#ＪＡＳ法#ジャスほう#Japanese Agricultural Standard Law;JAS Law#
+2699460#食品表示#しょくひんひょうじ#food labeling;food labelling#
+2699470#公共土木施設災害復旧事業費国庫負担法#こうきょうどぼくしせつさいがいふっきゅうじぎょうひこっこふたんほう#National Government Defrayment Act for Reconstruction of Disaster-Stricken Public Facilities#
+2699480##ジェントルキツネザル;ジェントル・キツネザル#gentle lemur (Hapalemur spp.);bamboo lemur#
+2699490##ポリアリレート#polyarylate#
+2699500#冬型気圧配置#ふゆがたきあつはいち#atmospheric pressure pattern in winter;winter pressure pattern#
+2699510#心なしか;心成しか#こころなしか#somehow;somewhat;seemingly#
+2699520#担持#たんじ#support (e.g. of an element acting as a catalyst)#
+2699530#トーク番組#トークばんぐみ#talk show#
+2699540##アフターパーティー;アフター・パーティー#after-party;party held after a concert, etc.#
+2699550#真空容器#しんくうようき#vacuum vessel;vacuum chamber#
+2699560#ドーナツ形#ドーナツがた#toroidal;donut-shaped#
+2699570#大道走#おおみちばしり;オオミチバシリ#greater roadrunner (Geococcyx californianus)#
+2699580#小道走#こみちばしり;コミチバシリ#lesser roadrunner (Geococcyx velox)#
+2699590#隔離分布#かくりぶんぷ#disjunct distribution#
+2699600##ドクターイエロー;ドクター・イエロー#Shinkansen electrics and track inspection train#
+2699610#生物統計学#せいぶつとうけいがく#biostatistics#
+2699620#生物測定学#せいぶつそくていがく#biometrics;biometry#
+2699630##トークライブ;トーク・ライブ#public talk#
+2699640#ドーナツ状#ドーナツじょう#torus-shape;toroidal#
+2699650#ネコ目#ネコめ#cat eye (syndrome)#
+2699660#燕えい;燕鱏#つばくろえい;ツバクロエイ#butterfly ray (Gymnura japonica)#
+2699670#エイムス試験#エイムスしけん#Ames test#
+2699680#命名権#めいめいけん#naming rights#
+2699690#見せブラ#みせブラ#show-off bra;wearing clothes that reveal part of the bra (on purpose)#
+2699700#三角座り#さんかくずわり;さんかくすわり#sitting on the floor grasping one's knees (as in a gym class)#
+2699710##セクキャバ#hostess club where certain sexual conduct is allowed#
+2699720#つるっ禿#つるっぱげ#shiny, bald head;person with a shiny, bald head#
+2699730##ぷくぷく#bubblingly;foamingly;sinking or rising while giving off bubbles;cute and chubby;pudgy;puffed up#
+2699740#小海雀#こうみすずめ;コウミスズメ#least auklet (Aethia pusilla)#
+2699750#ヨーロッパ姫鵜#ヨーロッパひめう;ヨーロッパヒメウ#European shag (Phalacrocorax aristotelis);common shag;shag#
+2699760#姫鵜#ひめう;ヒメウ#pelagic cormorant (Phalacrocorax pelagicus)#
+2699770#寝待月;寝待ち月#ねまちづき#waning gibbous moon;moon of the 19th day of the lunar month#
+2699780##キャバレークラブ;キャバレー・クラブ#hostess club;bar with female companions for male customers#
+2699790##ネーミングライト;ネーミングライツ;ネーミング・ライト;ネーミング・ライツ#naming right;naming rights#
+2699810#臥待月;臥し待ち月#ふしまちづき#moon of the 19th day of the lunar month#
+2699820#三題噺;三題咄#さんだいばなし#performing a rakugo story on the spot based on three topics given by the audience;impromptu rakugo story based on three subjects#
+2699830#ほうれい線;法令線;豊麗線;豊齢線#ほうれいせん#nasolabial fold;smile lines;laugh lines#
+2699840#織り交ざる#おりまざる#to interlace;to interweave#
+2699850#音飛び#おととび#skipping (e.g. on a CD);jumping#
+2699860#ヒョウ亜科#ヒョウあか#Pantherinae;subfamily of Felidae which contains the genera Panthera, Uncia and Neofelis#
+2699870#マーブルキャット属#マーブルキャットぞく#Pardofelis;genus of wild cats#
+2699880#ウンピョウ属#ウンピョウぞく#Neofelis;genus of leopards#
+2699890#ユキヒョウ属#ユキヒョウぞく#Uncia;genus containing the snow leopard#
+2699900#鼻唇溝#びしんこう#nasolabial sulcus;nasolabial groove;nasolabial fold#
+2699910#収納箱#しゅうのうばこ#storage box;chest#
+2699920#貝紫#かいむらさき#Tyrian purple#
+2699930#正義の味方#せいぎのみかた#champion of justice;knight in shining armor;crime avenger;hero;super hero#
+2699940#お絵かきチャット#おえかきチャット#paint chat;Internet chat room where users can draw pictures#
+2699960##プチュッ#kissing loudly;smooching;squirting;gushing#
+2699970##ヘッドアンドショルダー;ヘッド・アンド・ショルダー#head and shoulders (stock price, etc. chart pattern)#
+2699980##ビュンビュン;びゅんびゅん#swishing through the air;whirling quickly;moving quickly#
+2699990##ノーフェザー;ノー・フェザー#rowing with square blades;rowing without feathering the oars#

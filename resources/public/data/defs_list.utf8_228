@@ -1,0 +1,942 @@
+2280000##アップリンクライセンス;アップリンク・ライセンス#uplink license#
+2280010##アップルキー;アップル・キー#Apple key#
+2280020##アップルデスクトップバス;アップル・デスクトップ・バス#Apple Desktop Bus#
+2280030##アップルトーク#AppleTalk#
+2280040##アップルメニュー;アップル・メニュー#Apple menu#
+2280060##アップローダ#uploader#
+2280070##アップワードコンパチブル#upward compatibility;upward compatibile#
+2280080##アトリビューション#attribution#
+2280090##アドイン#add-in#
+2280100##アドインソフト;アドイン・ソフト#add-in software#
+2280110##アドインソフトウェア;アドイン・ソフトウェア#add-in software#
+2280120##アドウェア#adware#
+2280130##アドオンセクション;アドオン・セクション#add-on section#
+2280140##アドオンデバイス;アドオン・デバイス#add-on device#
+2280150##アドオンボード;アドオン・ボード#add-on board#
+2280160##アドストリップ#Add-Strip#
+2280170##アドバイザリスタッフ;アドバイザリ・スタッフ#advisory staff#
+2280200##アドベンチャーゲーム;アドベンチャー・ゲーム#adventure game#
+2280210##アドホックモード;アドホック・モード#ad hoc mode#
+2280220##アドミニストレーション#administration#
+2280230##アドモード;アド・モード#add mode#
+2280240##アドレシング#addressing#
+2280250#アドレシング可能#アドレシングかのう#addressable#
+2280260##アドレスカウンタ;アドレス・カウンタ#address counter#
+2280270##アドレスクラス;アドレス・クラス#address classes#
+2280280##アドレスジェネレータ;アドレス・ジェネレータ#address generator#
+2280290##アドレススクリーニング;アドレス・スクリーニング#address screening#
+2280300##アドレスデコーダ;アドレス・デコーダ#address decoder#
+2280310##アドレスバス;アドレス・バス#address bus#
+2280320##アドレスマスク;アドレス・マスク#address mask#
+2280330##アドレスレジスタ;アドレス・レジスタ#address register#
+2280340##アドレスレンジ;アドレス・レンジ#address range#
+2280350#アドレス可能カーソル#アドレスかのうカーソル#addressable cursor#
+2280360#アドレス可能点#アドレスかのうてん#addressable point#
+2280370#アドレス解決#アドレスかいけつ#address resolution#
+2280380#アドレス解決プロトコル#アドレスかいけつプロトコル#address resolution protocol#
+2280390#アドレス管理#アドレスかんり#address administration#
+2280400#アドレス空間#アドレスくうかん#address space#
+2280410#アドレス形式#アドレスけいしき#address format#
+2280420#アドレス計算#アドレスけいさん#address computation#
+2280430#アドレス構成要素#アドレスこうせいようそ#address component#
+2280450#アドレス指定能力#アドレスしていのうりょく#addressability#
+2280460#アドレス指定例外#アドレスしていれいがい#addressing exception#
+2280470#アドレス修飾#アドレスしゅうしょく#address modification#
+2280480#アドレス情報#アドレスじょうほう#address information#
+2280490#アドレス生成#アドレスせいせい#address generation#
+2280500#アドレス定数#アドレスていすう#address constant#
+2280520#アドレス部#アドレスぶ#address field;address part#
+2280530#アドレス部拡張#アドレスぶかくちょう#address field extension#
+2280540#アドレス変換#アドレスへんかん#address translation;address mapping#
+2280550#アドレス変換バッファ#アドレスへんかんバッファ#Translation Look-aside Buffer;TLB#
+2280560#アドレス変換機構#アドレスへんかんきこう#address translator#
+2280570#アドレス変換例外#アドレスへんかんれいがい#(address) translation exception#
+2280580#アドレス変更#アドレスへんこう#address modification#
+2280590#アドレス変更子#アドレスへんこうし#address modifier#
+2280600##アドレッシングモード;アドレッシング・モード#addressing mode#
+2280620#アナログＲＧＢ#アナログアージービー#analog RGB (red green blue)#
+2280640##アナログジョイスティック;アナログ・ジョイスティック#analog joystick#
+2280650##アナログスイッチ;アナログ・スイッチ#analog switch#
+2280660##アナログデータ;アナログ・データ#analog data#
+2280670#アナログディジタル変換器#アナログディジタルへんかんき#analog-to-digital converter;AD converter;ADC#
+2280680##アナログディスプレイ;アナログ・ディスプレイ#analog display#
+2280690##アナログボード;アナログ・ボード#analog board#
+2280700##アナログポート;アナログ・ポート#analog port#
+2280710##アナログモデム;アナログ・モデム#analog modem#
+2280720#アナログ加算器#アナログかさんき#summer;analog adder#
+2280730#アナログ回線#アナログかいせん#analog line (circuit)#
+2280740#アナログ回路#アナログかいろ#analog circuitry#
+2280750#アナログ掛算器#アナログかけざんき#analog multiplier#
+2280780#アナログ除算器#アナログじょざんき#analog divider#
+2280790#アナログ乗算器#アナログじょうざんき#analog multiplier#
+2280800#アナログ信号#アナログしんごう#analog signal#
+2280810#アナログ信号生成器#アナログしんごうせいせいき#analog signal generator#
+2280820#アナログ装置#アナログそうち#analog device#
+2280830#アナログ通信路#アナログつうしんろ#analog channel#
+2280840#アナログ伝送#アナログでんそう#analog transmission#
+2280850#アナログ入力チャネル#アナログにゅうりょくチャネル#analog input channel (e.g. in process control)#
+2280870#アナログ表現#アナログひょうげん#analog representation#
+2280880#アナログ表示#アナログひょうじ#analog representation#
+2280890#アナログ変数#アナログへんすう#analog variable#
+2280900##アニメーションソフト;アニメーション・ソフト#animation software#
+2280910#アニメーションＧＩＦ#アニメーションジッフ;アニメーションギッフ#animated GIF;animated Graphics Interchange Format#
+2280920##アノイボット#annoybot#
+2280930#アノニマスＦＴＰ#アノニマスエフティーピー#anonymous ftp#
+2280940##アノニマスエフティーピー;アノニマス・エフティーピー#anonymous FTP#
+2280950##アノニマスサーバ;アノニマスサーバー;アノニマス・サーバ;アノニマス・サーバー#anonymous server#
+2280960##アパーチャグリル;アパーチャ・グリル#aperture grille#
+2280970##アパチャカード;アパチャ・カード#aperture card#
+2280980##アピックネット#APICNET#
+2280990##アフィニティ#affinity#
+2281000##アフィリエイトサービス;アフィリエートサービス;アフィリエイト・サービス;アフィリエート・サービス#affiliate service#
+2281020##アフィリエイトマーケティング;アフィリエートマーケティング;アフィリエイト・マーケティング;アフィリエート・マーケティング#affiliate marketing#
+2281030#アフィン変換#アフィンへんかん#affine transformation#
+2281040##アフターダーク;アフター・ダーク#After Dark#
+2281050##アプダ#APDA#
+2281060##アプライアンスサーバ;アプライアンス・サーバ#appliance server#
+2281070#アプリオリ法#アプリオリほう#gestalt method;a priori method#
+2281090##アプリケーションアイコン;アプリケーション・アイコン#application icon#
+2281100##アプリケーションキー;アプリケーション・キー#application key#
+2281110##アプリケーションサーバ;アプリケーションサーバー;アプリケーション・サーバ;アプリケーション・サーバー#application server#
+2281120##アプリケーションサービスプロバイダ;アプリケーション・サービスプロバイダ#Application Service Provider#
+2281130##アプリケーションジェネレータ;アプリケーション・ジェネレータ#application generator#
+2281140##アプリケーションソフトウェア;アプリケーションソフトウエア;アプリケーション・ソフトウェア;アプリケーション・ソフトウエア#application software#
+2281150##アプリケーションバンドル#application-bundling#
+2281160##アプリケーションプログラミングインタフェース;アプリケーション・プログラミング・インタフェース#application programming interface;API#
+2281170##アプリケーションプロセッサ;アプリケーション・プロセッサ#application processor#
+2281180#アプリケーション開発#アプリケーションかいはつ#application development#
+2281190#アプリケーション開発システム#アプリケーションかいはつシステム#application development system#
+2281200#アプリケーション開発ツール#アプリケーションかいはつツール#application development tool#
+2281210#アプリケーション開発環境#アプリケーションかいはつかんきょう#Application Development Environment;ADE#
+2281220#アプリケーション開発言語#アプリケーションかいはつげんご#application development language#
+2281230#アプリケーション開発者#アプリケーションかいはつしゃ#application developer;applications developer;applications programmer#
+2281240#アプリケーション設計プロセス#アプリケーションせっけいプロセス#application design process#
+2281250#アプリケーション層#アプリケーションそう#application layer#
+2281260#アプリケーション部#アプリケーションぶ#application part#
+2281270##アプレット#applet#
+2281280##アプレットビューアー;アプレット・ビューアー#applet viewer#
+2281290##アベイラブルビットレイト;アベイラブル・ビットレイト#available bit rate#
+2281300##アベンド#abnormal termination;abnormal end;ABEND#
+2281320##アマゾンドットコム#Amazon.com#
+2281330##アミーガ#Amiga#
+2281340##アメリカオンライン;アメリカ・オン・ライン#America On Line;AOL#
+2281360##アラームスピーカ;アラーム・スピーカ#audible alarm speaker#
+2281370##アラームプロファイル;アラーム・プロファイル#alarm profile#
+2281380##アラームランプ;アラーム・ランプ#alarm lamp#
+2281390#アラーム検出#アラームけんしゅつ#alarm detection#
+2281400#アラーム重要度#アラームじゅうようど#alarm severity#
+2281410##アラインメントテストイメージ#alignment test image#
+2281420##アルタビスタ#ALTA VISTA#
+2281430##アルティアハチハチゼロゼロ#Altair8800#
+2281440##アルファチャネル#alpha channel#
+2281450##アルファテスト#alpha test#
+2281460##アルファデータ#Alpha Data#
+2281470##アルファニューメリック#alphanumeric#
+2281490##アルファバージョン#alpha version#
+2281500#アルファベットの語#アルファベットのご#alphabetic word#
+2281510#アルファベット表記法#アルファベットひょうきほう#alphabetical notation#
+2281520#アルファ版#アルファばん#alpha version#
+2281530##アルメール#AL-Mail#
+2281540##アレイコンピュータ;アレイ・コンピュータ#array computer#
+2281550##アレイプロセッサー;アレイプロセッサ;アレイ・プロセッサー;アレイ・プロセッサ#array processor#
+2281570#アレイ処理#アレイしょり#array processing#
+2281580#アレイ処理機構#アレイしょりきこう#array processor;vector processor#
+2281600#アレイ処理装置#アレイしょりそうち#array processor;vector processor#
+2281610##アレックス#Alex#
+2281620##アンインストール#uninstall#
+2281630##アンカバー#UnCover#
+2281640#アングル括弧#アングルかっこ#less-than mark;left angle bracket#
+2281650##アンサーファイル;アンサー・ファイル#answer file#
+2281660##アンサーモード;アンサー・モード#answer mode#
+2281670##アンサブスクライブ#unsubscribe#
+2281680##アンスウィズル#unswizzle#
+2281690##アンスペシファイドビットレイト#unspecified bit rate#
+2281700##アンダーフロー;アンダフロー#underflow#
+2281720#アンダフロー表示#アンダフローひょうじ#underflow indication#
+2281730##アンチウィルス;アンチウイルス;アンチ・ウィルス;アンチ・ウイルス#anti-virus (e.g. software)#
+2281740##アンチウィルスソフト;アンチウイルスソフト;アンチウィルス・ソフト;アンチウイルス・ソフト#anti-virus software#
+2281750##アンチエイリアシング#anti-aliasing#
+2281760#アンチコピー技術#アンチコピーぎじゅつ#anti-copying technology (software)#
+2281770##アンチハッキング#anti-hacking#
+2281780#アンテナ利得率#アンテナりとくりつ#antenna gain factor#
+2281790##アンデリート#Undelete#
+2281800#アンナンバード接続#アンナンバードせつぞく#unnumbered connection#
+2281810##アンパーサンド;アンパサンド#ampersand (&)#
+2281830##アンパック#unpack#
+2281840#アンパック１０進表記法;アンパック十進表記法#アンパックじっしんひょうきほう#unpacked decimal notation#
+2281850##アンビエント#ambient#
+2281860#アンビエント光#アンビエントこう#ambient light#
+2281870##アンフェノール#Amphenol#
+2281880##アンフォーマット#unformat#
+2281890##アンプス#AMPS#
+2281900##アンマネージコード#unmanaged code#
+2281910##アンロード#unload#
+2281920##イーアールピー#ERP#
+2281930##イーアイエー#EIA#
+2281940##イーアイサ#EISA#
+2281950##イーアイディーイー#EIDE#
+2281960##イーイーピーロム#EEPROM#
+2281970##イーエスシーピー#ESC-P#
+2281980##イーエムエス#EMS#
+2281990##イーエムエムサンハチロク#EMM386#
+2282000##イーエムシー#EMC#
+2282010##イーエムビー#EMB#
+2282020##イーエルエーピー#ELAP#
+2282030##イーオーエス#EOS#
+2282040##イーオーエフ#EOF#
+2282050##イーコム#ECOM#
+2282060##イーサトーク#EtherTalk#
+2282070##イーサネットアドレス;イーサネット・アドレス#Ethernet address#
+2282080##イーシーエム#ECM#
+2282090##イージーウェブ#Ezweb#
+2282100##イージーエー#EGA#
+2282110##イージースカジー#EZ-SCSI#
+2282120##イージャーナル#e-journal#
+2282130##イースイート#eSuite#
+2282140##イースタエッグ#Easter egging#
+2282150##イーズィン#e-zine#
+2282160##イーダブリューエス#EWS#
+2282170##イーティーエックス#ETX#
+2282180##イーテキスト#e-text#
+2282190##イーディーアイ#EDI#
+2282200##イーディーアイファクト#EDIFACT#
+2282210##イーディーエス#EDS#
+2282220##イーディーオーラム#EDO RAM#
+2282230##イーディーユー;エデュ#edu#
+2282240##イービジネス#e-business#
+2282250##イーピーウィング#EPWING#
+2282260##イーピーロム#EPROM#
+2282270##イーベイ#eBay#
+2282280##イーマシーンズ#eMachines#
+2282290##イーマックス#Emacs#
+2282300##イーメイル#e-mail#
+2282310##イーモール#EMALL#
+2282320##イーユーシー#EUC#
+2282330##イーユーシージス#eucjis#
+2282340##イーワールド#eWorld#
+2282350##イエローケーブル;イエロー・ケーブル#yellow cable#
+2282360##イオンデポジションプリンタ#ion-deposition printer#
+2282370#イコール機能#イコールきのう#equals function#
+2282380##イサイズドットコム#ISIZE.COM#
+2282390##イジェクト#eject#
+2282400##イジェクトボタン#ejector button#
+2282410##イスタブリッシュメント#establishment#
+2282420#イタリック体#イタリックたい#Italic#
+2282430##イチマルイチキーボード#101 Keyboard#
+2282440##イチマルロクキーボード#106 Keyboard#
+2282450##イニ#.ini#
+2282460##イニシャライザルーチン;イニシャライザ・ルーチン#initializer routine#
+2282470##イニシャルコスト;イニシャル・コスト#initial cost#
+2282480##イニシャルプログラムロード;イニシャル・プログラム・ロード#initial program load;IPL#
+2282490##イニット#init;INIT#
+2282500##イネーブラ#enabler#
+2282510##イネーブル#enable#
+2282520#イネーブル信号#イネーブルしんごう#enable signal#
+2282530##イフシェム#IFSHEM#
+2282540#イベントを生成する#イベントをせいせいする#to generate an event;to trigger an event#
+2282550##イベントカテゴリ;イベント・カテゴリ#event category#
+2282560##イベントキュー;イベント・キュー#event queue#
+2282570##イベントクラス;イベント・クラス#event class#
+2282580##イベントドリブン;イベント・ドリブン#event driven#
+2282590##イベントドリブンプログラミング;イベント・ドリブン・プログラミング#event-driven programming#
+2282600##イベントハンドラ;イベント・ハンドラ#event handler#
+2282610##イベントプロバイダ#event provider#
+2282620##イベントプロパティ;イベント・プロパティ#event property#
+2282630##イベントログ;イベント・ログ#event log;event logging#
+2282650##イベントログエントリー;イベント・ログ・エントリー#event log entry#
+2282660#イベント駆動#イベントくどう#event driven#
+2282670#イベント駆動型#イベントくどうがた#event driven#
+2282680#イベント指定子#イベントしていし#event descriptor#
+2282690#イベント処理#イベントしょり#event processing#
+2282700#イベント報告#イベントほうこく#event reporting#
+2282710##イメージサイズ;イメージ・サイズ#image size#
+2282730##イメージセッター#imagesetter#
+2282740##イメージデータ;イメージ・データ#image data#
+2282750##イメージバッファ;イメージ・バッファ#image buffer#
+2282760##イメージマップ#imagemap#
+2282770##イメージング#imaging#
+2282780#イメージ処理#イメージしょり#image processing#
+2282790##イラストラ#Illustra#
+2282800#イリジウム計画#イリジウムけいかく#IRIDIUM project#
+2282810##イレーズ#erase#
+2282820##インアクティブウィンドウ;インアクティブ・ウィンドウ#inactive window;IAW#
+2282830##インキュナブラ#incunabulum#
+2282840##インキング#inking#
+2282850##インクカートリッジ;インク・カートリッジ#ink cartridge#
+2282860##インクジェットプリンター;インクジェットプリンタ;インク・ジェット・プリンター;インク・ジェット・プリンタ#ink-jet printer#
+2282870#インクジェット印字装置#インクジェットいんじそうち#ink jet printer#
+2282880#インクジェット方式#インクジェットほうしき#ink-jet method#
+2282890##インクデスクトップ;インク・デスクトップ#ink desktop#
+2282900##インクトミ#Inktomi#
+2282910##インクリボン;インク・リボン#inked ribbon#
+2282920##インクリメンタルサーチ;インクリメンタル・サーチ#incremental search#
+2282930##インクリメンタルバックアップ;インクリメンタル・バックアップ#incremental backup#
+2282940##イングレス#Ingres#
+2282950##インサーキットエミュレータ;イン・サーキット・エミュレータ#incircuit emulator#
+2282960##インサートモード;インサート・モード#insert mode#
+2282970#インサート編集#インサートへんしゅう#insert edit#
+2282980##インジケータランプ;インジケータ・ランプ#indicator light#
+2282990##インス#INS#
+2283000#インスタンス化#インスタンスか#instantiate#
+2283010#インスタンス変数#インスタンスへんすう#instance variable#
+2283020##インストールプログラム;インストール・プログラム#installation program#
+2283030##インストールログファイル;インストール・ログ・ファイル#installation log file#
+2283040#インストール可能デバイスドライバ#インストールかのうデバイスドライバ#installable device driver#
+2283050#インストール後の作業#インストールごのさぎょう#post installation step#
+2283080##インストラクションセット;インストラクション・セット#instruction set#
+2283090##インストラクションセットアーキテクチャ;インストラクション・セット・アーキテクチャ#instruction set architecture;ISA#
+2283100##インストレーション#installation#
+2283110##インストレーションプログラム;インストレーション・プログラム#installation program#
+2283120##インターエクスチェンジ#interexchange#
+2283130##インターオペラビリティ;インターオペラビリティー#interoperability#
+2283140##インターキャスト#Intercast#
+2283150##インターキャフィス#InterCAFIS#
+2283160##インターキュー#interQ#
+2283170##インタースリップ#InterSLIP#
+2283180##インターテキスト#InterText#
+2283190##インタートップ#INTERTop#
+2283200##インターナショナライゼーション;インターナショナリゼーション#internationalization#
+2283210##インターニック#InterNIC#
+2283220#インターネットＶＰＮ#インターネットブイピーエン#Internet Virtual Private Network#
+2283230#インターネットで結ぶ#インターネットでむすぶ#to link to the Internet#
+2283250##インターネットのベテランユーザ#Internet veteran#
+2283260##インターネットアクセス;インターネット・アクセス#Internet access#
+2283270##インターネットエクスプローラ;インターネット・エクスプローラ#Internet Explorer#
+2283290##インターネットソサエティ;インターネット・ソサエティ#Internet Society#
+2283300##インターネットデータセンター;インターネット・データ・センター#Internet Data Center#
+2283310##インターネットフォン;インターネット・フォン#Internet Phone#
+2283340##インターネットメール;インターネット・メール#Internet mail#
+2283350##インターネットリレーチャット;インターネット・リレー・チャット#Internet relay chat;IRC#
+2283360##インターネットワーム;インターネット・ワーム#Internet worm#
+2283370##インターネットワールド;インターネット・ワールド#Internet World (trade show)#
+2283380#インターネット学会#インターネットがっかい#Internet Society;ISOC#
+2283390#インターネット技術推進グループ#インターネットぎじゅつすいしんグループ#Internet Engineering Steering Group;IESG#
+2283400#インターネット技術特別調査委員会#インターネットぎじゅつとくべつちょうさいいんかい#Internet Engineering Task Force;IETF#
+2283410#インターネット検索#インターネットけんさく#Web search#
+2283420#インターネット研究推進グループ#インターネットけんきゅうすいしんグループ#Internet Research Steering Group;IRSG#
+2283430#インターネット研究特別調査委員会#インターネットけんきゅうとくべつちょうさいいんかい#Internet Research Task Force;IRTF#
+2283440#インターネット接続共有#インターネットせつぞくきょうゆう#Internet Connection Sharing;ICS#
+2283450##インターバルタイマ;インターバル・タイマ#interval timer#
+2283460##インターフェースアダプタ;インターフェース・アダプタ#interface adapter#
+2283470##インターフェースビルダ;インターフェース・ビルダ#interface builder#
+2283480##インターフェイスボード;インターフェイス・ボード#interface board#
+2283490##インターフェイスメッセージプロセッサー;インターフェイス・メッセージ・プロセッサー#Interface Message Processor;IMP#
+2283500#インタープリタ型言語#インタープリタかたげんご#interpretive language#
+2283510##インターメディア#InterMedia#
+2283520##インターリービング#interleaving#
+2283530##インターリーブメモリ;インターリーブ・メモリ#interleaved memory#
+2283540##インターレース#interlace#
+2283550#インターレースＧＩＦ#インターレースギッフ;インターレースジッフ#interlaced GIF#
+2283560##インターワーキング#interworking#
+2283570##インタフェースアドレス;インタフェース・アドレス#interface address#
+2283580##インタフェースカード;インタフェース・カード#interface card#
+2283590##インタフェースモジュール;インタフェース・モジュール#interface module#
+2283600#インタフェース種別#インタフェースしゅべつ#interface type#
+2283610#インタフェース定義言語#インタフェースていぎげんご#Interface Definition Language#
+2283620#インタプリータ型言語#インタプリータかたげんご#interpretive language#
+2283630#インタプリタ型言語#インタプリタかたげんご#interpretive language#
+2283640##インタラクティブテレビ;インタラクティブ・テレビ#interactive television#
+2283650##インタラクティブボタン#interactive button#
+2283660##インタリーブ#interleave#
+2283670##インタレース#interlace#
+2283680##インタレストグループ;インタレスト・グループ#interest group#
+2283690##インチネジ#inch screw threads#
+2283700##インテグレーティドルーチング#integrated routing#
+2283710#インテリジェントＩＭフィルタ#インテリジェントアイエムフィルタ#intelligent IM filter#
+2283720##インテリジェントケーブル;インテリジェント・ケーブル#intelligent cable#
+2283730##インテリジェントデータベース;インテリジェント・データベース#intelligent database#
+2283740##インテリジェントネットワーク;インテリジェント・ネットワーク#intelligent network#
+2283750##インテリジェントハブ;インテリジェント・ハブ#intelligent hub#
+2283760##インテリジェントマルチプレクサ;インテリジェント・マルチプレクサ#intelligent mux;intelligent multiplexer#
+2283770#インテリジェント装置#インテリジェントそうち#intelligent device#
+2283780#インテリジェント端末#インテリジェントたんまつ#intelligent (as opposed to dumb) terminal#
+2283790##インデクサ#indexer#
+2283800##インデックストラック;インデックス・トラック#index track#
+2283810##インデックスバッファ;インデックス・バッファ#index buffer#
+2283820##インデックスファイル;インデックス・ファイル#indexed file#
+2283830##インデックスホール;インデックス・ホール#index hole#
+2283840##インデックスレジスタ;インデックス・レジスタ#index register#
+2283850#インデックス付きアドレス#インデックスつきアドレス#indexed address#
+2283860#インデックス付きサーチ#インデックスつきサーチ#indexed search#
+2283870##イントラスタット#intrastat#
+2283880##イントラネットウェア#IntranetWare#
+2283890##イントロパック#intro-pack#
+2283900##インバウンド#inbound#
+2283910##インパクトプリンタ;インパクト・プリンタ#impact printer#
+2283920#インピーダンス管理グラウンド層#インピーダンスかんりグラウンドそう#impedance-controlling ground plane#
+2283930#インフィックス表記法#インフィックスひょうきほう#infix notation#
+2283940##インフォウェッブ#Info-Web#
+2283950##インフォシーク#Infoseek#
+2283960##インフォストラクチャー;インフォ・ストラクチャー#infostructure;information structure#
+2283970##インフォスフィア#InfoSphere#
+2283980##インフォテイメント#infortainment#
+2283990##インフォナビゲーター#InfoNavigator#
+2284000##インフォマック#Info-Mac#
+2284010##インフォミックス#Informix#
+2284020##インフォメーションスーパーハイウェイ;インフォメーション・スーパー・ハイウェイ#information superhighway#
+2284030##インフォモザイク#Infomosaic#
+2284050##インフラストラクチャモード;インフラストラクチャ・モード#infrastructure mode#
+2284060##インフレアドインタフェース#infrared interface#
+2284070##インプットポート;インプット・ポート#input port#
+2284080##インプットメソッド;インプット・メソッド#input method;IM#
+2284090##インプライズ#INPRISE#
+2284100##インプロセス#in-process#
+2284110##インボックス#in-box#
+2284120##インボックスドライバ;インボックス・ドライバ#in-box driver#
+2284130##インラインイメージ;インライン・イメージ#inline image#
+2284140##インラインオブジェクト;インライン・オブジェクト#inline object#
+2284150##インラインコード;インライン・コード#in-line code#
+2284160##インラインサブルーチン;インライン・サブルーチン#in-line subroutine#
+2284170##インラインスタイル;インライン・スタイル#inline style#
+2284180##インラインディスカッション#inline discussion#
+2284190#インライン画像#インラインがぞう#inline graphic#
+2284200#インライン展開#インラインてんかい#in-line expansion#
+2284210#インライン変換#インラインへんかん#in-line translation#
+2284220##ウィザードリー#Wizardry#
+2284230##ウィジウィズ#WYSIWYS#
+2284240##ウィラメット#Willamette#
+2284250##ウィルスプロテクション;ウィルス・プロテクション#virus protection#
+2284260#ウィルス隔離#ウィルスかくり#virus removal;virus sweep#
+2284270##ウィンイニ#WIN.INI#
+2284280##ウィンエフティーピー#WinFTP#
+2284290##ウィンサンジューニ#Win32#
+2284300##ウィンサンジューニエス#Win32s#
+2284310##ウィンジー#WinG#
+2284320##ウィンジップ#WinZip#
+2284330##ウィンジューロク#Win16#
+2284340##ウィンズ#WINS#
+2284350##ウィンソック#WindSock;Winsock#
+2284360##ウィンタッチ#WinTach#
+2284380##ウィンチェスタテクノロジ#winchester technology#
+2284390##ウィンチェスタディスク;ウィンチェスターディスク;ウィンチェスター・ディスク#Winchester disk#
+2284400##ウィンテル#Wintel#
+2284430#ウィンドウを最大表示する#ウィンドウをさいだいひょうじする#to maximize a window#
+2284440##ウィンドウアクセラレータボード#Windows accelerator board#
+2284460##ウィンドウシステム;ウィンドウ・システム#window system#
+2284470##ウィンドウズアクセラレータ;ウィンドウズ・アクセラレータ#Windows accelerator#
+2284480##ウィンドウズエックスピー#Windows XP#
+2284490##ウィンドウズエヌティー#WindowsNT#
+2284500##ウィンドウズキュージューゴ#Windows95#
+2284510##ウィンドウズキュージューハチ#Windows98#
+2284520##ウィンドウズサンテンイチ#Windows3.1#
+2284530##ウィンドウズニセン#Windows2000#
+2284540##ウィンドウズミー#WindowsMe#
+2284550##ウィンドウソフトウェア;ウィンドウ・ソフトウェア#windowing software#
+2284580##ウィンドウマネージャ;ウィンドウ・マネージャ#window manager#
+2284590#ウィンドウ下限#ウィンドウかげん#lower window edge#
+2284600#ウィンドウ環境#ウィンドウかんきょう#windowing environment#
+2284610#ウィンドウ上限#ウィンドウじょうげん#upper window edge#
+2284620#ウィンドウ情報#ウィンドウじょうほう#window information#
+2284630##ウィンビフ#Winbiff#
+2284640##ウィンブイエヌ#WinVN#
+2284650##ウィンヘック#WinHEC#
+2284660#ウイルスを排除する#ウイルスをはいじょする#to fight off a virus;to screen out computer viruses#
+2284670##ウイルスシグネチャ;ウイルス・シグネチャ#virus signature#
+2284680#ウイルススキャンＡＰＩ#ウイルススキャンエーピーアイ#virus scanning API#
+2284690##ウイルススキャンをする#to run a virus scan program#
+2284700##ウイルスチェッカ;ウイルス・チェッカ#virus checker#
+2284710##ウイルスチェック;ウイルス・チェック#virus check#
+2284720##ウイルスチェックソフトウェア;ウイルス・チェック・ソフトウェア#virus checker software#
+2284730#ウイルス監視機能#ウイルスかんしきのう#virus protection#
+2284740#ウイルス警報#ウイルスけいほう#virus alert#
+2284750#ウイルス検出ソフトウェア#ウイルスけんしゅつソフトウェア#virus detection software#
+2284760#ウイルス防衛用ソフト#ウイルスぼうえいようソフト#virus detection software#
+2284770#ウイルス防止#ウイルスぼうし#virus check#
+2284780##ウインドウメニュー;ウインドウ・メニュー#window menu#
+2284790##ウェアラブルパソコン;ウェアラブル・パソコン#wearable personal computer#
+2284800##ウェイズ#WAIS#
+2284810#ウェイト状態#ウェイトじょうたい#wait state#
+2284820##ウェットストーン#Whetstone#
+2284830##ウェブエクスプローラ;ウェブ・エクスプローラ#Web Explorer#
+2284840##ウェブジン#WebZine#
+2284850##ウェブティービー#WebTV#
+2284860##ウェブデービー#WebDB#
+2284870##ウェブデザイナ;ウェブ・デザイナ#web designer#
+2284880##ウェブデュー#WebdeW#
+2284890#ウェブベース企業管理#ウェブベースきぎょうかんり#Web-Based Enterprise Management;WBEM#
+2284900##ウェブページテキスト;ウェブ・ページ・テキスト#Web-page text#
+2284910##ウエスタンデジタル#WesternDigital#
+2284920##ウエハスケールインテグレーション;ウエハ・スケール・インテグレーション#wafer-scale integration#
+2284930##ウォーサ#WOSA#
+2284940##ウォーダイヤラ#war dialer#
+2284950##ウォーダイヤリング#war dialing#
+2284960##ウォードライビング#war driving#
+2284970#ウォーホール型ワーム#ウォーホールかたワーム#Warhol worm#
+2284980##ウォームスタート;ウォーム・スタート#warm start#
+2284990##ウォームブート;ウォーム・ブート#warm boot#
+2285000##ウォールサーキットブレーカ#wall circuit breaker#
+2285010##ウォールペーパー;ウォール・ペーパー#wall paper#
+2285020##ウォッチドッグタイマ;ウォッチドッグタイマー;ウォッチドッグ・タイマ;ウォッチドッグ・タイマー#watchdog timer#
+2285040##ウォッチドッグドライバ;ウォッチドッグ・ドライバ#watchdog driver#
+2285050##ウォッチャー#(industry) watcher;analyst#
+2285070##ウルティマ#Ultima#
+2285080##ウルトラスカジー;ウルトラ・スカジー#Ultra SCSI#
+2285090##ウルトラスパーク#UltraSPARC#
+2285100#ウルトラモバイルＰＣ#ウルトラモバイルピーシー#ultra-mobile PC#
+2285110##エーアールジェイ#ARJ#
+2285120##エーアイエックス#AIX#
+2285130##エーアイエフ#AIF#
+2285140##エーアイエフエフ#AIFF#
+2285150##エーアイエムエム#AIMM#
+2285160##エーエスーピーアイ#ASPI#
+2285170##エーエスピー#ASP#
+2285180##エーエスヨンヒャク#AS-400#
+2285190##エーエヌエス#ANS#
+2285200##エーエフエス#AFS#
+2285210##エーエムーディー#AMD#
+2285220##エーエムディーケーシックス#AMD-K6#
+2285230##エーエムディーケーセブン#AMD-K7#
+2285240##エーエルユー#ALU#
+2285250#ＡＯＬ#エーオーエル#AOL#
+2285260#ＡＯＣＥ#エーオーシーイー#AOCE#
+2285270#ＡＣＯＳ#エーコス#ACOS#
+2285280#ＡＣＭ#エーシーエム#ACM#
+2285290#ＡＣＬ#エーシーエル#ACL#
+2285300##エーシック#ASIC#
+2285320#エージェント指向#エージェントしこう#agent oriented#
+2285330##エージント#agent#
+2285340##エーティーアンドティー#AT&T#
+2285350##エーティーエー#ATA#
+2285360##エーティーコマンド#AT command#
+2285370##エーディーオー#ADO#
+2285380##エーディージェイ#ADJ#
+2285390##エーディービー#ADB#
+2285400#ＡＤＰＣＭ#エーディーピーシーエム#adaptive differential pulse-code modulation;adaptive DPCM;ADPCM#
+2285410##エートゥビー#A-to-B#
+2285420##エービーイー#ABE#
+2285430##エーピーアイ#API#
+2285440##エーピーエル#APL#
+2285450##エーブイアイ#AVI#
+2285460##エーユーエックス#A-UX#
+2285470##エアーエヌエフエス#AIR NFS#
+2285480##エアマック#AirMac#
+2285490##エアモザイク;エア・モザイク#Air Mosaic#
+2285500##エイダ#Ada#
+2285510##エイチエスブイ#HSV#
+2285520##エイチエムエー#HMA#
+2285530##エイチティーエムエル#HTML#
+2285540##エイチティーティーピーディー#httpd;http daemon#
+2285550##エイチディー#HD#
+2285560##エイチディーエルシー#HDLC#
+2285570#ＨＤＤ#エッチディーディー;エイチディーディー#hard disk drive;HDD#
+2285580##エイチピーエフエス#HPFS#
+2285590##エイチピーユーエックス#HP-UX#
+2285600##エイトック#ATOK (Advanced Technology Of Kana-kanji transfer)#
+2285610##エイドリス#EDLIS#
+2285620##エイリアシング#aliasing#
+2285630##エキストラネット#extra-net#
+2285640##エキスパンションキャビネットパネル#expansion cabinet panel#
+2285650##エキスパンドブック;エキスパンド・ブック#Expand Book#
+2285660##エクサ#exa-;10^18#
+2285670##エクサバイト#Exabyte#
+2285680##エクステンドメモリ;エクステンド・メモリ#extended memory#
+2285690##エクステンドメモリプロック#extended memory block;EMB#
+2285700#エクステンドメモリ仕様#エクステンドメモリしよう#extended memory specification;XMS#
+2285710##エクストラネット;エクストラ・ネット#extra-net (as opposed to Internet)#
+2285720##エクセル#EXCEL#
+2285730##エグゼキュート#execute#
+2285740##エグゼック#exec#
+2285750##エコーキャンセラ;エコー・キャンセラ#echo canceller#
+2285760##エコーキャンセル;エコー・キャンセル#echo cancellation#
+2285770##エコーチェック;エコー・チェック#echo check#
+2285780#エコー減衰器#エコーげんすいき#echo suppressor#
+2285790#エコー立体#エコーりったい#echo area;echo volume#
+2285800#エコー領域#エコーりょういき#echo area;echo volume#
+2285810##エスアイエー#SIA#
+2285820##エスアイエス#SIS#
+2285830##エスイー#SE#
+2285840##エスイーダブリュービー#SEWB#
+2285850##エスエイピー#SAP#
+2285860##エスエイピーアールスリー#SAP R-3#
+2285870##エスエヌエー#SNA#
+2285880##エスエフエー#SFA#
+2285890##エスエムティーピー#SMTP#
+2285900##エスエムピー#SMP#
+2285910##エスキューエル#SQL#
+2285920##エスキューエルサーバ;エスキューエル・サーバ#SQL Server#
+2285930##エスキューエルネット#SQL*Net#
+2285940##エスキューエルプラス#SQL*Plus#
+2285950##エスキューブ#S3#
+2285960##エスクローサービス;エスクロー・サービス#escrow service#
+2285970##エスケープキー;エスケープ・キー#escape key;ESC key#
+2285980##エスケープシークェンス;エスケープ・シークェンス#escape sequence#
+2285990##エスケープシーケンス;エスケープ・シーケンス#escape sequence#
+2286000#エスケープ文字#エスケープもじ#escape character;ESC#
+2286010#エスケープ要素#エスケープようそ#escape elements#
+2286020##エスシーオー#SCO#
+2286030##エスジーエムエル#SGML#
+2286040##エスジス#sjis#
+2286050##エススリー#S3#
+2286060##エスティーエヌ#STN#
+2286070##エスティディー#STD#
+2286080##エスディーケー#SDK#
+2286090##エスディーラム#SD-RAM#
+2286100##エスブイアールフォー#SVR4#
+2286110##エスブイジーエー#SVGA#
+2286120##エスベース#Essbase#
+2286130##エスラム#SRAM#
+2286140##エックスウィンドウ#X-Window#
+2286150##エックスエー#XA#
+2286160##エックスエムエス#XMS#
+2286170##エックスオープン#X-Open#
+2286180##エックスオア#XOR#
+2286190##エックスジーエー#XGA#
+2286210##エックスニーゴー#X.25#
+2286220##エックスファー#XFER#
+2286230##エックスフィット#XFIT#
+2286240##エックスモデム#XMODEM#
+2286250##エックスモデムイチケー#XMODEM-1k#
+2286260##エックスモデムシーアールシー#XMODEM-CRC#
+2286270##エックスヨンヒャク#X.400#
+2286280##エッジサブスクリプション;エッジ・サブスクリプション#edge subscription#
+2286290##エッジサブスクリプションファイル#edge subscription file#
+2286300#エッジトリガ方式#エッジトリガほうしき#edge trigger method#
+2286310##エディットボックス;エディット・ボックス#edit box#
+2286320##エディファクト#EDIFACT#
+2286340##エデュコム#EDUCOM#
+2286360##エデュテインメント;エデュテイメント#edutainment#
+2286370##エドガー#EDGAR#
+2286380##エドサック#EDSAC#
+2286390##エドバック#EDVAC#
+2286400##エナジーセーバ#energy saver#
+2286420##エナジーセーブモード;エナジー・セーブ・モード#energy save mode;low power mode#
+2286430#ＥＮＩＡＣ#エニアック#ENIAC (Electronic Numerical Integrator And Calculator)#
+2286440##エニコム#ENICOM#
+2286450##エヌアールイーエヌ#NREN#
+2286460##エヌアイアイ#NII#
+2286470##エヌアイエスオー#NISO#
+2286480##エヌアイエスティー#NIST#
+2286490##エヌアイエム#NIM#
+2286500##エヌイーシー#NEC#
+2286510##エヌエスエーピーアイ#NSAPI#
+2286520##エヌエスエフネット#NSFnet#
+2286530##エヌエスピー#NSP#
+2286540##エヌエスピーアイエックスピー#NSPIXP#
+2286550##エヌエヌティーピー#NNTP#
+2286560##エヌエフエス#NFS#
+2286570##エヌエフエスネット#NFSNET#
+2286580##エヌオーエス#NOS#
+2286590##エヌオーシー#NOC#
+2286600##エヌサピ#NSAPI#
+2286610##エヌシー#NC#
+2286620##エヌシーアール#NCR#
+2286630##エヌシーエー#NCA#
+2286640##エヌシーエスエー#NCSA#
+2286650##エヌシーエフティーピー#ncftp#
+2286660##エヌシーティービー#NCTV#
+2286670##エヌシーユー#NCU#
+2286680##エヌティーティーディレクトリ#NTT Directory#
+2286690##エヌティーピー#NTP#
+2286700##エヌピーティーエヌ#NPTN#
+2286710##エヌファー#NFER#
+2286720##エヌライトン#NlightN#
+2286730##エヌレン#NREN#
+2286740##エネルギースター;エネルギー・スター#Energy Star#
+2286750##エビシディック#EBCDIC#
+2286760##エフイーピー#FEP#
+2286770##エフェクタ;エフェクター#effector#
+2286780##エフェクトコンパイラ#effect compiler#
+2286790##エフエー#FA#
+2286800##エフエーキュー#FAQ#
+2286810##エフエスエフ#FSF#
+2286820##エフエヌシー#FNC#
+2286830##エフエムタウンズ#FM TOWNS#
+2286840##エフキューディーエヌ#FQDN#
+2286850##エフギャル#FGAL#
+2286860##エフシーシー#FCC#
+2286870##エフジェイ#fj#
+2286880##エフティーピー#FTP#
+2286890##エフディー#FD#
+2286900##エフディーエイチディー#FDHD#
+2286910##エフディーディー#FDD#
+2286920##エフディーディーアイ#FDDI#
+2286930##エフピーユー#FPU#
+2286940##エフラボ#FLABO#
+2286970#エミッタ結合素子#エミッタけつごうそし#ECL;Emitter Coupled Logic#
+2286980##エムエス#MS#
+2286990##エムエスアイイー#MSIE#
+2287000##エムエスエヌ#MSN#
+2287010##エムエスシーディーイーエックス#MSCDEX#
+2287020##エムエスディーエヌ#MSDN#
+2287030##エムエスドス#MS-DOS#
+2287040##エムエディタ#EmEditor#
+2287050##エムエムイー#MME#
+2287060##エムエムエックス#MMX#
+2287070##エムエムオー#MMO#
+2287080##エムエムユー#MMU#
+2287090##エムオー#MO#
+2287100##エムオーラップ#MOLAP#
+2287110##エムシーアイ#MCI#
+2287120##エムティーエス#MTS#
+2287130##エムティービーエフ#MTBF#
+2287140##エムティーユー#MTU#
+2287150#ＭＤ#エムディー#minidisc;MD;missile defense;MD;magnetic disk;MD;merchandising#
+2287160##エムピーシー#MPC#
+2287170##エムピーピー#MPP#
+2287180##エムピーユー#MPU#
+2287190##エムブイエス#MVS#
+2287200##エムペグ#MPEG#
+2287210##エムペグツー#MPEG2#
+2287220##エムペグプラスプラス#MPEG++#
+2287230##エムボーン#MBONE#
+2287240##エムユーディー#MUD#
+2287250##エモーティコン#emoticon#
+2287260#エラーの検出と訂正#エラーのけんしゅつとていせい#Error Checking and Correcting;ECC#
+2287270##エラーコード;エラー・コード#error code#
+2287280##エラーチェック;エラー・チェック#error check#
+2287290##エラーハンドリング;エラー・ハンドリング#error handling#
+2287300##エラーバー;エラー・バー#error bar (graph)#
+2287310##エラーフリー;エラー・フリー#error free#
+2287320##エラーレート;エラー・レート#error rate#
+2287330##エラーレベル;エラー・レベル#error level#
+2287340##エラーログ;エラー・ログ#error log#
+2287350#エラー回復#エラーかいふく#error recovery#
+2287360#エラー回復ルーチン#エラーかいふくルーチン#error recovery routine#
+2287370#エラー検出符号#エラーけんしゅつふごう#Error-Detecting Code;EDC#
+2287380#エラー処理#エラーしょり#error handling#
+2287390#エラー処理ルーチン#エラーしょりルーチン#error handling routine;error-handling routine#
+2287400#エラー処理手順#エラーしょりてじゅん#error procedure#
+2287410#エラー処理方法#エラーしょりほうほう#error handling mechanism;error-handling mechanism#
+2287420#エラー状態#エラーじょうたい#error condition (in calculators)#
+2287430#エラー状態リスト#エラーじょうたいリスト#error state list#
+2287440#エラー制御#エラーせいぎょ#error control#
+2287450#エラー制御ロジック#エラーせいぎょロジック#error-control logic#
+2287460#エラー訂正#エラーていせい#error correction#
+2287470#エラー訂正エンコーディング#エラーていせいエンコーディング#error-correcting encoding#
+2287480#エラー訂正プロトコル#エラーていせいプロトコル#error-correcting protocol#
+2287490#エラー訂正メモリ#エラーていせいメモリ#error-correcting memory#
+2287500#エラー訂正符号#エラーていせいふごう#Error-Correcting Code;ECC#
+2287510#エラー表示#エラーひょうじ#error indication#
+2287520#エラー補正#エラーほせい#error correction;error detection and correction#
+2287530#エラー履歴#エラーりれき#error history#
+2287540##エリアコード;エリア・コード#area code#
+2287550#エリア境界#エリアきょうかい#area boundary#
+2287560##エリクソン#Ericsson#
+2287570##エルエーティー#LAT#
+2287580##エルエイチアーク#LHarc#
+2287590##エルエイチエー#LHA#
+2287600#ＬＬＣ#エルエルシー#logical link control;LLC;long-life coolant;LLC#
+2287610#エルゴード的#エルゴードてき#ergodic#
+2287620##エルゴノミクス#ergonomics#
+2287630##エルゴノミックキーボード#ergonomic keyboard#
+2287640##エルサップ#LSAP#
+2287650##エルゼットエイチ#lzh#
+2287660##エルダップ#LDAP#
+2287670##エルディエーピー#LDAP#
+2287680##エルユー#LU#
+2287690##エレクトリカルキー;エレクトリカル・キー#electrical key#
+2287700##エレクトリックコマース;エレクトリック・コマース#electric commerce#
+2287710##エレクトロニックカフェ;エレクトロニック・カフェ#electronic cafe#
+2287720##エレクトロニックコマース;エレクトロニック・コマース#electronic commerce#
+2287740##エンキャプシュレーション#encapsulation#
+2287750##エンク#ENQ#
+2287760##エンクリプト#encrypt#
+2287770##エンジニアリングワークステーション;エンジニアリング・ワークステーション#engineering workstation;EWS#
+2287780##エンスペース;エン・スペース#en space#
+2287790##エンターキー;エンター・キー#Enter key#
+2287800#エンタープライズＸアーキテクチャ#エンタープライズエックスアーキテクチャ#Enterprise X Architecture#
+2287820##エンタープライズレベル#enterprise-level#
+2287830##エンダッシュ;エン・ダッシュ#en dash#
+2287840#エンティティ種類#エンティティしゅるい#entity type#
+2287850##エントリーマシン;エントリマシン;エントリー・マシン;エントリ・マシン#entry machine#
+2287860##エントリーモデル;エントリー・モデル#entry model#
+2287870##エントリーレベル#entry-level#
+2287880##エントリポイント;エントリ・ポイント#entry point#
+2287900##エントリモデル;エントリ・モデル#entry model#
+2287910#エントリ種別#エントリしゅべつ#entry-type#
+2287920#エントリ順データセット#エントリじゅんデータセット#ESDS;Entry-Sequenced Data Set#
+2287930#エントリ情報#エントリじょうほう#entry-information#
+2287940#エントリ情報選択#エントリじょうほうせんたく#entry-information-selection#
+2287950#エントリ状況#エントリじょうきょう#entry-status#
+2287960##エンドエンド;エンド・エンド#end to end#
+2287970#エンドエンド通信パス#エンドエンドつうしんパス#end to end communication path#
+2287980##エンドオブテキスト#end-of-text#
+2287990##エンドオブファイル#end-of-file#
+2288000##エンドキー;エンド・キー#End key#
+2288010##エンドシステム;エンド・システム#end system#
+2288030##エンドツエンド;エンドツーエンド#end-to-end#
+2288040##エンドトランザクション#end-transaction#
+2288050##エンドポイント#endpoint#
+2288060##エンドユーザーコンピューティング;エンドユーザー・コンピューティング#end user computing;EUC#
+2288080##エンハンストアイディーイー#Enhanced IDE#
+2288090##エンハンストシーユーシーミー#Enhanced Cu-SeeMe#
+2288100##エンハンストパラレルインタフェース#enhanced parallel interface#
+2288110##エンハンストモード#enhanced mode#
+2288120#エンハンスドＣＤ#エンハンスドシーディー#enhanced compact disc#
+2288130##エンハンスドモード;エンハンスド・モード#enhanced mode#
+2288140##エンマーク;エン・マーク#Yen mark#
+2288150##オーアールデービー#ORDB#
+2288160##オーアールビー#ORB#
+2288170##オーイーエム#OEM#
+2288180##オーエーディージー#OADG#
+2288190##オーエスアールツー#OSR2#
+2288200##オーエスアイ#OSI#
+2288210##オーエスツー#OS-2#
+2288220##オーエスツーワープ#OS-2 Warp#
+2288230#ＯＬＥ#オーエルイー;オーレ#OLE;object linking and embedding#
+2288240##オーエルティーピー#OLTP#
+2288250##オーガナイゼーション#organization#
+2288260##オーサリングシステム;オーサリング・システム#authoring system#
+2288270##オーサリングソフト;オーサリング・ソフト#authoring software#
+2288280##オーサリングソフトウェア;オーサリング・ソフトウェア#authoring software#
+2288290##オーサリングツール;オーサリング・ツール#authoring tool (WWW)#
+2288300##オーサリングプラットフォーム;オーサリング・プラットフォーム#authoring platform#
+2288310##オーサリングプログラム;オーサリング・プログラム#authoring program#
+2288320##オーシーアール#OCR#
+2288330##オーシーエックス#OCX#
+2288340##オーシーエヌ#OCN#
+2288350##オーデービーエムエス#ODBMS#
+2288360##オーディーエヌ#ODN#
+2288370##オーディービーシー#ODBC#
+2288380##オーディーピー#ODP#
+2288390##オーディオカセットプレーヤ;オーディオ・カセット・プレーヤ#tape player;audio cassette player#
+2288400##オーディン#ODIN#
+2288410##オートインクリメント#auto-increment#
+2288420##オートインデント;オート・インデント#auto indent#
+2288430##オートエグゼックバット#AUTOEXEC.BAT#
+2288440##オートスクロール;オート・スクロール#auto scroll#
+2288450##オートスケーリング#autoscaling#
+2288460##オートセーブ;オート・セーブ#auto save#
+2288470##オートダイヤル;オート・ダイヤル#auto dial#
+2288480##オートデクリメント#auto-decrement#
+2288490##オートトランスフォーマー;オート・トランスフォーマー#auto transformer#
+2288500##オートノミックコンピューティング#autonomic computing#
+2288510##オートパワーオフ;オート・パワー・オフ#auto power off#
+2288520##オートホワイトバランス;オート・ホワイト・バランス#auto white balance;AWB#
+2288530##オートマウント#automount#
+2288550#オートマトン理論#オートマトンりろん#automata theory#
+2288570##オートリトラクト;オート・リトラクト#auto retract#
+2288580##オートログイン;オート・ログイン#auto login;auto-login#
+2288590##オーナーシップ#ownership#
+2288600##オーバークロッキング#overclocking#
+2288610##オーバークロック#overclock#
+2288620##オーバーシュート#overshoot#
+2288630##オーバードライブプロセッサ;オーバードライブ・プロセッサ#over drive processor;ODP#
+2288640##オーバーフローエラー;オーバーフロー・エラー#overflow error#
+2288650##オーバーフロールーチング;オーバーフロー・ルーチング#overflow routing#
+2288660##オーバーフロールート;オーバーフロー・ルート#overflow route#
+2288670#オーバーフロー表示#オーバーフローひょうじ#overflow indication#
+2288680##オーバーラップウィンドウ;オーバーラップ・ウィンドウ#overlap window#
+2288690#オーバーラップウィンドウ方式#オーバーラップウィンドウほうしき#overlapped windowing#
+2288700##オーバーレイネットワーク;オーバーレイ・ネットワーク#overlay network#
+2288710##オーバフロー#overflow#
+2288720##オーバヘッドタイム;オーバヘッド・タイム#overhead time#
+2288740##オーバラップ#overlap#
+2288750##オーバラン#overrun#
+2288760##オーバレイアドレッシング#overlay addressing#
+2288770##オーバレイモデル;オーバレイ・モデル#overlay model#
+2288780##オーバレイルーチング;オーバレイ・ルーチング#overlay routing#
+2288790#オーバレイ区分#オーバレイくぶん#overlay (segment)#
+2288800#オーバレイ構造#オーバレイこうぞう#overlay structure#
+2288810##オーピーエス#OPS#
+2288820##オープンアーキテクチャ;オープン・アーキテクチャ#open architecture#
+2288830##オープンエンドスパナ;オープンエンド・スパナ#open-end wrench#
+2288840##オープンクライアント#OpenClient#
+2288850##オープンコンピュータネットワーク;オープン・コンピュータ・ネットワーク#Open Computer Network;OCN#
+2288870##オープンソースコード;オープンソース・コード#open source code#
+2288880##オープンソースソフトウェア;オープンソース・ソフトウェア#open source software#
+2288890##オープンドック#OpenDoc#
+2288900##オープンネットワーク;オープン・ネットワーク#open network#
+2288910##オープンファイル;オープン・ファイル#open file#
+2288920#オープンファイル記述#オープンファイルきじゅつ#open file description#
+2288930##オープンプライス;オープン・プライス#open price#
+2288940##オープンプラットフォーム;オープン・プラットフォーム#open platform#
+2288950##オープンルック#OPENLOOK#
+2288960#オープン化#オープンか#opening#
+2288970#オープン価格#オープンかかく#open price#
+2288980#オープン最短パスファースト#オープンさいたんパスファースト#open shortest path first;OSPF#
+2288990##オーラップ#OLAP#
+2289000#オールインワンＰＣ#オールインワンピーシー#all-in-one Personal Computer#
+2289010##オールインワンパソコン#all-in-one personal computer#
+2289030##オア#or;OR#
+2289040##オアス#OAS#
+2289050#オクテット列型#オクテットれつがた#octet-string type#
+2289060##オスコネクタ;オス・コネクタ#male connector#
+2289070#オストワルト表色系#オストワルトひょうしょくけい#Ostwald color system#
+2289080#オスメス変換#オスメスへんかん#gender bender#
+2289090#オスメス変換器#オスメスへんかんき#gender changer;sex changer#
+2289100##オフィスアプリケーション;オフィス・アプリケーション#office application#
+2289110##オフィスエックスピー#OfficeXP#
+2289120##オフィスキュウジュウゴ#Office95#
+2289130##オフィスキュウジュウハチ#Office98#
+2289150##オフィスニセン#Office2000#
+2289160#オフショア開発#オフショアかいはつ#offshore development#
+2289170##オフスクリーンメモリ;オフ・スクリーン・メモリ#off-screen memory#
+2289180#オフセット印刷#オフセットいんさつ#offset printing#
+2289190##オフトラック#off-track#
+2289200##オフミ#offline meeting#
+2289210##オフラインストレージ;オフライン・ストレージ#offline storage#
+2289220##オフラインフォルダファイル#offline folder file#
+2289230##オフラインヘルプ;オフライン・ヘルプ#offline help#
+2289240##オフラインミーティング;オフライン・ミーティング#off-line meeting#
+2289250#オフライン記憶装置#オフラインきおくそうち#offline storage#
+2289260#オブジェクトのリンクと埋め込み#オブジェクトのリンクとうめこみ#Object Linking and Embedding;OLE#
+2289270##オブジェクトクラス;オブジェクト・クラス#object class#
+2289280##オブジェクトコード;オブジェクト・コード#object code#
+2289290#オブジェクトデータベース管理システム#オブジェクトデータベースかんりシステム#object database management system#
+2289300##オブジェクトファイル;オブジェクト・ファイル#object file#
+2289310##オブジェクトブラウザ;オブジェクト・ブラウザ#object browser#
+2289320##オブジェクトプログラム;オブジェクト・プログラム#object program#
+2289330##オブジェクトモジュール;オブジェクト・モジュール#object module#
+2289340##オブジェクトモデリングツール;オブジェクト・モデリング・ツール#object modeling tool#
+2289350##オブジェクトモデルダイアグラム;オブジェクト・モデル・ダイアグラム#object model diagram#
+2289360##オブジェクトライブラリ;オブジェクト・ライブラリ#object library#
+2289370#オブジェクト記述子型#オブジェクトきじゅつしがた#object descriptor type#
+2289380#オブジェクト技術#オブジェクトぎじゅつ#object technology#
+2289390#オブジェクト指向インタフェース#オブジェクトしこうインタフェース#object-oriented interface#
+2289400#オブジェクト指向グラフィックス#オブジェクトしこうグラフィックス#object-oriented graphics#
+2289410#オブジェクト指向データベース#オブジェクトしこうデータベース#object-oriented database;OODB#
+2289420#オブジェクト指向プログラミング#オブジェクトしこうプログラミング#object-oriented programming#
+2289430#オブジェクト指向型データベース#オブジェクトしこうがたデータベース#object oriented database#
+2289440#オブジェクト識別子#オブジェクトしきべつし#object identifier#
+2289450#オブジェクト識別子型#オブジェクトしきべつしがた#object identifier type#
+2289460#オブジェクト修飾#オブジェクトしゅうしょく#object modification#
+2289480##オプションキー;オプション・キー#Option key#
+2289490##オプションスイッチ;オプション・スイッチ#option switch#
+2289500##オプションボタン#option button#
+2289510##オプティカルスキャナ;オプティカル・スキャナ#optical scanner#
+2289520##オプティカルプリンタ;オプティカル・プリンタ#optical printer#
+2289530##オプティカルマウス;オプティカル・マウス#optical mouse#
+2289540##オプティプレックス#OptiPlex#
+2289550##オプトメカニカルマウス#optomechanical mouse#
+2289560##オペレーションコード;オペレーション・コード#operation code;op-code#
+2289570##オペレーションマニュアル;オペレーション・マニュアル#Operations manuals#
+2289580##オペレーティングシステムイメージ;オペレーティング・システム・イメージ#operating system image#
+2289590##オペレーティングシステムファームウェア;オペレーティング・システム・ファームウェア#operating system firmware#
+2289600#オペレーティング環境#オペレーティングかんきょう#operating environment#
+2289610##オムニマックス#OMNIMAX#
+2289620##オライオン#Orion#
+2289630##オラクルアイエーエス#Oracle iAS#
+2289640##オラクルアプリケーション;オラクル・アプリケーション#Oracle Applications#
+2289650##オラクルイービーエス#Oracle EBS#
+2289660##オラクルエイト#Oracle 8#
+2289670##オラクルエイトアイ#Oracle 8i#
+2289680##オラクルセブン#Oracle 7#
+2289690##オラクルナインアイ#Oracle 9i#
+2289700##オラクルナインアイエーエス#Oracle 9iAS#
+2289710##オリオンズ#ORIONS#
+2289720##オリジネートモード#originate mode#
+2289730##オルトキー#Alt Key#
+2289740##オンサイトサービス;オンサイト・サービス#on-site service;onsite service#
+2289750##オンサイトサポート;オンサイト・サポート#on-site support#
+2289760#オンザフライ印字装置#オンザフライいんじそうち#on-the-fly printer#
+2289770#オンザフライ書き込み#オンザフライかきこみ#on-the-fly recording#
+2289780##オンスクリーンディスプレイ;オン・スクリーン・ディスプレイ#on-screen display#
+2289790#オンスクリーン機能#オンスクリーンきのう#on-screen function#
+2289800##オンチップキャッシュ;オンチップ・キャッシュ#on-chip cache#
+2289810#オンデマンドダイヤルアップ接続#オンデマンドダイヤルアップせつぞく#on demand dial-up#
+2289820##オンフック;オン・フック#on hook#
+2289830##オンボード#on-board#
+2289840##オンボードコンピュータ;オンボード・コンピュータ#on-board computer#
+2289850##オンボードデバイス;オンボード・デバイス#onboard device#
+2289860##オンメモリ;オン・メモリ#on memory#
+2289890##オンラインイベント;オンライン・イベント#online event#
+2289900##オンラインコンピューター;オンラインコンピュータ;オンライン・コンピューター;オンライン・コンピュータ#online computer#
+2289910##オンラインコンピュータシステム;オンライン・コンピュータ・システム#online computer system#
+2289920##オンラインサービス;オンライン・サービス#online service#
+2289930##オンラインサインアップ;オンライン・サインアップ#online sign-up;on-line sign-up#
+2289940##オンラインサポートセンター;オンライン・サポート・センター#online support center#
+2289960##オンラインショッピングカート;オンライン・ショッピング・カート#online shopping carts#
+2289970##オンラインショップ;オンライン・ショップ#online shop#
+2289980##オンラインストレージ;オンライン・ストレージ#online storage#
+2289990##オンラインソフト;オンライン・ソフト#online software#
