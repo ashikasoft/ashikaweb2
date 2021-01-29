@@ -3,10 +3,10 @@
   :description "A simple app for conducting surveys"
   :url "http://www.ashikasoft.com"
 
-  :dependencies [[ashikasoft/jdict "1.0.1"]
-                 [ashikasoft/webstack "0.1.1"]
+  :dependencies [[ashikasoft/jdict "1.0.2"]
+                 [ashikasoft/webstack "0.1.2"]
                  [clojure.java-time "0.3.2"]
-                 [org.clojure/clojure "1.10.1"]]
+                 [org.clojure/clojure "1.10.2"]]
 
   :min-lein-version "2.0.0"
   
