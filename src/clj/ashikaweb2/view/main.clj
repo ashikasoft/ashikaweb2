@@ -1,7 +1,6 @@
 (ns ashikaweb2.view.main
   (:require
-    [ashikaweb2.view.parts :as parts]
-    [hiccup.page :as page]))
+    [ashikaweb2.view.parts :as parts]))
 
 (defn render [content]
   (parts/appbase
@@ -44,9 +43,11 @@
 
          [:p "A minimalist dictionary, based on Japanese dictionary data. Free, no ads, no guarantees." ] 
 
-         [:h2 "Other Versions"]
+         [:h2 "Versions"]
          [:ul 
-          [:li [:b "Static hosting (github pages)"] "The entire site is static, and querying is done by querying files from the client side. May run slowly, but does not need any special application server."]
+          [:li [:b "App server hosting "] "The site is served from a jvm-based server. On github: " [:a {:href "https://github.com/ashikasoft"} "github.com/ashikasoft"]]
+          
+          [:li [:b "Static hosting (github pages) "] "The entire site is static, and querying is done by querying files from the client side. May run slowly, but does not need any special application server."]
           [:li [:b "Android "] "This version works faster, because data is installed on the local device.No internet connection needed. "]
           [:li "History of previously looked up words "]
           [:li "Long-pressing makes it easy to copy and paste results."]]
