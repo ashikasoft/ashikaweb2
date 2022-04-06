@@ -1,13 +1,13 @@
 (ns ashikaweb2.test.handler
-  (:require [clojure.test :refer :all]
-            [ring.mock.request :refer :all]
-            [ashikaweb2.handler :refer :all]))
+  (:require [clojure.test :refer [deftest is testing]]
+            [ring.mock.request :as ring-request]
+            [ashikaweb2.handler :as handler]))
 
 (deftest test-app
   (testing "main route"
-    (let [response ((app {} {}) (request :get "/"))]
+    (let [response ((handler/app {}) (ring-request/request :get "/"))]
       (is (= 200 (:status response)))))
 
   (testing "not-found route"
-    (let [response ((app {} {}) (request :get "/invalid"))]
+    (let [response ((handler/app {}) (ring-request/request :get "/invalid"))]
       (is (= 404 (:status response))))))
