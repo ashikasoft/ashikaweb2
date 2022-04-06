@@ -6,7 +6,7 @@
   :dependencies [[ashikasoft/jdict "1.0.2"]
                  [ashikasoft/webstack "0.1.7"]
                  [clojure.java-time "0.3.3"]
-                 [org.clojure/clojure "1.10.3"]]
+                 [org.clojure/clojure "1.11.1"]]
 
   :min-lein-version "2.0.0"
   
@@ -32,12 +32,12 @@
    :test          [:project/dev :project/test :profiles/test]
 
    :project/dev  {:jvm-opts ["-Dconf=dev-config.edn"]
-                  :dependencies [[binaryage/devtools "1.0.4"]
+                  :dependencies [[binaryage/devtools "1.0.5"]
                                  [doo "0.1.11"]
-                                 [expound "0.8.10"]
+                                 [expound "0.9.0"]
                                  [pjstadig/humane-test-output "0.11.0"]
                                  [prone "2021-04-23"]
-                                 [ring/ring-devel "1.9.4"]
+                                 [ring/ring-devel "1.9.5"]
                                  [ring/ring-mock "0.4.0"]]
                   :plugins      [[com.jakemccrary/lein-test-refresh "0.23.0"]
                                  [lein-doo "0.1.11"]]
